@@ -1,0 +1,492 @@
+able:human:2614 able:this:428 able:work:287 able:talk:215 able:computer:200 able:phone:187 able:give:153 able:hear:125 able:see:109 able:help:77 
+about:human:2614 about:this:428 about:animal:312 about:work:287 about:room:241 about:talk:215 about:computer:200 about:phone:187 about:give:153 about:hear:125 
+access:human:2614 access:this:428 access:work:287 access:room:241 access:computer:200 access:give:153 access:help:77 access:use:77 access:tv:33 access:life:31 
+acquired:computer:200 
+actual:human:2614 actual:this:428 actual:animal:312 actual:use:77 
+add:room:241 add:word:106 add:use:77 add:machine:44 add:learn:41 add:make:35 add:problem:35 add:go:32 add:write:21 add:remember:13 
+adding:room:241 adding:computer:200 adding:machine:44 adding:make:35 adding:solve:33 adding:go:32 adding:grow:12 adding:press:12 adding:science:11 adding:order:2 
+additional:help:77 additional:use:77 additional:remember:13 
+admit:this:428 admit:room:241 admit:use:77 
+advanced:human:2614 advanced:this:428 advanced:write:21 
+afford:this:428 afford:work:287 afford:store:95 afford:use:77 afford:present:4 afford:sense:3 afford:order:2 afford:run:2 
+afraid:human:2614 afraid:this:428 afraid:work:287 afraid:computer:200 afraid:see:109 afraid:use:77 afraid:shoe:50 afraid:learn:41 afraid:life:31 afraid:competition:15 
+after:human:2614 after:this:428 after:work:287 after:room:241 after:computer:200 after:phone:187 after:give:153 after:hear:125 after:see:109 after:word:106 
+all:human:2614 all:this:428 all:animal:312 all:work:287 all:room:241 all:computer:200 all:phone:187 all:give:153 all:hear:125 all:see:109 
+allow:human:2614 allow:this:428 allow:animal:312 allow:work:287 allow:room:241 allow:talk:215 allow:computer:200 allow:give:153 allow:hear:125 allow:see:109 
+almost:human:2614 almost:this:428 almost:animal:312 almost:room:241 almost:computer:200 almost:hear:125 almost:see:109 almost:earth:81 almost:help:77 almost:use:77 
+already:this:428 already:room:241 already:phone:187 already:see:109 already:store:95 already:use:77 already:learn:41 already:saw:39 already:make:35 already:tv:33 
+also:human:2614 also:this:428 also:animal:312 also:work:287 also:room:241 also:talk:215 also:computer:200 also:give:153 also:hear:125 also:see:109 
+although:human:2614 although:this:428 although:see:109 although:word:106 although:earth:81 although:use:77 although:make:35 although:tv:33 although:go:32 although:inside:22 
+always:human:2614 always:this:428 always:animal:312 always:work:287 always:room:241 always:computer:200 always:give:153 always:hear:125 always:see:109 always:store:95 
+am:human:2614 am:this:428 am:animal:312 am:work:287 am:room:241 am:computer:200 am:hear:125 am:see:109 am:help:77 am:use:77 
+amazing:see:109 amazing:earth:81 amazing:present:4 
+ambition:make:35 
+and:human:2614 and:this:428 and:animal:312 and:work:287 and:room:241 and:talk:215 and:computer:200 and:phone:187 and:give:153 and:hear:125 
+android:science:11 
+another:human:2614 another:this:428 another:animal:312 another:work:287 another:room:241 another:talk:215 another:computer:200 another:phone:187 another:give:153 another:hear:125 
+any:human:2614 any:this:428 any:animal:312 any:work:287 any:room:241 any:talk:215 any:computer:200 any:phone:187 any:see:109 any:word:106 
+anything:human:2614 anything:this:428 anything:animal:312 anything:work:287 anything:room:241 anything:talk:215 anything:computer:200 anything:phone:187 anything:give:153 anything:hear:125 
+apparently:human:2614 apparently:this:428 apparently:room:241 apparently:life:31 
+appreciate:human:2614 appreciate:phone:187 appreciate:love:10 appreciate:sense:3 
+are:human:2614 are:this:428 are:animal:312 are:work:287 are:room:241 are:talk:215 are:computer:200 are:phone:187 are:give:153 are:hear:125 
+area:human:2614 area:this:428 area:animal:312 area:work:287 area:room:241 area:phone:187 area:hear:125 area:see:109 area:word:106 area:state:103 
+arguing:make:35 arguing:stop:2 
+arts:this:428 arts:work:287 arts:room:241 arts:give:153 arts:see:109 arts:learn:41 arts:make:35 arts:go:32 arts:science:11 arts:think:7 
+as:human:2614 as:this:428 as:animal:312 as:work:287 as:room:241 as:talk:215 as:computer:200 as:phone:187 as:give:153 as:hear:125 
+assess:work:287 assess:inside:22 
+astrology:human:2614 astrology:science:11 
+at:human:2614 at:this:428 at:animal:312 at:work:287 at:room:241 at:talk:215 at:computer:200 at:phone:187 at:give:153 at:hear:125 
+attaining:help:77 
+attention:human:2614 attention:this:428 attention:work:287 attention:talk:215 attention:give:153 attention:see:109 attention:state:103 attention:store:95 attention:help:77 attention:use:77 
+author:human:2614 author:this:428 author:work:287 author:word:106 author:make:35 author:write:21 author:science:11 author:order:2 author:writer:1 
+available:human:2614 available:this:428 available:animal:312 available:work:287 available:computer:200 available:store:95 available:use:77 available:examine:52 available:machine:44 available:make:35 
+away:human:2614 away:this:428 away:animal:312 away:work:287 away:room:241 away:talk:215 away:computer:200 away:phone:187 away:give:153 away:hear:125 
+back:human:2614 back:this:428 back:animal:312 back:work:287 back:room:241 back:talk:215 back:computer:200 back:phone:187 back:give:153 back:tooth:112 
+backup:computer:200 
+bad:human:2614 bad:this:428 bad:work:287 bad:room:241 bad:talk:215 bad:computer:200 bad:give:153 bad:hear:125 bad:tooth:112 bad:see:109 
+badly:human:2614 badly:work:287 badly:see:109 badly:use:77 badly:shoe:50 badly:make:35 badly:wear:3 
+barely:use:77 barely:life:31 
+based:this:428 based:animal:312 based:work:287 based:computer:200 based:give:153 based:state:103 based:earth:81 based:help:77 based:use:77 based:make:35 
+basic:human:2614 basic:this:428 basic:animal:312 basic:talk:215 basic:computer:200 basic:store:95 basic:help:77 basic:use:77 basic:learn:41 basic:saw:39 
+be:human:2614 be:this:428 be:animal:312 be:work:287 be:room:241 be:talk:215 be:computer:200 be:phone:187 be:give:153 be:hear:125 
+beam:this:428 beam:give:153 beam:word:106 beam:use:77 
+because:human:2614 because:this:428 because:animal:312 because:work:287 because:room:241 because:talk:215 because:computer:200 because:phone:187 because:give:153 because:hear:125 
+been:human:2614 been:this:428 been:animal:312 been:work:287 been:room:241 been:computer:200 been:phone:187 been:give:153 been:hear:125 been:see:109 
+before:human:2614 before:this:428 before:animal:312 before:work:287 before:room:241 before:talk:215 before:computer:200 before:phone:187 before:give:153 before:hear:125 
+behavior:human:2614 behavior:this:428 behavior:animal:312 behavior:work:287 behavior:life:31 behavior:destroy:4 behavior:present:4 behavior:wear:3 
+being:human:2614 being:this:428 being:animal:312 being:work:287 being:room:241 being:talk:215 being:computer:200 being:phone:187 being:give:153 being:hear:125 
+believed:human:2614 believed:this:428 believed:earth:81 believed:learn:41 believed:life:31 believed:love:10 
+believing:go:32 
+best:human:2614 best:this:428 best:work:287 best:room:241 best:computer:200 best:give:153 best:see:109 best:word:106 best:state:103 best:store:95 
+between:human:2614 between:this:428 between:animal:312 between:work:287 between:room:241 between:talk:215 between:computer:200 between:phone:187 between:give:153 between:see:109 
+big:human:2614 big:this:428 big:animal:312 big:work:287 big:room:241 big:computer:200 big:give:153 big:hear:125 big:see:109 big:store:95 
+billion:human:2614 billion:word:106 billion:earth:81 billion:go:32 
+bodies:human:2614 bodies:this:428 bodies:animal:312 bodies:work:287 bodies:room:241 bodies:give:153 bodies:store:95 bodies:earth:81 bodies:help:77 bodies:use:77 
+brain:human:2614 brain:this:428 brain:work:287 brain:room:241 brain:talk:215 brain:computer:200 brain:hear:125 brain:see:109 brain:state:103 brain:use:77 
+brains:work:287 brains:talk:215 brains:computer:200 brains:use:77 brains:learn:41 brains:inside:22 brains:remember:13 brains:love:10 brains:think:7 
+built:human:2614 built:this:428 built:work:287 built:computer:200 built:give:153 built:see:109 built:state:103 built:help:77 built:use:77 built:task:53 
+but:human:2614 but:this:428 but:animal:312 but:work:287 but:room:241 but:talk:215 but:computer:200 but:phone:187 but:give:153 but:hear:125 
+by:human:2614 by:this:428 by:animal:312 by:work:287 by:room:241 by:talk:215 by:computer:200 by:phone:187 by:give:153 by:hear:125 
+call:human:2614 call:this:428 call:animal:312 call:work:287 call:room:241 call:talk:215 call:computer:200 call:phone:187 call:give:153 call:hear:125 
+called:human:2614 called:this:428 called:animal:312 called:work:287 called:room:241 called:talk:215 called:computer:200 called:phone:187 called:give:153 called:hear:125 
+can:human:2614 can:this:428 can:animal:312 can:work:287 can:room:241 can:talk:215 can:computer:200 can:phone:187 can:give:153 can:hear:125 
+case:this:428 case:room:241 case:computer:200 case:phone:187 case:hear:125 case:word:106 case:store:95 case:help:77 case:use:77 case:saw:39 
+cell:human:2614 cell:this:428 cell:animal:312 cell:work:287 cell:phone:187 cell:make:35 cell:go:32 cell:inside:22 cell:remember:13 cell:run:2 
+cells:human:2614 cells:this:428 cells:animal:312 cells:work:287 cells:see:109 cells:use:77 cells:life:31 cells:inside:22 cells:grow:12 cells:original:12 
+certain:human:2614 certain:this:428 certain:animal:312 certain:work:287 certain:computer:200 certain:phone:187 certain:give:153 certain:see:109 certain:help:77 certain:use:77 
+change:human:2614 change:this:428 change:work:287 change:room:241 change:talk:215 change:phone:187 change:give:153 change:see:109 change:state:103 change:store:95 
+chunks:human:2614 chunks:machine:44 
+civilizations:human:2614 civilizations:store:95 
+claim:see:109 claim:destroy:4 
+clearly:this:428 clearly:talk:215 clearly:see:109 clearly:help:77 clearly:use:77 clearly:life:31 clearly:write:21 clearly:love:10 clearly:think:7 clearly:speak:6 
+clue:this:428 clue:give:153 clue:help:77 clue:make:35 clue:problem:35 clue:solve:33 clue:remember:13 clue:transfer:1 
+collapse:human:2614 collapse:this:428 collapse:room:241 collapse:run:2 
+come:human:2614 come:this:428 come:work:287 come:room:241 come:talk:215 come:give:153 come:hear:125 come:tooth:112 come:see:109 come:store:95 
+comes:human:2614 comes:this:428 comes:animal:312 comes:work:287 comes:give:153 comes:word:106 comes:state:103 comes:store:95 comes:earth:81 comes:help:77 
+competing:this:428 competing:help:77 competing:learn:41 competing:life:31 competing:competition:15 
+complete:human:2614 complete:this:428 complete:computer:200 complete:earth:81 complete:use:77 complete:task:53 complete:write:21 complete:wear:3 complete:writer:1 
+complexity:human:2614 complexity:work:287 complexity:computer:200 complexity:make:35 complexity:solve:33 complexity:write:21 complexity:send:14 
+components:human:2614 components:this:428 components:computer:200 components:word:106 components:store:95 components:earth:81 components:use:77 components:examine:52 components:machine:44 components:make:35 
+computation:computer:200 computation:use:77 
+compute:human:2614 compute:this:428 compute:computer:200 compute:store:95 compute:use:77 compute:make:35 compute:life:31 compute:write:21 compute:think:7 compute:order:2 
+conceptual:human:2614 conceptual:this:428 conceptual:life:31 conceptual:news:20 
+concerned:use:77 concerned:go:32 concerned:grow:12 concerned:think:7 
+confined:animal:312 confined:life:31 
+conflicts:earth:81 
+consciousness:human:2614 consciousness:this:428 consciousness:computer:200 consciousness:see:109 consciousness:state:103 consciousness:make:35 consciousness:problem:35 consciousness:go:32 consciousness:life:31 consciousness:remember:13 
+consider:human:2614 consider:this:428 consider:animal:312 consider:work:287 consider:talk:215 consider:computer:200 consider:see:109 consider:help:77 consider:use:77 consider:make:35 
+considering:present:4 
+construct:order:2 
+construction:this:428 construction:work:287 construction:see:109 construction:earth:81 construction:help:77 construction:use:77 construction:task:53 construction:saw:39 construction:make:35 construction:wear:3 
+contain:human:2614 contain:this:428 contain:animal:312 contain:work:287 contain:room:241 contain:talk:215 contain:computer:200 contain:phone:187 contain:give:153 contain:hear:125 
+convert:human:2614 convert:this:428 convert:computer:200 convert:use:77 convert:make:35 convert:write:21 convert:original:12 convert:present:4 
+convinced:wear:3 
+could:human:2614 could:this:428 could:animal:312 could:work:287 could:room:241 could:talk:215 could:computer:200 could:phone:187 could:give:153 could:hear:125 
+council:word:106 council:make:35 council:inside:22 
+creatures:human:2614 creatures:this:428 creatures:animal:312 creatures:work:287 creatures:computer:200 creatures:see:109 creatures:earth:81 creatures:learn:41 creatures:go:32 creatures:life:31 
+credit:human:2614 credit:work:287 credit:computer:200 credit:give:153 credit:store:95 credit:help:77 credit:use:77 credit:learn:41 credit:make:35 credit:go:32 
+data:human:2614 data:this:428 data:computer:200 data:phone:187 data:give:153 data:see:109 data:word:106 data:store:95 data:use:77 data:make:35 
+death:human:2614 death:this:428 death:animal:312 death:phone:187 death:hear:125 death:see:109 death:help:77 death:use:77 death:make:35 death:go:32 
+dependent:human:2614 dependent:this:428 dependent:give:153 dependent:help:77 
+describes:word:106 
+desperately:write:21 
+despite:hear:125 despite:life:31 despite:think:7 
+developed:human:2614 developed:this:428 developed:work:287 developed:give:153 developed:earth:81 developed:life:31 developed:write:21 developed:original:12 
+different:human:2614 different:this:428 different:animal:312 different:work:287 different:room:241 different:computer:200 different:phone:187 different:give:153 different:hear:125 different:see:109 
+distributed:phone:187 distributed:use:77 distributed:machine:44 distributed:set:1 
+do:human:2614 do:this:428 do:animal:312 do:work:287 do:room:241 do:talk:215 do:computer:200 do:phone:187 do:give:153 do:hear:125 
+does:human:2614 does:this:428 does:animal:312 does:work:287 does:room:241 does:talk:215 does:computer:200 does:phone:187 does:give:153 does:hear:125 
+doing:human:2614 doing:this:428 doing:work:287 doing:room:241 doing:computer:200 doing:see:109 doing:word:106 doing:help:77 doing:use:77 doing:task:53 
+done:human:2614 done:this:428 done:work:287 done:computer:200 done:give:153 done:hear:125 done:see:109 done:help:77 done:use:77 done:go:32 
+down:human:2614 down:this:428 down:animal:312 down:work:287 down:room:241 down:talk:215 down:computer:200 down:phone:187 down:give:153 down:hear:125 
+dozen:word:106 
+each:human:2614 each:this:428 each:animal:312 each:work:287 each:room:241 each:talk:215 each:phone:187 each:give:153 each:hear:125 each:tooth:112 
+early:human:2614 early:this:428 early:work:287 early:give:153 early:see:109 early:store:95 early:earth:81 early:help:77 early:use:77 early:machine:44 
+easy:human:2614 easy:this:428 easy:room:241 easy:computer:200 easy:give:153 easy:hear:125 easy:see:109 easy:word:106 easy:use:77 easy:learn:41 
+edited:computer:200 
+else:this:428 else:work:287 else:room:241 else:talk:215 else:computer:200 else:phone:187 else:give:153 else:hear:125 else:see:109 else:store:95 
+enables:computer:200 enables:write:21 enables:send:14 enables:grow:12 enables:sense:3 enables:run:2 enables:transfer:1 
+end:human:2614 end:this:428 end:animal:312 end:work:287 end:room:241 end:computer:200 end:phone:187 end:hear:125 end:see:109 end:word:106 
+enough:human:2614 enough:this:428 enough:work:287 enough:room:241 enough:talk:215 enough:computer:200 enough:phone:187 enough:give:153 enough:see:109 enough:state:103 
+entitled:work:287 entitled:see:109 entitled:life:31 
+especially:human:2614 especially:this:428 especially:computer:200 especially:give:153 especially:use:77 especially:learn:41 especially:saw:39 especially:make:35 especially:go:32 especially:life:31 
+even:human:2614 even:this:428 even:animal:312 even:work:287 even:talk:215 even:computer:200 even:give:153 even:hear:125 even:see:109 even:word:106 
+eventually:this:428 eventually:give:153 eventually:earth:81 eventually:machine:44 eventually:life:31 eventually:inside:22 eventually:destroy:4 eventually:run:2 
+ever:human:2614 ever:this:428 ever:animal:312 ever:computer:200 ever:see:109 ever:word:106 ever:store:95 ever:earth:81 ever:learn:41 ever:make:35 
+everlasting:this:428 everlasting:life:31 
+every:human:2614 every:this:428 every:animal:312 every:work:287 every:room:241 every:computer:200 every:phone:187 every:give:153 every:hear:125 every:state:103 
+everything:this:428 everything:work:287 everything:room:241 everything:give:153 everything:hear:125 everything:see:109 everything:store:95 everything:earth:81 everything:help:77 everything:use:77 
+evolution:human:2614 evolution:this:428 evolution:animal:312 evolution:help:77 evolution:life:31 evolution:science:11 
+evolve:life:31 
+evolved:human:2614 evolved:this:428 evolved:animal:312 evolved:help:77 evolved:use:77 evolved:life:31 evolved:run:2 
+excellent:work:287 excellent:give:153 excellent:hear:125 excellent:use:77 excellent:make:35 excellent:hold:7 
+expensive:human:2614 expensive:this:428 expensive:work:287 expensive:room:241 expensive:computer:200 expensive:phone:187 expensive:give:153 expensive:see:109 expensive:store:95 expensive:use:77 
+explain:work:287 explain:give:153 explain:help:77 explain:use:77 explain:make:35 explain:write:21 
+fabricate:human:2614 fabricate:this:428 fabricate:hold:7 
+fail:human:2614 fail:work:287 fail:computer:200 fail:give:153 fail:hear:125 fail:task:53 fail:shoe:50 fail:go:32 fail:life:31 fail:write:21 
+fallen:hear:125 fallen:earth:81 fallen:make:35 
+familiar:hear:125 familiar:use:77 familiar:make:35 familiar:love:10 
+far:human:2614 far:this:428 far:work:287 far:room:241 far:talk:215 far:computer:200 far:phone:187 far:hear:125 far:see:109 far:earth:81 
+fast:human:2614 fast:this:428 fast:animal:312 fast:computer:200 fast:phone:187 fast:give:153 fast:hear:125 fast:see:109 fast:state:103 fast:store:95 
+fatal:human:2614 
+fear:human:2614 fear:this:428 fear:animal:312 fear:work:287 fear:see:109 fear:word:106 fear:use:77 fear:make:35 fear:life:31 fear:love:10 
+feature:word:106 feature:state:103 feature:earth:81 feature:help:77 feature:make:35 feature:hide:4 
+feel:human:2614 feel:this:428 feel:animal:312 feel:work:287 feel:room:241 feel:talk:215 feel:computer:200 feel:give:153 feel:hear:125 feel:see:109 
+few:human:2614 few:this:428 few:animal:312 few:work:287 few:room:241 few:computer:200 few:give:153 few:hear:125 few:see:109 few:store:95 
+fewer:give:153 fewer:see:109 fewer:use:77 fewer:tv:33 
+fictional:this:428 fictional:animal:312 fictional:use:77 fictional:tv:33 fictional:life:31 fictional:news:20 fictional:science:11 fictional:wear:3 
+fights:go:32 fights:fight:16 fights:love:10 
+figure:this:428 figure:give:153 figure:see:109 figure:help:77 figure:use:77 figure:make:35 figure:go:32 figure:write:21 figure:wear:3 figure:order:2 
+find:human:2614 find:this:428 find:animal:312 find:work:287 find:room:241 find:talk:215 find:computer:200 find:phone:187 find:give:153 find:hear:125 
+finite:work:287 finite:set:1 
+first:human:2614 first:this:428 first:animal:312 first:work:287 first:room:241 first:talk:215 first:computer:200 first:phone:187 first:give:153 first:hear:125 
+focus:human:2614 focus:this:428 focus:work:287 focus:computer:200 focus:see:109 focus:state:103 focus:help:77 focus:use:77 focus:task:53 focus:make:35 
+follow:work:287 follow:use:77 follow:learn:41 follow:make:35 follow:tv:33 follow:go:32 follow:news:20 follow:agree:16 follow:love:10 follow:choose:6 
+followers:human:2614 
+for:human:2614 for:this:428 for:animal:312 for:work:287 for:room:241 for:talk:215 for:computer:200 for:phone:187 for:give:153 for:hear:125 
+force:human:2614 force:this:428 force:animal:312 force:work:287 force:talk:215 force:give:153 force:see:109 force:earth:81 force:help:77 force:use:77 
+form:human:2614 form:this:428 form:animal:312 form:work:287 form:talk:215 form:computer:200 form:phone:187 form:give:153 form:hear:125 form:see:109 
+forms:human:2614 forms:this:428 forms:work:287 forms:computer:200 forms:give:153 forms:earth:81 forms:use:77 forms:learn:41 forms:tv:33 forms:go:32 
+freedom:this:428 freedom:animal:312 freedom:phone:187 freedom:give:153 freedom:see:109 freedom:state:103 freedom:earth:81 freedom:make:35 freedom:life:31 freedom:inside:22 
+friend:human:2614 friend:this:428 friend:work:287 friend:room:241 friend:talk:215 friend:phone:187 friend:give:153 friend:hear:125 friend:see:109 friend:store:95 
+from:human:2614 from:this:428 from:animal:312 from:work:287 from:room:241 from:talk:215 from:computer:200 from:phone:187 from:give:153 from:hear:125 
+fuel:human:2614 fuel:animal:312 fuel:work:287 fuel:give:153 fuel:use:77 fuel:make:35 fuel:go:32 fuel:grow:12 fuel:run:2 fuel:stop:2 
+full:human:2614 full:this:428 full:animal:312 full:room:241 full:phone:187 full:give:153 full:see:109 full:state:103 full:earth:81 full:use:77 
+future:human:2614 future:this:428 future:work:287 future:room:241 future:talk:215 future:phone:187 future:store:95 future:earth:81 future:help:77 future:use:77 
+galaxies:this:428 galaxies:see:109 
+genetic:human:2614 genetic:this:428 genetic:help:77 genetic:life:31 
+good:human:2614 good:this:428 good:work:287 good:room:241 good:talk:215 good:computer:200 good:phone:187 good:give:153 good:hear:125 good:see:109 
+got:human:2614 got:this:428 got:animal:312 got:work:287 got:computer:200 got:phone:187 got:give:153 got:see:109 got:store:95 got:earth:81 
+grant:use:77 grant:write:21 
+ground:human:2614 ground:this:428 ground:animal:312 ground:room:241 ground:computer:200 ground:give:153 ground:tooth:112 ground:see:109 ground:word:106 ground:store:95 
+had:human:2614 had:this:428 had:animal:312 had:work:287 had:room:241 had:talk:215 had:computer:200 had:phone:187 had:give:153 had:hear:125 
+half:human:2614 half:this:428 half:room:241 half:see:109 half:earth:81 half:use:77 half:saw:39 half:make:35 half:tv:33 half:go:32 
+happen:human:2614 happen:this:428 happen:animal:312 happen:work:287 happen:room:241 happen:talk:215 happen:computer:200 happen:phone:187 happen:give:153 happen:hear:125 
+happening:see:109 happening:use:77 happening:learn:41 happening:make:35 happening:tv:33 happening:go:32 happening:news:20 
+hard:human:2614 hard:this:428 hard:animal:312 hard:work:287 hard:room:241 hard:talk:215 hard:computer:200 hard:give:153 hard:tooth:112 hard:see:109 
+harmony:give:153 harmony:life:31 harmony:science:11 harmony:destroy:4 
+harry:work:287 harry:computer:200 harry:word:106 harry:store:95 harry:tv:33 harry:write:21 harry:original:12 harry:love:10 
+has:human:2614 has:this:428 has:animal:312 has:work:287 has:room:241 has:talk:215 has:computer:200 has:phone:187 has:give:153 has:hear:125 
+have:human:2614 have:this:428 have:animal:312 have:work:287 have:room:241 have:talk:215 have:computer:200 have:phone:187 have:give:153 have:hear:125 
+healthy:human:2614 healthy:this:428 healthy:work:287 healthy:room:241 healthy:see:109 healthy:store:95 healthy:help:77 healthy:use:77 healthy:examine:52 healthy:machine:44 
+helps:human:2614 helps:this:428 helps:animal:312 helps:work:287 helps:room:241 helps:talk:215 helps:computer:200 helps:phone:187 helps:give:153 helps:hear:125 
+here:human:2614 here:this:428 here:hear:125 here:see:109 here:word:106 here:earth:81 here:help:77 here:use:77 here:make:35 here:problem:35 
+higher:human:2614 higher:this:428 higher:work:287 higher:room:241 higher:computer:200 higher:give:153 higher:hear:125 higher:see:109 higher:state:103 higher:earth:81 
+his:human:2614 his:this:428 his:animal:312 his:work:287 his:room:241 his:talk:215 his:computer:200 his:phone:187 his:give:153 his:hear:125 
+history:human:2614 history:this:428 history:work:287 history:see:109 history:state:103 history:earth:81 history:help:77 history:learn:41 history:make:35 history:inside:22 
+hope:this:428 hope:work:287 hope:phone:187 hope:give:153 hope:see:109 hope:help:77 hope:machine:44 hope:make:35 hope:go:32 hope:life:31 
+how:human:2614 how:this:428 how:animal:312 how:work:287 how:room:241 how:talk:215 how:computer:200 how:phone:187 how:give:153 how:hear:125 
+hundred:human:2614 hundred:this:428 hundred:shoe:50 
+i:human:2614 i:this:428 i:animal:312 i:work:287 i:room:241 i:talk:215 i:computer:200 i:phone:187 i:give:153 i:hear:125 
+idea:human:2614 idea:this:428 idea:animal:312 idea:work:287 idea:room:241 idea:talk:215 idea:give:153 idea:see:109 idea:earth:81 idea:help:77 
+if:human:2614 if:this:428 if:animal:312 if:work:287 if:room:241 if:talk:215 if:computer:200 if:phone:187 if:give:153 if:hear:125 
+imaginary:this:428 imaginary:animal:312 imaginary:earth:81 imaginary:life:31 imaginary:inside:22 imaginary:fight:16 
+importance:human:2614 importance:this:428 importance:work:287 importance:computer:200 importance:give:153 importance:store:95 importance:make:35 
+important:human:2614 important:this:428 important:animal:312 important:work:287 important:room:241 important:talk:215 important:computer:200 important:phone:187 important:give:153 important:hear:125 
+impossible:see:109 impossible:earth:81 impossible:use:77 impossible:task:53 impossible:make:35 impossible:life:31 impossible:order:2 impossible:run:2 
+in:human:2614 in:this:428 in:animal:312 in:work:287 in:room:241 in:talk:215 in:computer:200 in:phone:187 in:give:153 in:hear:125 
+inclined:machine:44 inclined:go:32 inclined:agree:16 inclined:love:10 
+individual:human:2614 individual:this:428 individual:work:287 individual:room:241 individual:see:109 individual:word:106 individual:help:77 individual:task:53 individual:go:32 individual:life:31 
+infinite:this:428 infinite:see:109 infinite:set:1 
+instead:human:2614 instead:this:428 instead:work:287 instead:talk:215 instead:computer:200 instead:phone:187 instead:word:106 instead:use:77 instead:learn:41 instead:make:35 
+instruction:animal:312 instruction:computer:200 instruction:store:95 instruction:help:77 instruction:use:77 instruction:learn:41 instruction:science:11 instruction:set:1 
+intelligent:human:2614 intelligent:this:428 intelligent:animal:312 intelligent:talk:215 intelligent:computer:200 intelligent:give:153 intelligent:earth:81 intelligent:use:77 intelligent:learn:41 intelligent:life:31 
+interfering:life:31 
+internal:human:2614 internal:this:428 internal:work:287 internal:use:77 internal:make:35 internal:stop:2 
+into:human:2614 into:this:428 into:animal:312 into:work:287 into:room:241 into:talk:215 into:computer:200 into:phone:187 into:give:153 into:hear:125 
+involve:human:2614 involve:use:77 involve:learn:41 involve:tv:33 involve:write:21 involve:competition:15 involve:think:7 involve:set:1 
+involved:human:2614 involved:this:428 involved:work:287 involved:see:109 involved:store:95 involved:use:77 involved:learn:41 involved:make:35 involved:go:32 involved:hold:7 
+involves:human:2614 involves:this:428 involves:work:287 involves:computer:200 involves:use:77 involves:original:12 involves:choose:6 involves:run:2 involves:set:1 
+involving:this:428 involving:earth:81 involving:set:1 
+is:human:2614 is:this:428 is:animal:312 is:work:287 is:room:241 is:talk:215 is:computer:200 is:phone:187 is:give:153 is:hear:125 
+it:human:2614 it:this:428 it:animal:312 it:work:287 it:room:241 it:talk:215 it:computer:200 it:phone:187 it:give:153 it:hear:125 
+its:human:2614 its:this:428 its:animal:312 its:work:287 its:room:241 its:talk:215 its:computer:200 its:phone:187 its:give:153 its:hear:125 
+itself:human:2614 itself:this:428 itself:animal:312 itself:work:287 itself:word:106 itself:earth:81 itself:use:77 itself:machine:44 itself:problem:35 itself:solve:33 
+job:human:2614 job:this:428 job:work:287 job:computer:200 job:give:153 job:see:109 job:state:103 job:store:95 job:help:77 job:use:77 
+jobs:this:428 jobs:work:287 jobs:computer:200 jobs:see:109 jobs:help:77 jobs:use:77 jobs:make:35 jobs:write:21 jobs:order:2 jobs:set:1 
+july:this:428 
+just:human:2614 just:this:428 just:work:287 just:room:241 just:talk:215 just:computer:200 just:phone:187 just:give:153 just:see:109 just:word:106 
+keep:human:2614 keep:this:428 keep:animal:312 keep:work:287 keep:room:241 keep:talk:215 keep:computer:200 keep:phone:187 keep:give:153 keep:hear:125 
+keeps:human:2614 keeps:this:428 keeps:animal:312 keeps:work:287 keeps:computer:200 keeps:earth:81 keeps:use:77 keeps:machine:44 keeps:make:35 keeps:go:32 
+kinds:human:2614 kinds:this:428 kinds:animal:312 kinds:work:287 kinds:computer:200 kinds:see:109 kinds:store:95 kinds:use:77 kinds:learn:41 kinds:make:35 
+know:human:2614 know:this:428 know:animal:312 know:work:287 know:room:241 know:talk:215 know:computer:200 know:phone:187 know:give:153 know:hear:125 
+knowing:talk:215 knowing:phone:187 knowing:hear:125 knowing:use:77 knowing:make:35 knowing:go:32 knowing:life:31 knowing:write:21 knowing:news:20 knowing:science:11 
+knowledge:human:2614 knowledge:this:428 knowledge:computer:200 knowledge:give:153 knowledge:see:109 knowledge:state:103 knowledge:store:95 knowledge:help:77 knowledge:use:77 knowledge:learn:41 
+language:human:2614 language:this:428 language:work:287 language:talk:215 language:computer:200 language:hear:125 language:word:106 language:earth:81 language:help:77 language:use:77 
+languages:human:2614 languages:computer:200 languages:use:77 languages:task:53 languages:learn:41 languages:make:35 languages:speak:6 
+large:human:2614 large:this:428 large:animal:312 large:work:287 large:room:241 large:talk:215 large:computer:200 large:phone:187 large:give:153 large:hear:125 
+larger:human:2614 larger:this:428 larger:room:241 larger:computer:200 larger:see:109 larger:store:95 larger:earth:81 larger:help:77 larger:use:77 larger:make:35 
+later:human:2614 later:this:428 later:animal:312 later:work:287 later:talk:215 later:phone:187 later:give:153 later:hear:125 later:see:109 later:word:106 
+leaders:human:2614 leaders:talk:215 leaders:help:77 leaders:go:32 leaders:fight:16 
+learned:human:2614 learned:this:428 learned:work:287 learned:see:109 learned:help:77 learned:use:77 learned:machine:44 learned:learn:41 learned:make:35 learned:tv:33 
+leaves:this:428 leaves:animal:312 leaves:work:287 leaves:room:241 leaves:see:109 leaves:state:103 leaves:earth:81 leaves:help:77 leaves:use:77 leaves:saw:39 
+left:human:2614 left:this:428 left:animal:312 left:room:241 left:computer:200 left:see:109 left:word:106 left:state:103 left:store:95 left:earth:81 
+less:human:2614 less:this:428 less:animal:312 less:work:287 less:room:241 less:computer:200 less:phone:187 less:give:153 less:see:109 less:store:95 
+level:this:428 level:animal:312 level:work:287 level:room:241 level:see:109 level:earth:81 level:use:77 level:make:35 level:go:32 level:life:31 
+libraries:talk:215 libraries:computer:200 libraries:store:95 libraries:help:77 libraries:use:77 libraries:learn:41 libraries:go:32 libraries:inside:22 libraries:hold:7 libraries:speak:6 
+like:human:2614 like:this:428 like:animal:312 like:work:287 like:room:241 like:talk:215 like:computer:200 like:phone:187 like:give:153 like:hear:125 
+limit:work:287 limit:store:95 limit:use:77 limit:make:35 limit:go:32 limit:stop:2 
+limited:human:2614 limited:this:428 limited:work:287 limited:room:241 limited:see:109 limited:use:77 limited:life:31 limited:hold:7 limited:order:2 limited:run:2 
+little:human:2614 little:this:428 little:animal:312 little:work:287 little:computer:200 little:phone:187 little:give:153 little:hear:125 little:see:109 little:word:106 
+lives:human:2614 lives:this:428 lives:animal:312 lives:work:287 lives:room:241 lives:give:153 lives:state:103 lives:help:77 lives:use:77 lives:make:35 
+living:human:2614 living:this:428 living:animal:312 living:work:287 living:room:241 living:talk:215 living:computer:200 living:give:153 living:tooth:112 living:see:109 
+local:human:2614 local:this:428 local:computer:200 local:phone:187 local:give:153 local:hear:125 local:see:109 local:state:103 local:help:77 local:use:77 
+long:human:2614 long:this:428 long:animal:312 long:work:287 long:room:241 long:talk:215 long:computer:200 long:phone:187 long:give:153 long:see:109 
+longer:human:2614 longer:this:428 longer:animal:312 longer:work:287 longer:room:241 longer:talk:215 longer:computer:200 longer:give:153 longer:see:109 longer:word:106 
+looking:human:2614 looking:this:428 looking:animal:312 looking:work:287 looking:room:241 looking:computer:200 looking:phone:187 looking:hear:125 looking:see:109 looking:store:95 
+luck:human:2614 luck:this:428 luck:work:287 luck:give:153 luck:see:109 luck:store:95 luck:inside:22 luck:think:7 
+made:human:2614 made:this:428 made:animal:312 made:work:287 made:room:241 made:computer:200 made:phone:187 made:give:153 made:hear:125 made:tooth:112 
+mainly:this:428 mainly:computer:200 mainly:use:77 mainly:tv:33 mainly:present:4 
+makes:human:2614 makes:this:428 makes:work:287 makes:room:241 makes:talk:215 makes:computer:200 makes:phone:187 makes:give:153 makes:hear:125 makes:see:109 
+many:human:2614 many:this:428 many:animal:312 many:work:287 many:room:241 many:talk:215 many:computer:200 many:phone:187 many:give:153 many:hear:125 
+marvelous:give:153 
+massive:human:2614 massive:this:428 massive:work:287 massive:earth:81 massive:task:53 massive:present:4 
+matches:work:287 matches:phone:187 matches:use:77 matches:make:35 matches:inside:22 matches:sense:3 
+matter:human:2614 matter:this:428 matter:animal:312 matter:room:241 matter:computer:200 matter:word:106 matter:state:103 matter:earth:81 matter:use:77 matter:go:32 
+mean:human:2614 mean:this:428 mean:work:287 mean:talk:215 mean:computer:200 mean:hear:125 mean:see:109 mean:word:106 mean:state:103 mean:use:77 
+means:human:2614 means:this:428 means:animal:312 means:work:287 means:room:241 means:talk:215 means:computer:200 means:phone:187 means:give:153 means:tooth:112 
+media:human:2614 media:computer:200 media:use:77 media:make:35 media:tv:33 media:go:32 media:life:31 media:news:20 media:hold:7 
+memories:human:2614 memories:this:428 memories:computer:200 memories:use:77 memories:make:35 memories:remember:13 memories:think:7 
+mental:work:287 mental:computer:200 mental:help:77 mental:use:77 mental:make:35 mental:solve:33 mental:go:32 mental:life:31 mental:competition:15 mental:grow:12 
+might:human:2614 might:this:428 might:animal:312 might:work:287 might:room:241 might:talk:215 might:computer:200 might:phone:187 might:give:153 might:hear:125 
+million:human:2614 million:this:428 million:earth:81 million:machine:44 million:go:32 million:send:14 million:order:2 million:stop:2 
+minds:human:2614 minds:this:428 minds:hear:125 minds:make:35 minds:remember:13 minds:think:7 minds:sense:3 
+mit:human:2614 mit:computer:200 mit:state:103 mit:earth:81 mit:make:35 mit:problem:35 mit:go:32 mit:life:31 
+more:human:2614 more:this:428 more:animal:312 more:work:287 more:room:241 more:talk:215 more:computer:200 more:phone:187 more:give:153 more:hear:125 
+most:human:2614 most:this:428 most:animal:312 most:work:287 most:room:241 most:talk:215 most:computer:200 most:phone:187 most:give:153 most:hear:125 
+mostly:human:2614 mostly:this:428 mostly:animal:312 mostly:room:241 mostly:phone:187 mostly:word:106 mostly:earth:81 mostly:make:35 mostly:life:31 mostly:news:20 
+much:human:2614 much:this:428 much:animal:312 much:work:287 much:room:241 much:talk:215 much:computer:200 much:phone:187 much:give:153 much:hear:125 
+must:human:2614 must:this:428 must:animal:312 must:work:287 must:room:241 must:computer:200 must:phone:187 must:give:153 must:hear:125 must:see:109 
+my:human:2614 my:this:428 my:work:287 my:room:241 my:talk:215 my:computer:200 my:phone:187 my:give:153 my:hear:125 my:see:109 
+nature:human:2614 nature:this:428 nature:animal:312 nature:give:153 nature:hear:125 nature:see:109 nature:earth:81 nature:use:77 nature:learn:41 nature:make:35 
+need:human:2614 need:this:428 need:animal:312 need:work:287 need:room:241 need:talk:215 need:computer:200 need:phone:187 need:give:153 need:hear:125 
+network:room:241 network:computer:200 network:phone:187 network:use:77 network:machine:44 network:learn:41 network:make:35 network:tv:33 network:news:20 network:communication:3 
+never:human:2614 never:this:428 never:animal:312 never:work:287 never:room:241 never:computer:200 never:phone:187 never:give:153 never:see:109 never:word:106 
+new:human:2614 new:this:428 new:animal:312 new:work:287 new:room:241 new:talk:215 new:computer:200 new:phone:187 new:give:153 new:hear:125 
+next:human:2614 next:this:428 next:animal:312 next:work:287 next:room:241 next:give:153 next:see:109 next:word:106 next:store:95 next:earth:81 
+no:human:2614 no:this:428 no:animal:312 no:work:287 no:room:241 no:talk:215 no:computer:200 no:phone:187 no:give:153 no:hear:125 
+not:human:2614 not:this:428 not:animal:312 not:work:287 not:room:241 not:talk:215 not:computer:200 not:phone:187 not:give:153 not:hear:125 
+notice:this:428 notice:work:287 notice:computer:200 notice:see:109 notice:word:106 notice:use:77 notice:problem:35 notice:go:32 notice:hold:7 notice:writer:1 
+nourished:inside:22 
+novel:computer:200 novel:word:106 novel:use:77 novel:make:35 novel:write:21 novel:science:11 novel:writer:1 
+novels:computer:200 novels:write:21 novels:science:11 
+now:human:2614 now:this:428 now:animal:312 now:work:287 now:room:241 now:computer:200 now:phone:187 now:hear:125 now:see:109 now:word:106 
+observed:this:428 observed:give:153 
+occurred:this:428 occurred:use:77 
+of:human:2614 of:this:428 of:animal:312 of:work:287 of:room:241 of:talk:215 of:computer:200 of:phone:187 of:give:153 of:hear:125 
+often:human:2614 often:this:428 often:animal:312 often:work:287 often:room:241 often:talk:215 often:computer:200 often:phone:187 often:give:153 often:hear:125 
+on:human:2614 on:this:428 on:animal:312 on:work:287 on:room:241 on:talk:215 on:computer:200 on:phone:187 on:give:153 on:hear:125 
+one:human:2614 one:this:428 one:animal:312 one:work:287 one:room:241 one:talk:215 one:computer:200 one:phone:187 one:give:153 one:hear:125 
+only:human:2614 only:this:428 only:animal:312 only:work:287 only:room:241 only:talk:215 only:computer:200 only:phone:187 only:give:153 only:see:109 
+operate:human:2614 operate:this:428 operate:room:241 operate:computer:200 operate:word:106 operate:store:95 operate:use:77 operate:machine:44 operate:learn:41 operate:make:35 
+operation:computer:200 operation:give:153 operation:use:77 operation:task:53 operation:machine:44 operation:go:32 operation:write:21 operation:press:12 operation:choose:6 operation:set:1 
+operations:work:287 operations:computer:200 operations:use:77 operations:go:32 
+optical:human:2614 optical:see:109 optical:store:95 optical:use:77 optical:sense:3 
+or:human:2614 or:this:428 or:animal:312 or:work:287 or:room:241 or:talk:215 or:computer:200 or:phone:187 or:give:153 or:hear:125 
+other:human:2614 other:this:428 other:animal:312 other:work:287 other:room:241 other:talk:215 other:computer:200 other:phone:187 other:give:153 other:hear:125 
+ought:go:32 ought:wear:3 
+our:human:2614 our:this:428 our:animal:312 our:work:287 our:room:241 our:talk:215 our:give:153 our:hear:125 our:see:109 our:state:103 
+ours:this:428 
+ourselves:this:428 ourselves:help:77 ourselves:go:32 ourselves:love:10 ourselves:wear:3 
+out:human:2614 out:this:428 out:animal:312 out:work:287 out:room:241 out:talk:215 out:computer:200 out:phone:187 out:give:153 out:hear:125 
+over:human:2614 over:this:428 over:animal:312 over:work:287 over:room:241 over:talk:215 over:computer:200 over:phone:187 over:give:153 over:hear:125 
+parallel:this:428 
+parts:human:2614 parts:this:428 parts:animal:312 parts:work:287 parts:room:241 parts:computer:200 parts:phone:187 parts:see:109 parts:word:106 parts:store:95 
+pattern:human:2614 pattern:this:428 pattern:computer:200 pattern:see:109 pattern:help:77 pattern:use:77 pattern:make:35 pattern:write:21 pattern:original:12 pattern:choose:6 
+patterns:human:2614 patterns:this:428 patterns:give:153 patterns:see:109 patterns:use:77 patterns:make:35 patterns:wear:3 
+people:human:2614 people:this:428 people:animal:312 people:work:287 people:room:241 people:talk:215 people:computer:200 people:phone:187 people:give:153 people:hear:125 
+per:human:2614 per:this:428 per:animal:312 per:work:287 per:computer:200 per:see:109 per:state:103 per:earth:81 per:machine:44 per:make:35 
+perhaps:human:2614 perhaps:this:428 perhaps:work:287 perhaps:see:109 perhaps:store:95 perhaps:earth:81 perhaps:tv:33 perhaps:go:32 perhaps:think:7 perhaps:discover:4 
+personal:this:428 personal:work:287 personal:room:241 personal:computer:200 personal:help:77 personal:use:77 personal:learn:41 personal:make:35 personal:tv:33 personal:go:32 
+place:human:2614 place:this:428 place:animal:312 place:work:287 place:room:241 place:talk:215 place:computer:200 place:phone:187 place:give:153 place:hear:125 
+planet:human:2614 planet:this:428 planet:animal:312 planet:give:153 planet:see:109 planet:word:106 planet:earth:81 planet:help:77 planet:use:77 planet:life:31 
+populate:human:2614 populate:earth:81 
+preparing:human:2614 preparing:this:428 preparing:use:77 preparing:make:35 preparing:go:32 preparing:write:21 preparing:run:2 preparing:set:1 
+principle:work:287 principle:see:109 principle:communication:3 
+probably:human:2614 probably:this:428 probably:animal:312 probably:work:287 probably:room:241 probably:talk:215 probably:computer:200 probably:phone:187 probably:give:153 probably:hear:125 
+processors:this:428 processors:computer:200 processors:word:106 
+professor:give:153 professor:state:103 professor:write:21 professor:think:7 professor:set:1 
+programmed:human:2614 programmed:this:428 programmed:computer:200 programmed:help:77 programmed:use:77 programmed:task:53 programmed:make:35 programmed:tv:33 programmed:life:31 
+progress:this:428 progress:work:287 progress:see:109 progress:competition:15 progress:hold:7 progress:stop:2 
+psychologists:learn:41 
+published:write:21 published:news:20 published:order:2 
+pumps:animal:312 pumps:work:287 pumps:inside:22 pumps:order:2 
+punished:earth:81 
+pure:this:428 pure:animal:312 pure:room:241 pure:life:31 pure:love:10 pure:communication:3 
+purely:this:428 purely:use:77 purely:think:7 
+quarter:this:428 quarter:work:287 
+range:human:2614 range:this:428 range:phone:187 range:hear:125 range:state:103 range:use:77 range:communication:3 
+rapidly:this:428 rapidly:work:287 rapidly:machine:44 rapidly:life:31 
+react:human:2614 react:give:153 react:earth:81 react:think:7 react:choose:6 react:destroy:4 react:order:2 
+reaction:human:2614 reaction:this:428 reaction:work:287 reaction:see:109 reaction:state:103 reaction:go:32 reaction:life:31 reaction:think:7 reaction:destroy:4 reaction:order:2 
+ready:this:428 ready:work:287 ready:phone:187 ready:give:153 ready:store:95 ready:use:77 ready:learn:41 ready:make:35 ready:go:32 ready:write:21 
+really:human:2614 really:this:428 really:animal:312 really:work:287 really:talk:215 really:computer:200 really:phone:187 really:give:153 really:hear:125 really:see:109 
+reasoning:human:2614 reasoning:animal:312 reasoning:work:287 reasoning:stop:2 
+reasons:this:428 reasons:work:287 reasons:room:241 reasons:store:95 reasons:use:77 reasons:machine:44 reasons:make:35 reasons:go:32 reasons:write:21 reasons:hold:7 
+rebuild:make:35 
+recently:human:2614 
+recognize:human:2614 recognize:this:428 recognize:work:287 recognize:computer:200 recognize:see:109 recognize:store:95 recognize:competition:15 recognize:hide:4 recognize:sense:3 recognize:wear:3 
+recommend:room:241 recommend:store:95 recommend:go:32 
+recorded:this:428 recorded:computer:200 recorded:phone:187 recorded:hear:125 recorded:use:77 recorded:tv:33 recorded:life:31 recorded:news:20 recorded:hold:7 recorded:present:4 
+records:this:428 records:room:241 records:store:95 records:use:77 records:make:35 records:go:32 records:inside:22 records:order:2 
+redundant:help:77 
+refer:human:2614 refer:this:428 refer:animal:312 refer:work:287 refer:computer:200 refer:word:106 refer:use:77 refer:tv:33 refer:inside:22 refer:science:11 
+regard:make:35 regard:hold:7 regard:set:1 
+represent:human:2614 represent:this:428 represent:animal:312 represent:hear:125 represent:state:103 represent:earth:81 represent:use:77 represent:make:35 represent:problem:35 represent:life:31 
+resort:this:428 resort:room:241 
+result:human:2614 result:this:428 result:work:287 result:state:103 result:store:95 result:use:77 result:make:35 result:problem:35 result:tv:33 result:go:32 
+rights:human:2614 rights:animal:312 rights:give:153 rights:use:77 rights:go:32 rights:agree:16 rights:fight:16 rights:think:7 rights:wear:3 rights:stop:2 
+rule:work:287 rule:give:153 rule:use:77 rule:problem:35 rule:set:1 
+said:this:428 said:animal:312 said:work:287 said:room:241 said:talk:215 said:computer:200 said:phone:187 said:give:153 said:hear:125 said:see:109 
+scales:human:2614 scales:this:428 scales:work:287 scales:hear:125 scales:use:77 scales:make:35 scales:grow:12 scales:set:1 
+scan:stop:2 scan:set:1 
+scientific:human:2614 scientific:this:428 scientific:earth:81 scientific:inside:22 scientific:science:11 
+scientists:work:287 scientists:talk:215 scientists:computer:200 scientists:learn:41 scientists:make:35 scientists:agree:16 scientists:science:11 scientists:think:7 scientists:discover:4 
+script:learn:41 script:make:35 script:go:32 script:write:21 script:agree:16 
+second:human:2614 second:this:428 second:give:153 second:see:109 second:state:103 second:help:77 second:use:77 second:learn:41 second:saw:39 second:tv:33 
+seem:human:2614 seem:this:428 seem:animal:312 seem:work:287 seem:room:241 seem:hear:125 seem:see:109 seem:earth:81 seem:help:77 seem:use:77 
+seems:this:428 seems:room:241 seems:see:109 seems:earth:81 seems:make:35 seems:tv:33 seems:go:32 seems:love:10 
+separate:this:428 separate:room:241 separate:use:77 separate:go:32 separate:inside:22 separate:competition:15 separate:love:10 separate:set:1 
+serial:this:428 serial:run:2 
+sets:human:2614 sets:this:428 sets:room:241 sets:hear:125 sets:store:95 sets:earth:81 sets:use:77 sets:make:35 sets:problem:35 sets:tv:33 
+seven:human:2614 seven:this:428 seven:work:287 seven:phone:187 seven:see:109 seven:earth:81 seven:make:35 seven:competition:15 seven:love:10 seven:present:4 
+several:human:2614 several:this:428 several:work:287 several:room:241 several:phone:187 several:word:106 several:state:103 several:store:95 several:earth:81 several:use:77 
+shallow:room:241 shallow:use:77 shallow:life:31 shallow:speak:6 shallow:run:2 
+share:human:2614 share:work:287 share:talk:215 share:computer:200 share:give:153 share:store:95 share:learn:41 share:make:35 share:go:32 share:life:31 
+shell:this:428 shell:animal:312 shell:hear:125 shell:see:109 shell:use:77 shell:life:31 shell:inside:22 shell:hide:4 shell:wear:3 
+short:human:2614 short:this:428 short:animal:312 short:room:241 short:computer:200 short:phone:187 short:give:153 short:hear:125 short:see:109 short:word:106 
+should:human:2614 should:this:428 should:animal:312 should:work:287 should:room:241 should:talk:215 should:computer:200 should:phone:187 should:give:153 should:hear:125 
+significant:earth:81 significant:life:31 significant:grow:12 
+similar:human:2614 similar:this:428 similar:computer:200 similar:give:153 similar:state:103 similar:earth:81 similar:use:77 similar:make:35 similar:inside:22 similar:science:11 
+simple:human:2614 simple:this:428 simple:animal:312 simple:computer:200 simple:see:109 simple:word:106 simple:help:77 simple:use:77 simple:task:53 simple:machine:44 
+simply:human:2614 simply:this:428 simply:animal:312 simply:see:109 simply:store:95 simply:earth:81 simply:make:35 simply:problem:35 simply:solve:33 simply:go:32 
+single:human:2614 single:this:428 single:animal:312 single:work:287 single:room:241 single:computer:200 single:give:153 single:earth:81 single:use:77 single:make:35 
+situation:human:2614 situation:this:428 situation:work:287 situation:room:241 situation:talk:215 situation:computer:200 situation:phone:187 situation:give:153 situation:hear:125 situation:see:109 
+slow:human:2614 slow:this:428 slow:animal:312 slow:work:287 slow:computer:200 slow:state:103 slow:earth:81 slow:use:77 slow:make:35 slow:tv:33 
+smaller:human:2614 smaller:this:428 smaller:animal:312 smaller:work:287 smaller:computer:200 smaller:see:109 smaller:word:106 smaller:store:95 smaller:earth:81 smaller:use:77 
+so:human:2614 so:this:428 so:animal:312 so:work:287 so:room:241 so:talk:215 so:computer:200 so:phone:187 so:give:153 so:hear:125 
+societies:human:2614 societies:this:428 societies:work:287 societies:give:153 societies:use:77 societies:go:32 societies:present:4 societies:wear:3 
+society:human:2614 society:this:428 society:work:287 society:talk:215 society:give:153 society:see:109 society:state:103 society:earth:81 society:help:77 society:use:77 
+solved:state:103 solved:problem:35 solved:think:7 
+some:human:2614 some:this:428 some:animal:312 some:work:287 some:room:241 some:talk:215 some:computer:200 some:phone:187 some:give:153 some:hear:125 
+someone:human:2614 someone:this:428 someone:animal:312 someone:work:287 someone:room:241 someone:talk:215 someone:computer:200 someone:phone:187 someone:give:153 someone:hear:125 
+soon:human:2614 soon:work:287 soon:room:241 soon:phone:187 soon:store:95 soon:earth:81 soon:help:77 soon:use:77 soon:machine:44 soon:make:35 
+sorts:this:428 sorts:hear:125 sorts:store:95 sorts:use:77 sorts:order:2 
+speed:human:2614 speed:this:428 speed:give:153 speed:state:103 speed:earth:81 speed:help:77 speed:use:77 speed:make:35 speed:go:32 speed:inside:22 
+squeeze:this:428 squeeze:inside:22 squeeze:stop:2 
+started:human:2614 started:work:287 started:room:241 started:computer:200 started:see:109 started:use:77 started:machine:44 started:learn:41 started:saw:39 started:make:35 
+step:human:2614 step:this:428 step:animal:312 step:work:287 step:room:241 step:talk:215 step:computer:200 step:phone:187 step:give:153 step:hear:125 
+steps:human:2614 steps:use:77 steps:task:53 steps:learn:41 steps:make:35 steps:solve:33 steps:run:2 steps:set:1 
+still:human:2614 still:this:428 still:work:287 still:room:241 still:talk:215 still:computer:200 still:hear:125 still:see:109 still:store:95 still:earth:81 
+stored:human:2614 stored:this:428 stored:animal:312 stored:room:241 stored:computer:200 stored:store:95 stored:use:77 stored:make:35 stored:copy:25 stored:inside:22 
+stories:human:2614 stories:this:428 stories:state:103 stories:store:95 stories:use:77 stories:make:35 stories:tv:33 stories:go:32 stories:life:31 stories:write:21 
+structures:human:2614 structures:this:428 structures:use:77 structures:make:35 
+such:human:2614 such:this:428 such:animal:312 such:work:287 such:room:241 such:computer:200 such:give:153 such:hear:125 such:tooth:112 such:see:109 
+support:human:2614 support:this:428 support:work:287 support:room:241 support:give:153 support:store:95 support:earth:81 support:help:77 support:use:77 support:make:35 
+sure:human:2614 sure:this:428 sure:animal:312 sure:work:287 sure:room:241 sure:talk:215 sure:computer:200 sure:phone:187 sure:give:153 sure:hear:125 
+surely:order:2 
+system:human:2614 system:this:428 system:work:287 system:room:241 system:computer:200 system:phone:187 system:give:153 system:hear:125 system:see:109 system:word:106 
+systems:this:428 systems:work:287 systems:computer:200 systems:give:153 systems:store:95 systems:earth:81 systems:use:77 systems:make:35 systems:life:31 systems:think:7 
+technical:this:428 technical:computer:200 technical:problem:35 
+term:human:2614 term:this:428 term:animal:312 term:work:287 term:computer:200 term:phone:187 term:give:153 term:see:109 term:word:106 term:store:95 
+terms:human:2614 terms:this:428 terms:animal:312 terms:problem:35 terms:life:31 terms:agree:16 terms:think:7 terms:order:2 
+than:human:2614 than:this:428 than:animal:312 than:work:287 than:room:241 than:talk:215 than:computer:200 than:phone:187 than:give:153 than:hear:125 
+that:human:2614 that:this:428 that:animal:312 that:work:287 that:room:241 that:talk:215 that:computer:200 that:phone:187 that:give:153 that:hear:125 
+the:human:2614 the:this:428 the:animal:312 the:work:287 the:room:241 the:talk:215 the:computer:200 the:phone:187 the:give:153 the:hear:125 
+their:human:2614 their:this:428 their:animal:312 their:work:287 their:room:241 their:talk:215 their:computer:200 their:phone:187 their:give:153 their:hear:125 
+them:human:2614 them:this:428 them:animal:312 them:work:287 them:room:241 them:talk:215 them:computer:200 them:phone:187 them:give:153 them:hear:125 
+themselves:human:2614 themselves:this:428 themselves:animal:312 themselves:work:287 themselves:room:241 themselves:talk:215 themselves:give:153 themselves:see:109 themselves:store:95 themselves:help:77 
+then:human:2614 then:this:428 then:animal:312 then:work:287 then:room:241 then:talk:215 then:computer:200 then:phone:187 then:give:153 then:hear:125 
+there:human:2614 there:this:428 there:animal:312 there:work:287 there:room:241 there:talk:215 there:computer:200 there:phone:187 there:give:153 there:hear:125 
+these:human:2614 these:this:428 these:animal:312 these:work:287 these:room:241 these:talk:215 these:computer:200 these:phone:187 these:give:153 these:hear:125 
+they:human:2614 they:this:428 they:animal:312 they:work:287 they:room:241 they:talk:215 they:computer:200 they:phone:187 they:give:153 they:hear:125 
+thing:human:2614 thing:this:428 thing:animal:312 thing:work:287 thing:room:241 thing:talk:215 thing:computer:200 thing:phone:187 thing:give:153 thing:hear:125 
+things:human:2614 things:this:428 things:animal:312 things:work:287 things:room:241 things:talk:215 things:computer:200 things:phone:187 things:give:153 things:hear:125 
+those:human:2614 those:this:428 those:work:287 those:room:241 those:phone:187 those:give:153 those:see:109 those:word:106 those:store:95 those:earth:81 
+though:human:2614 though:this:428 though:animal:312 though:work:287 though:computer:200 though:hear:125 though:see:109 though:earth:81 though:use:77 though:learn:41 
+thought:human:2614 thought:this:428 thought:work:287 thought:room:241 thought:computer:200 thought:give:153 thought:see:109 thought:earth:81 thought:use:77 thought:saw:39 
+thousands:this:428 thousands:animal:312 thousands:computer:200 thousands:see:109 thousands:earth:81 
+three:human:2614 three:this:428 three:animal:312 three:room:241 three:talk:215 three:computer:200 three:phone:187 three:see:109 three:word:106 three:store:95 
+through:human:2614 through:this:428 through:animal:312 through:work:287 through:room:241 through:computer:200 through:phone:187 through:give:153 through:hear:125 through:see:109 
+time:human:2614 time:this:428 time:animal:312 time:work:287 time:room:241 time:talk:215 time:computer:200 time:phone:187 time:give:153 time:hear:125 
+times:human:2614 times:this:428 times:animal:312 times:work:287 times:computer:200 times:phone:187 times:give:153 times:see:109 times:state:103 times:store:95 
+to:human:2614 to:this:428 to:animal:312 to:work:287 to:room:241 to:talk:215 to:computer:200 to:phone:187 to:give:153 to:hear:125 
+too:human:2614 too:this:428 too:animal:312 too:work:287 too:room:241 too:talk:215 too:computer:200 too:phone:187 too:give:153 too:hear:125 
+toshiba:make:35 
+total:human:2614 total:write:21 
+trillion:human:2614 
+trillions:earth:81 trillions:make:35 
+trouble:human:2614 trouble:this:428 trouble:work:287 trouble:give:153 trouble:see:109 trouble:store:95 trouble:help:77 trouble:use:77 trouble:make:35 trouble:go:32 
+try:human:2614 try:this:428 try:work:287 try:room:241 try:talk:215 try:computer:200 try:phone:187 try:give:153 try:hear:125 try:tooth:112 
+trying:this:428 trying:work:287 trying:room:241 trying:talk:215 trying:give:153 trying:hear:125 trying:see:109 trying:store:95 trying:help:77 trying:use:77 
+turing:this:428 turing:room:241 turing:computer:200 turing:machine:44 
+turn:human:2614 turn:this:428 turn:animal:312 turn:work:287 turn:room:241 turn:talk:215 turn:computer:200 turn:phone:187 turn:give:153 turn:hear:125 
+two:human:2614 two:this:428 two:animal:312 two:work:287 two:room:241 two:talk:215 two:computer:200 two:phone:187 two:give:153 two:tooth:112 
+types:human:2614 types:this:428 types:animal:312 types:work:287 types:computer:200 types:phone:187 types:see:109 types:state:103 types:store:95 types:earth:81 
+typical:this:428 typical:room:241 typical:computer:200 typical:see:109 typical:help:77 typical:tv:33 typical:go:32 typical:life:31 typical:original:12 
+understand:human:2614 understand:this:428 understand:animal:312 understand:work:287 understand:room:241 understand:talk:215 understand:computer:200 understand:phone:187 understand:give:153 understand:hear:125 
+unique:human:2614 unique:this:428 unique:computer:200 unique:phone:187 unique:hear:125 unique:make:35 unique:remember:13 unique:set:1 
+unit:human:2614 unit:this:428 unit:work:287 unit:word:106 unit:earth:81 unit:use:77 unit:learn:41 unit:set:1 
+until:human:2614 until:this:428 until:work:287 until:room:241 until:talk:215 until:computer:200 until:phone:187 until:word:106 until:state:103 until:earth:81 
+up:human:2614 up:this:428 up:animal:312 up:work:287 up:room:241 up:talk:215 up:computer:200 up:phone:187 up:give:153 up:hear:125 
+upside:this:428 upside:work:287 upside:use:77 upside:saw:39 upside:make:35 upside:go:32 upside:hold:7 upside:set:1 
+us:human:2614 us:this:428 us:animal:312 us:work:287 us:talk:215 us:computer:200 us:give:153 us:hear:125 us:see:109 us:word:106 
+used:human:2614 used:this:428 used:animal:312 used:work:287 used:room:241 used:talk:215 used:computer:200 used:phone:187 used:give:153 used:hear:125 
+uses:human:2614 uses:this:428 uses:animal:312 uses:work:287 uses:room:241 uses:computer:200 uses:phone:187 uses:give:153 uses:hear:125 uses:see:109 
+using:human:2614 using:this:428 using:animal:312 using:work:287 using:room:241 using:talk:215 using:computer:200 using:phone:187 using:give:153 using:hear:125 
+vector:this:428 vector:see:109 
+very:human:2614 very:this:428 very:animal:312 very:work:287 very:room:241 very:talk:215 very:computer:200 very:phone:187 very:hear:125 very:see:109 
+view:human:2614 view:this:428 view:room:241 view:talk:215 view:phone:187 view:give:153 view:see:109 view:state:103 view:earth:81 view:use:77 
+virtues:use:77 virtues:inside:22 virtues:love:10 
+want:human:2614 want:this:428 want:animal:312 want:work:287 want:room:241 want:talk:215 want:computer:200 want:phone:187 want:give:153 want:hear:125 
+was:human:2614 was:this:428 was:animal:312 was:work:287 was:room:241 was:talk:215 was:computer:200 was:phone:187 was:give:153 was:hear:125 
+waste:human:2614 waste:this:428 waste:animal:312 waste:work:287 waste:computer:200 waste:store:95 waste:earth:81 waste:use:77 waste:make:35 waste:problem:35 
+way:human:2614 way:this:428 way:animal:312 way:work:287 way:room:241 way:talk:215 way:computer:200 way:phone:187 way:give:153 way:hear:125 
+ways:human:2614 ways:this:428 ways:work:287 ways:room:241 ways:talk:215 ways:see:109 ways:store:95 ways:earth:81 ways:help:77 ways:use:77 
+we:human:2614 we:this:428 we:animal:312 we:work:287 we:room:241 we:talk:215 we:computer:200 we:give:153 we:hear:125 we:see:109 
+weekly:grow:12 
+well:human:2614 well:this:428 well:work:287 well:room:241 well:talk:215 well:computer:200 well:give:153 well:hear:125 well:tooth:112 well:see:109 
+were:human:2614 were:this:428 were:animal:312 were:work:287 were:room:241 were:computer:200 were:give:153 were:hear:125 were:see:109 were:word:106 
+what:human:2614 what:this:428 what:animal:312 what:work:287 what:room:241 what:talk:215 what:computer:200 what:phone:187 what:give:153 what:hear:125 
+whatever:human:2614 whatever:this:428 whatever:computer:200 whatever:give:153 whatever:see:109 whatever:use:77 whatever:learn:41 whatever:make:35 whatever:life:31 whatever:inside:22 
+when:human:2614 when:this:428 when:animal:312 when:work:287 when:room:241 when:talk:215 when:computer:200 when:phone:187 when:give:153 when:hear:125 
+where:human:2614 where:this:428 where:animal:312 where:work:287 where:room:241 where:talk:215 where:computer:200 where:phone:187 where:give:153 where:hear:125 
+whereas:human:2614 whereas:this:428 whereas:animal:312 whereas:see:109 whereas:word:106 whereas:state:103 whereas:use:77 whereas:present:4 
+whether:human:2614 whether:work:287 whether:computer:200 whether:phone:187 whether:give:153 whether:hear:125 whether:see:109 whether:state:103 whether:earth:81 whether:help:77 
+which:human:2614 which:this:428 which:animal:312 which:work:287 which:room:241 which:talk:215 which:computer:200 which:phone:187 which:give:153 which:hear:125 
+whole:human:2614 whole:this:428 whole:animal:312 whole:work:287 whole:room:241 whole:computer:200 whole:give:153 whole:hear:125 whole:state:103 whole:store:95 
+why:human:2614 why:this:428 why:animal:312 why:work:287 why:room:241 why:talk:215 why:computer:200 why:phone:187 why:give:153 why:hear:125 
+widely:human:2614 widely:phone:187 widely:store:95 widely:earth:81 
+will:human:2614 will:this:428 will:animal:312 will:work:287 will:room:241 will:talk:215 will:computer:200 will:phone:187 will:give:153 will:hear:125 
+willing:human:2614 willing:give:153 willing:state:103 willing:use:77 willing:learn:41 willing:make:35 willing:go:32 willing:life:31 willing:agree:16 willing:love:10 
+with:human:2614 with:this:428 with:animal:312 with:work:287 with:room:241 with:talk:215 with:computer:200 with:phone:187 with:give:153 with:hear:125 
+within:human:2614 within:this:428 within:work:287 within:room:241 within:computer:200 within:word:106 within:state:103 within:earth:81 within:help:77 within:use:77 
+without:human:2614 without:this:428 without:work:287 without:room:241 without:talk:215 without:computer:200 without:phone:187 without:give:153 without:hear:125 without:tooth:112 
+worked:this:428 worked:work:287 worked:computer:200 worked:see:109 worked:remember:13 
+world:human:2614 world:this:428 world:animal:312 world:work:287 world:room:241 world:talk:215 world:computer:200 world:phone:187 world:give:153 world:see:109 
+would:human:2614 would:this:428 would:animal:312 would:work:287 would:room:241 would:talk:215 would:computer:200 would:phone:187 would:give:153 would:hear:125 
+wrap:give:153 wrap:store:95 wrap:use:77 wrap:choose:6 wrap:present:4 
+wrong:human:2614 wrong:this:428 wrong:animal:312 wrong:computer:200 wrong:phone:187 wrong:see:109 wrong:help:77 wrong:use:77 wrong:shoe:50 wrong:learn:41 
+yet:human:2614 yet:this:428 yet:room:241 yet:give:153 yet:word:106 yet:store:95 yet:earth:81 yet:life:31 yet:write:21 yet:love:10 
+you:human:2614 you:this:428 you:animal:312 you:work:287 you:room:241 you:talk:215 you:computer:200 you:phone:187 you:give:153 you:hear:125 
+your:human:2614 your:this:428 your:animal:312 your:work:287 your:room:241 your:talk:215 your:computer:200 your:phone:187 your:give:153 your:hear:125 
