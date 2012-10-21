@@ -1,0 +1,240 @@
+able:this:427 able:number:172 able:team:136 able:body:88 able:tree:82 able:group:45 able:clean:27 able:say:16 able:solve:8 able:display:4 
+about:this:427 about:number:172 about:body:88 about:tree:82 about:group:45 about:clean:27 about:meeting:17 about:town:17 about:say:16 about:plan:10 
+acceptable:this:427 
+accepted:this:427 
+adjustments:close:6 
+after:this:427 after:number:172 after:body:88 after:tree:82 after:group:45 after:clean:27 after:say:16 after:solve:8 after:close:6 
+agent:number:172 agent:plan:10 
+all:this:427 all:number:172 all:team:136 all:body:88 all:tree:82 all:match:80 all:group:45 all:clean:27 all:meeting:17 all:town:17 
+allowed:this:427 allowed:say:16 
+almost:this:427 almost:group:45 almost:clean:27 almost:say:16 almost:close:6 almost:display:4 
+also:this:427 also:number:172 also:team:136 also:body:88 also:tree:82 also:group:45 also:clean:27 also:say:16 also:close:6 also:display:4 
+am:this:427 am:body:88 am:clean:27 am:town:17 am:say:16 
+and:this:427 and:number:172 and:team:136 and:body:88 and:tree:82 and:match:80 and:group:45 and:clean:27 and:meeting:17 and:town:17 
+ants:this:427 ants:say:16 
+applied:this:427 applied:body:88 applied:say:16 
+are:this:427 are:number:172 are:team:136 are:body:88 are:tree:82 are:match:80 are:group:45 are:clean:27 are:meeting:17 are:town:17 
+as:this:427 as:number:172 as:team:136 as:body:88 as:tree:82 as:match:80 as:group:45 as:clean:27 as:meeting:17 as:town:17 
+at:this:427 at:number:172 at:team:136 at:body:88 at:tree:82 at:match:80 at:group:45 at:clean:27 at:meeting:17 at:town:17 
+attract:this:427 attract:say:16 
+audible:this:427 
+available:this:427 available:number:172 available:body:88 available:meeting:17 available:plan:10 available:display:4 
+away:this:427 away:number:172 away:body:88 away:match:80 away:clean:27 away:town:17 away:say:16 away:plan:10 away:close:6 
+back:this:427 back:number:172 back:body:88 back:tree:82 back:group:45 back:clean:27 back:say:16 back:close:6 
+backing:reflect:16 backing:say:16 
+be:this:427 be:number:172 be:team:136 be:body:88 be:tree:82 be:match:80 be:group:45 be:clean:27 be:meeting:17 be:town:17 
+became:this:427 became:team:136 became:body:88 became:clean:27 became:say:16 
+become:this:427 become:body:88 become:tree:82 become:group:45 become:clean:27 become:reflect:16 become:say:16 become:plan:10 
+been:this:427 been:number:172 been:clean:27 been:say:16 been:close:6 
+before:this:427 before:number:172 before:team:136 before:body:88 before:tree:82 before:match:80 before:group:45 before:clean:27 before:meeting:17 before:town:17 
+but:this:427 but:number:172 but:team:136 but:body:88 but:tree:82 but:match:80 but:group:45 but:clean:27 but:say:16 but:plan:10 
+by:this:427 by:number:172 by:team:136 by:body:88 by:tree:82 by:match:80 by:group:45 by:clean:27 by:meeting:17 by:town:17 
+calculations:this:427 calculations:body:88 
+came:this:427 came:tree:82 came:clean:27 came:close:6 
+chance:this:427 chance:number:172 chance:meeting:17 chance:say:16 
+circulating:body:88 
+clearing:this:427 
+colour:this:427 colour:say:16 
+complete:this:427 complete:number:172 complete:say:16 
+completely:this:427 completely:clean:27 
+conceptual:this:427 conceptual:say:16 
+contained:this:427 contained:group:45 contained:say:16 
+continue:this:427 continue:body:88 continue:meeting:17 continue:say:16 
+conversation:this:427 conversation:meeting:17 conversation:say:16 
+could:this:427 could:number:172 could:body:88 could:tree:82 could:match:80 could:group:45 could:clean:27 could:meeting:17 could:say:16 could:plan:10 
+crossing:this:427 crossing:say:16 
+current:this:427 current:number:172 current:body:88 current:display:4 
+day:this:427 day:number:172 day:team:136 day:body:88 day:tree:82 day:match:80 day:clean:27 day:town:17 day:say:16 day:close:6 
+decided:this:427 decided:clean:27 decided:say:16 
+derive:say:16 
+did:this:427 did:number:172 did:team:136 did:body:88 did:clean:27 did:say:16 
+died:this:427 died:say:16 
+difficult:this:427 difficult:team:136 difficult:body:88 difficult:match:80 difficult:say:16 
+dirty:body:88 dirty:tree:82 dirty:clean:27 dirty:say:16 
+distant:close:6 
+do:this:427 do:number:172 do:team:136 do:body:88 do:tree:82 do:match:80 do:group:45 do:clean:27 do:meeting:17 do:town:17 
+drift:say:16 
+easily:this:427 easily:number:172 easily:body:88 easily:say:16 easily:solve:8 easily:close:6 
+equal:this:427 equal:number:172 equal:body:88 equal:say:16 equal:close:6 
+eventually:this:427 eventually:number:172 eventually:body:88 eventually:say:16 
+exactly:this:427 exactly:number:172 
+expect:this:427 
+expected:this:427 expected:meeting:17 expected:say:16 
+filed:this:427 filed:say:16 
+finally:say:16 finally:close:6 
+find:this:427 find:number:172 find:team:136 find:body:88 find:tree:82 find:match:80 find:group:45 find:clean:27 find:meeting:17 find:town:17 
+first:this:427 first:number:172 first:team:136 first:body:88 first:match:80 first:group:45 first:clean:27 first:meeting:17 first:reflect:16 first:say:16 
+for:this:427 for:number:172 for:team:136 for:body:88 for:tree:82 for:match:80 for:group:45 for:clean:27 for:meeting:17 for:town:17 
+found:this:427 found:number:172 found:team:136 found:body:88 found:tree:82 found:match:80 found:group:45 found:clean:27 found:town:17 found:say:16 
+four:this:427 four:number:172 four:team:136 four:body:88 four:tree:82 four:group:45 four:say:16 four:plan:10 four:close:6 
+from:this:427 from:number:172 from:team:136 from:body:88 from:tree:82 from:match:80 from:group:45 from:clean:27 from:meeting:17 from:town:17 
+gave:number:172 gave:body:88 gave:town:17 
+giving:this:427 giving:number:172 giving:group:45 giving:clean:27 giving:say:16 giving:solve:8 giving:close:6 giving:razor:5 
+glowing:say:16 
+greeted:this:427 
+had:this:427 had:number:172 had:team:136 had:body:88 had:tree:82 had:match:80 had:group:45 had:clean:27 had:town:17 had:say:16 
+half:this:427 half:body:88 half:clean:27 half:say:16 
+handed:this:427 
+has:this:427 has:number:172 has:team:136 has:body:88 has:tree:82 has:match:80 has:group:45 has:clean:27 has:meeting:17 has:town:17 
+have:this:427 have:number:172 have:team:136 have:body:88 have:tree:82 have:match:80 have:group:45 have:clean:27 have:meeting:17 have:town:17 
+horizon:this:427 horizon:tree:82 horizon:say:16 horizon:close:6 
+how:this:427 how:number:172 how:team:136 how:body:88 how:tree:82 how:match:80 how:group:45 how:clean:27 how:meeting:17 how:say:16 
+hundred:this:427 hundred:number:172 hundred:say:16 
+i:this:427 i:number:172 i:team:136 i:body:88 i:tree:82 i:match:80 i:group:45 i:clean:27 i:meeting:17 i:town:17 
+idea:this:427 idea:team:136 idea:reflect:16 idea:say:16 idea:plan:10 
+if:this:427 if:number:172 if:team:136 if:body:88 if:tree:82 if:match:80 if:group:45 if:clean:27 if:meeting:17 if:town:17 
+image:this:427 image:reflect:16 image:say:16 
+images:this:427 images:group:45 images:reflect:16 images:say:16 images:display:4 
+in:this:427 in:number:172 in:team:136 in:body:88 in:tree:82 in:match:80 in:group:45 in:clean:27 in:meeting:17 in:town:17 
+increase:this:427 increase:number:172 increase:body:88 increase:say:16 increase:close:6 
+indicates:this:427 indicates:say:16 
+indicating:this:427 indicating:number:172 indicating:group:45 indicating:say:16 
+initial:this:427 
+into:this:427 into:number:172 into:team:136 into:body:88 into:tree:82 into:group:45 into:clean:27 into:reflect:16 into:say:16 into:plan:10 
+introduced:this:427 
+is:this:427 is:number:172 is:team:136 is:body:88 is:tree:82 is:match:80 is:group:45 is:clean:27 is:meeting:17 is:town:17 
+it:this:427 it:number:172 it:team:136 it:body:88 it:tree:82 it:match:80 it:group:45 it:clean:27 it:meeting:17 it:town:17 
+just:this:427 just:number:172 just:body:88 just:tree:82 just:clean:27 just:say:16 
+know:this:427 know:number:172 know:team:136 know:body:88 know:tree:82 know:match:80 know:group:45 know:clean:27 know:meeting:17 know:town:17 
+language:this:427 language:body:88 language:say:16 
+last:this:427 last:number:172 last:team:136 last:body:88 last:tree:82 last:match:80 last:clean:27 last:meeting:17 last:say:16 last:plan:10 
+latest:town:17 
+least:this:427 least:team:136 least:tree:82 least:say:16 least:close:6 
+leaving:this:427 leaving:clean:27 leaving:say:16 
+lies:this:427 lies:town:17 lies:say:16 lies:close:6 
+like:this:427 like:number:172 like:team:136 like:body:88 like:tree:82 like:match:80 like:group:45 like:clean:27 like:meeting:17 like:town:17 
+links:say:16 
+long:this:427 long:body:88 long:tree:82 long:clean:27 long:town:17 long:say:16 long:plan:10 long:close:6 
+lots:this:427 lots:body:88 lots:group:45 lots:clean:27 lots:say:16 lots:plan:10 
+lunar:this:427 
+made:this:427 made:number:172 made:team:136 made:body:88 made:tree:82 made:match:80 made:group:45 made:clean:27 made:meeting:17 made:town:17 
+many:this:427 many:number:172 many:team:136 many:body:88 many:tree:82 many:match:80 many:group:45 many:clean:27 many:meeting:17 many:town:17 
+mass:this:427 mass:body:88 mass:say:16 
+matter:this:427 matter:body:88 matter:tree:82 matter:say:16 
+me:this:427 me:number:172 me:team:136 me:body:88 me:tree:82 me:match:80 me:group:45 me:clean:27 me:town:17 me:say:16 
+million:this:427 million:number:172 million:tree:82 million:say:16 
+mind:this:427 mind:body:88 mind:meeting:17 mind:town:17 mind:reflect:16 mind:say:16 mind:plan:10 mind:display:4 
+more:this:427 more:number:172 more:team:136 more:body:88 more:tree:82 more:group:45 more:clean:27 more:meeting:17 more:town:17 more:reflect:16 
+most:this:427 most:number:172 most:team:136 most:body:88 most:match:80 most:group:45 most:clean:27 most:meeting:17 most:town:17 most:say:16 
+my:this:427 my:number:172 my:team:136 my:body:88 my:tree:82 my:match:80 my:clean:27 my:town:17 my:say:16 my:plan:10 
+myself:this:427 myself:body:88 myself:clean:27 myself:say:16 
+nature:this:427 nature:number:172 nature:tree:82 nature:say:16 
+neatly:this:427 
+neatness:clean:27 
+need:this:427 need:number:172 need:team:136 need:body:88 need:tree:82 need:match:80 need:group:45 need:clean:27 need:meeting:17 need:town:17 
+never:this:427 never:number:172 never:say:16 
+new:this:427 new:number:172 new:team:136 new:tree:82 new:group:45 new:clean:27 new:meeting:17 new:town:17 new:say:16 new:plan:10 
+no:this:427 no:number:172 no:team:136 no:body:88 no:tree:82 no:match:80 no:clean:27 no:say:16 no:close:6 
+normal:this:427 normal:body:88 normal:say:16 
+not:this:427 not:number:172 not:team:136 not:body:88 not:tree:82 not:match:80 not:group:45 not:clean:27 not:meeting:17 not:reflect:16 
+now:this:427 now:body:88 now:match:80 now:clean:27 now:say:16 now:close:6 now:display:4 
+obviously:this:427 
+of:this:427 of:number:172 of:team:136 of:body:88 of:tree:82 of:match:80 of:group:45 of:clean:27 of:meeting:17 of:town:17 
+off:this:427 off:number:172 off:body:88 off:tree:82 off:clean:27 off:meeting:17 off:reflect:16 off:say:16 off:plan:10 off:carpet:7 
+often:this:427 often:number:172 often:team:136 often:body:88 often:tree:82 often:match:80 often:group:45 often:clean:27 often:town:17 often:say:16 
+ok:say:16 
+on:this:427 on:number:172 on:team:136 on:body:88 on:tree:82 on:match:80 on:group:45 on:clean:27 on:meeting:17 on:town:17 
+one:this:427 one:number:172 one:team:136 one:body:88 one:tree:82 one:match:80 one:group:45 one:clean:27 one:meeting:17 one:town:17 
+ones:this:427 ones:number:172 ones:team:136 ones:body:88 ones:match:80 ones:group:45 ones:clean:27 ones:say:16 ones:close:6 ones:razor:5 
+our:this:427 our:team:136 our:body:88 our:group:45 our:clean:27 our:say:16 our:plan:10 our:close:6 our:display:4 
+ourselves:this:427 
+out:this:427 out:number:172 out:team:136 out:body:88 out:tree:82 out:match:80 out:group:45 out:clean:27 out:meeting:17 out:town:17 
+over:this:427 over:number:172 over:team:136 over:body:88 over:tree:82 over:match:80 over:group:45 over:clean:27 over:meeting:17 over:town:17 
+parts:this:427 parts:number:172 parts:body:88 parts:tree:82 parts:clean:27 parts:town:17 parts:say:16 parts:plan:10 parts:carpet:7 parts:close:6 
+passed:say:16 passed:close:6 
+people:this:427 people:number:172 people:team:136 people:body:88 people:tree:82 people:match:80 people:group:45 people:clean:27 people:meeting:17 people:town:17 
+perfectly:clean:27 perfectly:reflect:16 
+place:this:427 place:team:136 place:body:88 place:tree:82 place:match:80 place:group:45 place:clean:27 place:meeting:17 place:town:17 place:say:16 
+places:this:427 places:number:172 places:body:88 places:tree:82 places:group:45 places:clean:27 places:town:17 places:say:16 places:close:6 
+polite:this:427 polite:say:16 
+possible:this:427 possible:body:88 possible:clean:27 possible:say:16 possible:solve:8 possible:close:6 
+pride:group:45 pride:say:16 pride:display:4 
+probably:this:427 probably:number:172 probably:team:136 probably:tree:82 probably:match:80 probably:clean:27 probably:meeting:17 probably:town:17 probably:say:16 probably:close:6 
+processes:this:427 processes:body:88 
+quick:say:16 
+quickly:this:427 quickly:number:172 quickly:body:88 quickly:match:80 quickly:say:16 
+raising:tree:82 
+range:this:427 range:body:88 range:match:80 
+real:this:427 real:number:172 real:say:16 
+red:this:427 red:number:172 red:team:136 red:body:88 red:tree:82 red:match:80 red:reflect:16 red:say:16 
+remaining:this:427 
+replied:say:16 
+responsible:tree:82 responsible:say:16 
+result:this:427 result:team:136 result:body:88 result:clean:27 result:say:16 result:close:6 
+results:number:172 results:say:16 results:plan:10 
+seem:this:427 seem:body:88 seem:match:80 seem:say:16 
+self:this:427 self:group:45 self:say:16 
+several:this:427 several:body:88 several:tree:82 several:group:45 several:town:17 several:say:16 several:close:6 
+shared:group:45 shared:say:16 
+sharp:this:427 sharp:tree:82 sharp:say:16 sharp:close:6 sharp:razor:5 
+sight:this:427 sight:say:16 
+simple:this:427 simple:clean:27 simple:say:16 
+since:this:427 since:number:172 since:team:136 since:say:16 
+situation:this:427 situation:number:172 situation:team:136 situation:match:80 situation:clean:27 situation:meeting:17 situation:say:16 situation:plan:10 
+slip:this:427 slip:tree:82 
+so:this:427 so:number:172 so:team:136 so:body:88 so:group:45 so:clean:27 so:reflect:16 so:say:16 so:plan:10 so:solve:8 
+sold:number:172 sold:say:16 
+some:this:427 some:number:172 some:team:136 some:body:88 some:tree:82 some:match:80 some:group:45 some:clean:27 some:meeting:17 some:town:17 
+someone:this:427 someone:number:172 someone:team:136 someone:body:88 someone:tree:82 someone:match:80 someone:group:45 someone:clean:27 someone:meeting:17 someone:town:17 
+something:this:427 something:number:172 something:team:136 something:body:88 something:tree:82 something:match:80 something:group:45 something:clean:27 something:meeting:17 something:town:17 
+space:this:427 space:tree:82 space:clean:27 space:town:17 space:say:16 space:carpet:7 space:display:4 
+square:this:427 square:number:172 square:say:16 
+standard:this:427 standard:number:172 standard:group:45 standard:say:16 
+started:number:172 started:clean:27 started:town:17 started:say:16 started:plan:10 
+still:this:427 still:team:136 still:body:88 still:tree:82 still:reflect:16 still:say:16 
+studies:body:88 studies:say:16 
+sub:body:88 
+such:this:427 such:number:172 such:body:88 such:tree:82 such:match:80 such:group:45 such:clean:27 such:town:17 such:say:16 
+suddenly:close:6 
+super:this:427 super:team:136 
+sure:this:427 sure:number:172 sure:body:88 sure:match:80 sure:clean:27 sure:say:16 sure:plan:10 
+surface:this:427 surface:number:172 surface:body:88 surface:match:80 surface:clean:27 surface:reflect:16 surface:say:16 surface:carpet:7 surface:close:6 
+suspended:this:427 
+take:this:427 take:number:172 take:team:136 take:body:88 take:tree:82 take:match:80 take:group:45 take:clean:27 take:meeting:17 take:town:17 
+taking:this:427 taking:number:172 taking:body:88 taking:tree:82 taking:clean:27 taking:meeting:17 taking:say:16 
+technology:this:427 
+ten:this:427 ten:number:172 ten:say:16 
+tend:this:427 tend:number:172 tend:clean:27 tend:say:16 
+term:this:427 term:number:172 term:body:88 term:clean:27 term:meeting:17 term:say:16 
+that:this:427 that:number:172 that:team:136 that:body:88 that:tree:82 that:match:80 that:group:45 that:clean:27 that:meeting:17 that:town:17 
+the:this:427 the:number:172 the:team:136 the:body:88 the:tree:82 the:match:80 the:group:45 the:clean:27 the:meeting:17 the:town:17 
+their:this:427 their:number:172 their:team:136 their:body:88 their:tree:82 their:match:80 their:group:45 their:clean:27 their:meeting:17 their:reflect:16 
+them:this:427 them:number:172 them:team:136 them:body:88 them:tree:82 them:group:45 them:clean:27 them:meeting:17 them:town:17 them:reflect:16 
+there:this:427 there:number:172 there:team:136 there:body:88 there:tree:82 there:match:80 there:group:45 there:clean:27 there:meeting:17 there:town:17 
+these:this:427 these:number:172 these:body:88 these:tree:82 these:group:45 these:clean:27 these:meeting:17 these:town:17 these:reflect:16 these:say:16 
+they:this:427 they:number:172 they:team:136 they:body:88 they:tree:82 they:match:80 they:group:45 they:clean:27 they:meeting:17 they:town:17 
+thing:this:427 thing:number:172 thing:team:136 thing:body:88 thing:tree:82 thing:match:80 thing:group:45 thing:clean:27 thing:meeting:17 thing:reflect:16 
+those:this:427 those:body:88 those:group:45 those:clean:27 those:town:17 those:say:16 
+though:this:427 though:body:88 though:say:16 
+thousands:this:427 thousands:say:16 
+throughout:body:88 
+times:this:427 times:number:172 times:body:88 times:clean:27 times:meeting:17 times:say:16 
+to:this:427 to:number:172 to:team:136 to:body:88 to:tree:82 to:match:80 to:group:45 to:clean:27 to:meeting:17 to:town:17 
+tone:number:172 tone:body:88 tone:say:16 
+trying:this:427 trying:team:136 trying:group:45 trying:clean:27 trying:say:16 trying:solve:8 
+unit:this:427 unit:number:172 unit:body:88 unit:clean:27 unit:say:16 unit:display:4 
+up:this:427 up:number:172 up:team:136 up:body:88 up:tree:82 up:match:80 up:group:45 up:clean:27 up:meeting:17 up:town:17 
+upon:this:427 upon:reflect:16 upon:say:16 
+us:this:427 us:number:172 us:body:88 us:group:45 us:meeting:17 us:reflect:16 us:say:16 us:close:6 
+used:this:427 used:number:172 used:team:136 used:body:88 used:tree:82 used:match:80 used:group:45 used:clean:27 used:meeting:17 used:town:17 
+voice:body:88 voice:group:45 voice:say:16 
+wants:this:427 wants:number:172 wants:team:136 wants:body:88 wants:tree:82 wants:group:45 wants:clean:27 wants:meeting:17 wants:town:17 wants:say:16 
+warning:say:16 
+was:this:427 was:number:172 was:team:136 was:body:88 was:tree:82 was:match:80 was:group:45 was:clean:27 was:meeting:17 was:town:17 
+we:this:427 we:number:172 we:team:136 we:body:88 we:group:45 we:clean:27 we:meeting:17 we:town:17 we:say:16 we:plan:10 
+well:this:427 well:number:172 well:team:136 well:match:80 well:clean:27 well:reflect:16 well:say:16 well:carpet:7 well:close:6 
+went:this:427 went:number:172 went:team:136 went:body:88 went:tree:82 went:clean:27 went:meeting:17 went:say:16 went:close:6 
+were:this:427 were:number:172 were:team:136 were:body:88 were:tree:82 were:group:45 were:clean:27 were:town:17 were:say:16 were:solve:8 
+what:this:427 what:number:172 what:team:136 what:body:88 what:tree:82 what:match:80 what:group:45 what:clean:27 what:meeting:17 what:town:17 
+when:this:427 when:number:172 when:team:136 when:body:88 when:tree:82 when:match:80 when:group:45 when:clean:27 when:meeting:17 when:town:17 
+which:this:427 which:number:172 which:team:136 which:body:88 which:tree:82 which:group:45 which:clean:27 which:town:17 which:reflect:16 which:say:16 
+while:this:427 while:number:172 while:team:136 while:body:88 while:tree:82 while:match:80 while:group:45 while:clean:27 while:meeting:17 while:town:17 
+who:this:427 who:number:172 who:team:136 who:body:88 who:group:45 who:clean:27 who:meeting:17 who:say:16 who:solve:8 who:close:6 
+why:this:427 why:number:172 why:team:136 why:body:88 why:tree:82 why:match:80 why:group:45 why:clean:27 why:say:16 why:close:6 
+wide:team:136 wide:say:16 wide:close:6 
+wish:this:427 wish:clean:27 wish:say:16 wish:close:6 wish:display:4 
+with:this:427 with:number:172 with:team:136 with:body:88 with:tree:82 with:match:80 with:group:45 with:clean:27 with:meeting:17 with:town:17 
+within:this:427 within:body:88 within:group:45 within:clean:27 within:town:17 within:say:16 within:plan:10 
+would:this:427 would:number:172 would:team:136 would:body:88 would:tree:82 would:match:80 would:group:45 would:clean:27 would:meeting:17 would:town:17 
+years:this:427 years:number:172 years:tree:82 years:say:16 years:plan:10 years:close:6 
+you:this:427 you:number:172 you:team:136 you:body:88 you:tree:82 you:match:80 you:group:45 you:clean:27 you:meeting:17 you:town:17 
