@@ -29,6 +29,7 @@
 		6EBBD45D16344CDB005A3BFB /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		6EBBD45F16344CDB005A3BFB /* product.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = product.1; sourceTree = "<group>"; };
 		6EBDE5E5163469DE0056A3B8 /* f0001.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = f0001.txt; sourceTree = "<group>"; };
+		6EBDE5E716346AA20056A3B8 /* f0002.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = f0002.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 			children = (
 				6EBBD45D16344CDB005A3BFB /* main.c */,
 				6EBDE5E5163469DE0056A3B8 /* f0001.txt */,
+				6EBDE5E716346AA20056A3B8 /* f0002.txt */,
 				6EBBD45F16344CDB005A3BFB /* product.1 */,
 			);
 			path = product;

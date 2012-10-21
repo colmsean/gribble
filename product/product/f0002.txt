@@ -1,0 +1,408 @@
+able:human:2805 able:goal:764 able:play:612 able:this:428 able:work:318 able:game:245 able:book:234 able:computer:212 able:number:206 able:read:124 
+about:human:2805 about:goal:764 about:play:612 about:this:428 about:work:318 about:game:245 about:book:234 about:computer:212 about:number:206 about:company:147 
+accept:this:428 accept:work:318 accept:company:147 accept:read:124 accept:eat:109 accept:use:98 accept:make:42 accept:contract:19 accept:wait:5 
+active:goal:764 active:play:612 active:this:428 active:work:318 active:game:245 active:read:124 active:body:103 active:writing:50 active:make:42 active:get:32 
+add:book:234 add:number:206 add:learn:114 add:eat:109 add:use:98 add:group:56 add:writing:50 add:school:48 add:make:42 add:clean:39 
+added:help:90 added:group:56 added:make:42 added:clean:39 added:problem:36 added:numbers:2 
+adding:computer:212 adding:number:206 adding:body:103 adding:group:56 adding:make:42 adding:machine:36 adding:get:32 adding:science:15 adding:numbers:2 
+addition:human:2805 addition:play:612 addition:this:428 addition:school:48 addition:problem:36 addition:get:32 addition:process:11 addition:perform:10 addition:context:7 addition:numbers:2 
+additional:use:98 additional:help:90 
+adds:this:428 
+advanced:human:2805 advanced:this:428 advanced:tool:69 advanced:research:4 
+adventure:science:15 
+agency:work:318 agency:use:98 agency:student:78 agency:key:11 
+algorithms:help:90 
+alicia:eat:109 
+all:human:2805 all:goal:764 all:play:612 all:this:428 all:work:318 all:game:245 all:book:234 all:computer:212 all:number:206 all:company:147 
+allows:human:2805 allows:play:612 allows:this:428 allows:work:318 allows:game:245 allows:computer:212 allows:number:206 allows:type:133 allows:read:124 allows:body:103 
+already:this:428 already:game:245 already:learn:114 already:eat:109 already:use:98 already:store:80 already:make:42 already:open:9 already:wait:5 already:run:2 
+also:human:2805 also:goal:764 also:play:612 also:this:428 also:work:318 also:game:245 also:book:234 also:computer:212 also:number:206 also:type:133 
+amount:human:2805 amount:play:612 amount:this:428 amount:work:318 amount:book:234 amount:computer:212 amount:number:206 amount:company:147 amount:type:133 amount:read:124 
+and:human:2805 and:goal:764 and:play:612 and:this:428 and:work:318 and:game:245 and:book:234 and:computer:212 and:number:206 and:company:147 
+another:human:2805 another:goal:764 another:play:612 another:this:428 another:work:318 another:game:245 another:book:234 another:computer:212 another:number:206 another:company:147 
+answer:human:2805 answer:goal:764 answer:play:612 answer:this:428 answer:work:318 answer:game:245 answer:book:234 answer:computer:212 answer:number:206 answer:company:147 
+any:human:2805 any:goal:764 any:play:612 any:this:428 any:work:318 any:game:245 any:book:234 any:computer:212 any:number:206 any:type:133 
+application:computer:212 application:body:103 application:use:98 application:writing:50 application:school:48 application:make:42 application:get:32 application:subject:18 application:process:11 application:develop:6 
+applications:computer:212 applications:number:206 applications:tool:69 applications:run:2 
+approaches:this:428 
+appropriate:play:612 appropriate:work:318 appropriate:book:234 appropriate:computer:212 appropriate:read:124 appropriate:learn:114 appropriate:body:103 appropriate:store:80 appropriate:tool:69 appropriate:school:48 
+are:human:2805 are:goal:764 are:play:612 are:this:428 are:work:318 are:game:245 are:book:234 are:computer:212 are:number:206 are:company:147 
+as:human:2805 as:goal:764 as:play:612 as:this:428 as:work:318 as:game:245 as:book:234 as:computer:212 as:number:206 as:company:147 
+aspects:problem:36 
+associated:human:2805 associated:play:612 associated:this:428 associated:computer:212 associated:number:206 associated:type:133 associated:body:103 associated:use:98 associated:problem:36 associated:get:32 
+at:human:2805 at:goal:764 at:play:612 at:this:428 at:work:318 at:game:245 at:book:234 at:computer:212 at:number:206 at:company:147 
+b:goal:764 b:game:245 b:company:147 b:type:133 b:use:98 b:writing:50 b:teach:41 b:get:32 b:numbers:2 b:set:2 
+backed:store:80 
+background:goal:764 background:this:428 background:game:245 background:book:234 background:computer:212 background:number:206 background:company:147 background:learn:114 background:use:98 background:group:56 
+base:play:612 base:this:428 base:game:245 base:book:234 base:computer:212 base:number:206 base:use:98 base:tool:69 base:group:56 base:make:42 
+based:this:428 based:work:318 based:game:245 based:computer:212 based:read:124 based:body:103 based:use:98 based:help:90 based:group:56 based:writing:50 
+bases:human:2805 bases:play:612 bases:body:103 bases:make:42 bases:field:33 bases:run:2 
+basic:human:2805 basic:play:612 basic:this:428 basic:game:245 basic:computer:212 basic:type:133 basic:learn:114 basic:use:98 basic:help:90 basic:store:80 
+be:human:2805 be:goal:764 be:play:612 be:this:428 be:work:318 be:game:245 be:book:234 be:computer:212 be:number:206 be:company:147 
+become:human:2805 become:play:612 become:this:428 become:work:318 become:game:245 become:book:234 become:computer:212 become:company:147 become:type:133 become:read:124 
+been:human:2805 been:goal:764 been:play:612 been:this:428 been:work:318 been:game:245 been:book:234 been:computer:212 been:number:206 been:read:124 
+begin:human:2805 begin:play:612 begin:this:428 begin:work:318 begin:game:245 begin:book:234 begin:computer:212 begin:eat:109 begin:body:103 begin:use:98 
+beginners:game:245 
+being:human:2805 being:play:612 being:this:428 being:work:318 being:game:245 being:computer:212 being:number:206 being:company:147 being:type:133 being:read:124 
+believe:human:2805 believe:play:612 believe:this:428 believe:book:234 believe:computer:212 believe:read:124 believe:eat:109 believe:student:78 believe:writing:50 believe:make:42 
+ben:store:80 
+between:human:2805 between:goal:764 between:play:612 between:this:428 between:work:318 between:game:245 between:book:234 between:computer:212 between:number:206 between:type:133 
+bit:human:2805 bit:play:612 bit:use:98 bit:school:48 bit:make:42 bit:machine:36 bit:get:32 bit:open:9 
+both:human:2805 both:play:612 both:this:428 both:work:318 both:game:245 both:book:234 both:computer:212 both:number:206 both:type:133 both:read:124 
+burden:work:318 
+but:human:2805 but:goal:764 but:play:612 but:this:428 but:work:318 but:game:245 but:book:234 but:computer:212 but:number:206 but:type:133 
+by:human:2805 by:goal:764 by:play:612 by:this:428 by:work:318 by:game:245 by:book:234 by:computer:212 by:number:206 by:company:147 
+can:human:2805 can:goal:764 can:play:612 can:this:428 can:work:318 can:game:245 can:book:234 can:computer:212 can:number:206 can:company:147 
+cannot:human:2805 cannot:play:612 cannot:this:428 cannot:work:318 cannot:game:245 cannot:book:234 cannot:computer:212 cannot:number:206 cannot:type:133 cannot:read:124 
+carries:human:2805 carries:this:428 carries:work:318 carries:read:124 carries:body:103 carries:store:80 carries:tool:69 carries:school:48 carries:get:32 carries:send:21 
+challenging:human:2805 challenging:game:245 challenging:writing:50 challenging:class:16 challenging:perform:10 challenging:goals:3 challenging:run:2 challenging:set:2 
+changes:this:428 changes:work:318 changes:number:206 changes:body:103 changes:make:42 changes:machine:36 changes:get:32 changes:subject:18 changes:process:11 changes:search:1 
+character:human:2805 character:play:612 character:this:428 character:work:318 character:book:234 character:computer:212 character:number:206 character:use:98 character:make:42 character:get:32 
+checked:computer:212 checked:use:98 checked:get:32 
+classification:computer:212 classification:type:133 
+collection:play:612 collection:this:428 collection:work:318 collection:game:245 collection:book:234 collection:computer:212 collection:number:206 collection:read:124 collection:store:80 collection:group:56 
+combine:group:56 combine:make:42 combine:create:4 combine:run:2 
+comes:human:2805 comes:goal:764 comes:play:612 comes:this:428 comes:work:318 comes:game:245 comes:number:206 comes:company:147 comes:type:133 comes:meet:123 
+commission:human:2805 commission:company:147 commission:get:32 commission:open:9 
+common:human:2805 common:goal:764 common:play:612 common:this:428 common:work:318 common:game:245 common:computer:212 common:number:206 common:type:133 common:meet:123 
+community:human:2805 community:play:612 community:this:428 community:work:318 community:type:133 community:learn:114 community:problem:36 community:build:7 community:develop:6 
+companies:this:428 companies:work:318 companies:book:234 companies:company:147 companies:type:133 companies:use:98 companies:help:90 companies:group:56 companies:make:42 companies:teach:41 
+complete:human:2805 complete:this:428 complete:book:234 complete:computer:212 complete:number:206 complete:meet:123 complete:eat:109 complete:use:98 complete:student:78 complete:writing:50 
+complex:human:2805 complex:this:428 complex:work:318 complex:computer:212 complex:learn:114 complex:use:98 complex:help:90 complex:writing:50 complex:make:42 complex:machine:36 
+complexity:human:2805 complexity:work:318 complexity:computer:212 complexity:make:42 complexity:send:21 
+component:human:2805 component:work:318 component:computer:212 component:make:42 component:machine:36 component:run:2 
+components:human:2805 components:this:428 components:computer:212 components:use:98 components:store:80 components:writing:50 components:make:42 components:machine:36 components:perform:10 components:create:4 
+concerns:meet:123 concerns:make:42 
+connections:human:2805 connections:computer:212 connections:make:42 connections:get:32 connections:open:9 
+contain:human:2805 contain:goal:764 contain:play:612 contain:this:428 contain:work:318 contain:game:245 contain:book:234 contain:computer:212 contain:number:206 contain:company:147 
+content:goal:764 content:book:234 content:read:124 content:body:103 content:use:98 content:make:42 content:get:32 content:subject:18 content:run:2 content:set:2 
+continue:human:2805 continue:this:428 continue:book:234 continue:company:147 continue:read:124 continue:learn:114 continue:eat:109 continue:body:103 continue:use:98 continue:make:42 
+conventional:this:428 conventional:game:245 conventional:send:21 
+conversion:work:318 
+converting:computer:212 
+could:human:2805 could:goal:764 could:play:612 could:this:428 could:work:318 could:game:245 could:book:234 could:computer:212 could:number:206 could:company:147 
+countries:human:2805 countries:this:428 countries:work:318 countries:game:245 countries:number:206 countries:learn:114 countries:eat:109 countries:use:98 countries:student:78 countries:tool:69 
+courtesy:human:2805 
+cover:human:2805 cover:this:428 cover:game:245 cover:book:234 cover:computer:212 cover:read:124 cover:meet:123 cover:body:103 cover:use:98 cover:help:90 
+coverage:type:133 coverage:contract:19 
+created:human:2805 created:goal:764 created:this:428 created:work:318 created:book:234 created:computer:212 created:number:206 created:read:124 created:body:103 created:use:98 
+creation:human:2805 creation:computer:212 creation:school:48 creation:class:16 creation:science:15 creation:working:3 
+creators:work:318 creators:develop:6 creators:working:3 
+current:human:2805 current:play:612 current:this:428 current:number:206 current:read:124 current:learn:114 current:body:103 current:use:98 current:help:90 current:student:78 
+cyc:computer:212 
+daniel:human:2805 daniel:book:234 
+database:this:428 database:computer:212 database:number:206 database:use:98 database:store:80 database:tool:69 database:process:11 database:develop:6 database:create:4 
+databases:computer:212 databases:help:90 databases:context:7 
+david:play:612 david:game:245 david:type:133 david:read:124 david:eat:109 david:make:42 david:teach:41 
+defense:this:428 defense:use:98 defense:machine:36 defense:field:33 
+department:human:2805 department:use:98 department:store:80 department:problem:36 department:university:28 department:research:4 
+depends:type:133 depends:use:98 depends:make:42 depends:get:32 
+described:this:428 described:book:234 described:group:56 described:field:33 described:get:32 
+description:human:2805 description:goal:764 description:play:612 description:this:428 description:work:318 description:game:245 description:book:234 description:computer:212 description:number:206 description:company:147 
+design:human:2805 design:goal:764 design:play:612 design:this:428 design:game:245 design:computer:212 design:company:147 design:type:133 design:learn:114 design:use:98 
+designed:human:2805 designed:goal:764 designed:play:612 designed:this:428 designed:work:318 designed:game:245 designed:computer:212 designed:number:206 designed:company:147 designed:meet:123 
+desire:human:2805 desire:play:612 desire:work:318 desire:company:147 desire:meet:123 desire:learn:114 desire:eat:109 desire:school:48 desire:make:42 desire:clean:39 
+detection:type:133 detection:use:98 detection:key:11 detection:open:9 
+developed:human:2805 developed:this:428 developed:work:318 developed:type:133 developed:eat:109 developed:body:103 developed:university:28 developed:process:11 developed:open:9 developed:develop:6 
+development:human:2805 development:this:428 development:game:245 development:use:98 development:help:90 development:tool:69 development:writing:50 development:problem:36 development:process:11 development:approach:9 
+differences:computer:212 differences:learn:114 differences:group:56 differences:make:42 differences:ask:15 
+different:human:2805 different:goal:764 different:play:612 different:this:428 different:work:318 different:game:245 different:book:234 different:computer:212 different:number:206 different:type:133 
+differs:machine:36 
+difficulty:use:98 difficulty:make:42 
+diverse:group:56 
+do:human:2805 do:goal:764 do:play:612 do:this:428 do:work:318 do:game:245 do:book:234 do:computer:212 do:number:206 do:company:147 
+does:human:2805 does:goal:764 does:play:612 does:this:428 does:work:318 does:game:245 does:book:234 does:computer:212 does:number:206 does:company:147 
+down:human:2805 down:goal:764 down:play:612 down:this:428 down:work:318 down:game:245 down:book:234 down:computer:212 down:number:206 down:type:133 
+download:computer:212 download:read:124 download:use:98 download:writing:50 download:get:32 download:open:9 
+during:human:2805 during:goal:764 during:play:612 during:this:428 during:work:318 during:game:245 during:type:133 during:learn:114 during:eat:109 during:body:103 
+each:human:2805 each:goal:764 each:play:612 each:this:428 each:work:318 each:game:245 each:book:234 each:number:206 each:company:147 each:type:133 
+ease:use:98 ease:help:90 ease:writing:50 ease:make:42 ease:clean:39 
+easier:human:2805 easier:goal:764 easier:play:612 easier:this:428 easier:work:318 easier:computer:212 easier:type:133 easier:read:124 easier:learn:114 easier:eat:109 
+easy:human:2805 easy:play:612 easy:this:428 easy:game:245 easy:computer:212 easy:type:133 easy:learn:114 easy:eat:109 easy:body:103 easy:use:98 
+efficiency:help:90 efficiency:make:42 efficiency:machine:36 efficiency:create:4 
+efficiently:learn:114 efficiently:body:103 efficiently:use:98 efficiently:help:90 efficiently:store:80 efficiently:writing:50 efficiently:machine:36 efficiently:plan:35 efficiently:get:32 efficiently:numbers:2 
+elements:play:612 elements:this:428 elements:game:245 elements:number:206 elements:eat:109 elements:make:42 
+employees:work:318 employees:company:147 employees:use:98 employees:help:90 employees:group:56 employees:make:42 employees:plan:35 employees:get:32 employees:working:3 
+engine:this:428 engine:work:318 engine:computer:212 engine:number:206 engine:type:133 engine:body:103 engine:use:98 engine:help:90 engine:make:42 engine:machine:36 
+english:play:612 english:this:428 english:game:245 english:book:234 english:type:133 english:read:124 english:learn:114 english:use:98 english:help:90 english:writing:50 
+entered:game:245 entered:computer:212 entered:number:206 entered:eat:109 entered:use:98 entered:store:80 entered:writing:50 entered:make:42 entered:get:32 entered:class:16 
+entities:this:428 entities:computer:212 entities:learn:114 
+entry:this:428 entry:game:245 entry:book:234 entry:computer:212 entry:type:133 entry:eat:109 entry:body:103 entry:clean:39 entry:get:32 
+even:human:2805 even:play:612 even:this:428 even:work:318 even:game:245 even:computer:212 even:number:206 even:eat:109 even:body:103 even:use:98 
+every:human:2805 every:goal:764 every:play:612 every:this:428 every:work:318 every:game:245 every:book:234 every:computer:212 every:number:206 every:read:124 
+example:human:2805 example:goal:764 example:this:428 example:work:318 example:game:245 example:computer:212 example:number:206 example:type:133 example:learn:114 example:eat:109 
+extend:human:2805 extend:meet:123 extend:use:98 extend:make:42 
+external:human:2805 external:this:428 external:body:103 external:use:98 external:set:2 
+face:human:2805 face:play:612 face:this:428 face:book:234 face:number:206 face:eat:109 face:body:103 face:use:98 face:make:42 face:clean:39 
+families:human:2805 families:play:612 families:eat:109 families:group:56 families:make:42 families:get:32 families:process:11 families:open:9 families:develop:6 families:create:4 
+features:human:2805 features:this:428 features:type:133 features:body:103 features:use:98 features:make:42 features:run:2 
+few:human:2805 few:goal:764 few:play:612 few:this:428 few:work:318 few:game:245 few:book:234 few:computer:212 few:number:206 few:type:133 
+filtering:process:11 
+find:human:2805 find:goal:764 find:play:612 find:this:428 find:work:318 find:game:245 find:book:234 find:computer:212 find:number:206 find:company:147 
+first:human:2805 first:goal:764 first:play:612 first:this:428 first:work:318 first:game:245 first:book:234 first:computer:212 first:number:206 first:company:147 
+focus:human:2805 focus:this:428 focus:work:318 focus:game:245 focus:computer:212 focus:read:124 focus:eat:109 focus:body:103 focus:use:98 focus:help:90 
+followed:goal:764 followed:make:42 followed:clean:39 followed:send:21 followed:set:2 
+following:human:2805 following:goal:764 following:play:612 following:this:428 following:work:318 following:game:245 following:book:234 following:computer:212 following:number:206 following:company:147 
+for:human:2805 for:goal:764 for:play:612 for:this:428 for:work:318 for:game:245 for:book:234 for:computer:212 for:number:206 for:company:147 
+form:human:2805 form:goal:764 form:play:612 form:this:428 form:work:318 form:game:245 form:book:234 form:computer:212 form:number:206 form:type:133 
+former:game:245 
+found:human:2805 found:play:612 found:this:428 found:work:318 found:game:245 found:book:234 found:computer:212 found:number:206 found:company:147 found:type:133 
+from:human:2805 from:goal:764 from:play:612 from:this:428 from:work:318 from:game:245 from:book:234 from:computer:212 from:number:206 from:company:147 
+full:human:2805 full:this:428 full:game:245 full:book:234 full:type:133 full:eat:109 full:body:103 full:use:98 full:writing:50 full:school:48 
+fully:human:2805 fully:this:428 fully:make:42 fully:problem:36 fully:open:9 
+fundamental:human:2805 fundamental:this:428 fundamental:writing:50 fundamental:field:33 
+general:human:2805 general:play:612 general:this:428 general:game:245 general:number:206 general:company:147 general:body:103 general:use:98 general:help:90 general:store:80 
+generous:help:90 generous:make:42 generous:get:32 generous:create:4 
+google:search:1 
+grad:school:48 
+greatest:human:2805 greatest:game:245 greatest:number:206 greatest:learn:114 greatest:use:98 greatest:group:56 greatest:writing:50 greatest:field:33 greatest:university:28 greatest:science:15 
+grid:this:428 grid:use:98 grid:plan:35 
+grows:human:2805 grows:this:428 grows:type:133 grows:learn:114 grows:eat:109 grows:body:103 grows:teach:41 grows:get:32 grows:open:9 grows:run:2 
+guide:human:2805 guide:learn:114 guide:use:98 guide:help:90 guide:group:56 guide:make:42 guide:ask:15 guide:run:2 
+handle:human:2805 handle:goal:764 handle:play:612 handle:this:428 handle:work:318 handle:type:133 handle:read:124 handle:use:98 handle:tool:69 handle:writing:50 
+has:human:2805 has:goal:764 has:play:612 has:this:428 has:work:318 has:game:245 has:book:234 has:computer:212 has:number:206 has:company:147 
+have:human:2805 have:goal:764 have:play:612 have:this:428 have:work:318 have:game:245 have:book:234 have:computer:212 have:number:206 have:company:147 
+here:human:2805 here:this:428 here:eat:109 here:use:98 here:help:90 here:group:56 here:school:48 here:make:42 here:problem:36 here:get:32 
+him:human:2805 him:goal:764 him:play:612 him:this:428 him:work:318 him:game:245 him:book:234 him:number:206 him:company:147 him:type:133 
+hope:this:428 hope:work:318 hope:meet:123 hope:eat:109 hope:body:103 hope:help:90 hope:make:42 hope:clean:39 hope:machine:36 hope:get:32 
+html:learn:114 
+huge:play:612 huge:this:428 huge:game:245 huge:use:98 huge:group:56 huge:writing:50 huge:context:7 huge:numbers:2 huge:run:2 huge:set:2 
+human:body:103 
+if:human:2805 if:goal:764 if:play:612 if:this:428 if:work:318 if:game:245 if:book:234 if:computer:212 if:number:206 if:company:147 
+ignore:learn:114 ignore:use:98 ignore:help:90 ignore:get:32 
+implementation:approach:9 
+implements:human:2805 implements:this:428 implements:game:245 implements:use:98 implements:store:80 implements:writing:50 implements:clean:39 
+important:human:2805 important:goal:764 important:play:612 important:this:428 important:work:318 important:game:245 important:book:234 important:computer:212 important:number:206 important:company:147 
+improve:human:2805 improve:play:612 improve:this:428 improve:work:318 improve:game:245 improve:book:234 improve:computer:212 improve:read:124 improve:learn:114 improve:eat:109 
+in:human:2805 in:goal:764 in:play:612 in:this:428 in:work:318 in:game:245 in:book:234 in:computer:212 in:number:206 in:company:147 
+include:human:2805 include:play:612 include:this:428 include:work:318 include:game:245 include:book:234 include:computer:212 include:type:133 include:read:124 include:help:90 
+includes:this:428 includes:computer:212 includes:eat:109 
+including:play:612 including:this:428 including:game:245 including:computer:212 including:type:133 including:body:103 including:use:98 including:store:80 including:writing:50 including:field:33 
+increasing:human:2805 increasing:work:318 increasing:book:234 increasing:number:206 increasing:subject:18 increasing:science:15 increasing:create:4 increasing:working:3 
+individuals:human:2805 individuals:this:428 individuals:work:318 individuals:learn:114 individuals:use:98 individuals:group:56 individuals:make:42 individuals:problem:36 individuals:ask:15 
+information:human:2805 information:this:428 information:work:318 information:game:245 information:book:234 information:computer:212 information:number:206 information:company:147 information:type:133 information:read:124 
+institute:make:42 institute:get:32 institute:create:4 
+intended:play:612 intended:this:428 intended:work:318 intended:computer:212 intended:use:98 intended:help:90 intended:make:42 intended:perform:10 intended:open:9 intended:set:2 
+internet:human:2805 internet:play:612 internet:this:428 internet:work:318 internet:book:234 internet:computer:212 internet:number:206 internet:company:147 internet:type:133 internet:read:124 
+into:human:2805 into:goal:764 into:play:612 into:this:428 into:work:318 into:game:245 into:book:234 into:computer:212 into:number:206 into:company:147 
+is:human:2805 is:goal:764 is:play:612 is:this:428 is:work:318 is:game:245 is:book:234 is:computer:212 is:number:206 is:company:147 
+it:human:2805 it:goal:764 it:play:612 it:this:428 it:work:318 it:game:245 it:book:234 it:computer:212 it:number:206 it:company:147 
+items:play:612 items:this:428 items:work:318 items:game:245 items:book:234 items:computer:212 items:number:206 items:type:133 items:eat:109 items:body:103 
+its:human:2805 its:play:612 its:this:428 its:work:318 its:game:245 its:book:234 its:computer:212 its:number:206 its:company:147 its:type:133 
+job:human:2805 job:this:428 job:work:318 job:book:234 job:computer:212 job:number:206 job:company:147 job:type:133 job:read:124 job:learn:114 
+just:human:2805 just:play:612 just:this:428 just:work:318 just:game:245 just:book:234 just:computer:212 just:number:206 just:type:133 just:read:124 
+keep:human:2805 keep:goal:764 keep:play:612 keep:this:428 keep:work:318 keep:book:234 keep:computer:212 keep:number:206 keep:company:147 keep:type:133 
+kind:human:2805 kind:play:612 kind:this:428 kind:work:318 kind:game:245 kind:computer:212 kind:number:206 kind:company:147 kind:type:133 kind:meet:123 
+kinds:human:2805 kinds:goal:764 kinds:play:612 kinds:this:428 kinds:work:318 kinds:game:245 kinds:computer:212 kinds:number:206 kinds:type:133 kinds:learn:114 
+knowledge:human:2805 knowledge:goal:764 knowledge:play:612 knowledge:this:428 knowledge:game:245 knowledge:book:234 knowledge:computer:212 knowledge:read:124 knowledge:meet:123 knowledge:learn:114 
+labeled:number:206 labeled:company:147 
+language:human:2805 language:play:612 language:this:428 language:work:318 language:book:234 language:computer:212 language:type:133 language:read:124 language:learn:114 language:body:103 
+large:human:2805 large:goal:764 large:play:612 large:this:428 large:work:318 large:game:245 large:computer:212 large:number:206 large:company:147 large:type:133 
+lead:human:2805 lead:play:612 lead:this:428 lead:work:318 lead:learn:114 lead:body:103 lead:use:98 lead:store:80 lead:group:56 lead:writing:50 
+learned:human:2805 learned:this:428 learned:work:318 learned:book:234 learned:read:124 learned:learn:114 learned:use:98 learned:help:90 learned:student:78 learned:school:48 
+like:human:2805 like:goal:764 like:play:612 like:this:428 like:work:318 like:game:245 like:book:234 like:computer:212 like:number:206 like:type:133 
+likes:play:612 likes:this:428 likes:work:318 likes:game:245 likes:book:234 likes:computer:212 likes:type:133 likes:read:124 likes:learn:114 likes:eat:109 
+literature:play:612 literature:book:234 literature:type:133 literature:read:124 literature:learn:114 literature:use:98 literature:store:80 literature:subject:18 
+little:human:2805 little:play:612 little:this:428 little:work:318 little:game:245 little:book:234 little:computer:212 little:number:206 little:read:124 little:learn:114 
+lives:human:2805 lives:this:428 lives:work:318 lives:game:245 lives:type:133 lives:use:98 lives:help:90 lives:make:42 lives:field:33 lives:get:32 
+loaded:this:428 loaded:make:42 loaded:get:32 loaded:spring:9 loaded:wait:5 loaded:run:2 
+logic:human:2805 logic:use:98 logic:make:42 logic:problem:36 logic:science:15 logic:numbers:2 
+long:human:2805 long:goal:764 long:play:612 long:this:428 long:work:318 long:game:245 long:book:234 long:computer:212 long:company:147 long:type:133 
+looking:human:2805 looking:play:612 looking:this:428 looking:work:318 looking:game:245 looking:book:234 looking:computer:212 looking:number:206 looking:read:124 looking:meet:123 
+lot:human:2805 lot:goal:764 lot:play:612 lot:this:428 lot:work:318 lot:game:245 lot:book:234 lot:computer:212 lot:number:206 lot:type:133 
+major:human:2805 major:play:612 major:this:428 major:work:318 major:game:245 major:number:206 major:company:147 major:meet:123 major:learn:114 major:body:103 
+making:human:2805 making:goal:764 making:play:612 making:this:428 making:work:318 making:game:245 making:book:234 making:computer:212 making:number:206 making:company:147 
+manage:use:98 manage:help:90 manage:project:23 
+managing:goal:764 managing:key:11 
+manual:human:2805 manual:play:612 manual:this:428 manual:game:245 manual:book:234 manual:computer:212 manual:type:133 manual:read:124 manual:body:103 manual:use:98 
+many:human:2805 many:goal:764 many:play:612 many:this:428 many:work:318 many:game:245 many:book:234 many:computer:212 many:number:206 many:company:147 
+may:human:2805 may:play:612 may:this:428 may:work:318 may:game:245 may:book:234 may:computer:212 may:number:206 may:company:147 may:type:133 
+mechanism:human:2805 mechanism:goal:764 mechanism:this:428 mechanism:computer:212 mechanism:make:42 mechanism:key:11 mechanism:process:11 mechanism:spring:9 mechanism:develop:6 mechanism:numbers:2 
+members:human:2805 members:goal:764 members:play:612 members:this:428 members:work:318 members:learn:114 members:body:103 members:use:98 members:store:80 members:group:56 
+message:goal:764 message:computer:212 message:type:133 message:read:124 message:eat:109 message:use:98 message:writing:50 message:school:48 message:make:42 message:machine:36 
+met:this:428 met:get:32 
+might:human:2805 might:goal:764 might:play:612 might:this:428 might:work:318 might:game:245 might:book:234 might:computer:212 might:number:206 might:company:147 
+million:human:2805 million:this:428 million:book:234 million:number:206 million:company:147 million:machine:36 million:get:32 million:send:21 million:numbers:2 
+millions:human:2805 millions:this:428 millions:work:318 millions:book:234 millions:computer:212 millions:type:133 millions:body:103 millions:use:98 millions:writing:50 millions:get:32 
+mind:human:2805 mind:goal:764 mind:play:612 mind:this:428 mind:work:318 mind:game:245 mind:book:234 mind:computer:212 mind:company:147 mind:type:133 
+modified:this:428 modified:use:98 
+more:human:2805 more:goal:764 more:play:612 more:this:428 more:work:318 more:game:245 more:book:234 more:computer:212 more:number:206 more:company:147 
+most:human:2805 most:goal:764 most:play:612 most:this:428 most:work:318 most:game:245 most:book:234 most:computer:212 most:number:206 most:company:147 
+much:human:2805 much:play:612 much:this:428 much:work:318 much:game:245 much:book:234 much:computer:212 much:number:206 much:company:147 much:type:133 
+multiple:play:612 multiple:work:318 multiple:number:206 multiple:use:98 multiple:perform:10 
+must:human:2805 must:goal:764 must:play:612 must:this:428 must:work:318 must:game:245 must:book:234 must:computer:212 must:number:206 must:company:147 
+named:this:428 named:game:245 named:class:16 named:numbers:2 
+needed:goal:764 needed:play:612 needed:this:428 needed:work:318 needed:game:245 needed:book:234 needed:computer:212 needed:number:206 needed:read:124 needed:learn:114 
+network:computer:212 network:read:124 network:learn:114 network:use:98 network:group:56 network:make:42 network:machine:36 network:set:2 
+new:human:2805 new:play:612 new:this:428 new:work:318 new:game:245 new:book:234 new:computer:212 new:number:206 new:company:147 new:type:133 
+newly:send:21 
+no:human:2805 no:play:612 no:this:428 no:work:318 no:game:245 no:book:234 no:computer:212 no:number:206 no:company:147 no:type:133 
+none:this:428 none:number:206 none:learn:114 none:make:42 none:plan:35 none:get:32 
+not:human:2805 not:goal:764 not:play:612 not:this:428 not:work:318 not:game:245 not:book:234 not:computer:212 not:number:206 not:company:147 
+noticed:play:612 noticed:this:428 noticed:company:147 noticed:get:32 
+obtained:this:428 obtained:computer:212 obtained:machine:36 obtained:university:28 
+odd:number:206 odd:eat:109 odd:get:32 odd:numbers:2 
+of:human:2805 of:goal:764 of:play:612 of:this:428 of:work:318 of:game:245 of:book:234 of:computer:212 of:number:206 of:company:147 
+off:human:2805 off:play:612 off:this:428 off:work:318 off:game:245 off:book:234 off:computer:212 off:number:206 off:company:147 off:type:133 
+often:human:2805 often:goal:764 often:play:612 often:this:428 often:work:318 often:game:245 often:book:234 often:computer:212 often:number:206 often:company:147 
+on:human:2805 on:goal:764 on:play:612 on:this:428 on:work:318 on:game:245 on:book:234 on:computer:212 on:number:206 on:company:147 
+one:human:2805 one:goal:764 one:play:612 one:this:428 one:work:318 one:game:245 one:book:234 one:computer:212 one:number:206 one:company:147 
+online:this:428 online:game:245 online:computer:212 online:learn:114 online:use:98 online:help:90 online:store:80 online:school:48 online:get:32 online:send:21 
+only:human:2805 only:goal:764 only:play:612 only:this:428 only:work:318 only:game:245 only:book:234 only:computer:212 only:number:206 only:type:133 
+ontologies:group:56 
+or:human:2805 or:goal:764 or:play:612 or:this:428 or:work:318 or:game:245 or:book:234 or:computer:212 or:number:206 or:company:147 
+organizing:book:234 organizing:create:4 
+originally:human:2805 originally:computer:212 originally:store:80 originally:tool:69 originally:make:42 originally:project:23 originally:research:4 
+other:human:2805 other:goal:764 other:play:612 other:this:428 other:work:318 other:game:245 other:book:234 other:computer:212 other:number:206 other:company:147 
+our:human:2805 our:goal:764 our:play:612 our:this:428 our:work:318 our:game:245 our:book:234 our:company:147 our:meet:123 our:learn:114 
+over:human:2805 over:goal:764 over:play:612 over:this:428 over:work:318 over:game:245 over:book:234 over:computer:212 over:number:206 over:company:147 
+page:book:234 page:number:206 page:read:124 page:writing:50 page:school:48 page:make:42 page:get:32 page:key:11 page:process:11 page:open:9 
+parallel:this:428 parallel:meet:123 parallel:field:33 parallel:open:9 
+part:human:2805 part:play:612 part:this:428 part:work:318 part:game:245 part:book:234 part:computer:212 part:company:147 part:type:133 part:read:124 
+people:human:2805 people:goal:764 people:play:612 people:this:428 people:work:318 people:game:245 people:book:234 people:computer:212 people:number:206 people:company:147 
+perhaps:human:2805 perhaps:this:428 perhaps:work:318 perhaps:eat:109 perhaps:store:80 perhaps:open:9 
+periodic:number:206 
+personnel:use:98 personnel:set:2 
+physical:human:2805 physical:goal:764 physical:play:612 physical:this:428 physical:work:318 physical:game:245 physical:computer:212 physical:type:133 physical:learn:114 physical:eat:109 
+pick:human:2805 pick:play:612 pick:this:428 pick:game:245 pick:book:234 pick:number:206 pick:read:124 pick:eat:109 pick:use:98 pick:store:80 
+point:human:2805 point:goal:764 point:play:612 point:this:428 point:work:318 point:game:245 point:book:234 point:computer:212 point:read:124 point:meet:123 
+possible:human:2805 possible:this:428 possible:computer:212 possible:type:133 possible:meet:123 possible:learn:114 possible:eat:109 possible:body:103 possible:use:98 possible:make:42 
+potential:play:612 potential:work:318 potential:store:80 potential:group:56 potential:make:42 potential:problem:36 potential:get:32 potential:spring:9 potential:college:6 
+power:human:2805 power:play:612 power:this:428 power:work:318 power:game:245 power:computer:212 power:meet:123 power:body:103 power:use:98 power:store:80 
+probably:human:2805 probably:goal:764 probably:play:612 probably:this:428 probably:work:318 probably:game:245 probably:book:234 probably:computer:212 probably:number:206 probably:type:133 
+processed:computer:212 processed:body:103 processed:store:80 processed:get:32 
+properties:number:206 properties:use:98 properties:tool:69 
+provided:computer:212 provided:use:98 provided:get:32 provided:key:11 provided:open:9 
+provides:human:2805 provides:this:428 provides:type:133 provides:eat:109 provides:body:103 provides:use:98 provides:make:42 provides:machine:36 provides:contract:19 provides:key:11 
+purposes:this:428 purposes:work:318 purposes:computer:212 purposes:number:206 purposes:use:98 purposes:student:78 purposes:tool:69 purposes:build:7 purposes:college:6 purposes:run:2 
+range:human:2805 range:play:612 range:this:428 range:type:133 range:read:124 range:body:103 range:use:98 
+rather:human:2805 rather:play:612 rather:this:428 rather:work:318 rather:game:245 rather:book:234 rather:computer:212 rather:type:133 rather:eat:109 rather:use:98 
+reason:play:612 reason:this:428 reason:work:318 reason:computer:212 reason:learn:114 reason:body:103 reason:use:98 reason:writing:50 reason:make:42 reason:problem:36 
+recent:play:612 recent:read:124 
+recognize:human:2805 recognize:play:612 recognize:this:428 recognize:work:318 recognize:computer:212 recognize:store:80 recognize:context:7 
+relatively:play:612 relatively:this:428 relatively:make:42 relatively:develop:6 
+release:play:612 release:this:428 release:game:245 release:body:103 release:use:98 release:make:42 release:machine:36 release:problem:36 release:key:11 release:set:2 
+releasing:this:428 releasing:get:32 releasing:run:2 
+reliability:human:2805 
+remain:human:2805 remain:goal:764 remain:eat:109 remain:body:103 remain:make:42 remain:clean:39 remain:run:2 
+represent:human:2805 represent:this:428 represent:number:206 represent:use:98 represent:writing:50 represent:make:42 represent:problem:36 represent:numbers:2 represent:set:2 
+representation:this:428 representation:number:206 representation:type:133 representation:use:98 representation:school:48 representation:make:42 representation:send:21 representation:subject:18 
+represented:human:2805 represented:this:428 represented:number:206 represented:writing:50 
+representing:this:428 representing:book:234 representing:number:206 representing:company:147 representing:tool:69 representing:numbers:2 
+require:human:2805 require:play:612 require:this:428 require:work:318 require:book:234 require:computer:212 require:read:124 require:meet:123 require:eat:109 require:body:103 
+researchers:goal:764 researchers:this:428 researchers:computer:212 researchers:create:4 
+resolve:type:133 
+return:human:2805 return:play:612 return:work:318 return:book:234 return:company:147 return:eat:109 return:use:98 return:store:80 return:make:42 return:machine:36 
+role:human:2805 role:play:612 role:this:428 role:type:133 role:learn:114 role:use:98 role:help:90 role:tool:69 role:get:32 
+salespeople:store:80 
+searched:number:206 searched:get:32 
+second:human:2805 second:goal:764 second:play:612 second:this:428 second:book:234 second:number:206 second:read:124 second:learn:114 second:body:103 second:use:98 
+serious:this:428 serious:eat:109 serious:make:42 serious:problem:36 serious:research:4 serious:run:2 
+serves:human:2805 serves:company:147 serves:type:133 serves:eat:109 serves:tool:69 serves:choose:3 
+several:human:2805 several:play:612 several:this:428 several:work:318 several:game:245 several:book:234 several:type:133 several:eat:109 several:body:103 several:use:98 
+share:human:2805 share:work:318 share:computer:212 share:company:147 share:meet:123 share:learn:114 share:eat:109 share:store:80 share:group:56 share:writing:50 
+should:human:2805 should:goal:764 should:play:612 should:this:428 should:work:318 should:game:245 should:book:234 should:computer:212 should:number:206 should:company:147 
+simple:human:2805 simple:play:612 simple:this:428 simple:computer:212 simple:type:133 simple:learn:114 simple:use:98 simple:help:90 simple:tool:69 simple:make:42 
+small:human:2805 small:play:612 small:this:428 small:work:318 small:game:245 small:book:234 small:computer:212 small:number:206 small:company:147 small:type:133 
+smart:this:428 smart:computer:212 smart:number:206 smart:read:124 smart:learn:114 smart:use:98 smart:help:90 smart:student:78 smart:school:48 smart:make:42 
+so:human:2805 so:goal:764 so:play:612 so:this:428 so:work:318 so:game:245 so:book:234 so:computer:212 so:number:206 so:company:147 
+software:goal:764 software:this:428 software:work:318 software:book:234 software:computer:212 software:company:147 software:learn:114 software:use:98 software:help:90 software:store:80 
+solution:this:428 solution:learn:114 solution:problem:36 solution:key:11 solution:numbers:2 
+some:human:2805 some:goal:764 some:play:612 some:this:428 some:work:318 some:game:245 some:book:234 some:computer:212 some:number:206 some:company:147 
+soon:human:2805 soon:work:318 soon:eat:109 soon:use:98 soon:help:90 soon:store:80 soon:school:48 soon:make:42 soon:machine:36 soon:get:32 
+sort:human:2805 sort:this:428 sort:work:318 sort:game:245 sort:book:234 sort:computer:212 sort:type:133 sort:body:103 sort:use:98 sort:student:78 
+sources:use:98 sources:make:42 sources:ask:15 
+special:human:2805 special:goal:764 special:play:612 special:this:428 special:game:245 special:computer:212 special:number:206 special:type:133 special:learn:114 special:eat:109 
+specialized:human:2805 specialized:this:428 specialized:book:234 specialized:use:98 specialized:subject:18 
+specific:human:2805 specific:play:612 specific:this:428 specific:work:318 specific:computer:212 specific:number:206 specific:type:133 specific:read:124 specific:meet:123 specific:body:103 
+standard:play:612 standard:this:428 standard:work:318 standard:game:245 standard:computer:212 standard:number:206 standard:type:133 standard:use:98 standard:student:78 standard:group:56 
+stated:learn:114 
+statements:computer:212 statements:read:124 statements:open:9 statements:set:2 
+statistical:work:318 statistical:number:206 statistical:use:98 statistical:tool:69 statistical:college:6 
+step:human:2805 step:play:612 step:this:428 step:work:318 step:game:245 step:book:234 step:computer:212 step:number:206 step:company:147 step:type:133 
+stored:human:2805 stored:play:612 stored:this:428 stored:game:245 stored:computer:212 stored:type:133 stored:eat:109 stored:use:98 stored:store:80 stored:writing:50 
+structured:computer:212 structured:learn:114 structured:process:11 
+successfully:human:2805 successfully:this:428 successfully:game:245 successfully:computer:212 successfully:student:78 successfully:writing:50 successfully:university:28 
+such:human:2805 such:play:612 such:this:428 such:work:318 such:game:245 such:computer:212 such:number:206 such:company:147 such:type:133 such:read:124 
+suited:human:2805 suited:this:428 suited:help:90 suited:teach:41 
+superior:human:2805 superior:this:428 superior:make:42 superior:approach:9 superior:open:9 superior:hold:1 
+support:human:2805 support:play:612 support:this:428 support:work:318 support:company:147 support:type:133 support:body:103 support:use:98 support:help:90 support:store:80 
+supported:human:2805 supported:computer:212 supported:type:133 supported:use:98 supported:writing:50 supported:contract:19 
+supporting:this:428 supporting:work:318 supporting:book:234 supporting:hold:1 
+supports:human:2805 supports:this:428 supports:body:103 supports:run:2 
+symbolic:this:428 symbolic:work:318 symbolic:use:98 symbolic:key:11 symbolic:open:9 
+synthetic:use:98 
+system:human:2805 system:this:428 system:work:318 system:computer:212 system:number:206 system:company:147 system:type:133 system:read:124 system:body:103 system:use:98 
+systems:play:612 systems:this:428 systems:work:318 systems:computer:212 systems:company:147 systems:type:133 systems:body:103 systems:use:98 systems:store:80 systems:tool:69 
+talks:human:2805 
+techniques:book:234 techniques:learn:114 techniques:use:98 techniques:problem:36 techniques:process:11 
+technologies:research:4 
+temporary:this:428 temporary:computer:212 temporary:type:133 temporary:body:103 temporary:use:98 temporary:writing:50 
+tested:work:318 tested:student:78 tested:make:42 tested:problem:36 tested:send:21 tested:subject:18 
+text:human:2805 text:this:428 text:book:234 text:computer:212 text:type:133 text:read:124 text:learn:114 text:use:98 text:student:78 text:tool:69 
+textbooks:read:124 textbooks:use:98 textbooks:school:48 textbooks:teach:41 textbooks:get:32 textbooks:subject:18 textbooks:class:16 textbooks:open:9 
+than:human:2805 than:play:612 than:this:428 than:work:318 than:game:245 than:book:234 than:computer:212 than:number:206 than:company:147 than:type:133 
+that:human:2805 that:goal:764 that:play:612 that:this:428 that:work:318 that:game:245 that:book:234 that:computer:212 that:number:206 that:company:147 
+the:human:2805 the:goal:764 the:play:612 the:this:428 the:work:318 the:game:245 the:book:234 the:computer:212 the:number:206 the:company:147 
+their:human:2805 their:goal:764 their:play:612 their:this:428 their:work:318 their:game:245 their:book:234 their:computer:212 their:number:206 their:company:147 
+them:human:2805 them:play:612 them:this:428 them:work:318 them:game:245 them:book:234 them:computer:212 them:number:206 them:company:147 them:type:133 
+then:human:2805 then:goal:764 then:play:612 then:this:428 then:work:318 then:game:245 then:book:234 then:computer:212 then:number:206 then:company:147 
+there:human:2805 there:goal:764 there:play:612 there:this:428 there:work:318 there:game:245 there:book:234 there:computer:212 there:number:206 there:company:147 
+these:human:2805 these:goal:764 these:play:612 these:this:428 these:work:318 these:game:245 these:book:234 these:computer:212 these:number:206 these:company:147 
+they:human:2805 they:goal:764 they:play:612 they:this:428 they:work:318 they:game:245 they:book:234 they:computer:212 they:number:206 they:company:147 
+those:human:2805 those:play:612 those:this:428 those:work:318 those:game:245 those:book:234 those:company:147 those:meet:123 those:eat:109 those:body:103 
+though:human:2805 though:play:612 though:this:428 though:work:318 though:game:245 though:computer:212 though:type:133 though:learn:114 though:eat:109 though:body:103 
+thousand:human:2805 thousand:eat:109 thousand:clean:39 thousand:wait:5 thousand:hold:1 
+three:human:2805 three:play:612 three:this:428 three:game:245 three:computer:212 three:number:206 three:type:133 three:eat:109 three:use:98 three:store:80 
+through:human:2805 through:goal:764 through:play:612 through:this:428 through:work:318 through:game:245 through:book:234 through:computer:212 through:type:133 through:read:124 
+time:human:2805 time:goal:764 time:play:612 time:this:428 time:work:318 time:game:245 time:book:234 time:computer:212 time:number:206 time:company:147 
+to:human:2805 to:goal:764 to:play:612 to:this:428 to:work:318 to:game:245 to:book:234 to:computer:212 to:number:206 to:company:147 
+too:human:2805 too:play:612 too:this:428 too:work:318 too:game:245 too:book:234 too:computer:212 too:company:147 too:read:124 too:learn:114 
+translation:computer:212 
+true:human:2805 true:goal:764 true:play:612 true:this:428 true:work:318 true:game:245 true:book:234 true:computer:212 true:number:206 true:company:147 
+trying:goal:764 trying:this:428 trying:work:318 trying:game:245 trying:learn:114 trying:eat:109 trying:use:98 trying:help:90 trying:store:80 trying:student:78 
+turning:play:612 turning:this:428 turning:work:318 turning:book:234 turning:computer:212 turning:read:124 turning:use:98 turning:store:80 turning:tool:69 turning:writing:50 
+two:human:2805 two:goal:764 two:play:612 two:this:428 two:work:318 two:game:245 two:book:234 two:computer:212 two:number:206 two:type:133 
+types:human:2805 types:play:612 types:this:428 types:work:318 types:game:245 types:computer:212 types:type:133 types:eat:109 types:use:98 types:store:80 
+typically:this:428 typically:eat:109 typically:use:98 typically:tool:69 typically:writing:50 typically:get:32 typically:spring:9 typically:hold:1 
+ultimately:human:2805 ultimately:this:428 ultimately:computer:212 ultimately:teach:41 ultimately:clean:39 
+under:human:2805 under:goal:764 under:play:612 under:this:428 under:game:245 under:computer:212 under:number:206 under:company:147 under:type:133 under:read:124 
+undergraduate:student:78 undergraduate:university:28 
+units:this:428 units:type:133 units:eat:109 units:group:56 units:make:42 units:machine:36 units:get:32 units:run:2 
+untrained:run:2 
+up:human:2805 up:goal:764 up:play:612 up:this:428 up:work:318 up:game:245 up:book:234 up:computer:212 up:number:206 up:company:147 
+upcoming:play:612 upcoming:open:9 
+us:human:2805 us:play:612 us:this:428 us:work:318 us:game:245 us:computer:212 us:number:206 us:read:124 us:meet:123 us:learn:114 
+usable:this:428 usable:computer:212 
+used:human:2805 used:goal:764 used:play:612 used:this:428 used:work:318 used:game:245 used:book:234 used:computer:212 used:number:206 used:company:147 
+useful:human:2805 useful:play:612 useful:this:428 useful:work:318 useful:game:245 useful:book:234 useful:computer:212 useful:type:133 useful:read:124 useful:meet:123 
+user:play:612 user:this:428 user:book:234 user:computer:212 user:type:133 user:meet:123 user:use:98 user:store:80 user:school:48 user:make:42 
+users:human:2805 users:book:234 users:computer:212 users:type:133 users:use:98 users:help:90 users:teach:41 users:send:21 users:open:9 users:create:4 
+uses:human:2805 uses:play:612 uses:this:428 uses:work:318 uses:game:245 uses:book:234 uses:computer:212 uses:number:206 uses:company:147 uses:type:133 
+using:human:2805 using:goal:764 using:play:612 using:this:428 using:work:318 using:game:245 using:book:234 using:computer:212 using:number:206 using:type:133 
+value:human:2805 value:this:428 value:work:318 value:book:234 value:computer:212 value:number:206 value:read:124 value:learn:114 value:eat:109 value:use:98 
+various:human:2805 various:play:612 various:this:428 various:work:318 various:computer:212 various:number:206 various:type:133 various:learn:114 various:eat:109 various:body:103 
+very:human:2805 very:goal:764 very:play:612 very:this:428 very:work:318 very:game:245 very:book:234 very:computer:212 very:number:206 very:company:147 
+virtual:this:428 virtual:game:245 virtual:use:98 virtual:field:33 
+want:human:2805 want:goal:764 want:play:612 want:this:428 want:work:318 want:game:245 want:book:234 want:computer:212 want:number:206 want:company:147 
+wants:human:2805 wants:goal:764 wants:play:612 wants:this:428 wants:work:318 wants:game:245 wants:book:234 wants:computer:212 wants:number:206 wants:company:147 
+was:human:2805 was:goal:764 was:play:612 was:this:428 was:work:318 was:game:245 was:book:234 was:computer:212 was:number:206 was:company:147 
+way:human:2805 way:goal:764 way:play:612 way:this:428 way:work:318 way:game:245 way:book:234 way:computer:212 way:number:206 way:company:147 
+ways:human:2805 ways:goal:764 ways:this:428 ways:work:318 ways:number:206 ways:learn:114 ways:body:103 ways:use:98 ways:help:90 ways:store:80 
+we:human:2805 we:goal:764 we:play:612 we:this:428 we:work:318 we:game:245 we:book:234 we:computer:212 we:number:206 we:company:147 
+web:human:2805 web:play:612 web:this:428 web:work:318 web:computer:212 web:number:206 web:type:133 web:read:124 web:learn:114 web:use:98 
+wei:make:42 
+well:human:2805 well:play:612 well:this:428 well:work:318 well:game:245 well:book:234 well:computer:212 well:number:206 well:company:147 well:type:133 
+what:human:2805 what:goal:764 what:play:612 what:this:428 what:work:318 what:game:245 what:book:234 what:computer:212 what:number:206 what:company:147 
+when:human:2805 when:goal:764 when:play:612 when:this:428 when:work:318 when:game:245 when:book:234 when:computer:212 when:number:206 when:company:147 
+where:human:2805 where:goal:764 where:play:612 where:this:428 where:work:318 where:game:245 where:book:234 where:computer:212 where:number:206 where:company:147 
+whether:human:2805 whether:work:318 whether:book:234 whether:computer:212 whether:company:147 whether:type:133 whether:read:124 whether:learn:114 whether:help:90 whether:student:78 
+which:human:2805 which:goal:764 which:play:612 which:this:428 which:work:318 which:game:245 which:book:234 which:computer:212 which:number:206 which:company:147 
+who:human:2805 who:goal:764 who:play:612 who:this:428 who:work:318 who:game:245 who:book:234 who:computer:212 who:number:206 who:company:147 
+will:human:2805 will:goal:764 will:play:612 will:this:428 will:work:318 will:game:245 will:book:234 will:computer:212 will:number:206 will:company:147 
+with:human:2805 with:goal:764 with:play:612 with:this:428 with:work:318 with:game:245 with:book:234 with:computer:212 with:number:206 with:company:147 
+within:human:2805 within:this:428 within:work:318 within:computer:212 within:company:147 within:type:133 within:body:103 within:use:98 within:help:90 within:group:56 
+world:human:2805 world:play:612 world:this:428 world:work:318 world:book:234 world:computer:212 world:number:206 world:company:147 world:type:133 world:read:124 
+worldwide:body:103 worldwide:make:42 
+would:human:2805 would:goal:764 would:play:612 would:this:428 would:work:318 would:game:245 would:book:234 would:computer:212 would:number:206 would:company:147 
+your:human:2805 your:goal:764 your:play:612 your:this:428 your:work:318 your:game:245 your:book:234 your:computer:212 your:number:206 your:company:147 
