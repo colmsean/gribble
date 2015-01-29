@@ -1,0 +1,758 @@
+able:person:21886 able:work:534 able:use:465 able:this:440 able:read:436 able:see:375 able:book:363 able:letter:110 able:listen:107 able:school:92 
+about:person:21886 about:work:534 about:use:465 about:this:440 about:read:436 about:see:375 about:book:363 about:man:190 about:sit:166 about:word:139 
+absolute:person:21886 absolute:see:375 absolute:sentence:25 absolute:question:23 
+accept:person:21886 accept:work:534 accept:use:465 accept:this:440 accept:read:436 accept:letter:110 accept:listen:107 accept:make:88 accept:jump:32 accept:order:17 
+accepted:person:21886 accepted:use:465 accepted:this:440 accepted:writing:72 accepted:own:8 
+accessed:make:88 
+according:person:21886 according:make:88 according:writing:72 according:sentence:25 according:order:17 
+account:person:21886 account:use:465 account:book:363 account:make:88 account:open:86 account:writing:72 account:spend:40 account:question:23 account:save:19 account:birth:14 
+accounts:use:465 accounts:book:363 accounts:question:23 accounts:order:17 
+accurately:person:21886 accurately:question:23 accurately:model:5 
+accused:person:21886 
+across:work:534 across:use:465 across:this:440 across:see:375 across:book:363 across:man:190 across:document:157 across:listen:107 across:make:88 across:open:86 
+actions:person:21886 actions:use:465 actions:man:190 actions:make:88 actions:writing:72 actions:question:23 actions:order:17 
+actual:use:465 actual:this:440 actual:subject:22 actual:create:8 
+actually:person:21886 actually:work:534 actually:this:440 actually:see:375 actually:word:139 actually:make:88 actually:spend:40 actually:order:17 actually:birth:14 actually:create:8 
+ad:work:534 ad:read:436 ad:see:375 ad:man:190 ad:listen:107 
+additional:person:21886 additional:use:465 
+addressed:read:436 addressed:letter:110 addressed:open:86 
+administrative:this:440 
+adopted:own:8 
+after:person:21886 after:work:534 after:use:465 after:this:440 after:read:436 after:see:375 after:book:363 after:man:190 after:sit:166 after:word:139 
+against:person:21886 against:work:534 against:use:465 against:this:440 against:see:375 against:book:363 against:man:190 against:listen:107 against:make:88 against:open:86 
+age:person:21886 age:work:534 age:use:465 age:read:436 age:see:375 age:man:190 age:school:92 age:make:88 age:life:54 age:sentence:25 
+agreed:make:88 agreed:open:86 agreed:writing:72 
+alien:life:54 alien:question:23 
+all:person:21886 all:work:534 all:use:465 all:this:440 all:read:436 all:see:375 all:book:363 all:man:190 all:sit:166 all:document:157 
+allowed:person:21886 allowed:work:534 allowed:use:465 allowed:this:440 allowed:read:436 allowed:see:375 allowed:teacher:57 allowed:life:54 allowed:teach:45 allowed:question:23 
+almost:person:21886 almost:use:465 almost:this:440 almost:read:436 almost:see:375 almost:man:190 almost:letter:110 almost:school:92 almost:make:88 almost:question:23 
+also:person:21886 also:work:534 also:use:465 also:this:440 also:read:436 also:see:375 also:book:363 also:man:190 also:sit:166 also:word:139 
+although:use:465 although:this:440 although:read:436 although:see:375 although:man:190 although:word:139 although:make:88 although:relationship:27 although:question:23 although:birth:14 
+always:person:21886 always:work:534 always:use:465 always:this:440 always:see:375 always:book:363 always:man:190 always:student:131 always:letter:110 always:listen:107 
+american:person:21886 american:use:465 american:this:440 american:man:190 american:word:139 american:writing:72 american:life:54 american:spend:40 american:question:23 american:cool:18 
+among:person:21886 among:work:534 among:this:440 among:book:363 among:word:139 among:life:54 among:question:23 among:model:5 
+ancient:use:465 ancient:this:440 ancient:man:190 ancient:life:54 ancient:question:23 ancient:passage:9 
+and:person:21886 and:work:534 and:use:465 and:this:440 and:read:436 and:see:375 and:book:363 and:man:190 and:sit:166 and:document:157 
+anew:this:440 
+any:person:21886 any:work:534 any:use:465 any:this:440 any:read:436 any:see:375 any:book:363 any:man:190 any:document:157 any:word:139 
+anyone:person:21886 anyone:use:465 anyone:this:440 anyone:read:436 anyone:see:375 anyone:book:363 anyone:letter:110 anyone:listen:107 anyone:make:88 anyone:writing:72 
+appealed:penalty:2 
+appealing:person:21886 appealing:use:465 appealing:this:440 appealing:make:88 appealing:question:23 appealing:order:17 
+appearance:person:21886 appearance:work:534 appearance:this:440 appearance:make:88 appearance:question:23 appearance:order:17 
+appears:person:21886 appears:work:534 appears:this:440 appears:see:375 appears:man:190 appears:sit:166 appears:letter:110 appears:school:92 appears:make:88 appears:open:86 
+are:person:21886 are:work:534 are:use:465 are:this:440 are:read:436 are:see:375 are:book:363 are:man:190 are:sit:166 are:document:157 
+argue:person:21886 argue:agree:27 argue:key:17 argue:pray:13 
+argued:work:534 
+arguing:person:21886 arguing:make:88 
+arising:person:21886 arising:father:16 
+armed:man:190 
+around:person:21886 around:work:534 around:use:465 around:this:440 around:read:436 around:see:375 around:book:363 around:man:190 around:sit:166 around:document:157 
+article:use:465 article:this:440 article:read:436 article:see:375 article:word:139 article:school:92 article:writing:72 article:saw:56 article:relationship:27 article:science:23 
+articles:read:436 articles:sit:166 articles:question:23 articles:create:8 articles:own:8 
+as:person:21886 as:work:534 as:use:465 as:this:440 as:read:436 as:see:375 as:book:363 as:man:190 as:sit:166 as:document:157 
+aspects:life:54 aspects:question:23 
+assemble:use:465 assemble:sit:166 assemble:open:86 
+at:person:21886 at:work:534 at:use:465 at:this:440 at:read:436 at:see:375 at:book:363 at:man:190 at:sit:166 at:word:139 
+atmosphere:use:465 atmosphere:this:440 atmosphere:man:190 atmosphere:word:139 atmosphere:student:131 atmosphere:make:88 atmosphere:fall:58 atmosphere:life:54 atmosphere:question:23 atmosphere:science:23 
+atom:question:23 
+attended:this:440 attended:student:131 attended:school:92 
+august:order:17 
+authority:person:21886 authority:use:465 authority:sentence:25 authority:question:23 authority:own:8 authority:penalty:2 
+available:person:21886 available:work:534 available:use:465 available:this:440 available:make:88 available:life:54 available:meeting:35 available:relationship:27 available:question:23 available:subject:22 
+back:person:21886 back:work:534 back:use:465 back:this:440 back:read:436 back:see:375 back:book:363 back:man:190 back:sit:166 back:letter:110 
+background:person:21886 background:use:465 background:this:440 background:see:375 background:book:363 background:man:190 background:sit:166 background:word:139 background:school:92 background:make:88 
+battles:question:23 
+be:person:21886 be:work:534 be:use:465 be:this:440 be:read:436 be:see:375 be:book:363 be:man:190 be:sit:166 be:document:157 
+beacon:this:440 
+bears:person:21886 bears:use:465 bears:this:440 bears:sentence:25 bears:question:23 
+beautiful:person:21886 beautiful:work:534 beautiful:use:465 beautiful:this:440 beautiful:read:436 beautiful:see:375 beautiful:book:363 beautiful:man:190 beautiful:listen:107 beautiful:make:88 
+became:work:534 became:this:440 became:read:436 became:book:363 became:school:92 became:writing:72 became:teacher:57 became:saw:56 became:birth:14 became:own:8 
+because:person:21886 because:work:534 because:use:465 because:this:440 because:read:436 because:see:375 because:book:363 because:man:190 because:sit:166 because:document:157 
+become:person:21886 become:work:534 become:use:465 become:this:440 become:read:436 become:see:375 become:book:363 become:man:190 become:student:131 become:school:92 
+been:person:21886 been:work:534 been:use:465 been:this:440 been:read:436 been:see:375 been:book:363 been:man:190 been:word:139 been:student:131 
+before:person:21886 before:work:534 before:use:465 before:this:440 before:read:436 before:see:375 before:book:363 before:man:190 before:sit:166 before:document:157 
+begin:person:21886 begin:work:534 begin:use:465 begin:this:440 begin:see:375 begin:book:363 begin:sit:166 begin:letter:110 begin:make:88 begin:open:86 
+beginning:person:21886 beginning:work:534 beginning:use:465 beginning:this:440 beginning:read:436 beginning:see:375 beginning:school:92 beginning:make:88 beginning:question:23 beginning:line:21 
+begins:work:534 begins:word:139 begins:letter:110 begins:fall:58 begins:jump:32 begins:sentence:25 begins:question:23 begins:line:21 
+begotten:life:54 
+behind:person:21886 behind:this:440 behind:see:375 behind:book:363 behind:man:190 behind:sit:166 behind:make:88 behind:open:86 behind:writing:72 behind:life:54 
+being:person:21886 being:work:534 being:use:465 being:this:440 being:read:436 being:see:375 being:man:190 being:sit:166 being:word:139 being:student:131 
+believe:person:21886 believe:this:440 believe:read:436 believe:book:363 believe:man:190 believe:student:131 believe:make:88 believe:writing:72 believe:teacher:57 believe:life:54 
+believed:person:21886 believed:this:440 believed:listen:107 believed:writing:72 believed:life:54 believed:question:23 
+beneath:use:465 beneath:question:23 
+best:person:21886 best:work:534 best:use:465 best:this:440 best:read:436 best:see:375 best:book:363 best:man:190 best:sit:166 best:word:139 
+between:person:21886 between:work:534 between:use:465 between:this:440 between:read:436 between:see:375 between:book:363 between:man:190 between:sit:166 between:document:157 
+beyond:person:21886 beyond:see:375 beyond:make:88 beyond:open:86 beyond:life:54 
+bible:person:21886 bible:this:440 bible:read:436 bible:book:363 bible:life:54 bible:question:23 bible:confession:10 bible:passage:9 bible:own:8 
+bitter:make:88 bitter:question:23 
+born:person:21886 born:this:440 born:see:375 born:life:54 born:university:47 born:teach:45 born:question:23 born:order:17 born:father:16 born:birth:14 
+both:person:21886 both:work:534 both:use:465 both:this:440 both:read:436 both:see:375 both:book:363 both:man:190 both:sit:166 both:word:139 
+bound:work:534 bound:use:465 bound:this:440 bound:book:363 bound:agree:27 
+brief:work:534 
+bring:person:21886 bring:work:534 bring:use:465 bring:this:440 bring:read:436 bring:see:375 bring:book:363 bring:man:190 bring:sit:166 bring:listen:107 
+brought:person:21886 brought:man:190 brought:sit:166 brought:school:92 brought:make:88 brought:teacher:57 brought:life:54 brought:father:16 brought:memory:3 
+browsing:spend:40 browsing:question:23 
+but:person:21886 but:work:534 but:use:465 but:this:440 but:read:436 but:see:375 but:book:363 but:man:190 but:sit:166 but:word:139 
+by:person:21886 by:work:534 by:use:465 by:this:440 by:read:436 by:see:375 by:book:363 by:man:190 by:sit:166 by:document:157 
+bytes:question:23 
+c:use:465 c:this:440 c:word:139 c:letter:110 c:make:88 c:open:86 c:writing:72 c:question:23 c:science:23 c:key:17 
+call:person:21886 call:work:534 call:use:465 call:this:440 call:read:436 call:see:375 call:book:363 call:man:190 call:word:139 call:student:131 
+called:person:21886 called:work:534 called:use:465 called:this:440 called:read:436 called:see:375 called:book:363 called:man:190 called:sit:166 called:document:157 
+calling:person:21886 calling:use:465 calling:this:440 calling:see:375 calling:letter:110 calling:make:88 calling:writing:72 calling:teacher:57 calling:question:23 calling:memory:3 
+came:person:21886 came:work:534 came:use:465 came:this:440 came:sit:166 came:student:131 came:school:92 came:life:54 came:question:23 came:line:21 
+can:person:21886 can:work:534 can:use:465 can:this:440 can:read:436 can:see:375 can:book:363 can:man:190 can:sit:166 can:document:157 
+capable:person:21886 capable:this:440 capable:read:436 capable:book:363 capable:life:54 capable:sentence:25 capable:question:23 capable:subject:22 capable:speech:4 capable:thinking:2 
+capital:person:21886 capital:work:534 capital:use:465 capital:this:440 capital:see:375 capital:man:190 capital:letter:110 capital:sentence:25 capital:question:23 capital:own:8 
+cardinal:sentence:25 cardinal:question:23 
+carried:person:21886 carried:work:534 carried:use:465 carried:this:440 carried:man:190 carried:school:92 carried:question:23 carried:save:19 carried:own:8 
+catholic:school:92 catholic:make:88 catholic:university:47 catholic:confession:10 
+ceiling:use:465 ceiling:this:440 ceiling:open:86 ceiling:model:5 
+celebrated:person:21886 celebrated:this:440 celebrated:see:375 celebrated:question:23 celebrated:birth:14 
+centered:use:465 
+centuries:person:21886 centuries:this:440 centuries:school:92 
+century:person:21886 century:use:465 century:this:440 century:man:190 century:open:86 century:question:23 century:father:16 century:exist:2 
+certainly:person:21886 certainly:this:440 certainly:man:190 certainly:life:54 
+changes:person:21886 changes:work:534 changes:this:440 changes:make:88 changes:life:54 changes:search:42 changes:relationship:27 changes:question:23 changes:subject:22 changes:burning:10 
+chapter:read:436 chapter:book:363 chapter:sit:166 chapter:open:86 
+character:person:21886 character:work:534 character:use:465 character:this:440 character:book:363 character:man:190 character:word:139 character:letter:110 character:make:88 character:life:54 
+characteristics:question:23 characteristics:order:17 
+charge:person:21886 charge:use:465 charge:read:436 charge:man:190 charge:word:139 charge:school:92 charge:make:88 charge:teach:45 charge:spend:40 charge:meeting:35 
+charles:book:363 charles:writing:72 charles:question:23 charles:birth:14 
+christ:person:21886 christ:this:440 christ:saw:56 christ:life:54 christ:relationship:27 christ:order:17 christ:father:16 christ:birth:14 
+christian:this:440 christian:read:436 christian:man:190 christian:pray:13 christian:own:8 
+christianity:question:23 
+christians:read:436 christians:see:375 christians:pray:13 christians:own:8 
+church:person:21886 church:work:534 church:use:465 church:this:440 church:read:436 church:see:375 church:book:363 church:sit:166 church:listen:107 church:school:92 
+churches:work:534 churches:sit:166 churches:meeting:35 churches:question:23 
+circular:use:465 circular:this:440 circular:word:139 circular:relationship:27 circular:question:23 
+claim:person:21886 claim:see:375 
+claiming:work:534 
+claims:work:534 claims:open:86 claims:question:23 claims:science:23 claims:order:17 
+clarify:writing:72 clarify:relationship:27 clarify:question:23 
+clearly:person:21886 clearly:use:465 clearly:this:440 clearly:see:375 clearly:man:190 clearly:writing:72 clearly:life:54 clearly:question:23 
+closing:work:534 closing:make:88 
+columbia:university:47 columbia:question:23 
+combination:person:21886 combination:work:534 combination:this:440 
+combining:birth:14 
+come:person:21886 come:work:534 come:use:465 come:this:440 come:read:436 come:see:375 come:book:363 come:man:190 come:student:131 come:letter:110 
+comments:this:440 comments:book:363 
+committed:person:21886 committed:work:534 committed:this:440 committed:man:190 committed:life:54 committed:sentence:25 
+competing:person:21886 competing:this:440 competing:life:54 
+complain:person:21886 complain:letter:110 complain:make:88 complain:open:86 complain:question:23 complain:line:21 complain:receive:8 
+complaining:letter:110 
+complete:person:21886 complete:use:465 complete:this:440 complete:book:363 complete:student:131 complete:school:92 complete:writing:72 complete:teach:45 complete:sentence:25 complete:line:21 
+completely:work:534 completely:use:465 completely:this:440 completely:sit:166 completely:make:88 completely:question:23 
+composed:use:465 composed:this:440 composed:read:436 composed:book:363 composed:school:92 composed:make:88 composed:teacher:57 composed:sentence:25 composed:question:23 
+comprehend:person:21886 comprehend:science:23 
+conceal:use:465 conceal:see:375 
+conflict:person:21886 conflict:this:440 conflict:make:88 conflict:life:54 conflict:agree:27 conflict:question:23 conflict:exist:2 
+confused:person:21886 confused:use:465 confused:make:88 confused:question:23 
+connected:person:21886 connected:use:465 connected:this:440 connected:make:88 connected:fall:58 connected:jump:32 connected:question:23 connected:order:17 
+conquest:man:190 
+consequence:person:21886 consequence:work:534 consequence:use:465 consequence:this:440 consequence:read:436 consequence:see:375 consequence:book:363 consequence:document:157 consequence:word:139 consequence:letter:110 
+consider:person:21886 consider:work:534 consider:use:465 consider:this:440 consider:read:436 consider:see:375 consider:listen:107 consider:make:88 consider:jump:32 consider:relationship:27 
+consideration:writing:72 
+considered:person:21886 considered:work:534 considered:this:440 considered:see:375 considered:man:190 considered:make:88 considered:open:86 considered:finger:50 considered:question:23 considered:cool:18 
+constantinople:question:23 
+contain:person:21886 contain:work:534 contain:use:465 contain:this:440 contain:read:436 contain:see:375 contain:book:363 contain:sit:166 contain:document:157 contain:word:139 
+contained:use:465 contained:this:440 contained:read:436 contained:book:363 contained:open:86 contained:question:23 contained:key:17 contained:exist:2 
+containing:this:440 containing:read:436 containing:see:375 containing:document:157 containing:open:86 containing:life:54 containing:question:23 containing:order:17 
+contains:person:21886 contains:use:465 contains:this:440 contains:read:436 contains:see:375 contains:book:363 contains:word:139 contains:make:88 contains:open:86 contains:life:54 
+content:person:21886 content:use:465 content:read:436 content:see:375 content:book:363 content:word:139 content:make:88 content:subject:22 content:pray:13 
+contrary:person:21886 
+convenient:work:534 convenient:man:190 convenient:letter:110 convenient:jump:32 
+conversion:work:534 
+convert:use:465 convert:this:440 convert:make:88 convert:question:23 convert:original:4 convert:memory:3 
+could:person:21886 could:work:534 could:use:465 could:this:440 could:read:436 could:see:375 could:book:363 could:man:190 could:sit:166 could:student:131 
+council:word:139 council:student:131 council:make:88 
+created:person:21886 created:work:534 created:use:465 created:this:440 created:read:436 created:see:375 created:book:363 created:man:190 created:word:139 created:make:88 
+creation:person:21886 creation:listen:107 creation:school:92 creation:life:54 creation:science:23 
+creature:person:21886 creature:use:465 creature:this:440 creature:see:375 creature:book:363 creature:life:54 creature:question:23 creature:order:17 creature:exist:2 
+creatures:person:21886 creatures:work:534 creatures:this:440 creatures:see:375 creatures:life:54 creatures:question:23 creatures:alone:10 creatures:exist:2 
+current:use:465 current:this:440 current:read:436 current:man:190 current:student:131 current:listen:107 current:make:88 current:writing:72 current:life:54 current:question:23 
+d:this:440 d:read:436 d:book:363 d:letter:110 d:make:88 d:writing:72 d:question:23 d:science:23 d:model:5 
+data:use:465 data:this:440 data:read:436 data:see:375 data:man:190 data:word:139 data:letter:110 data:make:88 data:open:86 data:writing:72 
+day:person:21886 day:work:534 day:use:465 day:this:440 day:read:436 day:see:375 day:book:363 day:man:190 day:sit:166 day:document:157 
+days:person:21886 days:work:534 days:use:465 days:this:440 days:read:436 days:see:375 days:school:92 days:make:88 days:open:86 days:life:54 
+death:person:21886 death:use:465 death:this:440 death:see:375 death:man:190 death:make:88 death:fall:58 death:life:54 death:spend:40 death:jump:32 
+debate:person:21886 debate:work:534 debate:student:131 debate:listen:107 debate:school:92 debate:make:88 debate:university:47 debate:question:23 debate:subject:22 
+decades:person:21886 decades:this:440 
+december:use:465 december:see:375 december:question:23 december:birth:14 
+decided:work:534 decided:this:440 decided:book:363 decided:student:131 decided:school:92 decided:make:88 decided:open:86 decided:writing:72 decided:university:47 decided:question:23 
+decline:order:17 
+defense:use:465 defense:this:440 defense:life:54 defense:spend:40 defense:question:23 
+define:person:21886 define:work:534 define:use:465 define:see:375 define:open:86 define:question:23 define:alone:10 define:model:5 
+defined:work:534 defined:word:139 defined:make:88 defined:writing:72 defined:life:54 defined:university:47 defined:order:17 
+depicted:use:465 depicted:this:440 
+depicting:this:440 depicting:book:363 depicting:man:190 depicting:writing:72 depicting:science:23 
+derived:use:465 derived:this:440 derived:word:139 derived:writing:72 derived:context:14 
+described:this:440 described:see:375 described:book:363 described:man:190 described:question:23 described:line:21 
+describes:person:21886 describes:document:157 describes:word:139 describes:writing:72 
+despite:person:21886 despite:life:54 despite:relationship:27 
+destroyed:person:21886 destroyed:work:534 destroyed:see:375 destroyed:make:88 destroyed:question:23 destroyed:subject:22 destroyed:thinking:2 
+detailing:writing:72 
+development:use:465 development:this:440 development:man:190 development:writing:72 development:father:16 development:own:8 development:approach:6 development:model:5 
+dictionary:person:21886 dictionary:use:465 dictionary:word:139 dictionary:question:23 
+did:person:21886 did:work:534 did:use:465 did:this:440 did:read:436 did:see:375 did:book:363 did:man:190 did:sit:166 did:student:131 
+died:person:21886 died:this:440 died:man:190 died:question:23 died:birth:14 died:alone:10 died:decision:3 
+different:person:21886 different:work:534 different:use:465 different:this:440 different:read:436 different:see:375 different:book:363 different:man:190 different:word:139 different:student:131 
+differently:see:375 differently:make:88 differently:question:23 differently:science:23 differently:order:17 
+difficult:person:21886 difficult:use:465 difficult:this:440 difficult:read:436 difficult:see:375 difficult:man:190 difficult:make:88 difficult:writing:72 difficult:fall:58 difficult:life:54 
+din:this:440 
+direct:person:21886 direct:work:534 direct:use:465 direct:this:440 direct:see:375 direct:student:131 direct:school:92 direct:make:88 direct:open:86 direct:question:23 
+directed:open:86 
+directly:use:465 directly:see:375 directly:word:139 directly:make:88 directly:question:23 
+disagreement:make:88 disagreement:question:23 
+discovered:person:21886 discovered:this:440 discovered:man:190 discovered:question:23 
+discussed:student:131 
+discussion:this:440 discussion:book:363 discussion:listen:107 discussion:make:88 discussion:open:86 discussion:subject:22 discussion:order:17 
+dispute:work:534 dispute:teacher:57 dispute:question:23 
+distinct:see:375 distinct:letter:110 distinct:make:88 distinct:line:21 distinct:passage:9 
+district:school:92 district:teacher:57 
+do:person:21886 do:work:534 do:use:465 do:this:440 do:read:436 do:see:375 do:book:363 do:man:190 do:sit:166 do:document:157 
+doctrine:question:23 
+does:person:21886 does:work:534 does:use:465 does:this:440 does:read:436 does:see:375 does:book:363 does:man:190 does:sit:166 does:document:157 
+doing:person:21886 doing:work:534 doing:use:465 doing:this:440 doing:see:375 doing:book:363 doing:man:190 doing:word:139 doing:student:131 doing:letter:110 
+dominant:life:54 
+drew:person:21886 drew:use:465 drew:see:375 drew:man:190 drew:make:88 drew:writing:72 drew:line:21 drew:model:5 drew:exist:2 
+due:work:534 due:this:440 due:man:190 due:open:86 due:fall:58 due:question:23 due:burning:10 due:receive:8 due:exist:2 
+during:person:21886 during:work:534 during:use:465 during:this:440 during:see:375 during:man:190 during:sit:166 during:student:131 during:listen:107 during:school:92 
+each:person:21886 each:work:534 each:use:465 each:this:440 each:read:436 each:see:375 each:book:363 each:man:190 each:sit:166 each:word:139 
+earlier:person:21886 earlier:this:440 earlier:sentence:25 
+early:person:21886 early:work:534 early:use:465 early:this:440 early:read:436 early:see:375 early:book:363 early:man:190 early:make:88 early:fall:58 
+east:person:21886 east:this:440 east:student:131 east:question:23 east:birth:14 
+effectively:person:21886 effectively:use:465 effectively:make:88 effectively:order:17 
+effort:person:21886 effort:work:534 effort:use:465 effort:this:440 effort:read:436 effort:book:363 effort:student:131 effort:school:92 effort:make:88 effort:question:23 
+eighth:sit:166 eighth:letter:110 eighth:order:17 
+either:person:21886 either:use:465 either:this:440 either:read:436 either:see:375 either:book:363 either:man:190 either:sit:166 either:student:131 either:letter:110 
+else:person:21886 else:work:534 else:use:465 else:this:440 else:read:436 else:see:375 else:book:363 else:man:190 else:letter:110 else:listen:107 
+emperor:question:23 
+empire:person:21886 empire:this:440 empire:read:436 empire:question:23 
+encyclopedia:use:465 encyclopedia:book:363 
+end:person:21886 end:work:534 end:use:465 end:this:440 end:read:436 end:see:375 end:book:363 end:word:139 end:student:131 end:letter:110 
+endeavors:life:54 
+engaging:this:440 engaging:listen:107 engaging:writing:72 engaging:life:54 
+english:person:21886 english:use:465 english:this:440 english:read:436 english:see:375 english:book:363 english:sit:166 english:word:139 english:letter:110 english:school:92 
+entire:person:21886 entire:use:465 entire:this:440 entire:read:436 entire:see:375 entire:book:363 entire:word:139 entire:make:88 entire:life:54 entire:university:47 
+entirely:sit:166 
+entitled:person:21886 entitled:work:534 entitled:see:375 entitled:life:54 
+equal:person:21886 equal:this:440 equal:student:131 equal:make:88 equal:question:23 equal:passage:9 
+era:this:440 era:question:23 
+errors:person:21886 errors:document:157 errors:make:88 errors:writing:72 errors:column:32 errors:order:17 errors:context:14 errors:create:8 
+essence:person:21886 essence:life:54 essence:question:23 essence:speech:4 
+eternal:person:21886 eternal:life:54 eternal:question:23 
+eternally:person:21886 
+eternity:question:23 
+even:person:21886 even:work:534 even:use:465 even:this:440 even:see:375 even:man:190 even:sit:166 even:word:139 even:listen:107 even:make:88 
+events:person:21886 events:work:534 events:use:465 events:this:440 events:read:436 events:see:375 events:book:363 events:make:88 events:open:86 events:writing:72 
+ever:person:21886 ever:this:440 ever:see:375 ever:book:363 ever:man:190 ever:word:139 ever:make:88 ever:writing:72 ever:fall:58 ever:university:47 
+everything:person:21886 everything:work:534 everything:use:465 everything:this:440 everything:see:375 everything:school:92 everything:make:88 everything:teacher:57 everything:life:54 everything:question:23 
+evidence:person:21886 evidence:use:465 evidence:this:440 evidence:listen:107 evidence:make:88 evidence:writing:72 evidence:life:54 evidence:search:42 evidence:sentence:25 evidence:question:23 
+exact:person:21886 exact:this:440 exact:make:88 
+exiled:person:21886 
+existed:person:21886 
+existence:person:21886 existence:use:465 existence:make:88 existence:question:23 existence:exist:2 
+expanding:meeting:35 expanding:question:23 expanding:original:4 
+expecting:use:465 expecting:make:88 
+expensive:person:21886 expensive:work:534 expensive:use:465 expensive:this:440 expensive:see:375 expensive:book:363 expensive:student:131 expensive:school:92 expensive:make:88 expensive:fall:58 
+explain:person:21886 explain:work:534 explain:use:465 explain:read:436 explain:book:363 explain:make:88 explain:teacher:57 explain:relationship:27 explain:question:23 explain:subject:22 
+explaining:book:363 explaining:writing:72 explaining:question:23 
+explains:this:440 explains:read:436 explains:word:139 explains:writing:72 explains:teacher:57 explains:receive:8 
+explanation:read:436 
+express:person:21886 express:use:465 express:this:440 express:word:139 express:letter:110 express:make:88 express:open:86 express:writing:72 express:agree:27 express:sentence:25 
+external:use:465 external:this:440 external:fall:58 
+extraordinary:person:21886 extraordinary:crowd:50 
+familiar:person:21886 familiar:use:465 familiar:listen:107 familiar:make:88 familiar:crowd:50 
+far:person:21886 far:work:534 far:use:465 far:this:440 far:read:436 far:see:375 far:man:190 far:sit:166 far:school:92 far:make:88 
+fear:person:21886 fear:work:534 fear:use:465 fear:this:440 fear:see:375 fear:word:139 fear:make:88 fear:open:86 fear:life:54 fear:jump:32 
+feet:person:21886 feet:work:534 feet:use:465 feet:this:440 feet:see:375 feet:man:190 feet:sit:166 feet:word:139 feet:make:88 feet:fall:58 
+fifth:person:21886 fifth:work:534 fifth:man:190 fifth:letter:110 fifth:column:32 fifth:question:23 
+fifty:this:440 fifty:question:23 
+finally:work:534 finally:use:465 finally:document:157 finally:word:139 finally:listen:107 finally:make:88 finally:writing:72 finally:life:54 finally:relationship:27 finally:line:21 
+find:person:21886 find:work:534 find:use:465 find:this:440 find:read:436 find:see:375 find:book:363 find:man:190 find:sit:166 find:document:157 
+finite:work:534 
+firm:man:190 
+first:person:21886 first:work:534 first:use:465 first:this:440 first:read:436 first:see:375 first:book:363 first:man:190 first:sit:166 first:document:157 
+follow:person:21886 follow:work:534 follow:use:465 follow:read:436 follow:make:88 follow:open:86 follow:agree:27 follow:relationship:27 follow:question:23 follow:line:21 
+followed:make:88 followed:sentence:25 
+following:person:21886 following:work:534 following:use:465 following:this:440 following:read:436 following:see:375 following:book:363 following:man:190 following:sit:166 following:word:139 
+follows:person:21886 follows:this:440 follows:make:88 follows:question:23 follows:order:17 
+for:person:21886 for:work:534 for:use:465 for:this:440 for:read:436 for:see:375 for:book:363 for:man:190 for:sit:166 for:document:157 
+force:person:21886 force:work:534 force:use:465 force:this:440 force:see:375 force:sit:166 force:make:88 force:open:86 force:question:23 force:line:21 
+forward:person:21886 forward:work:534 forward:use:465 forward:this:440 forward:sit:166 forward:make:88 forward:fall:58 forward:teacher:57 forward:question:23 forward:line:21 
+found:person:21886 found:work:534 found:use:465 found:this:440 found:read:436 found:see:375 found:book:363 found:man:190 found:sit:166 found:word:139 
+fourth:person:21886 fourth:this:440 fourth:book:363 fourth:letter:110 fourth:fall:58 fourth:finger:50 fourth:question:23 fourth:order:17 
+free:person:21886 free:work:534 free:use:465 free:this:440 free:read:436 free:see:375 free:book:363 free:listen:107 free:school:92 free:make:88 
+freely:person:21886 freely:use:465 freely:question:23 
+from:person:21886 from:work:534 from:use:465 from:this:440 from:read:436 from:see:375 from:book:363 from:man:190 from:sit:166 from:word:139 
+fully:person:21886 fully:this:440 fully:see:375 fully:make:88 fully:open:86 fully:saw:56 fully:life:54 fully:birth:14 
+function:person:21886 function:work:534 function:use:465 function:this:440 function:see:375 function:man:190 function:sit:166 function:make:88 function:writing:72 function:column:32 
+further:use:465 further:this:440 further:see:375 further:school:92 further:university:47 further:spend:40 further:relationship:27 further:question:23 further:science:23 further:subject:22 
+gave:person:21886 gave:work:534 gave:use:465 gave:see:375 gave:man:190 gave:make:88 gave:writing:72 gave:life:54 gave:spend:40 gave:relationship:27 
+general:use:465 general:this:440 general:man:190 general:word:139 general:make:88 general:life:54 general:university:47 general:meeting:35 general:question:23 general:science:23 
+generally:person:21886 generally:work:534 generally:use:465 generally:this:440 generally:read:436 generally:man:190 generally:sit:166 generally:listen:107 generally:school:92 generally:make:88 
+generated:this:440 generated:listen:107 generated:life:54 
+ghost:person:21886 ghost:question:23 ghost:father:16 
+given:person:21886 given:work:534 given:use:465 given:this:440 given:read:436 given:see:375 given:word:139 given:student:131 given:school:92 given:make:88 
+god:person:21886 god:work:534 god:use:465 god:this:440 god:see:375 god:man:190 god:word:139 god:listen:107 god:make:88 god:open:86 
+gradually:person:21886 
+grand:sit:166 grand:question:23 
+grasp:use:465 grasp:writing:72 grasp:question:23 grasp:subject:22 
+great:person:21886 great:work:534 great:use:465 great:this:440 great:read:436 great:see:375 great:book:363 great:man:190 great:sit:166 great:make:88 
+greater:person:21886 greater:work:534 greater:use:465 greater:this:440 greater:man:190 greater:listen:107 greater:school:92 greater:writing:72 greater:fall:58 greater:life:54 
+h:word:139 h:letter:110 
+had:person:21886 had:work:534 had:use:465 had:this:440 had:read:436 had:see:375 had:book:363 had:man:190 had:word:139 had:student:131 
+handed:person:21886 handed:use:465 handed:this:440 handed:man:190 handed:student:131 handed:writing:72 handed:teacher:57 handed:sentence:25 
+has:person:21886 has:work:534 has:use:465 has:this:440 has:read:436 has:see:375 has:book:363 has:man:190 has:sit:166 has:word:139 
+have:person:21886 have:work:534 have:use:465 have:this:440 have:read:436 have:see:375 have:book:363 have:man:190 have:sit:166 have:document:157 
+having:person:21886 having:work:534 having:use:465 having:this:440 having:read:436 having:see:375 having:book:363 having:man:190 having:sit:166 having:student:131 
+he:person:21886 he:work:534 he:use:465 he:this:440 he:read:436 he:see:375 he:book:363 he:man:190 he:sit:166 he:word:139 
+heated:use:465 heated:make:88 heated:question:23 heated:line:21 heated:cool:18 
+held:person:21886 held:work:534 held:use:465 held:this:440 held:see:375 held:book:363 held:man:190 held:word:139 held:school:92 held:make:88 
+hence:person:21886 hence:make:88 
+henry:work:534 
+hidden:person:21886 hidden:use:465 hidden:man:190 hidden:life:54 hidden:key:17 hidden:thinking:2 
+highest:person:21886 highest:see:375 highest:man:190 highest:school:92 highest:life:54 highest:jump:32 highest:question:23 highest:create:8 highest:baker:7 highest:approach:6 
+him:person:21886 him:work:534 him:use:465 him:this:440 him:read:436 him:see:375 him:book:363 him:man:190 him:student:131 him:listen:107 
+himself:person:21886 himself:work:534 himself:use:465 himself:this:440 himself:read:436 himself:man:190 himself:student:131 himself:school:92 himself:make:88 himself:fall:58 
+his:person:21886 his:work:534 his:use:465 his:this:440 his:read:436 his:see:375 his:book:363 his:man:190 his:sit:166 his:word:139 
+historical:this:440 historical:question:23 historical:speech:4 
+history:person:21886 history:work:534 history:this:440 history:read:436 history:see:375 history:book:363 history:make:88 history:writing:72 history:science:23 history:own:8 
+holy:see:375 holy:book:363 holy:father:16 
+how:person:21886 how:work:534 how:use:465 how:this:440 how:read:436 how:see:375 how:book:363 how:man:190 how:sit:166 how:word:139 
+i:person:21886 i:work:534 i:use:465 i:this:440 i:read:436 i:see:375 i:book:363 i:man:190 i:sit:166 i:word:139 
+id:person:21886 id:this:440 id:see:375 id:make:88 id:own:8 
+ideas:person:21886 ideas:work:534 ideas:use:465 ideas:this:440 ideas:see:375 ideas:book:363 ideas:listen:107 ideas:make:88 ideas:open:86 ideas:writing:72 
+ie:person:21886 ie:this:440 ie:book:363 ie:word:139 ie:writing:72 
+if:person:21886 if:work:534 if:use:465 if:this:440 if:read:436 if:see:375 if:book:363 if:man:190 if:sit:166 if:document:157 
+illustration:use:465 illustration:this:440 illustration:book:363 illustration:man:190 illustration:word:139 illustration:writing:72 
+immediate:see:375 immediate:man:190 immediate:make:88 
+immediately:see:375 immediately:jump:32 immediately:question:23 immediately:order:17 
+impossible:use:465 impossible:read:436 impossible:see:375 impossible:make:88 impossible:open:86 impossible:fall:58 impossible:life:54 impossible:question:23 impossible:order:17 impossible:speech:4 
+in:person:21886 in:work:534 in:use:465 in:this:440 in:read:436 in:see:375 in:book:363 in:man:190 in:sit:166 in:document:157 
+include:person:21886 include:work:534 include:this:440 include:read:436 include:book:363 include:man:190 include:word:139 include:make:88 include:fall:58 include:life:54 
+included:person:21886 included:see:375 included:question:23 
+including:person:21886 including:use:465 including:this:440 including:see:375 including:listen:107 including:writing:72 including:life:54 including:question:23 including:science:23 including:line:21 
+incompatible:work:534 incompatible:thinking:2 
+indeed:person:21886 indeed:order:17 
+infinite:this:440 infinite:see:375 
+influence:person:21886 influence:use:465 influence:own:8 
+influenced:question:23 
+influential:work:534 
+information:person:21886 information:work:534 information:use:465 information:this:440 information:read:436 information:see:375 information:book:363 information:document:157 information:word:139 information:letter:110 
+initial:this:440 
+instead:work:534 instead:use:465 instead:this:440 instead:read:436 instead:man:190 instead:sit:166 instead:word:139 instead:letter:110 instead:make:88 instead:open:86 
+intellectual:person:21886 intellectual:work:534 intellectual:use:465 intellectual:teacher:57 
+interest:person:21886 interest:work:534 interest:use:465 interest:read:436 interest:see:375 interest:man:190 interest:sit:166 interest:make:88 interest:writing:72 interest:meeting:35 
+into:person:21886 into:work:534 into:use:465 into:this:440 into:read:436 into:see:375 into:book:363 into:man:190 into:sit:166 into:word:139 
+invisible:see:375 invisible:man:190 invisible:question:23 invisible:birth:14 invisible:exist:2 
+is:person:21886 is:work:534 is:use:465 is:this:440 is:read:436 is:see:375 is:book:363 is:man:190 is:sit:166 is:document:157 
+issue:person:21886 issue:use:465 issue:listen:107 issue:meeting:35 issue:agree:27 issue:penalty:2 
+issued:this:440 
+it:person:21886 it:work:534 it:use:465 it:this:440 it:read:436 it:see:375 it:book:363 it:man:190 it:sit:166 it:document:157 
+item:person:21886 item:work:534 item:use:465 item:this:440 item:read:436 item:man:190 item:make:88 item:open:86 item:writing:72 item:fall:58 
+its:person:21886 its:work:534 its:use:465 its:this:440 its:read:436 its:see:375 its:book:363 its:man:190 its:sit:166 its:word:139 
+j:this:440 j:letter:110 j:question:23 j:science:23 
+james:person:21886 james:use:465 james:this:440 james:see:375 james:meeting:35 james:line:21 james:cool:18 james:order:17 james:own:8 
+january:person:21886 january:thinking:2 
+jesus:person:21886 jesus:this:440 jesus:saw:56 jesus:life:54 jesus:relationship:27 jesus:save:19 jesus:order:17 jesus:father:16 jesus:birth:14 
+john:person:21886 john:work:534 john:use:465 john:this:440 john:read:436 john:see:375 john:man:190 john:school:92 john:open:86 john:saw:56 
+johns:work:534 johns:see:375 johns:open:86 
+journal:this:440 journal:man:190 journal:writing:72 
+june:birth:14 
+justify:student:131 justify:teacher:57 
+kind:person:21886 kind:work:534 kind:use:465 kind:this:440 kind:see:375 kind:man:190 kind:word:139 kind:listen:107 kind:school:92 kind:make:88 
+king:person:21886 king:use:465 king:this:440 king:make:88 king:question:23 king:subject:22 king:father:16 king:own:8 king:bishop:4 
+kingdom:use:465 kingdom:question:23 
+know:person:21886 know:work:534 know:use:465 know:this:440 know:read:436 know:see:375 know:book:363 know:man:190 know:sit:166 know:word:139 
+known:person:21886 known:work:534 known:use:465 known:this:440 known:read:436 known:book:363 known:man:190 known:word:139 known:letter:110 known:listen:107 
+knows:person:21886 knows:work:534 knows:use:465 knows:this:440 knows:read:436 knows:book:363 knows:man:190 knows:student:131 knows:listen:107 knows:school:92 
+language:person:21886 language:work:534 language:use:465 language:this:440 language:read:436 language:book:363 language:man:190 language:word:139 language:letter:110 language:make:88 
+larger:person:21886 larger:use:465 larger:this:440 larger:see:375 larger:sit:166 larger:school:92 larger:make:88 larger:open:86 larger:life:54 larger:question:23 
+last:person:21886 last:work:534 last:use:465 last:this:440 last:read:436 last:see:375 last:book:363 last:man:190 last:sit:166 last:word:139 
+later:person:21886 later:work:534 later:use:465 later:this:440 later:read:436 later:see:375 later:book:363 later:word:139 later:listen:107 later:school:92 
+leaders:book:363 
+leading:this:440 leading:university:47 leading:jump:32 leading:line:21 
+leads:person:21886 leads:this:440 leads:teacher:57 leads:life:54 leads:question:23 leads:science:23 
+leaning:person:21886 leaning:man:190 leaning:school:92 leaning:question:23 
+led:person:21886 led:question:23 led:line:21 
+left:person:21886 left:use:465 left:this:440 left:read:436 left:see:375 left:book:363 left:man:190 left:sit:166 left:document:157 left:word:139 
+less:person:21886 less:work:534 less:use:465 less:this:440 less:read:436 less:see:375 less:book:363 less:man:190 less:sit:166 less:student:131 
+let:person:21886 let:work:534 let:use:465 let:this:440 let:see:375 let:book:363 let:sit:166 let:student:131 let:letter:110 let:listen:107 
+liberal:this:440 
+like:person:21886 like:work:534 like:use:465 like:this:440 like:read:436 like:see:375 like:book:363 like:man:190 like:sit:166 like:document:157 
+limit:work:534 limit:use:465 limit:make:88 limit:question:23 limit:key:17 limit:birth:14 
+links:make:88 links:question:23 
+list:person:21886 list:use:465 list:this:440 list:read:436 list:see:375 list:book:363 list:man:190 list:word:139 list:letter:110 list:make:88 
+literature:use:465 literature:read:436 literature:book:363 literature:subject:22 
+liver:person:21886 liver:make:88 
+local:person:21886 local:use:465 local:this:440 local:read:436 local:see:375 local:book:363 local:student:131 local:school:92 local:make:88 local:spend:40 
+log:work:534 log:use:465 log:this:440 log:see:375 log:book:363 log:man:190 log:open:86 log:writing:72 log:fall:58 log:question:23 
+long:person:21886 long:work:534 long:use:465 long:this:440 long:read:436 long:see:375 long:book:363 long:man:190 long:sit:166 long:word:139 
+longer:person:21886 longer:work:534 longer:use:465 longer:this:440 longer:see:375 longer:sit:166 longer:word:139 longer:student:131 longer:make:88 longer:open:86 
+loose:person:21886 loose:use:465 loose:this:440 loose:make:88 loose:fall:58 loose:button:27 loose:question:23 loose:line:21 
+loses:person:21886 loses:see:375 loses:question:23 
+lost:person:21886 lost:work:534 lost:use:465 lost:this:440 lost:read:436 lost:see:375 lost:man:190 lost:sit:166 lost:document:157 lost:word:139 
+low:person:21886 low:this:440 low:see:375 low:man:190 low:sit:166 low:school:92 low:make:88 low:spend:40 low:jump:32 low:question:23 
+m:this:440 m:see:375 m:man:190 m:letter:110 m:question:23 m:baker:7 
+made:person:21886 made:work:534 made:use:465 made:this:440 made:read:436 made:see:375 made:book:363 made:man:190 made:sit:166 made:word:139 
+main:person:21886 main:work:534 main:use:465 main:this:440 main:see:375 main:man:190 main:student:131 main:school:92 main:open:86 main:life:54 
+maintained:use:465 maintained:fall:58 
+majority:work:534 majority:student:131 majority:make:88 majority:life:54 majority:university:47 majority:spend:40 
+many:person:21886 many:work:534 many:use:465 many:this:440 many:read:436 many:see:375 many:book:363 many:man:190 many:sit:166 many:word:139 
+may:person:21886 may:work:534 may:use:465 may:this:440 may:read:436 may:see:375 may:book:363 may:man:190 may:sit:166 may:word:139 
+meaning:person:21886 meaning:use:465 meaning:read:436 meaning:word:139 meaning:student:131 meaning:listen:107 meaning:make:88 meaning:open:86 meaning:life:54 meaning:spend:40 
+men:person:21886 men:work:534 men:use:465 men:this:440 men:see:375 men:book:363 men:man:190 men:sit:166 men:word:139 men:school:92 
+merely:make:88 merely:teacher:57 merely:life:54 merely:birth:14 merely:model:5 
+messiah:question:23 
+met:this:440 met:exist:2 
+michael:person:21886 michael:work:534 michael:man:190 michael:word:139 michael:make:88 michael:meeting:35 michael:question:23 
+middle:person:21886 middle:work:534 middle:use:465 middle:this:440 middle:see:375 middle:book:363 middle:man:190 middle:word:139 middle:student:131 middle:school:92 
+midst:jump:32 
+might:person:21886 might:work:534 might:use:465 might:this:440 might:read:436 might:see:375 might:book:363 might:man:190 might:sit:166 might:document:157 
+military:person:21886 military:use:465 military:this:440 military:book:363 military:word:139 military:make:88 military:question:23 military:receive:8 
+mixed:use:465 mixed:this:440 mixed:word:139 mixed:make:88 mixed:subject:22 mixed:create:8 
+modern:use:465 modern:this:440 modern:man:190 modern:sit:166 modern:school:92 modern:make:88 modern:open:86 modern:writing:72 modern:life:54 modern:question:23 
+modified:use:465 modified:this:440 modified:question:23 
+moment:person:21886 moment:see:375 moment:man:190 moment:make:88 moment:life:54 moment:search:42 moment:relationship:27 moment:question:23 moment:passage:9 moment:exist:2 
+more:person:21886 more:work:534 more:use:465 more:this:440 more:read:436 more:see:375 more:book:363 more:man:190 more:sit:166 more:word:139 
+most:person:21886 most:work:534 most:use:465 most:this:440 most:read:436 most:see:375 most:book:363 most:man:190 most:sit:166 most:word:139 
+much:person:21886 much:work:534 much:use:465 much:this:440 much:read:436 much:see:375 much:book:363 much:man:190 much:sit:166 much:word:139 
+must:person:21886 must:work:534 must:use:465 must:this:440 must:read:436 must:see:375 must:book:363 must:man:190 must:sit:166 must:document:157 
+name:person:21886 name:work:534 name:use:465 name:this:440 name:read:436 name:book:363 name:man:190 name:word:139 name:student:131 name:letter:110 
+national:use:465 national:this:440 national:make:88 national:life:54 national:question:23 national:key:17 national:order:17 national:own:8 
+natural:person:21886 natural:use:465 natural:this:440 natural:see:375 natural:man:190 natural:listen:107 natural:make:88 natural:open:86 natural:life:54 natural:question:23 
+nature:person:21886 nature:use:465 nature:this:440 nature:see:375 nature:book:363 nature:man:190 nature:make:88 nature:life:54 nature:question:23 nature:science:23 
+needs:person:21886 needs:work:534 needs:use:465 needs:this:440 needs:read:436 needs:see:375 needs:book:363 needs:sit:166 needs:document:157 needs:student:131 
+negative:person:21886 negative:this:440 negative:word:139 negative:life:54 negative:relationship:27 negative:question:23 negative:order:17 negative:create:8 
+neighbors:person:21886 neighbors:use:465 neighbors:this:440 neighbors:see:375 neighbors:make:88 
+neither:this:440 neither:see:375 neither:own:8 
+never:person:21886 never:work:534 never:use:465 never:this:440 never:read:436 never:see:375 never:book:363 never:word:139 never:school:92 never:make:88 
+new:person:21886 new:work:534 new:use:465 new:this:440 new:read:436 new:see:375 new:book:363 new:man:190 new:word:139 new:student:131 
+newly:person:21886 newly:man:190 
+no:person:21886 no:work:534 no:use:465 no:this:440 no:read:436 no:see:375 no:book:363 no:man:190 no:sit:166 no:word:139 
+node:line:21 
+none:person:21886 none:this:440 none:see:375 none:word:139 none:make:88 none:spend:40 none:question:23 
+nor:person:21886 nor:this:440 nor:see:375 nor:own:8 
+north:person:21886 north:this:440 north:see:375 north:man:190 north:school:92 north:make:88 north:meeting:35 north:question:23 north:line:21 north:approach:6 
+northwest:passage:9 
+not:person:21886 not:work:534 not:use:465 not:this:440 not:read:436 not:see:375 not:book:363 not:man:190 not:sit:166 not:document:157 
+noted:student:131 noted:question:23 
+nothing:person:21886 nothing:work:534 nothing:use:465 nothing:this:440 nothing:read:436 nothing:see:375 nothing:book:363 nothing:school:92 nothing:make:88 nothing:life:54 
+notice:person:21886 notice:work:534 notice:use:465 notice:this:440 notice:see:375 notice:book:363 notice:man:190 notice:word:139 notice:question:23 notice:line:21 
+now:person:21886 now:work:534 now:use:465 now:this:440 now:read:436 now:see:375 now:book:363 now:man:190 now:word:139 now:student:131 
+numerous:use:465 numerous:this:440 numerous:make:88 numerous:saw:56 
+nursery:question:23 nursery:model:5 
+obviously:person:21886 obviously:this:440 obviously:see:375 
+of:person:21886 of:work:534 of:use:465 of:this:440 of:read:436 of:see:375 of:book:363 of:man:190 of:sit:166 of:document:157 
+off:person:21886 off:work:534 off:use:465 off:this:440 off:read:436 off:see:375 off:book:363 off:man:190 off:sit:166 off:document:157 
+often:person:21886 often:work:534 often:use:465 often:this:440 often:read:436 often:see:375 often:book:363 often:man:190 often:sit:166 often:document:157 
+on:person:21886 on:work:534 on:use:465 on:this:440 on:read:436 on:see:375 on:book:363 on:man:190 on:sit:166 on:document:157 
+once:person:21886 once:work:534 once:use:465 once:this:440 once:read:436 once:see:375 once:book:363 once:man:190 once:school:92 once:make:88 
+one:person:21886 one:work:534 one:use:465 one:this:440 one:read:436 one:see:375 one:book:363 one:man:190 one:sit:166 one:word:139 
+online:use:465 online:this:440 online:school:92 online:spend:40 online:meeting:35 online:science:23 online:line:21 
+only:person:21886 only:work:534 only:use:465 only:this:440 only:read:436 only:see:375 only:book:363 only:man:190 only:sit:166 only:word:139 
+opinions:person:21886 opinions:read:436 opinions:listen:107 opinions:agree:27 opinions:question:23 opinions:science:23 opinions:own:8 
+opponent:person:21886 opponent:this:440 opponent:make:88 opponent:alone:10 opponent:create:8 
+opponents:use:465 opponents:agree:27 opponents:key:17 
+opposition:this:440 
+or:person:21886 or:work:534 or:use:465 or:this:440 or:read:436 or:see:375 or:book:363 or:man:190 or:sit:166 or:document:157 
+ordered:person:21886 ordered:use:465 ordered:letter:110 ordered:order:17 
+other:person:21886 other:work:534 other:use:465 other:this:440 other:read:436 other:see:375 other:book:363 other:man:190 other:sit:166 other:word:139 
+others:person:21886 others:work:534 others:use:465 others:this:440 others:read:436 others:see:375 others:man:190 others:sit:166 others:word:139 others:student:131 
+our:person:21886 our:work:534 our:use:465 our:this:440 our:see:375 our:book:363 our:school:92 our:make:88 our:open:86 our:writing:72 
+out:person:21886 out:work:534 out:use:465 out:this:440 out:read:436 out:see:375 out:book:363 out:man:190 out:sit:166 out:document:157 
+over:person:21886 over:work:534 over:use:465 over:this:440 over:read:436 over:see:375 over:book:363 over:man:190 over:sit:166 over:word:139 
+owed:student:131 owed:make:88 owed:teacher:57 
+p:letter:110 p:writing:72 
+page:person:21886 page:read:436 page:see:375 page:book:363 page:document:157 page:word:139 page:letter:110 page:school:92 page:make:88 page:open:86 
+pages:person:21886 pages:work:534 pages:use:465 pages:read:436 pages:see:375 pages:book:363 pages:make:88 pages:open:86 pages:writing:72 pages:question:23 
+parser:create:8 
+part:person:21886 part:work:534 part:use:465 part:this:440 part:read:436 part:see:375 part:book:363 part:man:190 part:sit:166 part:document:157 
+parts:person:21886 parts:work:534 parts:use:465 parts:this:440 parts:read:436 parts:see:375 parts:book:363 parts:sit:166 parts:word:139 parts:make:88 
+paul:person:21886 paul:question:23 
+peoples:person:21886 peoples:work:534 peoples:use:465 peoples:this:440 peoples:read:436 peoples:see:375 peoples:listen:107 peoples:make:88 peoples:open:86 peoples:life:54 
+perfect:person:21886 perfect:this:440 perfect:word:139 perfect:student:131 perfect:make:88 perfect:writing:72 perfect:life:54 perfect:question:23 perfect:cool:18 perfect:order:17 
+perfectly:make:88 perfectly:question:23 
+perhaps:work:534 perhaps:this:440 perhaps:see:375 perhaps:man:190 perhaps:open:86 
+period:person:21886 period:use:465 period:this:440 period:school:92 period:life:54 period:spend:40 period:sentence:25 period:line:21 period:birth:14 period:receive:8 
+perish:person:21886 perish:life:54 perish:birth:14 
+permission:this:440 permission:approach:6 
+permitted:order:17 
+perpetual:man:190 perpetual:own:8 
+personal:person:21886 personal:work:534 personal:use:465 personal:this:440 personal:book:363 personal:make:88 personal:writing:72 personal:life:54 personal:relationship:27 personal:question:23 
+personality:read:436 personality:make:88 personality:life:54 personality:question:23 personality:birth:14 personality:own:8 
+place:person:21886 place:work:534 place:use:465 place:this:440 place:read:436 place:see:375 place:book:363 place:man:190 place:sit:166 place:document:157 
+placing:person:21886 placing:use:465 placing:this:440 placing:finger:50 placing:question:23 placing:burning:10 
+please:person:21886 please:work:534 please:use:465 please:man:190 please:student:131 please:school:92 please:make:88 please:open:86 please:fall:58 please:teacher:57 
+poem:use:465 poem:this:440 poem:read:436 poem:word:139 poem:make:88 poem:writing:72 poem:question:23 poem:thinking:2 
+point:person:21886 point:work:534 point:use:465 point:this:440 point:read:436 point:see:375 point:book:363 point:man:190 point:student:131 point:listen:107 
+pointing:this:440 pointing:see:375 pointing:make:88 pointing:open:86 pointing:writing:72 pointing:finger:50 pointing:question:23 pointing:key:17 
+policy:see:375 policy:jump:32 policy:question:23 
+portion:this:440 portion:document:157 portion:open:86 portion:question:23 portion:line:21 
+portions:make:88 
+positive:person:21886 positive:this:440 positive:see:375 positive:word:139 positive:make:88 positive:open:86 positive:teacher:57 positive:question:23 positive:create:8 
+possessed:person:21886 
+possibly:person:21886 possibly:use:465 possibly:this:440 possibly:see:375 possibly:man:190 possibly:life:54 possibly:search:42 possibly:question:23 possibly:key:17 possibly:father:16 
+power:person:21886 power:work:534 power:use:465 power:this:440 power:see:375 power:make:88 power:saw:56 power:life:54 power:button:27 power:question:23 
+powerful:person:21886 powerful:work:534 powerful:this:440 powerful:man:190 powerful:life:54 powerful:jump:32 powerful:question:23 powerful:birth:14 powerful:exist:2 
+praise:person:21886 praise:work:534 praise:teacher:57 
+praises:person:21886 
+precise:person:21886 precise:this:440 precise:university:47 precise:science:23 
+preserved:life:54 
+preview:make:88 preview:question:23 
+previously:use:465 previously:this:440 
+priest:use:465 priest:line:21 priest:confession:10 
+priests:work:534 priests:save:19 
+primarily:use:465 primarily:this:440 primarily:open:86 primarily:speech:4 
+primary:use:465 primary:this:440 primary:school:92 primary:make:88 primary:teacher:57 primary:university:47 primary:spend:40 primary:father:16 primary:original:4 
+principal:person:21886 principal:school:92 principal:teacher:57 principal:question:23 
+prior:work:534 prior:this:440 prior:agree:27 prior:relationship:27 prior:order:17 
+produced:work:534 produced:use:465 produced:this:440 produced:document:157 produced:make:88 produced:writing:72 produced:question:23 produced:subject:22 produced:save:19 produced:burning:10 
+production:this:440 production:school:92 production:make:88 production:life:54 production:model:5 
+pronounced:context:14 
+proof:use:465 proof:this:440 proof:life:54 proof:exist:2 
+proper:person:21886 proper:work:534 proper:use:465 proper:this:440 proper:read:436 proper:see:375 proper:book:363 proper:man:190 proper:sit:166 proper:word:139 
+proved:person:21886 proved:use:465 
+proven:person:21886 proven:work:534 proven:this:440 proven:life:54 proven:question:23 
+public:person:21886 public:work:534 public:use:465 public:this:440 public:man:190 public:sit:166 public:word:139 public:listen:107 public:school:92 public:make:88 
+pure:this:440 pure:life:54 
+purpose:person:21886 purpose:work:534 purpose:use:465 purpose:this:440 purpose:read:436 purpose:see:375 purpose:book:363 purpose:man:190 purpose:sit:166 purpose:letter:110 
+put:person:21886 put:work:534 put:use:465 put:this:440 put:read:436 put:see:375 put:book:363 put:man:190 put:sit:166 put:document:157 
+qualities:person:21886 qualities:see:375 qualities:student:131 qualities:school:92 qualities:question:23 
+quite:person:21886 quite:work:534 quite:use:465 quite:this:440 quite:read:436 quite:see:375 quite:book:363 quite:man:190 quite:sit:166 quite:student:131 
+quote:book:363 
+r:use:465 r:letter:110 
+radical:make:88 
+rage:person:21886 rage:work:534 rage:make:88 rage:question:23 rage:speech:4 
+raised:use:465 raised:word:139 raised:student:131 raised:open:86 raised:question:23 raised:science:23 
+random:use:465 random:this:440 random:word:139 random:make:88 random:life:54 random:search:42 random:question:23 
+rather:person:21886 rather:work:534 rather:use:465 rather:this:440 rather:see:375 rather:book:363 rather:man:190 rather:sit:166 rather:make:88 rather:writing:72 
+rational:thinking:2 
+reaction:work:534 reaction:this:440 reaction:see:375 reaction:life:54 reaction:subject:22 reaction:order:17 reaction:burning:10 
+real:person:21886 real:work:534 real:use:465 real:this:440 real:read:436 real:see:375 real:book:363 real:man:190 real:document:157 real:school:92 
+really:person:21886 really:work:534 really:use:465 really:this:440 really:read:436 really:see:375 really:book:363 really:man:190 really:sit:166 really:listen:107 
+reason:person:21886 reason:work:534 reason:use:465 reason:this:440 reason:see:375 reason:man:190 reason:listen:107 reason:make:88 reason:open:86 reason:writing:72 
+reasonably:this:440 reasonably:see:375 reasonably:question:23 
+reasoning:work:534 reasoning:question:23 
+recent:read:436 recent:line:21 
+recognized:person:21886 recognized:this:440 recognized:man:190 
+recorded:use:465 recorded:this:440 recorded:read:436 recorded:writing:72 recorded:life:54 
+references:work:534 
+referred:this:440 referred:word:139 referred:sentence:25 referred:question:23 referred:original:4 referred:exist:2 
+referring:use:465 referring:word:139 referring:question:23 
+refers:person:21886 refers:work:534 refers:this:440 refers:read:436 refers:word:139 refers:sentence:25 refers:question:23 refers:line:21 refers:key:17 refers:own:8 
+refuge:this:440 refuge:book:363 refuge:life:54 
+regarded:person:21886 
+registered:person:21886 registered:use:465 
+rehabilitation:person:21886 
+rejection:person:21886 rejection:make:88 rejection:receive:8 
+related:person:21886 related:work:534 related:this:440 related:book:363 related:word:139 related:school:92 related:make:88 related:question:23 related:subject:22 related:birth:14 
+relation:person:21886 relation:work:534 relation:word:139 relation:question:23 
+relaxation:person:21886 relaxation:use:465 relaxation:see:375 relaxation:listen:107 relaxation:make:88 relaxation:writing:72 relaxation:life:54 relaxation:question:23 
+religion:person:21886 religion:this:440 religion:student:131 religion:school:92 religion:question:23 religion:science:23 religion:original:4 
+religious:person:21886 religious:work:534 religious:use:465 religious:this:440 religious:read:436 religious:book:363 religious:document:157 religious:word:139 religious:student:131 religious:make:88 
+remind:person:21886 remind:use:465 remind:this:440 remind:book:363 remind:open:86 remind:subject:22 remind:approach:6 
+remorse:man:190 
+report:person:21886 report:use:465 report:read:436 report:see:375 report:book:363 report:man:190 report:sit:166 report:student:131 report:letter:110 report:listen:107 
+reported:work:534 reported:read:436 reported:man:190 
+reports:letter:110 reports:make:88 reports:writing:72 
+represent:person:21886 represent:use:465 represent:this:440 represent:man:190 represent:letter:110 represent:make:88 represent:writing:72 represent:fall:58 represent:life:54 represent:line:21 
+representatives:use:465 representatives:this:440 representatives:writing:72 representatives:question:23 
+representing:this:440 representing:see:375 representing:book:363 representing:question:23 representing:model:5 representing:original:4 
+requirements:person:21886 requirements:make:88 requirements:question:23 requirements:model:5 
+resembles:this:440 resembles:letter:110 
+resolve:meeting:35 resolve:birth:14 
+respected:person:21886 respected:man:190 
+respective:this:440 respective:book:363 
+restore:order:17 
+return:person:21886 return:work:534 return:use:465 return:see:375 return:book:363 return:word:139 return:letter:110 return:make:88 return:open:86 return:spend:40 
+revision:student:131 
+revival:question:23 
+role:person:21886 role:use:465 role:this:440 role:question:23 
+roman:this:440 roman:read:436 roman:letter:110 roman:open:86 roman:question:23 
+royal:person:21886 royal:use:465 royal:this:440 royal:book:363 royal:open:86 royal:question:23 royal:order:17 
+russian:person:21886 russian:use:465 russian:book:363 russian:man:190 russian:word:139 russian:question:23 
+s:person:21886 s:use:465 s:this:440 s:see:375 s:man:190 s:word:139 s:letter:110 s:make:88 s:open:86 s:teach:45 
+said:person:21886 said:work:534 said:use:465 said:this:440 said:see:375 said:book:363 said:man:190 said:school:92 said:make:88 said:life:54 
+same:person:21886 same:work:534 same:use:465 same:this:440 same:read:436 same:see:375 same:book:363 same:man:190 same:word:139 same:student:131 
+saved:work:534 saved:save:19 
+saving:use:465 saving:this:440 saving:make:88 saving:life:54 saving:spend:40 saving:order:17 saving:own:8 
+scene:person:21886 scene:use:465 scene:this:440 scene:book:363 scene:man:190 scene:sit:166 scene:make:88 scene:open:86 scene:writing:72 scene:saw:56 
+second:person:21886 second:use:465 second:this:440 second:read:436 second:see:375 second:book:363 second:man:190 second:student:131 second:letter:110 second:school:92 
+seconds:use:465 seconds:this:440 seconds:make:88 seconds:button:27 seconds:question:23 seconds:passage:9 
+sect:school:92 
+seem:person:21886 seem:work:534 seem:use:465 seem:this:440 seem:see:375 seem:sit:166 seem:make:88 
+seemed:work:534 seemed:writing:72 seemed:line:21 
+seems:this:440 seems:see:375 seems:man:190 seems:make:88 seems:fall:58 
+seen:person:21886 seen:work:534 seen:use:465 seen:this:440 seen:see:375 seen:man:190 seen:school:92 seen:make:88 seen:saw:56 seen:life:54 
+seized:person:21886 
+sent:person:21886 sent:use:465 sent:this:440 sent:document:157 sent:word:139 sent:letter:110 sent:school:92 sent:life:54 sent:spend:40 sent:sentence:25 
+sermon:use:465 
+settled:writing:72 settled:question:23 
+seven:work:534 seven:this:440 seven:see:375 seven:man:190 seven:make:88 seven:question:23 seven:father:16 
+seventh:work:534 seventh:letter:110 seventh:question:23 
+several:person:21886 several:work:534 several:use:465 several:this:440 several:book:363 several:man:190 several:sit:166 several:word:139 several:school:92 several:make:88 
+shall:read:436 shall:man:190 shall:make:88 shall:life:54 shall:question:23 shall:birth:14 
+short:person:21886 short:use:465 short:this:440 short:see:375 short:book:363 short:man:190 short:sit:166 short:word:139 short:student:131 short:letter:110 
+should:person:21886 should:work:534 should:use:465 should:this:440 should:read:436 should:see:375 should:book:363 should:man:190 should:sit:166 should:document:157 
+shown:person:21886 shown:use:465 shown:this:440 shown:see:375 shown:man:190 shown:saw:56 shown:question:23 shown:order:17 shown:create:8 shown:speech:4 
+sides:this:440 sides:read:436 sides:see:375 sides:make:88 sides:open:86 sides:life:54 sides:question:23 sides:alone:10 sides:passage:9 
+significant:person:21886 significant:life:54 significant:column:32 
+similar:person:21886 similar:use:465 similar:this:440 similar:book:363 similar:sit:166 similar:make:88 similar:open:86 similar:teacher:57 similar:relationship:27 similar:question:23 
+similarity:person:21886 similarity:use:465 similarity:book:363 similarity:man:190 similarity:sit:166 similarity:letter:110 similarity:make:88 similarity:open:86 similarity:writing:72 similarity:question:23 
+simple:person:21886 simple:use:465 simple:this:440 simple:see:375 simple:word:139 simple:make:88 simple:open:86 simple:life:54 simple:question:23 simple:line:21 
+since:this:440 since:read:436 since:see:375 since:man:190 since:word:139 since:writing:72 since:life:54 since:line:21 since:father:16 since:birth:14 
+single:person:21886 single:work:534 single:use:465 single:this:440 single:book:363 single:man:190 single:letter:110 single:make:88 single:question:23 single:line:21 
+sixth:this:440 sixth:letter:110 
+smaller:person:21886 smaller:work:534 smaller:use:465 smaller:this:440 smaller:see:375 smaller:man:190 smaller:word:139 smaller:make:88 smaller:open:86 smaller:life:54 
+so:person:21886 so:work:534 so:use:465 so:this:440 so:read:436 so:see:375 so:book:363 so:man:190 so:sit:166 so:word:139 
+society:person:21886 society:work:534 society:use:465 society:this:440 society:read:436 society:see:375 society:letter:110 society:school:92 society:make:88 society:writing:72 
+socrates:person:21886 socrates:man:190 socrates:listen:107 socrates:writing:72 socrates:life:54 socrates:spend:40 
+solely:person:21886 
+solid:person:21886 solid:work:534 solid:use:465 solid:this:440 solid:make:88 solid:fall:58 solid:life:54 solid:question:23 solid:own:8 
+solution:person:21886 solution:this:440 solution:column:32 solution:key:17 solution:thinking:2 
+some:person:21886 some:work:534 some:use:465 some:this:440 some:read:436 some:see:375 some:book:363 some:man:190 some:sit:166 some:word:139 
+someone:person:21886 someone:work:534 someone:use:465 someone:this:440 someone:read:436 someone:see:375 someone:book:363 someone:man:190 someone:sit:166 someone:word:139 
+sometimes:person:21886 sometimes:work:534 sometimes:use:465 sometimes:this:440 sometimes:read:436 sometimes:see:375 sometimes:book:363 sometimes:man:190 sometimes:sit:166 sometimes:document:157 
+son:use:465 son:man:190 son:school:92 son:make:88 son:life:54 son:teach:45 son:question:23 son:father:16 
+soon:work:534 soon:use:465 soon:school:92 soon:make:88 soon:open:86 soon:life:54 soon:question:23 soon:cool:18 soon:order:17 
+sources:use:465 sources:make:88 sources:order:17 
+special:person:21886 special:use:465 special:this:440 special:see:375 special:man:190 special:word:139 special:school:92 special:make:88 special:open:86 special:life:54 
+specific:person:21886 specific:work:534 specific:use:465 specific:this:440 specific:read:436 specific:word:139 specific:make:88 specific:writing:72 specific:teach:45 specific:relationship:27 
+spirit:make:88 
+standard:person:21886 standard:work:534 standard:use:465 standard:this:440 standard:student:131 standard:listen:107 standard:school:92 standard:make:88 standard:teacher:57 standard:own:8 
+started:person:21886 started:work:534 started:use:465 started:read:436 started:see:375 started:book:363 started:man:190 started:sit:166 started:make:88 started:open:86 
+statement:person:21886 statement:work:534 statement:use:465 statement:this:440 statement:read:436 statement:see:375 statement:book:363 statement:man:190 statement:sit:166 statement:document:157 
+statements:read:436 statements:listen:107 statements:open:86 
+still:person:21886 still:work:534 still:use:465 still:this:440 still:see:375 still:book:363 still:man:190 still:sit:166 still:school:92 still:make:88 
+stimulate:see:375 stimulate:question:23 
+strong:person:21886 strong:use:465 strong:this:440 strong:see:375 strong:book:363 strong:man:190 strong:sit:166 strong:make:88 strong:fall:58 strong:life:54 
+struck:person:21886 struck:this:440 struck:make:88 struck:question:23 struck:line:21 struck:order:17 
+struggle:life:54 
+studied:work:534 studied:student:131 studied:school:92 studied:make:88 studied:university:47 studied:subject:22 studied:order:17 studied:receive:8 
+submitted:save:19 
+substance:person:21886 substance:use:465 substance:this:440 substance:read:436 substance:see:375 substance:life:54 substance:question:23 substance:cool:18 substance:create:8 substance:own:8 
+succeeded:word:139 succeeded:life:54 succeeded:search:42 
+success:person:21886 success:use:465 success:this:440 success:word:139 success:make:88 success:question:23 success:key:17 success:own:8 
+successor:book:363 successor:open:86 successor:order:17 
+such:person:21886 such:work:534 such:use:465 such:this:440 such:read:436 such:see:375 such:man:190 such:sit:166 such:document:157 such:word:139 
+suggests:person:21886 suggests:this:440 
+summary:read:436 summary:make:88 
+support:person:21886 support:work:534 support:use:465 support:this:440 support:man:190 support:sit:166 support:school:92 support:make:88 support:life:54 support:column:32 
+supported:person:21886 supported:use:465 supported:writing:72 supported:fall:58 supported:column:32 supported:alone:10 
+supporting:work:534 supporting:this:440 supporting:book:363 supporting:word:139 supporting:life:54 supporting:column:32 supporting:question:23 
+survival:this:440 survival:school:92 survival:writing:72 survival:life:54 survival:question:23 survival:key:17 survival:order:17 survival:own:8 
+survived:line:21 
+suspect:person:21886 suspect:this:440 suspect:make:88 suspect:agree:27 suspect:sentence:25 suspect:question:23 suspect:subject:22 suspect:order:17 
+sympathetic:this:440 sympathetic:see:375 
+system:person:21886 system:work:534 system:use:465 system:this:440 system:read:436 system:see:375 system:man:190 system:sit:166 system:word:139 system:listen:107 
+t:person:21886 t:use:465 t:read:436 t:book:363 t:word:139 t:letter:110 t:question:23 t:model:5 
+taken:person:21886 taken:use:465 taken:this:440 taken:letter:110 taken:school:92 taken:make:88 taken:open:86 taken:life:54 taken:teach:45 taken:question:23 
+taught:person:21886 taught:this:440 taught:read:436 taught:book:363 taught:word:139 taught:student:131 taught:school:92 taught:open:86 taught:fall:58 taught:university:47 
+tell:person:21886 tell:work:534 tell:use:465 tell:this:440 tell:read:436 tell:see:375 tell:book:363 tell:man:190 tell:sit:166 tell:word:139 
+term:person:21886 term:work:534 term:use:465 term:this:440 term:read:436 term:see:375 term:sit:166 term:word:139 term:school:92 term:make:88 
+terms:this:440 terms:read:436 terms:document:157 terms:open:86 terms:life:54 terms:teach:45 terms:jump:32 terms:agree:27 terms:question:23 terms:order:17 
+terror:person:21886 terror:question:23 
+than:person:21886 than:work:534 than:use:465 than:this:440 than:read:436 than:see:375 than:book:363 than:man:190 than:sit:166 than:word:139 
+that:person:21886 that:work:534 that:use:465 that:this:440 that:read:436 that:see:375 that:book:363 that:man:190 that:sit:166 that:document:157 
+the:person:21886 the:work:534 the:use:465 the:this:440 the:read:436 the:see:375 the:book:363 the:man:190 the:sit:166 the:document:157 
+their:person:21886 their:work:534 their:use:465 their:this:440 their:read:436 their:see:375 their:book:363 their:man:190 their:sit:166 their:word:139 
+them:person:21886 them:work:534 them:use:465 them:this:440 them:read:436 them:see:375 them:book:363 them:man:190 them:sit:166 them:document:157 
+then:person:21886 then:work:534 then:use:465 then:this:440 then:read:436 then:see:375 then:book:363 then:man:190 then:sit:166 then:document:157 
+theology:student:131 
+theories:exist:2 
+there:person:21886 there:work:534 there:use:465 there:this:440 there:read:436 there:see:375 there:book:363 there:man:190 there:sit:166 there:word:139 
+therefore:person:21886 therefore:use:465 therefore:this:440 therefore:see:375 therefore:listen:107 therefore:make:88 therefore:writing:72 therefore:life:54 therefore:order:17 therefore:create:8 
+these:person:21886 these:work:534 these:use:465 these:this:440 these:read:436 these:see:375 these:book:363 these:man:190 these:sit:166 these:document:157 
+they:person:21886 they:work:534 they:use:465 they:this:440 they:read:436 they:see:375 they:book:363 they:man:190 they:sit:166 they:word:139 
+thing:person:21886 thing:work:534 thing:use:465 thing:this:440 thing:read:436 thing:see:375 thing:book:363 thing:man:190 thing:sit:166 thing:document:157 
+things:person:21886 things:work:534 things:use:465 things:this:440 things:read:436 things:see:375 things:book:363 things:man:190 things:sit:166 things:word:139 
+those:person:21886 those:work:534 those:use:465 those:this:440 those:see:375 those:book:363 those:man:190 those:word:139 those:letter:110 those:listen:107 
+though:work:534 though:use:465 though:this:440 though:see:375 though:make:88 though:fall:58 though:life:54 though:teach:45 though:relationship:27 though:question:23 
+thought:person:21886 thought:work:534 thought:use:465 thought:this:440 thought:read:436 thought:see:375 thought:book:363 thought:man:190 thought:school:92 thought:make:88 
+three:person:21886 three:use:465 three:this:440 three:see:375 three:man:190 three:sit:166 three:word:139 three:letter:110 three:school:92 three:make:88 
+through:person:21886 through:work:534 through:use:465 through:this:440 through:read:436 through:see:375 through:book:363 through:man:190 through:sit:166 through:letter:110 
+throughout:use:465 
+thus:use:465 thus:this:440 thus:see:375 thus:book:363 thus:make:88 thus:question:23 thus:line:21 thus:order:17 thus:own:8 
+time:person:21886 time:work:534 time:use:465 time:this:440 time:read:436 time:see:375 time:book:363 time:man:190 time:sit:166 time:document:157 
+to:person:21886 to:work:534 to:use:465 to:this:440 to:read:436 to:see:375 to:book:363 to:man:190 to:sit:166 to:document:157 
+together:person:21886 together:work:534 together:use:465 together:this:440 together:read:436 together:see:375 together:book:363 together:man:190 together:sit:166 together:word:139 
+too:person:21886 too:work:534 too:use:465 too:this:440 too:read:436 too:see:375 too:book:363 too:man:190 too:sit:166 too:listen:107 
+took:person:21886 took:work:534 took:use:465 took:this:440 took:see:375 took:book:363 took:student:131 took:school:92 took:make:88 took:open:86 
+topic:person:21886 topic:work:534 topic:read:436 topic:see:375 topic:book:363 topic:sit:166 topic:document:157 topic:word:139 topic:student:131 topic:letter:110 
+touched:person:21886 touched:see:375 
+toward:work:534 toward:make:88 toward:fall:58 toward:saw:56 toward:life:54 toward:line:21 toward:order:17 toward:exist:2 
+tract:use:465 tract:read:436 tract:document:157 tract:word:139 tract:question:23 
+translated:writing:72 
+true:person:21886 true:work:534 true:use:465 true:this:440 true:read:436 true:see:375 true:book:363 true:man:190 true:sit:166 true:document:157 
+two:person:21886 two:work:534 two:use:465 two:this:440 two:read:436 two:see:375 two:book:363 two:man:190 two:sit:166 two:word:139 
+ultimate:word:139 ultimate:make:88 ultimate:life:54 ultimate:question:23 
+ultimately:person:21886 ultimately:this:440 ultimately:teach:45 ultimately:order:17 
+under:person:21886 under:use:465 under:this:440 under:read:436 under:see:375 under:man:190 under:sit:166 under:word:139 under:make:88 under:open:86 
+understanding:person:21886 understanding:this:440 understanding:read:436 understanding:book:363 understanding:letter:110 understanding:make:88 understanding:life:54 understanding:meeting:35 understanding:science:23 understanding:subject:22 
+unless:person:21886 unless:work:534 unless:use:465 unless:this:440 unless:see:375 unless:school:92 unless:make:88 unless:open:86 unless:jump:32 unless:relationship:27 
+unsupported:fall:58 
+until:person:21886 until:work:534 until:use:465 until:this:440 until:read:436 until:book:363 until:sit:166 until:word:139 until:listen:107 until:school:92 
+up:person:21886 up:work:534 up:use:465 up:this:440 up:read:436 up:see:375 up:book:363 up:man:190 up:sit:166 up:word:139 
+upon:person:21886 upon:use:465 upon:this:440 upon:read:436 upon:see:375 upon:book:363 upon:man:190 upon:sit:166 upon:make:88 upon:open:86 
+us:person:21886 us:work:534 us:use:465 us:this:440 us:read:436 us:see:375 us:man:190 us:document:157 us:word:139 us:listen:107 
+used:person:21886 used:work:534 used:use:465 used:this:440 used:read:436 used:see:375 used:book:363 used:man:190 used:sit:166 used:document:157 
+using:person:21886 using:work:534 using:use:465 using:this:440 using:read:436 using:see:375 using:book:363 using:man:190 using:sit:166 using:word:139 
+usually:person:21886 usually:work:534 usually:use:465 usually:this:440 usually:read:436 usually:see:375 usually:book:363 usually:man:190 usually:sit:166 usually:word:139 
+vague:question:23 vague:memory:3 
+various:work:534 various:use:465 various:this:440 various:man:190 various:word:139 various:school:92 various:make:88 various:life:54 various:spend:40 various:question:23 
+version:use:465 version:this:440 version:make:88 version:writing:72 version:university:47 version:science:23 version:cool:18 
+versions:use:465 versions:this:440 versions:key:17 
+very:person:21886 very:work:534 very:use:465 very:this:440 very:read:436 very:see:375 very:book:363 very:man:190 very:sit:166 very:document:157 
+victory:make:88 victory:question:23 
+views:read:436 views:see:375 views:teacher:57 views:agree:27 views:subject:22 views:own:8 
+vintage:this:440 
+violent:person:21886 violent:work:534 violent:use:465 violent:make:88 violent:fall:58 violent:burning:10 
+virtually:subject:22 
+visited:this:440 visited:see:375 visited:man:190 
+volume:use:465 volume:this:440 volume:read:436 volume:book:363 volume:listen:107 volume:fall:58 volume:button:27 volume:own:8 
+wanted:person:21886 wanted:work:534 wanted:use:465 wanted:this:440 wanted:read:436 wanted:see:375 wanted:book:363 wanted:man:190 wanted:letter:110 wanted:listen:107 
+was:person:21886 was:work:534 was:use:465 was:this:440 was:read:436 was:see:375 was:book:363 was:man:190 was:word:139 was:student:131 
+way:person:21886 way:work:534 way:use:465 way:this:440 way:read:436 way:see:375 way:book:363 way:man:190 way:sit:166 way:document:157 
+we:person:21886 we:work:534 we:use:465 we:this:440 we:read:436 we:see:375 we:book:363 we:man:190 we:sit:166 we:word:139 
+well:person:21886 well:work:534 well:use:465 well:this:440 well:read:436 well:see:375 well:book:363 well:man:190 well:sit:166 well:word:139 
+went:person:21886 went:work:534 went:use:465 went:this:440 went:read:436 went:see:375 went:book:363 went:man:190 went:sit:166 went:word:139 
+were:person:21886 were:work:534 were:use:465 were:this:440 were:read:436 were:see:375 were:man:190 were:sit:166 were:word:139 were:student:131 
+western:person:21886 western:use:465 western:this:440 western:see:375 western:make:88 western:life:54 western:university:47 western:question:23 
+what:person:21886 what:work:534 what:use:465 what:this:440 what:read:436 what:see:375 what:book:363 what:man:190 what:sit:166 what:document:157 
+when:person:21886 when:work:534 when:use:465 when:this:440 when:read:436 when:see:375 when:book:363 when:man:190 when:sit:166 when:document:157 
+where:person:21886 where:work:534 where:use:465 where:this:440 where:read:436 where:see:375 where:book:363 where:man:190 where:sit:166 where:word:139 
+whereas:use:465 whereas:this:440 whereas:see:375 whereas:word:139 whereas:writing:72 whereas:model:5 
+whereby:person:21886 whereby:open:86 whereby:question:23 
+whether:person:21886 whether:work:534 whether:read:436 whether:see:375 whether:book:363 whether:student:131 whether:letter:110 whether:make:88 whether:writing:72 whether:teacher:57 
+which:person:21886 which:work:534 which:use:465 which:this:440 which:read:436 which:see:375 which:book:363 which:man:190 which:sit:166 which:document:157 
+while:person:21886 while:work:534 while:use:465 while:this:440 while:read:436 while:see:375 while:book:363 while:man:190 while:sit:166 while:document:157 
+who:person:21886 who:work:534 who:use:465 who:this:440 who:read:436 who:see:375 who:book:363 who:man:190 who:sit:166 who:word:139 
+whom:person:21886 whom:use:465 whom:this:440 whom:read:436 whom:writing:72 whom:question:23 whom:alone:10 
+widely:read:436 widely:book:363 widely:writing:72 widely:question:23 
+will:person:21886 will:work:534 will:use:465 will:this:440 will:read:436 will:see:375 will:book:363 will:man:190 will:sit:166 will:document:157 
+william:person:21886 william:this:440 william:thinking:2 
+wiped:see:375 
+wisconsin:this:440 wisconsin:see:375 
+wisdom:use:465 wisdom:this:440 wisdom:man:190 wisdom:teach:45 wisdom:thinking:2 
+wished:person:21886 wished:use:465 wished:see:375 wished:question:23 
+with:person:21886 with:work:534 with:use:465 with:this:440 with:read:436 with:see:375 with:book:363 with:man:190 with:sit:166 with:document:157 
+within:person:21886 within:work:534 within:use:465 within:this:440 within:man:190 within:word:139 within:listen:107 within:school:92 within:open:86 within:saw:56 
+without:person:21886 without:work:534 without:use:465 without:this:440 without:read:436 without:see:375 without:book:363 without:man:190 without:sit:166 without:document:157 
+witnesses:original:4 
+women:person:21886 women:work:534 women:use:465 women:this:440 women:see:375 women:book:363 women:man:190 women:sit:166 women:listen:107 women:school:92 
+worked:work:534 worked:this:440 worked:see:375 worked:receive:8 
+world:person:21886 world:work:534 world:use:465 world:this:440 world:read:436 world:see:375 world:book:363 world:man:190 world:sit:166 world:word:139 
+worlds:work:534 worlds:this:440 worlds:read:436 worlds:book:363 worlds:question:23 worlds:create:8 worlds:own:8 
+worship:use:465 worship:university:47 worship:pray:13 
+would:person:21886 would:work:534 would:use:465 would:this:440 would:read:436 would:see:375 would:book:363 would:man:190 would:sit:166 would:document:157 
+written:person:21886 written:work:534 written:use:465 written:this:440 written:read:436 written:see:375 written:book:363 written:man:190 written:document:157 written:word:139 
+wrote:person:21886 wrote:use:465 wrote:this:440 wrote:read:436 wrote:see:375 wrote:book:363 wrote:man:190 wrote:word:139 wrote:student:131 wrote:letter:110 
+year:person:21886 year:work:534 year:this:440 year:see:375 year:book:363 year:student:131 year:school:92 year:make:88 year:fall:58 year:life:54 
+years:person:21886 years:work:534 years:use:465 years:this:440 years:read:436 years:book:363 years:man:190 years:document:157 years:word:139 years:school:92 
+yet:this:440 yet:read:436 yet:book:363 yet:man:190 yet:word:139 yet:life:54 yet:search:42 yet:line:21 yet:penguin:13 yet:alone:10 
+you:person:21886 you:work:534 you:use:465 you:this:440 you:read:436 you:see:375 you:book:363 you:man:190 you:sit:166 you:document:157 
+young:person:21886 young:work:534 young:use:465 young:this:440 young:read:436 young:book:363 young:man:190 young:sit:166 young:word:139 young:student:131 
+your:person:21886 your:work:534 your:use:465 your:this:440 your:read:436 your:see:375 your:book:363 your:man:190 your:sit:166 your:document:157 
+z:letter:110 
