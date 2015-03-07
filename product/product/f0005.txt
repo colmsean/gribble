@@ -1,0 +1,397 @@
+about:person:25823 about:human:5375 about:goal:1757 about:food:690 about:work:580 about:use:512 about:see:445 about:this:439 about:type:393 about:read:386 
+according:person:25823 according:get:291 according:go:201 according:make:103 according:say:94 according:machine:54 according:order:26 according:check:17 
+across:human:5375 across:work:580 across:use:512 across:see:445 across:this:439 across:get:291 across:help:203 across:go:201 across:document:164 across:make:103 
+actually:person:25823 actually:human:5375 actually:goal:1757 actually:work:580 actually:see:445 actually:this:439 actually:phone:331 actually:get:291 actually:health:210 actually:word:121 
+added:food:690 added:health:210 added:help:203 added:cook:122 added:word:121 added:make:103 added:say:94 added:story:45 added:order:26 added:numbers:4 
+address:person:25823 address:work:580 address:use:512 address:this:439 address:type:393 address:phone:331 address:get:291 address:picture:78 address:send:55 address:email:50 
+adjective:food:690 adjective:use:512 adjective:word:121 
+after:person:25823 after:human:5375 after:food:690 after:work:580 after:use:512 after:see:445 after:this:439 after:type:393 after:read:386 after:product:361 
+again:person:25823 again:goal:1757 again:food:690 again:work:580 again:use:512 again:see:445 again:this:439 again:read:386 again:phone:331 again:get:291 
+against:person:25823 against:human:5375 against:goal:1757 against:food:690 against:work:580 against:use:512 against:see:445 against:this:439 against:get:291 against:team:230 
+ago:person:25823 ago:human:5375 ago:food:690 ago:work:580 ago:use:512 ago:this:439 ago:type:393 ago:help:203 ago:go:201 ago:open:78 
+all:person:25823 all:human:5375 all:goal:1757 all:food:690 all:work:580 all:use:512 all:see:445 all:this:439 all:type:393 all:read:386 
+allows:person:25823 allows:human:5375 allows:food:690 allows:work:580 allows:use:512 allows:see:445 allows:this:439 allows:type:393 allows:read:386 allows:phone:331 
+already:person:25823 already:use:512 already:see:445 already:this:439 already:phone:331 already:go:201 already:make:103 already:say:94 already:run:91 already:gift:87 
+also:person:25823 also:human:5375 also:goal:1757 also:food:690 also:work:580 also:use:512 also:see:445 also:this:439 also:type:393 also:read:386 
+always:person:25823 always:human:5375 always:food:690 always:work:580 always:use:512 always:see:445 always:this:439 always:get:291 always:help:203 always:go:201 
+amusement:person:25823 amusement:human:5375 amusement:food:690 amusement:use:512 amusement:see:445 amusement:this:439 amusement:get:291 amusement:go:201 amusement:word:121 amusement:make:103 
+analogy:this:439 analogy:business:5 
+analysis:human:5375 analysis:work:580 
+analyze:use:512 analyze:read:386 analyze:get:291 analyze:go:201 analyze:open:78 analyze:think:33 
+and:person:25823 and:human:5375 and:goal:1757 and:food:690 and:work:580 and:use:512 and:see:445 and:this:439 and:type:393 and:read:386 
+another:person:25823 another:human:5375 another:goal:1757 another:food:690 another:work:580 another:use:512 another:see:445 another:this:439 another:type:393 another:read:386 
+any:person:25823 any:human:5375 any:goal:1757 any:food:690 any:work:580 any:use:512 any:see:445 any:this:439 any:type:393 any:read:386 
+appear:person:25823 appear:human:5375 appear:goal:1757 appear:use:512 appear:see:445 appear:this:439 appear:type:393 appear:read:386 appear:get:291 appear:make:103 
+appears:person:25823 appears:human:5375 appears:food:690 appears:work:580 appears:see:445 appears:this:439 appears:type:393 appears:get:291 appears:go:201 appears:state:166 
+applies:person:25823 applies:see:445 applies:picture:78 
+are:person:25823 are:human:5375 are:goal:1757 are:food:690 are:work:580 are:use:512 are:see:445 are:this:439 are:type:393 are:read:386 
+around:person:25823 around:human:5375 around:food:690 around:work:580 around:use:512 around:see:445 around:this:439 around:type:393 around:read:386 around:get:291 
+article:food:690 article:use:512 article:see:445 article:this:439 article:type:393 article:read:386 article:health:210 article:go:201 article:word:121 article:picture:78 
+as:person:25823 as:human:5375 as:goal:1757 as:food:690 as:work:580 as:use:512 as:see:445 as:this:439 as:type:393 as:read:386 
+aside:food:690 aside:use:512 aside:read:386 aside:story:45 aside:leave:32 
+ass:person:25823 ass:use:512 ass:this:439 ass:phone:331 ass:get:291 ass:make:103 ass:picture:78 ass:machine:54 ass:show:37 ass:save:19 
+at:person:25823 at:human:5375 at:goal:1757 at:food:690 at:work:580 at:use:512 at:see:445 at:this:439 at:type:393 at:read:386 
+average:person:25823 average:human:5375 average:this:439 average:read:386 average:get:291 average:go:201 average:say:94 average:run:91 average:life:66 average:story:45 
+avoiding:human:5375 avoiding:work:580 avoiding:health:210 avoiding:make:103 avoiding:show:37 avoiding:check:17 
+back:person:25823 back:human:5375 back:food:690 back:work:580 back:use:512 back:see:445 back:this:439 back:type:393 back:read:386 back:phone:331 
+be:person:25823 be:human:5375 be:goal:1757 be:food:690 be:work:580 be:use:512 be:see:445 be:this:439 be:type:393 be:read:386 
+been:person:25823 been:human:5375 been:goal:1757 been:food:690 been:work:580 been:use:512 been:see:445 been:this:439 been:read:386 been:phone:331 
+before:person:25823 before:human:5375 before:goal:1757 before:food:690 before:work:580 before:use:512 before:see:445 before:this:439 before:type:393 before:read:386 
+begin:person:25823 begin:human:5375 begin:food:690 begin:work:580 begin:use:512 begin:see:445 begin:this:439 begin:phone:331 begin:get:291 begin:help:203 
+being:person:25823 being:human:5375 being:food:690 being:work:580 being:use:512 being:see:445 being:this:439 being:type:393 being:read:386 being:phone:331 
+best:person:25823 best:human:5375 best:goal:1757 best:food:690 best:work:580 best:use:512 best:see:445 best:this:439 best:read:386 best:product:361 
+but:person:25823 but:human:5375 but:goal:1757 but:food:690 but:work:580 but:use:512 but:see:445 but:this:439 but:type:393 but:read:386 
+by:person:25823 by:human:5375 by:goal:1757 by:food:690 by:work:580 by:use:512 by:see:445 by:this:439 by:type:393 by:read:386 
+call:person:25823 call:human:5375 call:food:690 call:work:580 call:use:512 call:see:445 call:this:439 call:type:393 call:read:386 call:product:361 
+can:person:25823 can:human:5375 can:goal:1757 can:food:690 can:work:580 can:use:512 can:see:445 can:this:439 can:type:393 can:read:386 
+case:person:25823 case:food:690 case:use:512 case:this:439 case:type:393 case:phone:331 case:get:291 case:health:210 case:help:203 case:go:201 
+catherine:human:5375 catherine:type:393 catherine:say:94 catherine:open:78 catherine:life:66 catherine:stop:63 catherine:enter:24 
+caused:person:25823 caused:human:5375 caused:goal:1757 caused:food:690 caused:use:512 caused:this:439 caused:get:291 caused:make:103 caused:say:94 caused:story:45 
+choosing:food:690 choosing:use:512 choosing:picture:78 choosing:dinner:41 choosing:order:26 
+clear:person:25823 clear:food:690 clear:use:512 clear:see:445 clear:this:439 clear:phone:331 clear:help:203 clear:go:201 clear:state:166 clear:make:103 
+click:type:393 click:get:291 click:go:201 click:make:103 click:story:45 click:save:19 click:post:18 click:check:17 
+come:person:25823 come:human:5375 come:food:690 come:work:580 come:use:512 come:see:445 come:this:439 come:read:386 come:get:291 come:help:203 
+comment:this:439 comment:make:103 comment:picture:78 comment:story:45 
+comments:this:439 comments:picture:78 
+common:person:25823 common:human:5375 common:goal:1757 common:food:690 common:work:580 common:use:512 common:see:445 common:this:439 common:type:393 common:product:361 
+complain:person:25823 complain:get:291 complain:state:166 complain:make:103 complain:open:78 complain:enter:24 complain:check:17 complain:working:8 
+concept:human:5375 concept:this:439 concept:type:393 concept:read:386 concept:restaurant:140 concept:make:103 concept:say:94 concept:story:45 concept:show:37 concept:love:36 
+contain:person:25823 contain:human:5375 contain:goal:1757 contain:food:690 contain:work:580 contain:use:512 contain:see:445 contain:this:439 contain:type:393 contain:read:386 
+contains:person:25823 contains:human:5375 contains:food:690 contains:use:512 contains:see:445 contains:this:439 contains:type:393 contains:read:386 contains:phone:331 contains:get:291 
+content:person:25823 content:goal:1757 content:use:512 content:see:445 content:read:386 content:get:291 content:go:201 content:cook:122 content:word:121 content:make:103 
+continues:human:5375 continues:this:439 continues:state:166 continues:stop:63 continues:order:26 
+contribute:person:25823 contribute:human:5375 contribute:see:445 contribute:this:439 contribute:read:386 contribute:go:201 contribute:say:94 contribute:open:78 contribute:picture:78 
+conversation:person:25823 conversation:human:5375 conversation:use:512 conversation:this:439 conversation:phone:331 conversation:get:291 conversation:state:166 conversation:word:121 conversation:make:103 conversation:say:94 
+cost:human:5375 cost:food:690 cost:work:580 cost:see:445 cost:this:439 cost:health:210 cost:go:201 cost:state:166 cost:restaurant:140 cost:make:103 
+crazy:person:25823 crazy:use:512 crazy:go:201 crazy:make:103 crazy:say:94 crazy:love:36 crazy:think:33 
+creation:person:25823 creation:human:5375 creation:go:201 creation:say:94 creation:picture:78 creation:life:66 creation:working:8 
+data:human:5375 data:use:512 data:see:445 data:this:439 data:read:386 data:phone:331 data:word:121 data:make:103 data:say:94 data:run:91 
+decide:person:25823 decide:goal:1757 decide:food:690 decide:work:580 decide:use:512 decide:see:445 decide:this:439 decide:type:393 decide:read:386 decide:phone:331 
+decided:goal:1757 decided:food:690 decided:work:580 decided:this:439 decided:phone:331 decided:get:291 decided:go:201 decided:restaurant:140 decided:cook:122 decided:make:103 
+defense:use:512 defense:this:439 defense:say:94 defense:picture:78 defense:life:66 defense:machine:54 defense:story:45 
+defines:person:25823 defines:life:66 
+definite:health:210 
+definition:person:25823 definition:human:5375 definition:food:690 definition:this:439 definition:word:121 definition:make:103 definition:say:94 definition:picture:78 definition:stop:63 definition:think:33 
+delivered:person:25823 delivered:food:690 delivered:this:439 delivered:phone:331 delivered:get:291 delivered:go:201 delivered:restaurant:140 delivered:say:94 delivered:open:78 delivered:picture:78 
+derive:product:361 derive:say:94 
+details:person:25823 details:see:445 details:this:439 details:read:386 details:make:103 details:say:94 details:picture:78 details:story:45 details:close:29 details:enter:24 
+development:human:5375 development:use:512 development:this:439 development:help:203 development:picture:78 development:story:45 development:approach:15 development:business:5 
+did:person:25823 did:human:5375 did:goal:1757 did:food:690 did:work:580 did:use:512 did:see:445 did:this:439 did:type:393 did:read:386 
+difference:person:25823 difference:human:5375 difference:food:690 difference:work:580 difference:use:512 difference:see:445 difference:this:439 difference:type:393 difference:read:386 difference:product:361 
+directed:say:94 directed:open:78 
+do:person:25823 do:human:5375 do:goal:1757 do:food:690 do:work:580 do:use:512 do:see:445 do:this:439 do:type:393 do:read:386 
+does:person:25823 does:human:5375 does:goal:1757 does:food:690 does:work:580 does:use:512 does:see:445 does:this:439 does:type:393 does:read:386 
+each:person:25823 each:human:5375 each:goal:1757 each:food:690 each:work:580 each:use:512 each:see:445 each:this:439 each:type:393 each:read:386 
+early:person:25823 early:human:5375 early:food:690 early:work:580 early:use:512 early:see:445 early:this:439 early:type:393 early:read:386 early:get:291 
+easier:person:25823 easier:human:5375 easier:goal:1757 easier:food:690 easier:work:580 easier:use:512 easier:see:445 easier:this:439 easier:type:393 easier:read:386 
+easily:person:25823 easily:human:5375 easily:food:690 easily:work:580 easily:use:512 easily:see:445 easily:this:439 easily:read:386 easily:phone:331 easily:get:291 
+effective:human:5375 effective:use:512 effective:this:439 effective:type:393 effective:get:291 effective:help:203 effective:word:121 effective:make:103 effective:open:78 effective:picture:78 
+effectively:person:25823 effectively:use:512 effectively:make:103 effectively:think:33 effectively:order:26 
+eleven:phone:331 eleven:numbers:4 
+end:person:25823 end:human:5375 end:goal:1757 end:food:690 end:work:580 end:use:512 end:see:445 end:this:439 end:read:386 end:phone:331 
+engineer:use:512 engineer:make:103 engineer:university:48 
+enough:person:25823 enough:human:5375 enough:goal:1757 enough:food:690 enough:work:580 enough:use:512 enough:see:445 enough:this:439 enough:read:386 enough:product:361 
+entirely:story:45 
+error:person:25823 error:human:5375 error:see:445 error:make:103 error:run:91 error:story:45 error:think:33 error:post:18 error:numbers:4 
+essentially:human:5375 essentially:this:439 essentially:get:291 essentially:go:201 essentially:state:166 essentially:word:121 essentially:close:29 essentially:enter:24 
+established:phone:331 established:make:103 
+ever:person:25823 ever:human:5375 ever:see:445 ever:this:439 ever:get:291 ever:go:201 ever:word:121 ever:make:103 ever:say:94 ever:picture:78 
+every:person:25823 every:human:5375 every:goal:1757 every:food:690 every:work:580 every:use:512 every:this:439 every:read:386 every:phone:331 every:get:291 
+everyday:person:25823 everyday:food:690 everyday:work:580 everyday:use:512 everyday:this:439 everyday:type:393 everyday:word:121 everyday:say:94 everyday:run:91 everyday:life:66 
+exactly:food:690 exactly:this:439 exactly:make:103 exactly:run:91 exactly:picture:78 exactly:show:37 exactly:order:26 
+example:person:25823 example:human:5375 example:goal:1757 example:food:690 example:work:580 example:use:512 example:this:439 example:type:393 example:product:361 example:get:291 
+exciting:person:25823 exciting:see:445 exciting:read:386 exciting:product:361 exciting:get:291 exciting:go:201 exciting:make:103 exciting:say:94 exciting:picture:78 exciting:life:66 
+expires:get:291 
+extract:food:690 extract:use:512 extract:this:439 extract:say:94 extract:picture:78 
+fact:person:25823 fact:human:5375 fact:food:690 fact:work:580 fact:use:512 fact:see:445 fact:this:439 fact:type:393 fact:read:386 fact:phone:331 
+false:person:25823 false:human:5375 false:use:512 false:see:445 false:this:439 false:make:103 false:say:94 false:picture:78 false:story:45 false:think:33 
+familiar:person:25823 familiar:use:512 familiar:restaurant:140 familiar:make:103 familiar:say:94 familiar:story:45 familiar:love:36 
+feedback:person:25823 
+feel:person:25823 feel:human:5375 feel:food:690 feel:work:580 feel:use:512 feel:see:445 feel:this:439 feel:read:386 feel:get:291 feel:team:230 
+feeling:person:25823 feeling:goal:1757 feeling:food:690 feeling:work:580 feeling:use:512 feeling:see:445 feeling:this:439 feeling:get:291 feeling:team:230 feeling:health:210 
+few:person:25823 few:human:5375 few:goal:1757 few:food:690 few:work:580 few:use:512 few:see:445 few:this:439 few:type:393 few:get:291 
+five:person:25823 five:human:5375 five:food:690 five:work:580 five:use:512 five:this:439 five:type:393 five:read:386 five:get:291 five:team:230 
+flame:food:690 flame:use:512 flame:get:291 flame:cook:122 flame:make:103 flame:say:94 flame:open:78 flame:story:45 flame:order:26 flame:post:18 
+follow:person:25823 follow:food:690 follow:work:580 follow:use:512 follow:read:386 follow:get:291 follow:go:201 follow:cook:122 follow:make:103 follow:say:94 
+for:person:25823 for:human:5375 for:goal:1757 for:food:690 for:work:580 for:use:512 for:see:445 for:this:439 for:type:393 for:read:386 
+form:person:25823 form:human:5375 form:goal:1757 form:food:690 form:work:580 form:use:512 form:see:445 form:this:439 form:type:393 form:read:386 
+forward:person:25823 forward:goal:1757 forward:work:580 forward:use:512 forward:this:439 forward:get:291 forward:help:203 forward:go:201 forward:make:103 forward:run:91 
+found:person:25823 found:human:5375 found:food:690 found:work:580 found:use:512 found:see:445 found:this:439 found:type:393 found:read:386 found:product:361 
+free:person:25823 free:goal:1757 free:food:690 free:work:580 free:use:512 free:see:445 free:this:439 free:type:393 free:read:386 free:product:361 
+from:person:25823 from:human:5375 from:goal:1757 from:food:690 from:work:580 from:use:512 from:see:445 from:this:439 from:type:393 from:read:386 
+full:person:25823 full:human:5375 full:food:690 full:use:512 full:see:445 full:this:439 full:type:393 full:phone:331 full:get:291 full:go:201 
+function:person:25823 function:human:5375 function:goal:1757 function:food:690 function:work:580 function:use:512 function:see:445 function:this:439 function:type:393 function:get:291 
+gaining:person:25823 gaining:work:580 gaining:read:386 gaining:health:210 gaining:go:201 gaining:restaurant:140 gaining:make:103 gaining:say:94 gaining:picture:78 gaining:life:66 
+garden:person:25823 garden:human:5375 garden:food:690 garden:work:580 garden:use:512 garden:see:445 garden:this:439 garden:type:393 garden:get:291 garden:help:203 
+gave:person:25823 gave:human:5375 gave:food:690 gave:work:580 gave:use:512 gave:see:445 gave:phone:331 gave:get:291 gave:state:166 gave:restaurant:140 
+generated:human:5375 generated:food:690 generated:this:439 generated:say:94 generated:run:91 generated:picture:78 generated:life:66 generated:machine:54 
+given:person:25823 given:human:5375 given:food:690 given:work:580 given:use:512 given:see:445 given:this:439 given:type:393 given:read:386 given:get:291 
+good:person:25823 good:human:5375 good:goal:1757 good:food:690 good:work:580 good:use:512 good:see:445 good:this:439 good:type:393 good:read:386 
+got:person:25823 got:human:5375 got:goal:1757 got:food:690 got:work:580 got:use:512 got:see:445 got:this:439 got:read:386 got:phone:331 
+graph:use:512 graph:make:103 graph:numbers:4 
+greater:person:25823 greater:human:5375 greater:food:690 greater:work:580 greater:use:512 greater:this:439 greater:get:291 greater:restaurant:140 greater:say:94 greater:run:91 
+had:person:25823 had:human:5375 had:food:690 had:work:580 had:use:512 had:see:445 had:this:439 had:type:393 had:read:386 had:phone:331 
+harvard:university:48 harvard:business:5 
+has:person:25823 has:human:5375 has:goal:1757 has:food:690 has:work:580 has:use:512 has:see:445 has:this:439 has:type:393 has:read:386 
+have:person:25823 have:human:5375 have:goal:1757 have:food:690 have:work:580 have:use:512 have:see:445 have:this:439 have:type:393 have:read:386 
+having:person:25823 having:human:5375 having:goal:1757 having:food:690 having:work:580 having:use:512 having:see:445 having:this:439 having:type:393 having:read:386 
+here:person:25823 here:human:5375 here:food:690 here:use:512 here:see:445 here:this:439 here:get:291 here:help:203 here:go:201 here:restaurant:140 
+high:person:25823 high:human:5375 high:food:690 high:work:580 high:use:512 high:see:445 high:this:439 high:type:393 high:product:361 high:phone:331 
+highlight:use:512 highlight:read:386 highlight:open:78 
+his:person:25823 his:human:5375 his:goal:1757 his:food:690 his:work:580 his:use:512 his:see:445 his:this:439 his:type:393 his:read:386 
+host:food:690 host:use:512 host:go:201 host:restaurant:140 host:picture:78 host:story:45 host:dinner:41 host:show:37 host:order:26 
+hours:person:25823 hours:human:5375 hours:goal:1757 hours:food:690 hours:work:580 hours:see:445 hours:this:439 hours:phone:331 hours:get:291 hours:team:230 
+how:person:25823 how:human:5375 how:goal:1757 how:food:690 how:work:580 how:use:512 how:see:445 how:this:439 how:type:393 how:read:386 
+hurts:person:25823 hurts:work:580 hurts:see:445 hurts:type:393 hurts:get:291 hurts:team:230 hurts:help:203 hurts:make:103 hurts:say:94 hurts:stop:63 
+i:person:25823 i:human:5375 i:goal:1757 i:food:690 i:work:580 i:use:512 i:see:445 i:this:439 i:type:393 i:read:386 
+id:person:25823 id:see:445 id:this:439 id:get:291 id:restaurant:140 id:make:103 id:say:94 id:machine:54 id:story:45 id:show:37 
+ideally:close:29 
+ideas:person:25823 ideas:human:5375 ideas:work:580 ideas:use:512 ideas:see:445 ideas:this:439 ideas:get:291 ideas:help:203 ideas:go:201 ideas:restaurant:140 
+identify:person:25823 identify:human:5375 identify:work:580 identify:use:512 identify:see:445 identify:this:439 identify:type:393 identify:read:386 identify:help:203 identify:word:121 
+ie:person:25823 ie:human:5375 ie:this:439 ie:get:291 ie:go:201 ie:word:121 ie:say:94 ie:picture:78 
+if:person:25823 if:human:5375 if:goal:1757 if:food:690 if:work:580 if:use:512 if:see:445 if:this:439 if:type:393 if:read:386 
+illinois:state:166 
+image:person:25823 image:human:5375 image:use:512 image:see:445 image:this:439 image:get:291 image:health:210 image:go:201 image:document:164 image:word:121 
+immediately:human:5375 immediately:see:445 immediately:picture:78 immediately:email:50 immediately:story:45 immediately:order:26 
+important:person:25823 important:human:5375 important:goal:1757 important:food:690 important:work:580 important:use:512 important:see:445 important:this:439 important:type:393 important:read:386 
+improve:person:25823 improve:human:5375 improve:food:690 improve:work:580 improve:use:512 improve:see:445 improve:this:439 improve:read:386 improve:get:291 improve:team:230 
+improvements:make:103 
+in:person:25823 in:human:5375 in:goal:1757 in:food:690 in:work:580 in:use:512 in:see:445 in:this:439 in:type:393 in:read:386 
+includes:food:690 includes:this:439 includes:state:166 includes:word:121 includes:say:94 includes:picture:78 includes:dinner:41 
+industry:human:5375 industry:work:580 industry:use:512 industry:product:361 industry:health:210 industry:document:164 industry:story:45 industry:working:8 industry:business:5 industry:decision:3 
+inform:use:512 inform:read:386 inform:say:94 inform:story:45 inform:reach:2 
+information:person:25823 information:human:5375 information:work:580 information:use:512 information:see:445 information:this:439 information:type:393 information:read:386 information:phone:331 information:get:291 
+informative:read:386 
+ingredients:human:5375 ingredients:food:690 ingredients:use:512 ingredients:get:291 ingredients:restaurant:140 ingredients:cook:122 ingredients:make:103 ingredients:story:45 ingredients:dinner:41 ingredients:order:26 
+insight:use:512 insight:see:445 insight:get:291 insight:say:94 
+insights:approach:15 
+instead:human:5375 instead:food:690 instead:work:580 instead:use:512 instead:this:439 instead:type:393 instead:read:386 instead:phone:331 instead:get:291 instead:go:201 
+interesting:person:25823 interesting:work:580 interesting:use:512 interesting:see:445 interesting:this:439 interesting:type:393 interesting:read:386 interesting:product:361 interesting:phone:331 interesting:get:291 
+into:person:25823 into:human:5375 into:goal:1757 into:food:690 into:work:580 into:use:512 into:see:445 into:this:439 into:type:393 into:read:386 
+involves:person:25823 involves:human:5375 involves:food:690 involves:work:580 involves:use:512 involves:this:439 involves:type:393 involves:restaurant:140 involves:say:94 involves:run:91 
+is:person:25823 is:human:5375 is:goal:1757 is:food:690 is:work:580 is:use:512 is:see:445 is:this:439 is:type:393 is:read:386 
+it:person:25823 it:human:5375 it:goal:1757 it:food:690 it:work:580 it:use:512 it:see:445 it:this:439 it:type:393 it:read:386 
+jargon:word:121 
+just:person:25823 just:human:5375 just:food:690 just:work:580 just:use:512 just:see:445 just:this:439 just:type:393 just:read:386 just:phone:331 
+know:person:25823 know:human:5375 know:goal:1757 know:food:690 know:work:580 know:use:512 know:see:445 know:this:439 know:type:393 know:read:386 
+labor:person:25823 labor:food:690 labor:use:512 labor:this:439 labor:get:291 labor:go:201 labor:make:103 labor:say:94 labor:picture:78 labor:story:45 
+language:person:25823 language:human:5375 language:work:580 language:use:512 language:this:439 language:type:393 language:read:386 language:get:291 language:help:203 language:word:121 
+largely:human:5375 largely:use:512 largely:this:439 largely:type:393 largely:picture:78 
+last:person:25823 last:human:5375 last:goal:1757 last:food:690 last:work:580 last:use:512 last:see:445 last:this:439 last:read:386 last:phone:331 
+launch:use:512 launch:get:291 launch:go:201 launch:say:94 launch:story:45 
+least:person:25823 least:human:5375 least:food:690 least:work:580 least:see:445 least:this:439 least:team:230 least:go:201 least:word:121 least:make:103 
+less:person:25823 less:human:5375 less:food:690 less:work:580 less:use:512 less:see:445 less:this:439 less:type:393 less:read:386 less:phone:331 
+let:person:25823 let:human:5375 let:food:690 let:work:580 let:use:512 let:see:445 let:this:439 let:phone:331 let:get:291 let:team:230 
+like:person:25823 like:human:5375 like:goal:1757 like:food:690 like:work:580 like:use:512 like:see:445 like:this:439 like:type:393 like:read:386 
+loaded:this:439 loaded:get:291 loaded:go:201 loaded:make:103 loaded:run:91 loaded:picture:78 loaded:story:45 
+long:person:25823 long:human:5375 long:goal:1757 long:food:690 long:work:580 long:use:512 long:see:445 long:this:439 long:type:393 long:read:386 
+look:person:25823 look:human:5375 look:food:690 look:work:580 look:use:512 look:see:445 look:this:439 look:type:393 look:read:386 look:product:361 
+looking:person:25823 looking:human:5375 looking:food:690 looking:work:580 looking:use:512 looking:see:445 looking:this:439 looking:read:386 looking:phone:331 looking:get:291 
+looks:person:25823 looks:human:5375 looks:goal:1757 looks:food:690 looks:work:580 looks:use:512 looks:see:445 looks:this:439 looks:type:393 looks:read:386 
+lot:person:25823 lot:human:5375 lot:goal:1757 lot:food:690 lot:work:580 lot:use:512 lot:see:445 lot:this:439 lot:type:393 lot:read:386 
+lots:person:25823 lots:human:5375 lots:food:690 lots:work:580 lots:use:512 lots:see:445 lots:this:439 lots:type:393 lots:read:386 lots:get:291 
+made:person:25823 made:human:5375 made:goal:1757 made:food:690 made:work:580 made:use:512 made:see:445 made:this:439 made:type:393 made:read:386 
+making:person:25823 making:human:5375 making:goal:1757 making:food:690 making:work:580 making:use:512 making:see:445 making:this:439 making:type:393 making:read:386 
+many:person:25823 many:human:5375 many:goal:1757 many:food:690 many:work:580 many:use:512 many:see:445 many:this:439 many:type:393 many:read:386 
+marked:human:5375 marked:this:439 marked:picture:78 
+may:person:25823 may:human:5375 may:food:690 may:work:580 may:use:512 may:see:445 may:this:439 may:type:393 may:read:386 may:product:361 
+me:person:25823 me:human:5375 me:goal:1757 me:food:690 me:work:580 me:use:512 me:see:445 me:this:439 me:type:393 me:read:386 
+mean:person:25823 mean:human:5375 mean:goal:1757 mean:food:690 mean:work:580 mean:use:512 mean:see:445 mean:this:439 mean:type:393 mean:read:386 
+means:person:25823 means:human:5375 means:goal:1757 means:food:690 means:work:580 means:use:512 means:see:445 means:this:439 means:type:393 means:read:386 
+media:human:5375 media:use:512 media:type:393 media:go:201 media:make:103 media:say:94 media:open:78 media:picture:78 media:life:66 media:business:5 
+methodologies:business:5 
+might:person:25823 might:human:5375 might:goal:1757 might:food:690 might:work:580 might:use:512 might:see:445 might:this:439 might:type:393 might:read:386 
+minutes:goal:1757 minutes:food:690 minutes:this:439 minutes:read:386 minutes:get:291 minutes:team:230 minutes:go:201 minutes:cook:122 minutes:make:103 minutes:say:94 
+missed:goal:1757 missed:work:580 missed:see:445 missed:this:439 missed:phone:331 missed:get:291 missed:make:103 missed:story:45 missed:show:37 
+missing:person:25823 missing:human:5375 missing:work:580 missing:see:445 missing:this:439 missing:get:291 missing:make:103 missing:picture:78 missing:life:66 missing:think:33 
+more:person:25823 more:human:5375 more:goal:1757 more:food:690 more:work:580 more:use:512 more:see:445 more:this:439 more:type:393 more:read:386 
+most:person:25823 most:human:5375 most:goal:1757 most:food:690 most:work:580 most:use:512 most:see:445 most:this:439 most:type:393 most:read:386 
+much:person:25823 much:human:5375 much:food:690 much:work:580 much:use:512 much:see:445 much:this:439 much:type:393 much:read:386 much:phone:331 
+must:person:25823 must:human:5375 must:goal:1757 must:food:690 must:work:580 must:use:512 must:see:445 must:this:439 must:type:393 must:read:386 
+my:person:25823 my:human:5375 my:goal:1757 my:food:690 my:work:580 my:use:512 my:see:445 my:this:439 my:type:393 my:read:386 
+name:person:25823 name:human:5375 name:goal:1757 name:work:580 name:use:512 name:this:439 name:type:393 name:read:386 name:product:361 name:phone:331 
+natural:person:25823 natural:human:5375 natural:food:690 natural:use:512 natural:see:445 natural:this:439 natural:product:361 natural:health:210 natural:help:203 natural:state:166 
+near:person:25823 near:human:5375 near:work:580 near:use:512 near:see:445 near:this:439 near:read:386 near:phone:331 near:get:291 near:help:203 
+need:person:25823 need:human:5375 need:goal:1757 need:food:690 need:work:580 need:use:512 need:see:445 need:this:439 need:type:393 need:read:386 
+never:person:25823 never:human:5375 never:food:690 never:work:580 never:use:512 never:see:445 never:this:439 never:read:386 never:phone:331 never:get:291 
+new:person:25823 new:human:5375 new:food:690 new:work:580 new:use:512 new:see:445 new:this:439 new:type:393 new:read:386 new:product:361 
+newest:person:25823 
+no:person:25823 no:human:5375 no:food:690 no:work:580 no:use:512 no:see:445 no:this:439 no:type:393 no:read:386 no:phone:331 
+nor:person:25823 nor:see:445 nor:this:439 nor:go:201 nor:picture:78 
+not:person:25823 not:human:5375 not:goal:1757 not:food:690 not:work:580 not:use:512 not:see:445 not:this:439 not:type:393 not:read:386 
+noticed:person:25823 noticed:this:439 noticed:get:291 noticed:say:94 noticed:story:45 noticed:leave:32 
+noun:person:25823 noun:use:512 noun:word:121 noun:say:94 noun:machine:54 
+observed:this:439 
+of:person:25823 of:human:5375 of:goal:1757 of:food:690 of:work:580 of:use:512 of:see:445 of:this:439 of:type:393 of:read:386 
+often:person:25823 often:human:5375 often:goal:1757 often:food:690 often:work:580 often:use:512 often:see:445 often:this:439 often:type:393 often:read:386 
+older:person:25823 older:human:5375 older:food:690 older:use:512 older:see:445 older:this:439 older:type:393 older:read:386 older:phone:331 older:get:291 
+on:person:25823 on:human:5375 on:goal:1757 on:food:690 on:work:580 on:use:512 on:see:445 on:this:439 on:type:393 on:read:386 
+one:person:25823 one:human:5375 one:goal:1757 one:food:690 one:work:580 one:use:512 one:see:445 one:this:439 one:type:393 one:read:386 
+only:person:25823 only:human:5375 only:goal:1757 only:food:690 only:work:580 only:use:512 only:see:445 only:this:439 only:type:393 only:read:386 
+opposed:person:25823 opposed:use:512 opposed:type:393 
+option:person:25823 option:this:439 option:say:94 option:picture:78 
+or:person:25823 or:human:5375 or:goal:1757 or:food:690 or:work:580 or:use:512 or:see:445 or:this:439 or:type:393 or:read:386 
+other:person:25823 other:human:5375 other:goal:1757 other:food:690 other:work:580 other:use:512 other:see:445 other:this:439 other:type:393 other:read:386 
+our:person:25823 our:human:5375 our:goal:1757 our:food:690 our:work:580 our:use:512 our:see:445 our:this:439 our:product:361 our:get:291 
+out:person:25823 out:human:5375 out:goal:1757 out:food:690 out:work:580 out:use:512 out:see:445 out:this:439 out:type:393 out:read:386 
+over:person:25823 over:human:5375 over:goal:1757 over:food:690 over:work:580 over:use:512 over:see:445 over:this:439 over:type:393 over:read:386 
+pain:person:25823 pain:human:5375 pain:work:580 pain:use:512 pain:see:445 pain:this:439 pain:type:393 pain:get:291 pain:health:210 pain:help:203 
+parting:say:94 
+parts:person:25823 parts:human:5375 parts:food:690 parts:work:580 parts:use:512 parts:see:445 parts:this:439 parts:type:393 parts:read:386 parts:phone:331 
+past:person:25823 past:human:5375 past:goal:1757 past:work:580 past:use:512 past:see:445 past:this:439 past:type:393 past:get:291 past:team:230 
+people:person:25823 people:human:5375 people:goal:1757 people:food:690 people:work:580 people:use:512 people:see:445 people:this:439 people:type:393 people:read:386 
+per:person:25823 per:human:5375 per:food:690 per:work:580 per:see:445 per:this:439 per:type:393 per:health:210 per:go:201 per:state:166 
+perfect:person:25823 perfect:human:5375 perfect:this:439 perfect:team:230 perfect:go:201 perfect:state:166 perfect:word:121 perfect:make:103 perfect:say:94 perfect:picture:78 
+performed:goal:1757 performed:work:580 performed:type:393 performed:read:386 performed:get:291 performed:team:230 performed:go:201 performed:make:103 performed:say:94 performed:run:91 
+phrase:person:25823 phrase:this:439 phrase:read:386 phrase:health:210 phrase:word:121 phrase:open:78 phrase:life:66 phrase:story:45 phrase:business:5 
+phrases:say:94 phrases:story:45 
+picking:food:690 picking:phone:331 picking:run:91 picking:story:45 picking:love:36 
+place:person:25823 place:human:5375 place:goal:1757 place:food:690 place:work:580 place:use:512 place:see:445 place:this:439 place:type:393 place:read:386 
+please:person:25823 please:food:690 please:work:580 please:use:512 please:get:291 please:help:203 please:go:201 please:cook:122 please:make:103 please:say:94 
+portion:human:5375 portion:goal:1757 portion:this:439 portion:state:166 portion:document:164 portion:run:91 portion:open:78 portion:picture:78 portion:check:17 
+positive:person:25823 positive:see:445 positive:this:439 positive:get:291 positive:go:201 positive:word:121 positive:make:103 positive:say:94 positive:open:78 positive:love:36 
+posted:restaurant:140 posted:open:78 posted:close:29 
+posts:leave:32 
+primary:food:690 primary:use:512 primary:this:439 primary:go:201 primary:make:103 primary:say:94 primary:picture:78 primary:university:48 primary:show:37 primary:love:36 
+processes:human:5375 processes:work:580 processes:this:439 processes:order:26 processes:decision:3 
+professor:read:386 professor:get:291 professor:state:166 professor:university:48 professor:story:45 professor:think:33 
+profile:person:25823 profile:see:445 profile:state:166 profile:open:78 profile:picture:78 
+provide:person:25823 provide:human:5375 provide:food:690 provide:work:580 provide:use:512 provide:see:445 provide:this:439 provide:type:393 provide:read:386 provide:help:203 
+provides:person:25823 provides:human:5375 provides:food:690 provides:use:512 provides:this:439 provides:type:393 provides:phone:331 provides:team:230 provides:state:166 provides:make:103 
+public:person:25823 public:human:5375 public:food:690 public:work:580 public:use:512 public:this:439 public:type:393 public:product:361 public:phone:331 public:get:291 
+purchase:person:25823 purchase:human:5375 purchase:food:690 purchase:use:512 purchase:see:445 purchase:type:393 purchase:read:386 purchase:phone:331 purchase:get:291 purchase:team:230 
+questions:person:25823 questions:human:5375 questions:use:512 questions:see:445 questions:this:439 questions:type:393 questions:read:386 questions:phone:331 questions:get:291 questions:go:201 
+quietly:read:386 quietly:get:291 quietly:help:203 quietly:go:201 quietly:make:103 quietly:say:94 quietly:life:66 quietly:story:45 quietly:think:33 quietly:thinking:2 
+rant:state:166 
+rather:person:25823 rather:human:5375 rather:food:690 rather:work:580 rather:use:512 rather:see:445 rather:this:439 rather:type:393 rather:get:291 rather:go:201 
+rating:person:25823 rating:use:512 rating:get:291 rating:help:203 
+really:person:25823 really:human:5375 really:food:690 really:work:580 really:use:512 really:see:445 really:this:439 really:read:386 really:product:361 really:phone:331 
+reasonable:person:25823 reasonable:human:5375 reasonable:use:512 reasonable:make:103 reasonable:story:45 reasonable:love:36 reasonable:business:5 
+recent:read:386 recent:show:37 recent:enter:24 
+recommended:use:512 
+related:person:25823 related:food:690 related:work:580 related:this:439 related:health:210 related:help:203 related:go:201 related:word:121 related:make:103 related:say:94 
+relevant:person:25823 relevant:life:66 relevant:story:45 relevant:search:42 relevant:numbers:4 
+request:use:512 request:this:439 request:picture:78 request:post:18 
+review:person:25823 review:human:5375 review:work:580 review:use:512 review:see:445 review:read:386 review:get:291 review:go:201 review:make:103 review:open:78 
+reviews:person:25823 reviews:work:580 reviews:see:445 reviews:read:386 reviews:get:291 reviews:go:201 reviews:say:94 
+ridiculous:human:5375 ridiculous:see:445 ridiculous:this:439 
+rob:food:690 rob:use:512 rob:go:201 rob:say:94 rob:story:45 rob:love:36 rob:decision:3 
+s:person:25823 s:human:5375 s:food:690 s:use:512 s:see:445 s:this:439 s:type:393 s:phone:331 s:get:291 s:cook:122 
+saving:food:690 saving:use:512 saving:this:439 saving:phone:331 saving:go:201 saving:restaurant:140 saving:make:103 saving:picture:78 saving:life:66 saving:story:45 
+secondary:go:201 secondary:university:48 
+seconds:use:512 seconds:this:439 seconds:make:103 seconds:say:94 seconds:picture:78 seconds:stop:63 seconds:story:45 seconds:show:37 seconds:post:18 seconds:numbers:4 
+seem:person:25823 seem:human:5375 seem:food:690 seem:work:580 seem:use:512 seem:see:445 seem:this:439 seem:get:291 seem:help:203 seem:make:103 
+seems:see:445 seems:this:439 seems:get:291 seems:go:201 seems:make:103 seems:say:94 seems:picture:78 seems:story:45 seems:love:36 
+sent:person:25823 sent:human:5375 sent:use:512 sent:this:439 sent:get:291 sent:go:201 sent:document:164 sent:word:121 sent:say:94 sent:picture:78 
+separate:person:25823 separate:goal:1757 separate:use:512 separate:this:439 separate:read:386 separate:get:291 separate:go:201 separate:cook:122 separate:open:78 separate:picture:78 
+served:person:25823 served:food:690 served:use:512 served:see:445 served:this:439 served:type:393 served:read:386 served:get:291 served:restaurant:140 served:say:94 
+should:person:25823 should:human:5375 should:goal:1757 should:food:690 should:work:580 should:use:512 should:see:445 should:this:439 should:type:393 should:read:386 
+simply:human:5375 simply:goal:1757 simply:see:445 simply:this:439 simply:get:291 simply:go:201 simply:make:103 simply:say:94 simply:picture:78 simply:life:66 
+since:human:5375 since:food:690 since:see:445 since:this:439 since:type:393 since:read:386 since:get:291 since:team:230 since:help:203 since:go:201 
+site:person:25823 site:work:580 site:this:439 site:type:393 site:read:386 site:help:203 site:go:201 site:open:78 site:picture:78 site:stop:63 
+size:person:25823 size:human:5375 size:use:512 size:see:445 size:this:439 size:type:393 size:read:386 size:get:291 size:go:201 size:make:103 
+so:person:25823 so:human:5375 so:goal:1757 so:food:690 so:work:580 so:use:512 so:see:445 so:this:439 so:type:393 so:read:386 
+social:person:25823 social:human:5375 social:food:690 social:work:580 social:use:512 social:this:439 social:get:291 social:help:203 social:go:201 social:make:103 
+software:person:25823 software:goal:1757 software:work:580 software:use:512 software:see:445 software:this:439 software:product:361 software:get:291 software:help:203 software:word:121 
+solution:person:25823 solution:this:439 solution:state:166 solution:say:94 solution:picture:78 solution:numbers:4 solution:reach:2 solution:thinking:2 
+some:person:25823 some:human:5375 some:goal:1757 some:food:690 some:work:580 some:use:512 some:see:445 some:this:439 some:type:393 some:read:386 
+someone:person:25823 someone:human:5375 someone:goal:1757 someone:food:690 someone:work:580 someone:use:512 someone:see:445 someone:this:439 someone:type:393 someone:read:386 
+source:person:25823 source:human:5375 source:food:690 source:work:580 source:use:512 source:see:445 source:this:439 source:read:386 source:help:203 source:go:201 
+sticking:human:5375 sticking:goal:1757 sticking:work:580 sticking:use:512 sticking:this:439 sticking:open:78 sticking:picture:78 sticking:fix:39 sticking:love:36 
+streaming:picture:78 streaming:website:8 
+strewn:read:386 
+string:person:25823 string:food:690 string:work:580 string:use:512 string:this:439 string:type:393 string:get:291 string:make:103 string:say:94 string:attach:81 
+submit:person:25823 submit:type:393 submit:get:291 submit:go:201 submit:life:66 submit:think:33 submit:post:18 submit:documents:4 
+subscription:get:291 subscription:order:26 
+such:person:25823 such:human:5375 such:food:690 such:work:580 such:use:512 such:see:445 such:this:439 such:type:393 such:read:386 such:get:291 
+suggests:person:25823 suggests:this:439 suggests:go:201 suggests:picture:78 suggests:story:45 
+sum:goal:1757 sum:food:690 sum:use:512 sum:get:291 sum:go:201 sum:restaurant:140 sum:make:103 sum:say:94 sum:story:45 sum:enter:24 
+support:person:25823 support:human:5375 support:food:690 support:work:580 support:use:512 support:this:439 support:type:393 support:get:291 support:team:230 support:help:203 
+sure:person:25823 sure:human:5375 sure:food:690 sure:work:580 sure:use:512 sure:see:445 sure:this:439 sure:read:386 sure:product:361 sure:phone:331 
+surprising:person:25823 surprising:get:291 
+surrounding:use:512 surrounding:see:445 surrounding:phone:331 surrounding:go:201 surrounding:make:103 surrounding:open:78 surrounding:picture:78 surrounding:life:66 surrounding:enter:24 
+synonym:person:25823 synonym:human:5375 synonym:word:121 synonym:say:94 synonym:leave:32 
+system:person:25823 system:human:5375 system:food:690 system:work:580 system:use:512 system:see:445 system:this:439 system:type:393 system:read:386 system:phone:331 
+take:person:25823 take:human:5375 take:goal:1757 take:food:690 take:work:580 take:use:512 take:see:445 take:this:439 take:type:393 take:read:386 
+taken:person:25823 taken:human:5375 taken:food:690 taken:use:512 taken:this:439 taken:get:291 taken:health:210 taken:help:203 taken:go:201 taken:state:166 
+techniques:use:512 techniques:picture:78 
+tell:person:25823 tell:human:5375 tell:food:690 tell:work:580 tell:use:512 tell:see:445 tell:this:439 tell:type:393 tell:read:386 tell:phone:331 
+telling:person:25823 telling:food:690 telling:use:512 telling:read:386 telling:health:210 telling:go:201 telling:restaurant:140 telling:word:121 telling:make:103 telling:say:94 
+term:person:25823 term:human:5375 term:goal:1757 term:food:690 term:work:580 term:use:512 term:see:445 term:this:439 term:type:393 term:read:386 
+text:human:5375 text:food:690 text:use:512 text:this:439 text:type:393 text:read:386 text:get:291 text:go:201 text:document:164 text:make:103 
+than:person:25823 than:human:5375 than:food:690 than:work:580 than:use:512 than:see:445 than:this:439 than:type:393 than:read:386 than:product:361 
+that:person:25823 that:human:5375 that:goal:1757 that:food:690 that:work:580 that:use:512 that:see:445 that:this:439 that:type:393 that:read:386 
+the:person:25823 the:human:5375 the:goal:1757 the:food:690 the:work:580 the:use:512 the:see:445 the:this:439 the:type:393 the:read:386 
+their:person:25823 their:human:5375 their:goal:1757 their:food:690 their:work:580 their:use:512 their:see:445 their:this:439 their:type:393 their:read:386 
+them:person:25823 them:human:5375 them:food:690 them:work:580 them:use:512 them:see:445 them:this:439 them:type:393 them:read:386 them:product:361 
+there:person:25823 there:human:5375 there:goal:1757 there:food:690 there:work:580 there:use:512 there:see:445 there:this:439 there:type:393 there:read:386 
+these:person:25823 these:human:5375 these:goal:1757 these:food:690 these:work:580 these:use:512 these:see:445 these:this:439 these:type:393 these:read:386 
+they:person:25823 they:human:5375 they:goal:1757 they:food:690 they:work:580 they:use:512 they:see:445 they:this:439 they:type:393 they:read:386 
+thing:person:25823 thing:human:5375 thing:goal:1757 thing:food:690 thing:work:580 thing:use:512 thing:see:445 thing:this:439 thing:type:393 thing:read:386 
+things:person:25823 things:human:5375 things:goal:1757 things:food:690 things:work:580 things:use:512 things:see:445 things:this:439 things:type:393 things:read:386 
+though:human:5375 though:food:690 though:work:580 though:use:512 though:see:445 though:this:439 though:type:393 though:get:291 though:go:201 though:make:103 
+thoughts:person:25823 thoughts:human:5375 thoughts:use:512 thoughts:type:393 thoughts:read:386 thoughts:get:291 thoughts:go:201 thoughts:make:103 thoughts:say:94 thoughts:life:66 
+thousands:see:445 thousands:this:439 thousands:say:94 thousands:picture:78 thousands:working:8 
+through:person:25823 through:human:5375 through:goal:1757 through:food:690 through:work:580 through:use:512 through:see:445 through:this:439 through:type:393 through:read:386 
+time:person:25823 time:human:5375 time:goal:1757 time:food:690 time:work:580 time:use:512 time:see:445 time:this:439 time:type:393 time:read:386 
+times:person:25823 times:human:5375 times:goal:1757 times:food:690 times:work:580 times:use:512 times:see:445 times:this:439 times:read:386 times:phone:331 
+title:person:25823 title:work:580 title:use:512 title:see:445 title:picture:78 title:story:45 title:show:37 title:check:17 
+to:person:25823 to:human:5375 to:goal:1757 to:food:690 to:work:580 to:use:512 to:see:445 to:this:439 to:type:393 to:read:386 
+top:person:25823 top:human:5375 top:food:690 top:work:580 top:use:512 top:see:445 top:this:439 top:type:393 top:read:386 top:get:291 
+toward:work:580 toward:go:201 toward:make:103 toward:say:94 toward:picture:78 toward:life:66 toward:story:45 toward:show:37 toward:think:33 toward:order:26 
+true:person:25823 true:human:5375 true:goal:1757 true:food:690 true:work:580 true:use:512 true:see:445 true:this:439 true:type:393 true:read:386 
+try:person:25823 try:human:5375 try:goal:1757 try:food:690 try:work:580 try:use:512 try:see:445 try:this:439 try:read:386 try:phone:331 
+trying:person:25823 trying:goal:1757 trying:food:690 trying:work:580 trying:use:512 trying:see:445 trying:this:439 trying:get:291 trying:team:230 trying:help:203 
+twenty:this:439 twenty:get:291 twenty:make:103 twenty:stop:63 twenty:story:45 
+two:person:25823 two:human:5375 two:goal:1757 two:food:690 two:work:580 two:use:512 two:see:445 two:this:439 two:type:393 two:read:386 
+typically:person:25823 typically:food:690 typically:use:512 typically:this:439 typically:get:291 typically:go:201 typically:restaurant:140 typically:word:121 typically:say:94 typically:picture:78 
+typing:see:445 typing:this:439 typing:type:393 typing:get:291 typing:help:203 typing:document:164 typing:word:121 typing:make:103 typing:say:94 typing:open:78 
+uncover:health:210 
+understand:person:25823 understand:human:5375 understand:goal:1757 understand:food:690 understand:work:580 understand:use:512 understand:see:445 understand:this:439 understand:type:393 understand:read:386 
+understanding:person:25823 understanding:human:5375 understanding:this:439 understanding:type:393 understanding:read:386 understanding:get:291 understanding:help:203 understanding:go:201 understanding:make:103 understanding:say:94 
+unhelpful:human:5375 
+unless:person:25823 unless:food:690 unless:work:580 unless:use:512 unless:see:445 unless:this:439 unless:product:361 unless:get:291 unless:health:210 unless:go:201 
+up:person:25823 up:human:5375 up:goal:1757 up:food:690 up:work:580 up:use:512 up:see:445 up:this:439 up:type:393 up:read:386 
+upload:story:45 
+us:person:25823 us:human:5375 us:food:690 us:work:580 us:use:512 us:see:445 us:this:439 us:read:386 us:get:291 us:health:210 
+used:person:25823 used:human:5375 used:goal:1757 used:food:690 used:work:580 used:use:512 used:see:445 used:this:439 used:type:393 used:read:386 
+using:person:25823 using:human:5375 using:goal:1757 using:food:690 using:work:580 using:use:512 using:see:445 using:this:439 using:type:393 using:read:386 
+usually:person:25823 usually:human:5375 usually:food:690 usually:work:580 usually:use:512 usually:see:445 usually:this:439 usually:type:393 usually:read:386 usually:product:361 
+valid:person:25823 valid:show:37 valid:enter:24 
+valuable:person:25823 valuable:human:5375 valuable:work:580 valuable:this:439 valuable:get:291 valuable:team:230 valuable:go:201 valuable:document:164 valuable:make:103 valuable:say:94 
+value:person:25823 value:human:5375 value:food:690 value:work:580 value:use:512 value:see:445 value:this:439 value:read:386 value:get:291 value:go:201 
+verbal:picture:78 
+via:food:690 via:use:512 via:type:393 via:get:291 via:say:94 via:picture:78 via:send:55 via:order:26 
+visible:person:25823 visible:human:5375 visible:food:690 visible:work:580 visible:see:445 visible:this:439 visible:help:203 visible:word:121 visible:make:103 visible:say:94 
+want:person:25823 want:human:5375 want:goal:1757 want:food:690 want:work:580 want:use:512 want:see:445 want:this:439 want:type:393 want:read:386 
+was:person:25823 was:human:5375 was:goal:1757 was:food:690 was:work:580 was:use:512 was:see:445 was:this:439 was:type:393 was:read:386 
+waste:person:25823 waste:human:5375 waste:food:690 waste:work:580 waste:use:512 waste:this:439 waste:type:393 waste:product:361 waste:get:291 waste:go:201 
+wasting:food:690 wasting:type:393 wasting:get:291 wasting:restaurant:140 wasting:life:66 wasting:story:45 wasting:show:37 
+way:person:25823 way:human:5375 way:goal:1757 way:food:690 way:work:580 way:use:512 way:see:445 way:this:439 way:type:393 way:read:386 
+we:person:25823 we:human:5375 we:goal:1757 we:food:690 we:work:580 we:use:512 we:see:445 we:this:439 we:read:386 we:product:361 
+week:person:25823 week:human:5375 week:goal:1757 week:food:690 week:work:580 week:use:512 week:this:439 week:get:291 week:team:230 week:go:201 
+weeks:person:25823 weeks:human:5375 weeks:food:690 weeks:get:291 weeks:make:103 weeks:say:94 weeks:run:91 weeks:story:45 weeks:leave:32 weeks:close:29 
+went:person:25823 went:human:5375 went:goal:1757 went:food:690 went:work:580 went:use:512 went:see:445 went:this:439 went:type:393 went:read:386 
+were:person:25823 were:human:5375 were:goal:1757 were:food:690 were:work:580 were:use:512 were:see:445 were:this:439 were:read:386 were:product:361 
+what:person:25823 what:human:5375 what:goal:1757 what:food:690 what:work:580 what:use:512 what:see:445 what:this:439 what:type:393 what:read:386 
+whatever:person:25823 whatever:human:5375 whatever:use:512 whatever:see:445 whatever:this:439 whatever:get:291 whatever:make:103 whatever:say:94 whatever:run:91 whatever:open:78 
+when:person:25823 when:human:5375 when:goal:1757 when:food:690 when:work:580 when:use:512 when:see:445 when:this:439 when:type:393 when:read:386 
+whenever:person:25823 whenever:use:512 whenever:see:445 whenever:get:291 whenever:go:201 whenever:make:103 whenever:story:45 
+where:person:25823 where:human:5375 where:goal:1757 where:food:690 where:work:580 where:use:512 where:see:445 where:this:439 where:type:393 where:read:386 
+whether:person:25823 whether:human:5375 whether:work:580 whether:see:445 whether:type:393 whether:read:386 whether:phone:331 whether:get:291 whether:help:203 whether:go:201 
+which:person:25823 which:human:5375 which:goal:1757 which:food:690 which:work:580 which:use:512 which:see:445 which:this:439 which:type:393 which:read:386 
+while:person:25823 while:human:5375 while:goal:1757 while:food:690 while:work:580 while:use:512 while:see:445 while:this:439 while:type:393 while:read:386 
+whipped:this:439 whipped:picture:78 
+who:person:25823 who:human:5375 who:goal:1757 who:food:690 who:work:580 who:use:512 who:see:445 who:this:439 who:type:393 who:read:386 
+why:person:25823 why:human:5375 why:goal:1757 why:food:690 why:work:580 why:use:512 why:see:445 why:this:439 why:read:386 why:phone:331 
+will:person:25823 will:human:5375 will:goal:1757 will:food:690 will:work:580 will:use:512 will:see:445 will:this:439 will:type:393 will:read:386 
+wish:person:25823 wish:human:5375 wish:work:580 wish:use:512 wish:see:445 wish:this:439 wish:read:386 wish:phone:331 wish:get:291 wish:go:201 
+with:person:25823 with:human:5375 with:goal:1757 with:food:690 with:work:580 with:use:512 with:see:445 with:this:439 with:type:393 with:read:386 
+without:person:25823 without:human:5375 without:goal:1757 without:food:690 without:work:580 without:use:512 without:see:445 without:this:439 without:read:386 without:phone:331 
+world:person:25823 world:human:5375 world:food:690 world:work:580 world:use:512 world:see:445 world:this:439 world:type:393 world:read:386 world:phone:331 
+worst:human:5375 worst:use:512 worst:this:439 worst:help:203 worst:state:166 worst:life:66 
+would:person:25823 would:human:5375 would:goal:1757 would:food:690 would:work:580 would:use:512 would:see:445 would:this:439 would:type:393 would:read:386 
+yet:human:5375 yet:food:690 yet:this:439 yet:read:386 yet:get:291 yet:word:121 yet:say:94 yet:picture:78 yet:life:66 yet:story:45 
+you:person:25823 you:human:5375 you:goal:1757 you:food:690 you:work:580 you:use:512 you:see:445 you:this:439 you:type:393 you:read:386 
+your:person:25823 your:human:5375 your:goal:1757 your:food:690 your:work:580 your:use:512 your:see:445 your:this:439 your:type:393 your:read:386 
+zoom:use:512 zoom:see:445 zoom:get:291 zoom:picture:78 zoom:close:29 zoom:order:26 
