@@ -1,0 +1,754 @@
+ability:human:2848 ability:this:427 ability:work:343 ability:computer:217 ability:give:184 ability:type:164 ability:building:137 ability:learn:99 ability:help:95 ability:use:95 
+able:human:2848 able:goal:789 able:this:427 able:work:343 able:computer:217 able:number:209 able:give:184 able:paper:159 able:team:156 able:program:101 
+about:human:2848 about:goal:789 about:this:427 about:work:343 about:computer:217 about:number:209 about:give:184 about:type:164 about:study:160 about:paper:159 
+above:human:2848 above:this:427 above:computer:217 above:study:160 above:earth:99 above:use:95 above:table:91 above:head:90 above:sun:81 above:make:78 
+abrupt:human:2848 abrupt:this:427 abrupt:make:78 abrupt:get:48 abrupt:train:42 abrupt:enjoy:4 abrupt:travel:4 
+absolute:tool:76 absolute:motion:6 
+abstract:goal:789 abstract:use:95 abstract:sun:81 abstract:school:48 abstract:field:33 
+access:human:2848 access:this:427 access:work:343 access:computer:217 access:number:209 access:give:184 access:study:160 access:building:137 access:program:101 access:help:95 
+accessed:computer:217 accessed:number:209 accessed:make:78 
+accessible:get:48 
+accuracy:computer:217 accuracy:type:164 accuracy:use:95 accuracy:sun:81 accuracy:make:78 accuracy:machine:42 accuracy:approach:9 
+accurate:human:2848 accurate:this:427 accurate:work:343 accurate:earth:99 accurate:use:95 accurate:make:78 accurate:enjoy:4 
+accurately:type:164 accurately:earth:99 accurately:get:48 accurately:electricity:16 accurately:model:5 
+across:human:2848 across:this:427 across:work:343 across:paper:159 across:document:124 across:help:95 across:use:95 across:table:91 across:happy:90 across:sun:81 
+activities:human:2848 activities:goal:789 activities:this:427 activities:work:343 activities:number:209 activities:give:184 activities:team:156 activities:document:124 activities:learn:99 activities:help:95 
+activity:human:2848 activity:goal:789 activity:this:427 activity:work:343 activity:computer:217 activity:give:184 activity:type:164 activity:study:160 activity:paper:159 activity:building:137 
+actual:human:2848 actual:this:427 actual:number:209 actual:use:95 
+actually:human:2848 actually:goal:789 actually:this:427 actually:work:343 actually:computer:217 actually:program:101 actually:earth:99 actually:happy:90 actually:sun:81 actually:make:78 
+adapt:human:2848 adapt:this:427 adapt:work:343 adapt:type:164 adapt:build:13 adapt:process:12 
+add:number:209 add:paper:159 add:learn:99 add:use:95 add:head:90 add:write:87 add:make:78 add:writing:57 add:get:48 add:school:48 
+added:help:95 added:make:78 added:story:29 
+additional:help:95 additional:use:95 
+address:this:427 address:work:343 address:computer:217 address:number:209 address:type:164 address:paper:159 address:use:95 address:write:87 address:writing:57 address:get:48 
+addressed:computer:217 addressed:write:87 addressed:mail:26 addressed:path:3 
+advanced:human:2848 advanced:this:427 advanced:write:87 advanced:tool:76 advanced:research:2 
+advances:computer:217 advances:get:48 advances:story:29 advances:science:15 advances:travel:4 
+advantage:human:2848 advantage:this:427 advantage:give:184 advantage:study:160 advantage:program:101 advantage:earth:99 advantage:help:95 advantage:use:95 advantage:make:78 advantage:machine:42 
+adverse:human:2848 
+after:human:2848 after:this:427 after:work:343 after:product:218 after:computer:217 after:number:209 after:give:184 after:type:164 after:study:160 after:paper:159 
+ai:goal:789 ai:work:343 ai:program:101 
+aid:human:2848 aid:work:343 aid:help:95 aid:use:95 aid:make:78 aid:tool:76 aid:task:72 aid:story:29 aid:carry:21 aid:performance:14 
+aim:this:427 aim:product:218 aim:help:95 aim:window:40 aim:oxygen:4 
+aims:human:2848 aims:work:343 aims:write:87 aims:science:15 
+algorithm:computer:217 algorithm:program:101 algorithm:write:87 algorithm:school:48 algorithm:carry:21 algorithm:perform:6 
+algorithms:help:95 
+all:human:2848 all:goal:789 all:this:427 all:work:343 all:product:218 all:computer:217 all:number:209 all:give:184 all:type:164 all:study:160 
+allowing:human:2848 allowing:this:427 allowing:work:343 allowing:computer:217 allowing:state:116 allowing:use:95 allowing:sun:81 allowing:make:78 allowing:get:48 allowing:story:29 
+allows:human:2848 allows:this:427 allows:work:343 allows:computer:217 allows:number:209 allows:type:164 allows:study:160 allows:paper:159 allows:building:137 allows:program:101 
+almost:human:2848 almost:this:427 almost:computer:217 almost:paper:159 almost:building:137 almost:earth:99 almost:learn:99 almost:help:95 almost:use:95 almost:happy:90 
+already:this:427 already:paper:159 already:learn:99 already:use:95 already:write:87 already:make:78 already:story:29 already:check:10 already:track:3 
+also:human:2848 also:goal:789 also:this:427 also:work:343 also:product:218 also:computer:217 also:number:209 also:give:184 also:type:164 also:study:160 
+always:human:2848 always:this:427 always:work:343 always:computer:217 always:give:184 always:paper:159 always:building:137 always:program:101 always:earth:99 always:learn:99 
+among:human:2848 among:this:427 among:work:343 among:computer:217 among:number:209 among:help:95 among:write:87 among:tool:76 among:ice:37 among:usa:30 
+amount:human:2848 amount:this:427 amount:work:343 amount:product:218 amount:computer:217 amount:number:209 amount:type:164 amount:paper:159 amount:building:137 amount:earth:99 
+amounts:this:427 amounts:paper:159 amounts:use:95 amounts:write:87 amounts:sun:81 amounts:make:78 amounts:get:48 amounts:mail:26 amounts:check:10 amounts:travel:4 
+analyse:use:95 analyse:make:78 analyse:examine:49 
+analysing:learn:99 analysing:record:6 
+analysis:human:2848 analysis:work:343 analysis:computer:217 analysis:program:101 analysis:write:87 analysis:process:12 
+and:human:2848 and:goal:789 and:this:427 and:work:343 and:product:218 and:computer:217 and:number:209 and:give:184 and:type:164 and:study:160 
+annual:this:427 annual:team:156 annual:happy:90 annual:field:33 
+any:human:2848 any:goal:789 any:this:427 any:work:343 any:computer:217 any:number:209 any:type:164 any:study:160 any:paper:159 any:building:137 
+application:computer:217 application:paper:159 application:program:101 application:use:95 application:write:87 application:make:78 application:task:72 application:writing:57 application:get:48 application:school:48 
+applications:computer:217 applications:number:209 applications:program:101 applications:tool:76 
+applied:human:2848 applied:this:427 applied:work:343 applied:computer:217 applied:paper:159 applied:state:116 applied:write:87 applied:make:78 applied:writing:57 applied:get:48 
+approaches:this:427 approaches:train:42 
+appropriate:work:343 appropriate:computer:217 appropriate:study:160 appropriate:program:101 appropriate:learn:99 appropriate:write:87 appropriate:tool:76 appropriate:task:72 appropriate:plan:69 appropriate:school:48 
+arc:travel:4 
+architecture:computer:217 architecture:type:164 architecture:study:160 architecture:building:137 architecture:use:95 architecture:university:34 architecture:project:27 architecture:science:15 architecture:set:8 
+are:human:2848 are:goal:789 are:this:427 are:work:343 are:product:218 are:computer:217 are:number:209 are:give:184 are:type:164 are:study:160 
+area:human:2848 area:this:427 area:work:343 area:number:209 area:type:164 area:paper:159 area:building:137 area:state:116 area:earth:99 area:learn:99 
+around:human:2848 around:this:427 around:work:343 around:computer:217 around:give:184 around:type:164 around:study:160 around:paper:159 around:team:156 around:building:137 
+artificial:human:2848 artificial:this:427 artificial:computer:217 artificial:give:184 artificial:study:160 artificial:program:101 artificial:earth:99 artificial:help:95 artificial:use:95 artificial:table:91 
+as:human:2848 as:goal:789 as:this:427 as:work:343 as:product:218 as:computer:217 as:number:209 as:give:184 as:type:164 as:study:160 
+aspects:sun:81 
+assigned:human:2848 assigned:work:343 assigned:number:209 assigned:paper:159 assigned:team:156 assigned:write:87 assigned:make:78 assigned:task:72 assigned:writing:57 assigned:get:48 
+assist:this:427 assist:computer:217 assist:use:95 
+assumed:table:91 assumed:carry:21 
+assumption:this:427 assumption:type:164 assumption:match:78 assumption:writing:57 assumption:machine:42 assumption:field:33 
+astronomers:study:160 astronomers:learn:99 astronomers:use:95 
+at:human:2848 at:goal:789 at:this:427 at:work:343 at:product:218 at:computer:217 at:number:209 at:give:184 at:type:164 at:study:160 
+atmosphere:this:427 atmosphere:number:209 atmosphere:building:137 atmosphere:state:116 atmosphere:earth:99 atmosphere:use:95 atmosphere:sun:81 atmosphere:make:78 atmosphere:get:48 atmosphere:electricity:16 
+attempt:human:2848 attempt:goal:789 attempt:this:427 attempt:building:137 attempt:state:116 attempt:write:87 attempt:make:78 attempt:get:48 attempt:machine:42 attempt:break:32 
+attention:human:2848 attention:this:427 attention:work:343 attention:give:184 attention:paper:159 attention:state:116 attention:learn:99 attention:help:95 attention:use:95 attention:make:78 
+attribute:this:427 attribute:paper:159 attribute:learn:99 attribute:use:95 attribute:machine:42 attribute:break:32 attribute:enjoy:4 
+attributes:model:5 
+auroras:field:33 
+australian:work:343 australian:paper:159 australian:team:156 australian:school:48 australian:story:29 
+automatic:use:95 automatic:machine:42 
+available:human:2848 available:this:427 available:work:343 available:computer:217 available:number:209 available:type:164 available:paper:159 available:use:95 available:head:90 available:make:78 
+b:goal:789 b:type:164 b:paper:159 b:building:137 b:use:95 b:table:91 b:writing:57 b:get:48 b:story:29 b:carry:21 
+background:goal:789 background:this:427 background:computer:217 background:number:209 background:paper:159 background:building:137 background:state:116 background:earth:99 background:learn:99 background:use:95 
+based:this:427 based:work:343 based:computer:217 based:give:184 based:state:116 based:program:101 based:earth:99 based:help:95 based:use:95 based:sun:81 
+basic:human:2848 basic:this:427 basic:computer:217 basic:type:164 basic:team:156 basic:learn:99 basic:help:95 basic:use:95 basic:head:90 basic:make:78 
+be:human:2848 be:goal:789 be:this:427 be:work:343 be:product:218 be:computer:217 be:number:209 be:give:184 be:type:164 be:study:160 
+because:human:2848 because:goal:789 because:this:427 because:work:343 because:product:218 because:computer:217 because:number:209 because:give:184 because:type:164 because:study:160 
+become:human:2848 become:this:427 become:work:343 become:computer:217 become:give:184 become:type:164 become:study:160 become:state:116 become:program:101 become:earth:99 
+been:human:2848 been:goal:789 been:this:427 been:work:343 been:computer:217 been:number:209 been:give:184 been:study:160 been:paper:159 been:building:137 
+before:human:2848 before:goal:789 before:this:427 before:work:343 before:product:218 before:computer:217 before:number:209 before:give:184 before:type:164 before:study:160 
+begin:human:2848 begin:this:427 begin:work:343 begin:computer:217 begin:paper:159 begin:building:137 begin:program:101 begin:help:95 begin:use:95 begin:table:91 
+begins:work:343 begins:get:48 begins:break:32 begins:performance:14 
+being:human:2848 being:this:427 being:work:343 being:computer:217 being:number:209 being:give:184 being:type:164 being:study:160 being:paper:159 being:team:156 
+belief:this:427 belief:give:184 belief:earth:99 belief:use:95 belief:school:48 
+ben:earth:99 ben:ice:37 ben:electricity:16 
+best:human:2848 best:goal:789 best:this:427 best:work:343 best:product:218 best:computer:217 best:number:209 best:give:184 best:paper:159 best:team:156 
+better:human:2848 better:goal:789 better:this:427 better:work:343 better:computer:217 better:give:184 better:study:160 better:paper:159 better:team:156 better:building:137 
+between:human:2848 between:goal:789 between:this:427 between:work:343 between:product:218 between:computer:217 between:number:209 between:give:184 between:type:164 between:paper:159 
+beyond:human:2848 beyond:earth:99 beyond:table:91 beyond:make:78 beyond:travel:4 
+big:human:2848 big:this:427 big:work:343 big:computer:217 big:give:184 big:team:156 big:building:137 big:earth:99 big:help:95 big:use:95 
+billion:human:2848 billion:number:209 billion:earth:99 billion:sun:81 
+both:human:2848 both:this:427 both:work:343 both:product:218 both:computer:217 both:number:209 both:give:184 both:type:164 both:paper:159 both:team:156 
+breast:human:2848 breast:this:427 breast:use:95 breast:make:78 
+but:human:2848 but:goal:789 but:this:427 but:work:343 but:computer:217 but:number:209 but:give:184 but:type:164 but:study:160 but:paper:159 
+by:human:2848 by:goal:789 by:this:427 by:work:343 by:product:218 by:computer:217 by:number:209 by:give:184 by:type:164 by:study:160 
+calculating:computer:217 calculating:make:78 calculating:get:48 
+can:human:2848 can:goal:789 can:this:427 can:work:343 can:product:218 can:computer:217 can:number:209 can:give:184 can:type:164 can:study:160 
+cannot:human:2848 cannot:this:427 cannot:work:343 cannot:computer:217 cannot:number:209 cannot:give:184 cannot:type:164 cannot:paper:159 cannot:state:116 cannot:earth:99 
+case:this:427 case:computer:217 case:number:209 case:type:164 case:study:160 case:paper:159 case:building:137 case:help:95 case:use:95 case:head:90 
+cases:work:343 cases:use:95 cases:writing:57 cases:get:48 cases:carry:21 cases:record:6 cases:apply:4 cases:decision:1 
+casual:work:343 casual:type:164 casual:table:91 casual:writing:57 
+categorical:this:427 categorical:computer:217 
+cause:human:2848 cause:this:427 cause:work:343 cause:computer:217 cause:type:164 cause:paper:159 cause:earth:99 cause:use:95 cause:table:91 cause:head:90 
+causes:human:2848 causes:goal:789 causes:this:427 causes:work:343 causes:computer:217 causes:number:209 causes:give:184 causes:paper:159 causes:team:156 causes:building:137 
+center:this:427 center:work:343 center:product:218 center:number:209 center:give:184 center:team:156 center:earth:99 center:use:95 center:sun:81 center:pass:43 
+certain:human:2848 certain:goal:789 certain:this:427 certain:work:343 certain:computer:217 certain:number:209 certain:give:184 certain:type:164 certain:study:160 certain:paper:159 
+changes:this:427 changes:work:343 changes:number:209 changes:give:184 changes:study:160 changes:state:116 changes:earth:99 changes:sun:81 changes:make:78 changes:get:48 
+charged:this:427 charged:state:116 charged:use:95 charged:field:33 charged:electricity:16 charged:check:10 
+choice:human:2848 choice:work:343 choice:learn:99 choice:use:95 choice:make:78 choice:tool:76 choice:machine:42 choice:story:29 choice:mail:26 choice:check:10 
+chosen:study:160 chosen:paper:159 chosen:make:78 chosen:writing:57 chosen:get:48 chosen:story:29 
+citizen:this:427 citizen:write:87 citizen:get:48 citizen:travel:4 
+claimed:this:427 claimed:work:343 
+classes:number:209 classes:study:160 classes:learn:99 classes:use:95 classes:write:87 classes:make:78 classes:get:48 classes:school:48 classes:pass:43 classes:university:34 
+classification:computer:217 classification:type:164 
+clear:this:427 clear:computer:217 clear:number:209 clear:give:184 clear:paper:159 clear:building:137 clear:state:116 clear:help:95 clear:use:95 clear:table:91 
+clients:use:95 clients:task:72 clients:story:29 
+climax:story:29 
+clues:help:95 clues:get:48 clues:story:29 
+code:human:2848 code:this:427 code:computer:217 code:number:209 code:program:101 code:help:95 code:write:87 code:writing:57 code:usa:30 code:story:29 
+collected:sun:81 collected:writing:57 collected:story:29 
+collection:this:427 collection:work:343 collection:computer:217 collection:number:209 collection:paper:159 collection:program:101 collection:make:78 collection:school:48 collection:story:29 collection:disk:16 
+colours:type:164 colours:help:95 colours:sun:81 colours:make:78 colours:plan:69 colours:get:48 colours:pass:43 colours:break:32 colours:story:29 colours:apply:4 
+comfortable:human:2848 comfortable:this:427 comfortable:type:164 comfortable:study:160 comfortable:learn:99 comfortable:help:95 comfortable:use:95 comfortable:table:91 comfortable:write:87 comfortable:make:78 
+commercial:goal:789 commercial:product:218 commercial:building:137 commercial:state:116 commercial:program:101 commercial:use:95 commercial:make:78 commercial:ice:37 commercial:decision:1 
+common:human:2848 common:goal:789 common:this:427 common:work:343 common:product:218 common:computer:217 common:number:209 common:type:164 common:study:160 common:paper:159 
+compared:human:2848 compared:state:116 compared:earth:99 compared:usa:30 compared:story:29 compared:path:3 
+competing:this:427 competing:learn:99 competing:help:95 competing:story:29 
+complete:human:2848 complete:this:427 complete:computer:217 complete:number:209 complete:study:160 complete:paper:159 complete:program:101 complete:earth:99 complete:use:95 complete:write:87 
+completed:human:2848 completed:work:343 completed:make:78 completed:school:48 completed:university:34 completed:story:29 completed:class:6 
+completely:human:2848 completely:this:427 completely:work:343 completely:computer:217 completely:use:95 completely:head:90 completely:make:78 completely:story:29 
+completing:goal:789 completing:this:427 completing:work:343 completing:computer:217 completing:table:91 completing:task:72 completing:plan:69 completing:writing:57 completing:story:29 completing:goals:3 
+completion:human:2848 completion:give:184 completion:project:27 completion:set:8 completion:goals:3 
+complex:human:2848 complex:this:427 complex:work:343 complex:computer:217 complex:paper:159 complex:building:137 complex:learn:99 complex:help:95 complex:use:95 complex:make:78 
+complexities:travel:4 
+component:human:2848 component:work:343 component:computer:217 component:earth:99 component:make:78 component:machine:42 component:oxygen:4 
+components:human:2848 components:this:427 components:computer:217 components:program:101 components:earth:99 components:use:95 components:write:87 components:make:78 components:writing:57 components:examine:49 
+computations:computer:217 computations:number:209 computations:use:95 computations:make:78 computations:check:10 computations:perform:6 
+concept:human:2848 concept:this:427 concept:computer:217 concept:number:209 concept:type:164 concept:paper:159 concept:program:101 concept:learn:99 concept:write:87 concept:make:78 
+conditions:this:427 conditions:work:343 conditions:computer:217 conditions:number:209 conditions:type:164 conditions:document:124 conditions:help:95 conditions:make:78 conditions:pass:43 conditions:story:29 
+conduct:human:2848 conduct:this:427 conduct:study:160 conduct:building:137 conduct:earth:99 conduct:use:95 conduct:make:78 conduct:task:72 conduct:get:48 conduct:electricity:16 
+confidence:this:427 confidence:make:78 confidence:get:48 confidence:school:48 
+confirm:get:48 confirm:train:42 confirm:check:10 
+conjunction:process:12 conjunction:model:5 conjunction:models:3 
+connected:this:427 connected:computer:217 connected:use:95 connected:make:78 connected:get:48 connected:pass:43 connected:story:29 connected:electricity:16 connected:set:8 connected:oxygen:4 
+connection:computer:217 connection:type:164 connection:paper:159 connection:state:116 connection:use:95 connection:make:78 connection:get:48 connection:machine:42 connection:electricity:16 connection:set:8 
+consequences:human:2848 consequences:this:427 consequences:earth:99 consequences:learn:99 consequences:class:6 
+considers:human:2848 
+consists:human:2848 consists:this:427 consists:computer:217 consists:number:209 consists:type:164 consists:study:160 consists:paper:159 consists:team:156 consists:building:137 consists:program:101 
+constructed:this:427 constructed:computer:217 constructed:building:137 constructed:use:95 constructed:machine:42 constructed:travel:4 
+constructing:this:427 constructing:computer:217 constructing:paper:159 constructing:building:137 constructing:use:95 constructing:head:90 constructing:tool:76 constructing:task:72 constructing:set:8 
+construction:this:427 construction:work:343 construction:type:164 construction:paper:159 construction:building:137 construction:earth:99 construction:help:95 construction:use:95 construction:head:90 construction:make:78 
+controls:this:427 controls:use:95 controls:machine:42 controls:set:8 
+correct:human:2848 correct:this:427 correct:computer:217 correct:study:160 correct:paper:159 correct:program:101 correct:earth:99 correct:help:95 correct:use:95 correct:make:78 
+could:human:2848 could:goal:789 could:this:427 could:work:343 could:computer:217 could:number:209 could:give:184 could:type:164 could:paper:159 could:state:116 
+cover:human:2848 cover:this:427 cover:computer:217 cover:give:184 cover:paper:159 cover:building:137 cover:earth:99 cover:help:95 cover:use:95 cover:table:91 
+creating:human:2848 creating:this:427 creating:work:343 creating:computer:217 creating:type:164 creating:paper:159 creating:document:124 creating:program:101 creating:help:95 creating:use:95 
+critical:performance:14 critical:enjoy:4 
+cross:human:2848 cross:this:427 cross:help:95 cross:use:95 cross:head:90 cross:make:78 cross:examine:49 cross:get:48 cross:check:10 cross:set:8 
+current:human:2848 current:this:427 current:product:218 current:number:209 current:give:184 current:paper:159 current:state:116 current:learn:99 current:help:95 current:use:95 
+currently:human:2848 currently:this:427 currently:earth:99 currently:tool:76 currently:electricity:16 currently:science:15 currently:travel:4 
+cycle:earth:99 cycle:sun:81 cycle:machine:42 cycle:original:4 cycle:path:3 
+cycles:human:2848 cycles:this:427 cycles:head:90 cycles:make:78 
+data:human:2848 data:this:427 data:computer:217 data:number:209 data:give:184 data:paper:159 data:program:101 data:use:95 data:write:87 data:make:78 
+databases:computer:217 databases:help:95 
+deal:human:2848 deal:this:427 deal:computer:217 deal:number:209 deal:give:184 deal:document:124 deal:program:101 deal:learn:99 deal:use:95 deal:happy:90 
+dealt:story:29 
+december:use:95 december:sun:81 december:get:48 december:story:29 
+decreased:work:343 decreased:computer:217 decreased:number:209 decreased:paper:159 decreased:building:137 decreased:earth:99 decreased:use:95 
+define:goal:789 define:work:343 define:computer:217 define:program:101 define:help:95 define:use:95 define:write:87 define:story:29 define:process:12 define:model:5 
+defined:human:2848 defined:work:343 defined:write:87 defined:make:78 defined:writing:57 defined:university:34 defined:field:33 defined:set:8 defined:path:3 defined:track:3 
+dependent:human:2848 dependent:this:427 dependent:give:184 dependent:help:95 dependent:happy:90 
+depends:type:164 depends:paper:159 depends:state:116 depends:earth:99 depends:use:95 depends:happy:90 depends:sun:81 depends:make:78 depends:get:48 
+depicted:this:427 depicted:paper:159 depicted:building:137 depicted:earth:99 depicted:use:95 depicted:story:29 
+described:this:427 described:get:48 described:field:33 described:story:29 described:record:6 
+describes:goal:789 describes:type:164 describes:document:124 describes:plan:69 describes:writing:57 
+design:human:2848 design:goal:789 design:this:427 design:computer:217 design:type:164 design:study:160 design:paper:159 design:building:137 design:program:101 design:learn:99 
+detailed:this:427 detailed:earth:99 
+details:this:427 details:give:184 details:earth:99 details:make:78 details:story:29 details:apply:4 
+detected:human:2848 detected:this:427 detected:earth:99 
+determine:this:427 determine:work:343 determine:product:218 determine:computer:217 determine:give:184 determine:study:160 determine:state:116 determine:earth:99 determine:help:95 determine:use:95 
+development:human:2848 development:this:427 development:help:95 development:use:95 development:tool:76 development:writing:57 development:story:29 development:process:12 development:approach:9 development:model:5 
+diagnosis:make:78 
+diagram:human:2848 diagram:this:427 diagram:paper:159 diagram:building:137 diagram:program:101 diagram:help:95 diagram:use:95 diagram:write:87 diagram:make:78 diagram:plan:69 
+did:human:2848 did:goal:789 did:this:427 did:work:343 did:computer:217 did:number:209 did:type:164 did:study:160 did:team:156 did:building:137 
+different:human:2848 different:goal:789 different:this:427 different:work:343 different:product:218 different:computer:217 different:number:209 different:give:184 different:type:164 different:paper:159 
+difficult:human:2848 difficult:goal:789 difficult:this:427 difficult:computer:217 difficult:give:184 difficult:type:164 difficult:paper:159 difficult:team:156 difficult:building:137 difficult:program:101 
+disc:this:427 disc:computer:217 disc:give:184 disc:break:32 disc:story:29 disc:disk:16 
+discern:this:427 discern:type:164 discern:match:78 discern:get:48 discern:machine:42 
+distinguished:team:156 
+distribution:human:2848 distribution:study:160 distribution:motion:6 
+do:human:2848 do:goal:789 do:this:427 do:work:343 do:product:218 do:computer:217 do:number:209 do:give:184 do:type:164 do:study:160 
+does:human:2848 does:goal:789 does:this:427 does:work:343 does:computer:217 does:number:209 does:give:184 does:type:164 does:study:160 does:paper:159 
+domain:computer:217 domain:study:160 domain:learn:99 domain:process:12 domain:record:6 domain:model:5 
+domains:performance:14 
+done:human:2848 done:this:427 done:work:343 done:computer:217 done:give:184 done:type:164 done:study:160 done:paper:159 done:team:156 done:program:101 
+downwards:earth:99 
+drawn:human:2848 drawn:this:427 drawn:paper:159 drawn:table:91 drawn:head:90 drawn:make:78 drawn:writing:57 drawn:get:48 drawn:story:29 drawn:check:10 
+duration:human:2848 duration:state:116 duration:program:101 duration:help:95 duration:get:48 duration:set:8 
+dynamic:process:12 dynamic:model:5 dynamic:goals:3 
+each:human:2848 each:goal:789 each:this:427 each:work:343 each:number:209 each:give:184 each:type:164 each:paper:159 each:team:156 each:building:137 
+early:human:2848 early:this:427 early:work:343 early:give:184 early:type:164 early:paper:159 early:earth:99 early:help:95 early:use:95 early:happy:90 
+easy:human:2848 easy:this:427 easy:computer:217 easy:give:184 easy:type:164 easy:study:160 easy:paper:159 easy:building:137 easy:learn:99 easy:use:95 
+edge:this:427 edge:paper:159 edge:document:124 edge:use:95 edge:table:91 edge:head:90 edge:sun:81 edge:story:29 
+edges:this:427 edges:number:209 edges:use:95 edges:check:10 
+effect:human:2848 effect:goal:789 effect:this:427 effect:work:343 effect:product:218 effect:computer:217 effect:number:209 effect:give:184 effect:paper:159 effect:team:156 
+effects:human:2848 effects:work:343 effects:earth:99 effects:sun:81 effects:make:78 effects:carry:21 effects:motion:6 effects:travel:4 effects:research:2 
+efficiently:learn:99 efficiently:help:95 efficiently:use:95 efficiently:plan:69 efficiently:writing:57 efficiently:get:48 efficiently:machine:42 efficiently:train:42 efficiently:carry:21 
+effort:human:2848 effort:this:427 effort:work:343 effort:computer:217 effort:give:184 effort:team:156 effort:learn:99 effort:use:95 effort:table:91 effort:head:90 
+efforts:product:218 efforts:task:72 efforts:get:48 efforts:machine:42 efforts:break:32 efforts:story:29 efforts:motion:6 
+electrical:human:2848 electrical:this:427 electrical:product:218 electrical:number:209 electrical:use:95 electrical:tool:76 electrical:get:48 electrical:electricity:16 electrical:original:4 electrical:opening:3 
+electronic:this:427 electronic:work:343 electronic:computer:217 electronic:give:184 electronic:type:164 electronic:paper:159 electronic:document:124 electronic:use:95 electronic:tool:76 electronic:mail:26 
+emit:computer:217 emit:sun:81 emit:story:29 emit:oxygen:4 
+employed:work:343 employed:university:34 employed:working:5 
+enabled:paper:159 enabled:earth:99 enabled:science:15 
+encourage:give:184 encourage:use:95 encourage:make:78 encourage:story:29 encourage:models:3 
+end:human:2848 end:goal:789 end:this:427 end:work:343 end:computer:217 end:number:209 end:study:160 end:paper:159 end:team:156 end:earth:99 
+energy:human:2848 energy:goal:789 energy:this:427 energy:work:343 energy:computer:217 energy:number:209 energy:give:184 energy:type:164 energy:building:137 energy:state:116 
+engineering:computer:217 engineering:study:160 engineering:learn:99 engineering:make:78 engineering:get:48 engineering:school:48 engineering:university:34 engineering:field:33 engineering:science:15 engineering:build:13 
+enhancing:class:6 
+enormous:human:2848 enormous:type:164 enormous:earth:99 enormous:learn:99 enormous:use:95 enormous:make:78 enormous:perform:6 enormous:discover:1 
+enough:human:2848 enough:goal:789 enough:this:427 enough:work:343 enough:product:218 enough:computer:217 enough:give:184 enough:study:160 enough:paper:159 enough:building:137 
+ensure:human:2848 ensure:product:218 ensure:computer:217 ensure:study:160 ensure:learn:99 ensure:use:95 ensure:make:78 ensure:plan:69 ensure:get:48 ensure:pass:43 
+entire:human:2848 entire:this:427 entire:give:184 entire:building:137 entire:earth:99 entire:help:95 entire:use:95 entire:head:90 entire:write:87 entire:make:78 
+environment:human:2848 environment:this:427 environment:work:343 environment:number:209 environment:type:164 environment:study:160 environment:paper:159 environment:building:137 environment:state:116 environment:earth:99 
+environmental:state:116 environmental:performance:14 
+error:human:2848 error:computer:217 error:learn:99 error:make:78 error:story:29 error:calculate:2 
+establish:this:427 establish:computer:217 establish:give:184 establish:help:95 establish:get:48 establish:track:3 
+establishes:original:4 
+estimate:program:101 estimate:get:48 estimate:calculate:2 
+ethical:use:95 
+even:human:2848 even:this:427 even:work:343 even:computer:217 even:number:209 even:give:184 even:paper:159 even:state:116 even:program:101 even:earth:99 
+event:human:2848 event:goal:789 event:this:427 event:work:343 event:product:218 event:computer:217 event:number:209 event:give:184 event:type:164 event:study:160 
+events:human:2848 events:this:427 events:work:343 events:give:184 events:study:160 events:paper:159 events:team:156 events:earth:99 events:learn:99 events:help:95 
+evident:this:427 
+evolution:human:2848 evolution:this:427 evolution:help:95 evolution:science:15 evolution:process:12 
+exact:this:427 exact:type:164 exact:paper:159 exact:help:95 exact:make:78 exact:story:29 exact:set:8 exact:record:6 
+examination:this:427 examination:computer:217 examination:give:184 examination:type:164 examination:study:160 examination:paper:159 examination:state:116 examination:learn:99 examination:help:95 examination:use:95 
+example:human:2848 example:goal:789 example:this:427 example:work:343 example:product:218 example:computer:217 example:number:209 example:give:184 example:type:164 example:paper:159 
+examples:number:209 examples:give:184 examples:study:160 examples:learn:99 examples:help:95 examples:table:91 examples:head:90 examples:disk:16 examples:science:15 examples:decision:1 
+executed:computer:217 executed:story:29 executed:set:8 
+expanded:use:95 
+expected:human:2848 expected:this:427 expected:work:343 expected:give:184 expected:study:160 expected:state:116 expected:learn:99 expected:use:95 expected:write:87 expected:make:78 
+expert:computer:217 expert:learn:99 expert:help:95 expert:use:95 expert:tool:76 expert:get:48 expert:field:33 expert:record:6 
+experts:train:42 experts:perform:6 
+explanation:learn:99 
+exploring:learn:99 exploring:tool:76 
+explosion:work:343 explosion:help:95 explosion:use:95 explosion:match:78 explosion:telescope:1 
+explosions:make:78 explosions:enjoy:4 
+extended:human:2848 extended:this:427 extended:computer:217 extended:table:91 extended:head:90 extended:tool:76 extended:story:29 
+extensive:travel:4 
+facilitate:this:427 facilitate:number:209 facilitate:study:160 facilitate:help:95 facilitate:use:95 
+factor:use:95 factor:process:12 factor:class:6 
+factors:this:427 factors:work:343 factors:study:160 
+false:human:2848 false:this:427 false:give:184 false:earth:99 false:use:95 false:make:78 false:field:33 false:story:29 false:set:8 
+familiar:use:95 familiar:make:78 familiar:story:29 
+feature:building:137 feature:state:116 feature:earth:99 feature:help:95 feature:make:78 feature:mail:26 feature:track:3 
+features:human:2848 features:this:427 features:type:164 features:study:160 features:earth:99 features:use:95 features:make:78 features:examine:49 features:story:29 features:model:5 
+few:human:2848 few:goal:789 few:this:427 few:work:343 few:computer:217 few:number:209 few:give:184 few:type:164 few:paper:159 few:building:137 
+filter:this:427 filter:use:95 filter:process:12 filter:oxygen:4 
+filtering:process:12 
+finally:work:343 finally:document:124 finally:program:101 finally:learn:99 finally:use:95 finally:make:78 finally:writing:57 finally:get:48 finally:story:29 finally:disk:16 
+financial:goal:789 financial:this:427 financial:building:137 financial:get:48 financial:process:12 financial:check:10 financial:apply:4 
+find:human:2848 find:goal:789 find:this:427 find:work:343 find:product:218 find:computer:217 find:number:209 find:give:184 find:type:164 find:study:160 
+finding:work:343 finding:computer:217 finding:number:209 finding:paper:159 finding:state:116 finding:learn:99 finding:use:95 finding:happy:90 finding:make:78 finding:get:48 
+first:human:2848 first:goal:789 first:this:427 first:work:343 first:product:218 first:computer:217 first:number:209 first:give:184 first:type:164 first:study:160 
+fit:human:2848 fit:this:427 fit:work:343 fit:computer:217 fit:give:184 fit:building:137 fit:program:101 fit:help:95 fit:use:95 fit:table:91 
+fits:computer:217 fits:use:95 fits:head:90 fits:make:78 fits:machine:42 fits:ice:37 fits:carry:21 fits:set:8 
+flare:story:29 
+flexible:paper:159 flexible:learn:99 flexible:use:95 flexible:tool:76 flexible:process:12 flexible:approach:9 flexible:apply:4 flexible:communication:1 flexible:decision:1 
+fluctuations:human:2848 
+fluid:human:2848 fluid:this:427 fluid:work:343 fluid:type:164 fluid:paper:159 fluid:use:95 fluid:write:87 fluid:writing:57 fluid:get:48 fluid:window:40 
+following:human:2848 following:goal:789 following:this:427 following:work:343 following:product:218 following:computer:217 following:number:209 following:give:184 following:type:164 following:study:160 
+for:human:2848 for:goal:789 for:this:427 for:work:343 for:product:218 for:computer:217 for:number:209 for:give:184 for:type:164 for:study:160 
+form:human:2848 form:goal:789 form:this:427 form:work:343 form:computer:217 form:number:209 form:give:184 form:type:164 form:study:160 form:paper:159 
+format:human:2848 format:this:427 format:computer:217 format:use:95 format:disk:16 
+found:human:2848 found:this:427 found:work:343 found:product:218 found:computer:217 found:number:209 found:type:164 found:study:160 found:paper:159 found:team:156 
+frames:this:427 frames:work:343 frames:table:91 frames:make:78 frames:get:48 frames:window:40 frames:set:8 
+from:human:2848 from:goal:789 from:this:427 from:work:343 from:product:218 from:computer:217 from:number:209 from:give:184 from:type:164 from:study:160 
+fully:human:2848 fully:this:427 fully:give:184 fully:building:137 fully:head:90 fully:make:78 
+function:human:2848 function:goal:789 function:this:427 function:work:343 function:computer:217 function:number:209 function:type:164 function:program:101 function:use:95 function:make:78 
+functions:this:427 functions:computer:217 functions:use:95 functions:school:48 functions:break:32 functions:project:27 functions:perform:6 
+fundamental:human:2848 fundamental:this:427 fundamental:give:184 fundamental:writing:57 fundamental:field:33 fundamental:oxygen:4 fundamental:communication:1 
+further:human:2848 further:goal:789 further:this:427 further:give:184 further:study:160 further:earth:99 further:learn:99 further:help:95 further:use:95 further:plan:69 
+future:human:2848 future:this:427 future:work:343 future:number:209 future:paper:159 future:building:137 future:program:101 future:earth:99 future:help:95 future:use:95 
+g:enjoy:4 
+general:human:2848 general:this:427 general:product:218 general:number:209 general:earth:99 general:help:95 general:use:95 general:sun:81 general:make:78 general:university:34 
+geophysical:give:184 
+gets:goal:789 gets:this:427 gets:work:343 gets:computer:217 gets:give:184 gets:type:164 gets:study:160 gets:paper:159 gets:team:156 gets:building:137 
+giant:human:2848 giant:this:427 giant:type:164 giant:earth:99 giant:head:90 giant:make:78 giant:usa:30 
+given:human:2848 given:this:427 given:work:343 given:computer:217 given:number:209 given:give:184 given:type:164 given:paper:159 given:state:116 given:earth:99 
+gives:this:427 gives:number:209 gives:give:184 gives:study:160 gives:team:156 gives:earth:99 gives:learn:99 gives:sun:81 gives:make:78 gives:plan:69 
+good:human:2848 good:goal:789 good:this:427 good:work:343 good:computer:217 good:number:209 good:give:184 good:type:164 good:study:160 good:paper:159 
+graph:paper:159 graph:program:101 graph:use:95 graph:table:91 graph:make:78 graph:set:8 graph:original:4 
+graphical:computer:217 graphical:document:124 graphical:use:95 graphical:window:40 
+graphs:paper:159 
+gravitational:earth:99 gravitational:sun:81 gravitational:field:33 
+greatly:human:2848 greatly:this:427 greatly:help:95 greatly:write:87 greatly:get:48 greatly:enjoy:4 
+guess:this:427 guess:number:209 guess:earth:99 guess:help:95 guess:head:90 guess:get:48 guess:story:29 guess:goals:3 
+guide:human:2848 guide:team:156 guide:program:101 guide:learn:99 guide:help:95 guide:use:95 guide:make:78 guide:story:29 guide:travel:4 guide:path:3 
+had:human:2848 had:this:427 had:work:343 had:computer:217 had:number:209 had:give:184 had:type:164 had:study:160 had:paper:159 had:team:156 
+handling:this:427 handling:program:101 handling:use:95 handling:make:78 handling:task:72 handling:ice:37 handling:story:29 handling:decision:1 
+hard:human:2848 hard:goal:789 hard:this:427 hard:work:343 hard:computer:217 hard:give:184 hard:type:164 hard:study:160 hard:paper:159 hard:building:137 
+has:human:2848 has:goal:789 has:this:427 has:work:343 has:product:218 has:computer:217 has:number:209 has:give:184 has:type:164 has:study:160 
+have:human:2848 have:goal:789 have:this:427 have:work:343 have:product:218 have:computer:217 have:number:209 have:give:184 have:type:164 have:study:160 
+having:human:2848 having:goal:789 having:this:427 having:work:343 having:product:218 having:computer:217 having:number:209 having:give:184 having:type:164 having:study:160 
+here:human:2848 here:this:427 here:paper:159 here:earth:99 here:help:95 here:use:95 here:happy:90 here:make:78 here:get:48 here:school:48 
+high:human:2848 high:this:427 high:work:343 high:product:218 high:computer:217 high:number:209 high:give:184 high:type:164 high:study:160 high:paper:159 
+higher:human:2848 higher:this:427 higher:work:343 higher:computer:217 higher:give:184 higher:paper:159 higher:state:116 higher:earth:99 higher:help:95 higher:use:95 
+historical:this:427 historical:building:137 historical:record:6 
+historically:this:427 
+hour:goal:789 hour:this:427 hour:work:343 hour:computer:217 hour:type:164 hour:paper:159 hour:team:156 hour:earth:99 hour:use:95 hour:happy:90 
+hours:human:2848 hours:goal:789 hours:this:427 hours:work:343 hours:computer:217 hours:study:160 hours:team:156 hours:earth:99 hours:help:95 hours:table:91 
+household:this:427 household:computer:217 household:use:95 household:head:90 household:tool:76 household:writing:57 household:usa:30 household:research:2 
+how:human:2848 how:goal:789 how:this:427 how:work:343 how:computer:217 how:number:209 how:give:184 how:type:164 how:study:160 how:paper:159 
+however:human:2848 however:this:427 however:computer:217 however:give:184 however:type:164 however:earth:99 however:learn:99 however:use:95 however:make:78 however:match:78 
+ideal:type:164 ideal:head:90 ideal:tool:76 
+identifying:work:343 identifying:computer:217 identifying:number:209 identifying:set:8 
+if:human:2848 if:goal:789 if:this:427 if:work:343 if:product:218 if:computer:217 if:number:209 if:give:184 if:type:164 if:study:160 
+illustrates:this:427 
+images:human:2848 images:this:427 images:work:343 images:computer:217 images:type:164 images:paper:159 images:building:137 images:help:95 images:use:95 images:make:78 
+impact:human:2848 impact:this:427 impact:number:209 impact:building:137 impact:earth:99 impact:use:95 impact:break:32 
+implement:writing:57 implement:get:48 
+implies:goal:789 implies:this:427 implies:paper:159 implies:write:87 implies:research:2 
+important:human:2848 important:goal:789 important:this:427 important:work:343 important:product:218 important:computer:217 important:number:209 important:give:184 important:type:164 important:study:160 
+impossible:earth:99 impossible:use:95 impossible:make:78 impossible:tool:76 impossible:task:72 impossible:get:48 impossible:train:42 impossible:story:29 impossible:motion:6 impossible:travel:4 
+improvements:computer:217 improvements:make:78 
+in:human:2848 in:goal:789 in:this:427 in:work:343 in:product:218 in:computer:217 in:number:209 in:give:184 in:type:164 in:study:160 
+include:human:2848 include:this:427 include:work:343 include:computer:217 include:type:164 include:study:160 include:paper:159 include:state:116 include:earth:99 include:help:95 
+includes:this:427 includes:computer:217 includes:study:160 includes:paper:159 includes:state:116 includes:sun:81 includes:disk:16 
+incoming:human:2848 incoming:use:95 incoming:get:48 
+increases:human:2848 increases:this:427 increases:work:343 increases:type:164 increases:task:72 increases:ice:37 increases:working:5 
+increasing:human:2848 increasing:work:343 increasing:number:209 increasing:building:137 increasing:carry:21 increasing:science:15 increasing:working:5 
+increasingly:work:343 
+indeed:human:2848 indeed:get:48 indeed:machine:42 indeed:story:29 
+independent:work:343 independent:make:78 independent:story:29 independent:opening:3 
+indicate:human:2848 indicate:this:427 indicate:work:343 indicate:computer:217 indicate:number:209 indicate:type:164 indicate:paper:159 indicate:team:156 indicate:use:95 indicate:make:78 
+individual:human:2848 individual:this:427 individual:work:343 individual:building:137 individual:program:101 individual:help:95 individual:write:87 individual:task:72 
+information:human:2848 information:this:427 information:work:343 information:computer:217 information:number:209 information:give:184 information:type:164 information:study:160 information:paper:159 information:document:124 
+initial:human:2848 initial:this:427 initial:get:48 
+input:human:2848 input:this:427 input:work:343 input:computer:217 input:give:184 input:type:164 input:program:101 input:use:95 input:head:90 input:get:48 
+insight:learn:99 insight:use:95 insight:get:48 
+instead:human:2848 instead:this:427 instead:work:343 instead:computer:217 instead:type:164 instead:learn:99 instead:use:95 instead:table:91 instead:write:87 instead:make:78 
+intelligence:human:2848 intelligence:this:427 intelligence:work:343 intelligence:computer:217 intelligence:give:184 intelligence:study:160 intelligence:program:101 intelligence:use:95 intelligence:make:78 intelligence:tool:76 
+intended:this:427 intended:work:343 intended:computer:217 intended:paper:159 intended:program:101 intended:help:95 intended:use:95 intended:make:78 intended:break:32 intended:mail:26 
+interactions:record:6 
+interactive:computer:217 interactive:process:12 
+interest:human:2848 interest:work:343 interest:computer:217 interest:give:184 interest:type:164 interest:study:160 interest:paper:159 interest:program:101 interest:learn:99 interest:use:95 
+interested:paper:159 interested:learn:99 interested:write:87 interested:make:78 interested:story:29 interested:science:15 interested:performance:14 interested:research:2 
+interface:this:427 interface:computer:217 interface:document:124 interface:use:95 interface:window:40 
+international:work:343 international:give:184 international:document:124 international:earth:99 international:help:95 international:use:95 international:story:29 international:electricity:16 international:science:15 international:travel:4 
+into:human:2848 into:goal:789 into:this:427 into:work:343 into:product:218 into:computer:217 into:number:209 into:give:184 into:type:164 into:study:160 
+introduction:original:4 
+invested:get:48 
+investigate:discover:1 
+involve:human:2848 involve:goal:789 involve:number:209 involve:study:160 involve:paper:159 involve:learn:99 involve:use:95 involve:write:87 involve:writing:57 involve:story:29 
+involved:human:2848 involved:this:427 involved:work:343 involved:learn:99 involved:use:95 involved:happy:90 involved:head:90 involved:make:78 involved:match:78 involved:writing:57 
+involves:human:2848 involves:this:427 involves:work:343 involves:computer:217 involves:type:164 involves:paper:159 involves:use:95 involves:writing:57 involves:ice:37 involves:university:34 
+is:human:2848 is:goal:789 is:this:427 is:work:343 is:product:218 is:computer:217 is:number:209 is:give:184 is:type:164 is:study:160 
+isolated:make:78 
+issue:paper:159 issue:learn:99 issue:use:95 issue:get:48 issue:path:3 
+issues:study:160 issues:learn:99 issues:help:95 issues:make:78 issues:story:29 issues:research:2 
+it:human:2848 it:goal:789 it:this:427 it:work:343 it:product:218 it:computer:217 it:number:209 it:give:184 it:type:164 it:study:160 
+its:human:2848 its:this:427 its:work:343 its:product:218 its:computer:217 its:number:209 its:give:184 its:type:164 its:study:160 its:paper:159 
+jason:story:29 
+java:computer:217 java:program:101 java:learn:99 java:sun:81 
+journal:this:427 journal:writing:57 journal:window:40 
+june:sun:81 june:get:48 june:record:6 
+just:human:2848 just:this:427 just:work:343 just:computer:217 just:number:209 just:give:184 just:type:164 just:study:160 just:paper:159 just:program:101 
+keeping:human:2848 keeping:this:427 keeping:work:343 keeping:computer:217 keeping:number:209 keeping:paper:159 keeping:use:95 keeping:table:91 keeping:head:90 keeping:sun:81 
+kind:human:2848 kind:this:427 kind:work:343 kind:computer:217 kind:number:209 kind:give:184 kind:type:164 kind:building:137 kind:earth:99 kind:learn:99 
+kinds:human:2848 kinds:goal:789 kinds:this:427 kinds:work:343 kinds:computer:217 kinds:number:209 kinds:type:164 kinds:paper:159 kinds:learn:99 kinds:use:95 
+know:human:2848 know:goal:789 know:this:427 know:work:343 know:product:218 know:computer:217 know:number:209 know:give:184 know:type:164 know:study:160 
+knowledge:human:2848 knowledge:goal:789 knowledge:this:427 knowledge:computer:217 knowledge:give:184 knowledge:study:160 knowledge:paper:159 knowledge:building:137 knowledge:state:116 knowledge:program:101 
+known:human:2848 known:this:427 known:work:343 known:computer:217 known:give:184 known:type:164 known:state:116 known:earth:99 known:help:95 known:use:95 
+label:this:427 label:work:343 label:computer:217 label:number:209 label:paper:159 label:help:95 label:use:95 label:make:78 label:writing:57 label:disk:16 
+labels:computer:217 labels:use:95 labels:make:78 labels:disk:16 labels:check:10 
+language:human:2848 language:this:427 language:work:343 language:computer:217 language:type:164 language:study:160 language:paper:159 language:program:101 language:earth:99 language:learn:99 
+languages:human:2848 languages:computer:217 languages:program:101 languages:learn:99 languages:use:95 languages:make:78 languages:task:72 languages:get:48 
+large:human:2848 large:goal:789 large:this:427 large:work:343 large:product:218 large:computer:217 large:number:209 large:give:184 large:type:164 large:paper:159 
+larger:human:2848 larger:this:427 larger:computer:217 larger:number:209 larger:earth:99 larger:help:95 larger:use:95 larger:table:91 larger:head:90 larger:sun:81 
+largest:human:2848 largest:this:427 largest:work:343 largest:number:209 largest:type:164 largest:state:116 largest:earth:99 largest:table:91 largest:sun:81 largest:ice:37 
+last:human:2848 last:goal:789 last:this:427 last:work:343 last:computer:217 last:number:209 last:give:184 last:study:160 last:paper:159 last:team:156 
+layout:document:124 layout:use:95 layout:write:87 
+lead:human:2848 lead:this:427 lead:work:343 lead:study:160 lead:paper:159 lead:team:156 lead:earth:99 lead:learn:99 lead:use:95 lead:table:91 
+learned:human:2848 learned:this:427 learned:work:343 learned:paper:159 learned:program:101 learned:learn:99 learned:help:95 learned:use:95 learned:happy:90 learned:write:87 
+led:type:164 led:earth:99 led:window:40 led:story:29 led:electricity:16 
+left:human:2848 left:this:427 left:computer:217 left:number:209 left:type:164 left:paper:159 left:document:124 left:state:116 left:earth:99 left:learn:99 
+legal:this:427 legal:paper:159 legal:help:95 legal:use:95 legal:make:78 legal:process:12 legal:check:10 legal:decision:1 
+let:human:2848 let:this:427 let:work:343 let:give:184 let:paper:159 let:team:156 let:building:137 let:earth:99 let:learn:99 let:help:95 
+like:human:2848 like:goal:789 like:this:427 like:work:343 like:computer:217 like:number:209 like:give:184 like:type:164 like:study:160 like:paper:159 
+likely:human:2848 likely:goal:789 likely:this:427 likely:work:343 likely:product:218 likely:computer:217 likely:number:209 likely:give:184 likely:type:164 likely:study:160 
+link:computer:217 link:story:29 link:set:8 
+linked:train:42 
+listing:program:101 listing:use:95 
+literature:type:164 literature:study:160 literature:learn:99 literature:use:95 literature:write:87 literature:travel:4 literature:communication:1 
+logic:human:2848 logic:use:95 logic:make:78 logic:science:15 logic:apply:4 
+logical:human:2848 logical:work:343 logical:study:160 logical:program:101 logical:write:87 logical:make:78 logical:task:72 logical:writing:57 logical:get:48 logical:story:29 
+long:human:2848 long:goal:789 long:this:427 long:work:343 long:computer:217 long:give:184 long:type:164 long:paper:159 long:building:137 long:state:116 
+longest:earth:99 
+look:human:2848 look:this:427 look:work:343 look:product:218 look:computer:217 look:number:209 look:give:184 look:type:164 look:study:160 look:paper:159 
+lot:human:2848 lot:goal:789 lot:this:427 lot:work:343 lot:computer:217 lot:number:209 lot:give:184 lot:type:164 lot:study:160 lot:paper:159 
+lung:get:48 
+made:human:2848 made:goal:789 made:this:427 made:work:343 made:product:218 made:computer:217 made:number:209 made:give:184 made:type:164 made:study:160 
+magnetic:this:427 magnetic:computer:217 magnetic:type:164 magnetic:earth:99 magnetic:field:33 magnetic:disk:16 magnetic:science:15 magnetic:record:6 
+making:human:2848 making:goal:789 making:this:427 making:work:343 making:computer:217 making:number:209 making:give:184 making:type:164 making:paper:159 making:building:137 
+manage:program:101 manage:help:95 manage:use:95 manage:examine:49 manage:project:27 
+managed:this:427 managed:work:343 managed:get:48 managed:pass:43 managed:story:29 managed:class:6 
+management:work:343 management:give:184 management:study:160 management:program:101 
+managing:goal:789 managing:building:137 
+manual:human:2848 manual:this:427 manual:computer:217 manual:type:164 manual:program:101 manual:use:95 manual:make:78 manual:set:8 manual:model:5 
+many:human:2848 many:goal:789 many:this:427 many:work:343 many:product:218 many:computer:217 many:number:209 many:give:184 many:type:164 many:study:160 
+mass:human:2848 mass:this:427 mass:earth:99 mass:use:95 mass:sun:81 mass:make:78 mass:get:48 mass:school:48 mass:field:33 mass:carry:21 
+matches:work:343 matches:use:95 matches:head:90 matches:make:78 matches:match:78 matches:get:48 matches:story:29 
+may:human:2848 may:this:427 may:work:343 may:product:218 may:computer:217 may:number:209 may:give:184 may:type:164 may:study:160 may:paper:159 
+meaning:human:2848 meaning:computer:217 meaning:number:209 meaning:give:184 meaning:learn:99 meaning:use:95 meaning:write:87 meaning:make:78 meaning:story:29 meaning:class:6 
+measured:human:2848 measured:this:427 measured:number:209 measured:get:48 measured:usa:30 measured:motion:6 measured:track:3 
+measurements:type:164 measurements:make:78 measurements:electricity:16 measurements:motion:6 
+measuring:human:2848 measuring:this:427 measuring:learn:99 measuring:help:95 measuring:use:95 measuring:tool:76 measuring:task:72 measuring:story:29 measuring:set:8 measuring:calculate:2 
+medical:this:427 medical:work:343 medical:give:184 medical:type:164 medical:study:160 medical:building:137 medical:help:95 medical:use:95 medical:table:91 medical:examine:49 
+medicine:human:2848 medicine:this:427 medicine:work:343 medicine:give:184 medicine:study:160 medicine:help:95 medicine:use:95 medicine:sun:81 medicine:make:78 medicine:get:48 
+message:goal:789 message:computer:217 message:give:184 message:type:164 message:paper:159 message:document:124 message:use:95 message:write:87 message:make:78 message:plan:69 
+methodologies:process:12 methodologies:model:5 methodologies:models:3 
+methods:human:2848 methods:this:427 methods:work:343 methods:computer:217 methods:paper:159 methods:earth:99 methods:use:95 methods:tool:76 methods:get:48 methods:travel:4 
+might:human:2848 might:goal:789 might:this:427 might:work:343 might:product:218 might:computer:217 might:number:209 might:give:184 might:type:164 might:study:160 
+minimum:work:343 minimum:number:209 minimum:building:137 minimum:earth:99 minimum:make:78 minimum:get:48 minimum:school:48 minimum:electricity:16 minimum:class:6 minimum:path:3 
+missing:human:2848 missing:this:427 missing:work:343 missing:head:90 missing:make:78 missing:get:48 missing:field:33 missing:process:12 missing:class:6 missing:perform:6 
+modelling:use:95 modelling:approach:9 modelling:model:5 
+moderate:human:2848 moderate:write:87 
+modern:human:2848 modern:this:427 modern:computer:217 modern:type:164 modern:paper:159 modern:building:137 modern:use:95 modern:make:78 modern:writing:57 modern:get:48 
+modifying:computer:217 modifying:program:101 
+molecules:carry:21 molecules:oxygen:4 
+monitor:this:427 monitor:work:343 monitor:computer:217 monitor:type:164 monitor:use:95 monitor:table:91 monitor:set:8 
+more:human:2848 more:goal:789 more:this:427 more:work:343 more:product:218 more:computer:217 more:number:209 more:give:184 more:type:164 more:study:160 
+most:human:2848 most:goal:789 most:this:427 most:work:343 most:product:218 most:computer:217 most:number:209 most:give:184 most:type:164 most:study:160 
+motivate:this:427 motivate:use:95 motivate:write:87 motivate:story:29 motivate:performance:14 
+much:human:2848 much:this:427 much:work:343 much:computer:217 much:number:209 much:give:184 much:type:164 much:study:160 much:paper:159 much:team:156 
+multiple:work:343 multiple:product:218 multiple:number:209 multiple:give:184 multiple:building:137 multiple:use:95 multiple:task:72 multiple:pass:43 multiple:story:29 multiple:perform:6 
+naive:work:343 naive:story:29 
+naked:this:427 naked:use:95 naked:table:91 naked:make:78 naked:get:48 naked:telescope:1 
+name:human:2848 name:goal:789 name:this:427 name:work:343 name:product:218 name:computer:217 name:number:209 name:give:184 name:type:164 name:study:160 
+national:this:427 national:product:218 national:number:209 national:give:184 national:state:116 national:help:95 national:use:95 national:make:78 national:story:29 national:travel:4 
+natural:human:2848 natural:this:427 natural:product:218 natural:number:209 natural:study:160 natural:paper:159 natural:state:116 natural:earth:99 natural:help:95 natural:use:95 
+near:human:2848 near:this:427 near:work:343 near:computer:217 near:building:137 near:earth:99 near:help:95 near:use:95 near:table:91 near:head:90 
+necessary:human:2848 necessary:this:427 necessary:work:343 necessary:computer:217 necessary:give:184 necessary:type:164 necessary:paper:159 necessary:state:116 necessary:earth:99 necessary:learn:99 
+need:human:2848 need:goal:789 need:this:427 need:work:343 need:product:218 need:computer:217 need:number:209 need:give:184 need:type:164 need:study:160 
+needed:goal:789 needed:this:427 needed:work:343 needed:computer:217 needed:number:209 needed:study:160 needed:paper:159 needed:team:156 needed:building:137 needed:document:124 
+network:computer:217 network:program:101 network:learn:99 network:use:95 network:make:78 network:machine:42 network:story:29 network:set:8 network:path:3 network:communication:1 
+networks:work:343 networks:computer:217 networks:make:78 networks:get:48 networks:performance:14 
+neural:work:343 neural:state:116 neural:learn:99 neural:make:78 neural:performance:14 neural:repeat:2 
+new:human:2848 new:this:427 new:work:343 new:product:218 new:computer:217 new:number:209 new:give:184 new:type:164 new:study:160 new:paper:159 
+newer:this:427 newer:type:164 newer:state:116 newer:use:95 newer:enjoy:4 
+next:human:2848 next:this:427 next:work:343 next:number:209 next:give:184 next:study:160 next:paper:159 next:team:156 next:building:137 next:document:124 
+nitrogen:earth:99 nitrogen:use:95 nitrogen:table:91 nitrogen:oxygen:4 
+no:human:2848 no:this:427 no:work:343 no:computer:217 no:number:209 no:give:184 no:type:164 no:study:160 no:paper:159 no:team:156 
+nodes:computer:217 nodes:learn:99 nodes:make:78 
+not:human:2848 not:goal:789 not:this:427 not:work:343 not:computer:217 not:number:209 not:give:184 not:type:164 not:study:160 not:paper:159 
+nothing:human:2848 nothing:this:427 nothing:work:343 nothing:computer:217 nothing:give:184 nothing:study:160 nothing:paper:159 nothing:building:137 nothing:state:116 nothing:program:101 
+objective:goal:789 objective:use:95 objective:make:78 objective:plan:69 objective:science:15 objective:goals:3 
+objectives:plan:69 objectives:goals:3 
+observed:this:427 observed:number:209 observed:give:184 observed:process:12 
+occur:human:2848 occur:this:427 occur:work:343 occur:number:209 occur:team:156 occur:state:116 occur:make:78 occur:school:48 occur:electricity:16 occur:science:15 
+occurring:human:2848 occurring:help:95 occurring:use:95 
+occurs:human:2848 occurs:this:427 occurs:work:343 occurs:number:209 occurs:earth:99 occurs:sun:81 occurs:school:48 occurs:university:34 occurs:process:12 
+of:human:2848 of:goal:789 of:this:427 of:work:343 of:product:218 of:computer:217 of:number:209 of:give:184 of:type:164 of:study:160 
+often:human:2848 often:goal:789 often:this:427 often:work:343 often:product:218 often:computer:217 often:number:209 often:give:184 often:type:164 often:study:160 
+on:human:2848 on:goal:789 on:this:427 on:work:343 on:product:218 on:computer:217 on:number:209 on:give:184 on:type:164 on:study:160 
+one:human:2848 one:goal:789 one:this:427 one:work:343 one:product:218 one:computer:217 one:number:209 one:give:184 one:type:164 one:study:160 
+ones:human:2848 ones:this:427 ones:work:343 ones:computer:217 ones:number:209 ones:give:184 ones:paper:159 ones:team:156 ones:building:137 ones:state:116 
+ongoing:get:48 ongoing:machine:42 ongoing:story:29 ongoing:motion:6 
+online:this:427 online:product:218 online:computer:217 online:learn:99 online:help:95 online:use:95 online:get:48 online:school:48 online:story:29 online:science:15 
+only:human:2848 only:goal:789 only:this:427 only:work:343 only:computer:217 only:number:209 only:give:184 only:type:164 only:paper:159 only:team:156 
+operating:human:2848 operating:this:427 operating:work:343 operating:computer:217 operating:use:95 operating:make:78 operating:get:48 operating:machine:42 operating:story:29 operating:disk:16 
+or:human:2848 or:goal:789 or:this:427 or:work:343 or:product:218 or:computer:217 or:number:209 or:give:184 or:type:164 or:study:160 
+other:human:2848 other:goal:789 other:this:427 other:work:343 other:computer:217 other:number:209 other:give:184 other:type:164 other:study:160 other:paper:159 
+others:human:2848 others:this:427 others:work:343 others:number:209 others:give:184 others:paper:159 others:team:156 others:building:137 others:state:116 others:program:101 
+otherwise:human:2848 otherwise:this:427 otherwise:work:343 otherwise:computer:217 otherwise:give:184 otherwise:use:95 otherwise:make:78 otherwise:get:48 otherwise:carry:21 otherwise:perform:6 
+out:human:2848 out:goal:789 out:this:427 out:work:343 out:product:218 out:computer:217 out:number:209 out:give:184 out:type:164 out:study:160 
+outcomes:this:427 outcomes:number:209 outcomes:use:95 outcomes:set:8 
+outline:this:427 outline:work:343 outline:study:160 outline:paper:159 outline:program:101 outline:write:87 outline:make:78 outline:writing:57 outline:get:48 outline:window:40 
+outlined:paper:159 outlined:program:101 outlined:writing:57 outlined:story:29 
+over:human:2848 over:goal:789 over:this:427 over:work:343 over:computer:217 over:number:209 over:give:184 over:type:164 over:paper:159 over:team:156 
+pages:work:343 pages:paper:159 pages:program:101 pages:learn:99 pages:help:95 pages:use:95 pages:write:87 pages:make:78 pages:writing:57 pages:get:48 
+part:human:2848 part:this:427 part:work:343 part:computer:217 part:give:184 part:type:164 part:study:160 part:paper:159 part:team:156 part:building:137 
+particles:this:427 particles:number:209 particles:earth:99 particles:make:78 particles:get:48 particles:field:33 particles:travel:4 
+particular:human:2848 particular:this:427 particular:work:343 particular:product:218 particular:computer:217 particular:give:184 particular:type:164 particular:paper:159 particular:program:101 particular:learn:99 
+partition:build:13 
+parts:human:2848 parts:this:427 parts:work:343 parts:computer:217 parts:number:209 parts:type:164 parts:paper:159 parts:program:101 parts:earth:99 parts:help:95 
+paul:human:2848 paul:computer:217 paul:paper:159 paul:ice:37 paul:enjoy:4 
+pays:work:343 pays:computer:217 pays:use:95 pays:write:87 pays:get:48 pays:pass:43 pays:story:29 pays:working:5 pays:apply:4 pays:travel:4 
+performed:goal:789 performed:work:343 performed:type:164 performed:paper:159 performed:team:156 performed:building:137 performed:happy:90 performed:make:78 performed:task:72 performed:get:48 
+perhaps:human:2848 perhaps:this:427 perhaps:work:343 perhaps:team:156 perhaps:earth:99 perhaps:head:90 perhaps:story:29 perhaps:carry:21 perhaps:communication:1 perhaps:discover:1 
+phenomena:this:427 phenomena:number:209 phenomena:science:15 phenomena:set:8 
+physics:human:2848 physics:this:427 physics:work:343 physics:study:160 physics:learn:99 physics:school:48 physics:field:33 physics:electricity:16 physics:science:15 physics:class:6 
+planning:human:2848 planning:goal:789 planning:work:343 planning:study:160 planning:table:91 planning:make:78 planning:plan:69 planning:writing:57 planning:get:48 planning:break:32 
+point:human:2848 point:goal:789 point:this:427 point:work:343 point:computer:217 point:give:184 point:team:156 point:state:116 point:program:101 point:learn:99 
+positive:this:427 positive:number:209 positive:make:78 positive:get:48 
+possible:human:2848 possible:this:427 possible:computer:217 possible:type:164 possible:study:160 possible:earth:99 possible:learn:99 possible:use:95 possible:table:91 possible:head:90 
+potential:work:343 potential:building:137 potential:state:116 potential:earth:99 potential:make:78 potential:task:72 potential:get:48 potential:ice:37 potential:original:4 
+potentially:travel:4 
+power:human:2848 power:this:427 power:work:343 power:product:218 power:computer:217 power:give:184 power:building:137 power:use:95 power:happy:90 power:head:90 
+powerful:human:2848 powerful:this:427 powerful:work:343 powerful:computer:217 powerful:earth:99 powerful:help:95 powerful:sun:81 powerful:tool:76 powerful:get:48 powerful:pass:43 
+practice:human:2848 practice:goal:789 practice:this:427 practice:work:343 practice:computer:217 practice:type:164 practice:study:160 practice:paper:159 practice:team:156 practice:learn:99 
+precise:this:427 precise:type:164 precise:building:137 precise:university:34 precise:science:15 
+predict:use:95 
+prepare:human:2848 prepare:this:427 prepare:work:343 prepare:give:184 prepare:study:160 prepare:learn:99 prepare:help:95 prepare:use:95 prepare:table:91 prepare:write:87 
+prerequisites:pass:43 
+previous:this:427 previous:make:78 previous:get:48 previous:story:29 
+prior:human:2848 prior:this:427 prior:work:343 prior:learn:99 prior:table:91 prior:performance:14 prior:build:13 
+probability:human:2848 probability:number:209 probability:set:8 
+produce:human:2848 produce:goal:789 produce:this:427 produce:work:343 produce:computer:217 produce:number:209 produce:paper:159 produce:building:137 produce:program:101 produce:earth:99 
+produced:human:2848 produced:this:427 produced:work:343 produced:computer:217 produced:paper:159 produced:building:137 produced:document:124 produced:earth:99 produced:use:95 produced:write:87 
+producing:this:427 producing:product:218 producing:type:164 producing:paper:159 producing:document:124 producing:use:95 producing:match:78 producing:science:15 producing:process:12 producing:working:5 
+production:human:2848 production:this:427 production:product:218 production:paper:159 production:make:78 production:school:48 production:field:33 production:process:12 production:model:5 
+progress:this:427 progress:work:343 progress:team:156 progress:program:101 progress:break:32 progress:story:29 progress:track:3 
+proposed:motion:6 
+provide:human:2848 provide:this:427 provide:work:343 provide:computer:217 provide:number:209 provide:give:184 provide:type:164 provide:paper:159 provide:state:116 provide:program:101 
+provided:product:218 provided:computer:217 provided:use:95 provided:get:48 provided:carry:21 provided:track:3 
+provides:human:2848 provides:this:427 provides:type:164 provides:study:160 provides:paper:159 provides:team:156 provides:state:116 provides:earth:99 provides:use:95 provides:write:87 
+purely:this:427 purely:paper:159 purely:use:95 purely:school:48 
+quality:goal:789 quality:this:427 quality:work:343 quality:product:218 quality:number:209 quality:paper:159 quality:building:137 quality:help:95 quality:table:91 quality:make:78 
+quicker:human:2848 quicker:give:184 quicker:paper:159 quicker:learn:99 quicker:use:95 quicker:writing:57 quicker:get:48 quicker:oxygen:4 quicker:travel:4 
+quickly:human:2848 quickly:this:427 quickly:work:343 quickly:computer:217 quickly:number:209 quickly:study:160 quickly:paper:159 quickly:building:137 quickly:state:116 quickly:program:101 
+quite:human:2848 quite:this:427 quite:work:343 quite:give:184 quite:type:164 quite:paper:159 quite:earth:99 quite:use:95 quite:sun:81 quite:make:78 
+random:human:2848 random:this:427 random:number:209 random:give:184 random:state:116 random:earth:99 random:use:95 random:table:91 random:make:78 random:story:29 
+rapid:human:2848 rapid:program:101 rapid:get:48 rapid:story:29 rapid:travel:4 rapid:search:2 
+rather:human:2848 rather:this:427 rather:work:343 rather:computer:217 rather:give:184 rather:type:164 rather:paper:159 rather:earth:99 rather:use:95 rather:table:91 
+raw:this:427 raw:building:137 raw:state:116 raw:earth:99 raw:use:95 raw:make:78 
+reached:goal:789 reached:number:209 reached:table:91 reached:get:48 reached:story:29 
+real:human:2848 real:this:427 real:work:343 real:number:209 real:give:184 real:type:164 real:study:160 real:building:137 real:document:124 real:program:101 
+records:this:427 records:paper:159 records:document:124 records:use:95 records:make:78 records:writing:57 records:process:12 records:record:6 records:apply:4 records:track:3 
+reference:work:343 reference:type:164 reference:disk:16 
+referring:use:95 referring:usa:30 
+refined:work:343 refined:earth:99 refined:use:95 
+region:human:2848 region:computer:217 region:state:116 region:earth:99 region:ice:37 region:check:10 
+related:this:427 related:work:343 related:computer:217 related:number:209 related:paper:159 related:building:137 related:help:95 related:make:78 related:school:48 related:mail:26 
+relating:use:95 relating:mail:26 
+relation:work:343 relation:earth:99 relation:head:90 relation:electricity:16 
+relationships:this:427 relationships:building:137 relationships:model:5 
+relative:this:427 relative:state:116 relative:earth:99 relative:use:95 relative:ice:37 relative:carry:21 relative:motion:6 
+release:this:427 release:paper:159 release:use:95 release:table:91 release:make:78 release:examine:49 release:machine:42 release:break:32 release:story:29 release:set:8 
+released:this:427 released:computer:217 released:make:78 released:story:29 released:set:8 released:track:3 
+reliably:human:2848 reliably:work:343 reliably:performance:14 
+reply:human:2848 reply:writing:57 reply:get:48 reply:mail:26 
+report:give:184 report:use:95 report:make:78 report:writing:57 report:get:48 report:story:29 
+reported:work:343 
+represent:human:2848 represent:this:427 represent:number:209 represent:paper:159 represent:state:116 represent:program:101 represent:earth:99 represent:use:95 represent:make:78 represent:writing:57 
+represented:human:2848 represented:this:427 represented:number:209 represented:paper:159 represented:earth:99 represented:write:87 represented:sun:81 represented:writing:57 represented:model:5 represented:communication:1 
+required:human:2848 required:this:427 required:work:343 required:computer:217 required:number:209 required:type:164 required:study:160 required:paper:159 required:building:137 required:document:124 
+requirements:human:2848 requirements:program:101 requirements:learn:99 requirements:write:87 requirements:make:78 requirements:get:48 requirements:pass:43 requirements:process:12 requirements:model:5 requirements:travel:4 
+requiring:give:184 requiring:team:156 requiring:field:33 requiring:story:29 
+requisite:write:87 requisite:university:34 
+researchers:goal:789 researchers:this:427 researchers:computer:217 researchers:program:101 researchers:pass:43 
+resource:paper:159 resource:learn:99 resource:help:95 resource:use:95 resource:writing:57 resource:set:8 
+resources:human:2848 resources:goal:789 resources:this:427 resources:computer:217 resources:study:160 resources:paper:159 resources:building:137 resources:earth:99 resources:use:95 resources:make:78 
+responsibility:human:2848 responsibility:learn:99 responsibility:help:95 responsibility:make:78 responsibility:task:72 responsibility:get:48 responsibility:project:27 
+restrictions:use:95 
+result:human:2848 result:this:427 result:work:343 result:paper:159 result:team:156 result:state:116 result:program:101 result:use:95 result:head:90 result:sun:81 
+resulting:human:2848 resulting:examine:49 
+returns:plan:69 returns:story:29 returns:search:2 
+review:human:2848 review:work:343 review:study:160 review:learn:99 review:use:95 review:write:87 review:make:78 review:get:48 review:pass:43 review:story:29 
+reviews:work:343 reviews:write:87 reviews:get:48 
+rich:human:2848 rich:goal:789 rich:this:427 rich:work:343 rich:computer:217 rich:give:184 rich:use:95 rich:happy:90 rich:write:87 rich:make:78 
+richard:study:160 
+rough:this:427 rough:paper:159 rough:use:95 rough:table:91 rough:head:90 rough:match:78 rough:get:48 rough:machine:42 rough:ice:37 rough:travel:4 
+roughly:human:2848 roughly:this:427 roughly:number:209 roughly:give:184 roughly:earth:99 roughly:head:90 roughly:sun:81 roughly:make:78 
+royal:human:2848 royal:this:427 royal:number:209 royal:paper:159 royal:building:137 royal:use:95 royal:happy:90 royal:head:90 royal:get:48 
+rules:human:2848 rules:goal:789 rules:this:427 rules:work:343 rules:computer:217 rules:number:209 rules:give:184 rules:team:156 rules:learn:99 rules:use:95 
+running:human:2848 running:goal:789 running:this:427 running:work:343 running:computer:217 running:number:209 running:type:164 running:study:160 running:building:137 running:earth:99 
+safety:this:427 safety:work:343 safety:give:184 safety:type:164 safety:learn:99 safety:help:95 safety:use:95 safety:head:90 safety:make:78 safety:tool:76 
+said:this:427 said:work:343 said:computer:217 said:number:209 said:give:184 said:type:164 said:paper:159 said:team:156 said:earth:99 said:use:95 
+same:human:2848 same:goal:789 same:this:427 same:work:343 same:computer:217 same:number:209 same:give:184 same:type:164 same:study:160 same:paper:159 
+sample:number:209 sample:set:8 
+san:this:427 san:team:156 san:state:116 san:happy:90 san:university:34 san:field:33 
+says:human:2848 says:this:427 says:computer:217 says:paper:159 says:document:124 says:use:95 says:writing:57 says:story:29 says:satellite:9 says:set:8 
+scientific:human:2848 scientific:this:427 scientific:study:160 scientific:earth:99 scientific:science:15 scientific:motion:6 scientific:research:2 
+scientists:work:343 scientists:computer:217 scientists:study:160 scientists:learn:99 scientists:make:78 scientists:train:42 scientists:university:34 scientists:science:15 scientists:satellite:9 scientists:travel:4 
+scored:goal:789 scored:this:427 scored:number:209 scored:team:156 scored:happy:90 scored:task:72 scored:get:48 scored:pass:43 scored:field:33 scored:break:32 
+scoring:goal:789 scoring:team:156 scoring:get:48 scoring:field:33 scoring:break:32 scoring:story:29 scoring:goals:3 
+screen:human:2848 screen:this:427 screen:computer:217 screen:type:164 screen:document:124 screen:story:29 screen:disk:16 screen:set:8 screen:motion:6 
+searches:search:2 
+second:human:2848 second:goal:789 second:this:427 second:number:209 second:give:184 second:paper:159 second:building:137 second:state:116 second:learn:99 second:help:95 
+seen:human:2848 seen:this:427 seen:work:343 seen:product:218 seen:building:137 seen:program:101 seen:earth:99 seen:learn:99 seen:help:95 seen:use:95 
+selected:human:2848 selected:building:137 selected:make:78 selected:break:32 selected:story:29 selected:check:10 
+selection:human:2848 selection:make:78 
+sensing:process:12 
+sensors:use:95 
+separate:goal:789 separate:this:427 separate:number:209 separate:paper:159 separate:building:137 separate:use:95 separate:head:90 separate:get:48 separate:story:29 separate:project:27 
+september:number:209 september:sun:81 
+series:human:2848 series:this:427 series:number:209 series:paper:159 series:team:156 series:earth:99 series:use:95 series:make:78 series:task:72 series:writing:57 
+setting:human:2848 setting:goal:789 setting:this:427 setting:work:343 setting:building:137 setting:earth:99 setting:learn:99 setting:use:95 setting:table:91 setting:sun:81 
+several:human:2848 several:this:427 several:work:343 several:type:164 several:building:137 several:state:116 several:earth:99 several:use:95 several:table:91 several:head:90 
+severe:building:137 severe:help:95 severe:use:95 severe:make:78 severe:get:48 severe:set:8 
+sheet:this:427 sheet:work:343 sheet:product:218 sheet:computer:217 sheet:give:184 sheet:paper:159 sheet:learn:99 sheet:use:95 sheet:head:90 sheet:write:87 
+should:human:2848 should:goal:789 should:this:427 should:work:343 should:product:218 should:computer:217 should:number:209 should:give:184 should:type:164 should:study:160 
+shown:human:2848 shown:this:427 shown:number:209 shown:building:137 shown:program:101 shown:use:95 shown:write:87 shown:get:48 shown:machine:42 shown:story:29 
+significant:earth:99 
+similar:human:2848 similar:this:427 similar:computer:217 similar:give:184 similar:type:164 similar:study:160 similar:paper:159 similar:building:137 similar:state:116 similar:earth:99 
+similarly:make:78 
+simple:human:2848 simple:this:427 simple:computer:217 simple:type:164 simple:paper:159 simple:learn:99 simple:help:95 simple:use:95 simple:write:87 simple:make:78 
+simplest:tool:76 
+single:human:2848 single:this:427 single:work:343 single:product:218 single:computer:217 single:number:209 single:give:184 single:earth:99 single:use:95 single:make:78 
+situation:human:2848 situation:this:427 situation:work:343 situation:computer:217 situation:number:209 situation:give:184 situation:type:164 situation:paper:159 situation:team:156 situation:program:101 
+size:human:2848 size:this:427 size:computer:217 size:number:209 size:type:164 size:paper:159 size:earth:99 size:use:95 size:make:78 size:tool:76 
+skilled:goal:789 skilled:this:427 skilled:team:156 skilled:building:137 skilled:make:78 skilled:calculate:2 
+small:human:2848 small:this:427 small:work:343 small:computer:217 small:number:209 small:give:184 small:type:164 small:paper:159 small:building:137 small:state:116 
+smaller:human:2848 smaller:this:427 smaller:work:343 smaller:product:218 smaller:computer:217 smaller:paper:159 smaller:building:137 smaller:earth:99 smaller:use:95 smaller:head:90 
+so:human:2848 so:goal:789 so:this:427 so:work:343 so:computer:217 so:number:209 so:give:184 so:type:164 so:study:160 so:paper:159 
+soft:human:2848 soft:this:427 soft:work:343 soft:give:184 soft:type:164 soft:paper:159 soft:earth:99 soft:use:95 soft:head:90 soft:make:78 
+software:goal:789 software:this:427 software:work:343 software:product:218 software:computer:217 software:study:160 software:paper:159 software:program:101 software:learn:99 software:help:95 
+solar:human:2848 solar:this:427 solar:earth:99 solar:use:95 solar:sun:81 solar:electricity:16 solar:approach:9 solar:satellite:9 solar:model:5 
+solution:this:427 solution:give:184 solution:state:116 solution:learn:99 
+some:human:2848 some:goal:789 some:this:427 some:work:343 some:product:218 some:computer:217 some:number:209 some:give:184 some:type:164 some:study:160 
+sometimes:human:2848 sometimes:goal:789 sometimes:this:427 sometimes:work:343 sometimes:product:218 sometimes:computer:217 sometimes:number:209 sometimes:give:184 sometimes:type:164 sometimes:study:160 
+soon:human:2848 soon:work:343 soon:earth:99 soon:help:95 soon:use:95 soon:make:78 soon:get:48 soon:school:48 soon:machine:42 soon:story:29 
+sort:human:2848 sort:this:427 sort:work:343 sort:computer:217 sort:type:164 sort:paper:159 sort:program:101 sort:use:95 sort:table:91 sort:head:90 
+sources:give:184 sources:paper:159 sources:use:95 sources:write:87 sources:make:78 sources:match:78 sources:carry:21 
+space:human:2848 space:this:427 space:work:343 space:computer:217 space:give:184 space:study:160 space:paper:159 space:building:137 space:state:116 space:program:101 
+spam:story:29 
+specifically:this:427 specifically:type:164 specifically:get:48 specifically:record:6 
+specified:this:427 specified:work:343 specified:number:209 specified:get:48 specified:set:8 
+spiral:this:427 spiral:type:164 spiral:paper:159 spiral:use:95 spiral:disk:16 
+spot:goal:789 spot:computer:217 spot:study:160 spot:paper:159 spot:table:91 spot:head:90 spot:write:87 spot:sun:81 spot:match:78 spot:get:48 
+stage:this:427 stage:work:343 stage:number:209 stage:paper:159 stage:use:95 stage:write:87 stage:make:78 stage:plan:69 stage:writing:57 stage:get:48 
+stages:work:343 stages:number:209 stages:plan:69 stages:get:48 stages:perform:6 stages:goals:3 
+stand:human:2848 stand:this:427 stand:work:343 stand:computer:217 stand:number:209 stand:give:184 stand:type:164 stand:building:137 stand:state:116 stand:learn:99 
+standard:this:427 standard:work:343 standard:computer:217 standard:number:209 standard:type:164 standard:paper:159 standard:use:95 standard:make:78 standard:school:48 standard:field:33 
+starlight:sun:81 
+start:human:2848 start:goal:789 start:this:427 start:work:343 start:computer:217 start:type:164 start:study:160 start:paper:159 start:program:101 start:earth:99 
+starting:this:427 starting:work:343 starting:computer:217 starting:paper:159 starting:building:137 starting:make:78 starting:match:78 starting:get:48 starting:story:29 starting:travel:4 
+statistical:work:343 statistical:number:209 statistical:use:95 statistical:tool:76 statistical:story:29 
+step:human:2848 step:this:427 step:work:343 step:product:218 step:computer:217 step:number:209 step:give:184 step:type:164 step:paper:159 step:team:156 
+steps:human:2848 steps:paper:159 steps:program:101 steps:learn:99 steps:use:95 steps:make:78 steps:task:72 steps:writing:57 steps:get:48 steps:story:29 
+storage:human:2848 storage:this:427 storage:computer:217 storage:type:164 storage:paper:159 storage:use:95 storage:table:91 storage:make:78 storage:tool:76 storage:get:48 
+storms:earth:99 storms:get:48 storms:ice:37 storms:electricity:16 
+stream:this:427 stream:paper:159 stream:use:95 stream:head:90 stream:make:78 stream:train:42 stream:story:29 stream:electricity:16 stream:communication:1 
+strength:human:2848 strength:this:427 strength:work:343 strength:paper:159 strength:building:137 strength:use:95 strength:make:78 strength:tool:76 strength:plan:69 strength:field:33 
+strongest:this:427 strongest:class:6 
+structure:human:2848 structure:this:427 structure:number:209 structure:type:164 structure:study:160 structure:building:137 structure:earth:99 structure:use:95 structure:table:91 structure:head:90 
+studies:school:48 studies:university:34 studies:science:15 
+subset:number:209 subset:state:116 subset:help:95 subset:electricity:16 subset:set:8 
+successful:human:2848 successful:work:343 successful:give:184 successful:head:90 successful:get:48 successful:pass:43 successful:machine:42 successful:story:29 successful:build:13 successful:set:8 
+successfully:human:2848 successfully:this:427 successfully:computer:217 successfully:program:101 successfully:writing:57 successfully:university:34 successfully:story:29 
+such:human:2848 such:this:427 such:work:343 such:computer:217 such:number:209 such:give:184 such:type:164 such:paper:159 such:building:137 such:document:124 
+suitable:computer:217 suitable:paper:159 suitable:learn:99 suitable:help:95 suitable:use:95 suitable:make:78 suitable:writing:57 suitable:get:48 suitable:story:29 suitable:carry:21 
+sunspots:sun:81 
+super:goal:789 super:this:427 super:team:156 super:earth:99 
+supplied:match:78 supplied:plan:69 supplied:electricity:16 
+supplies:human:2848 supplies:work:343 supplies:product:218 supplies:computer:217 supplies:number:209 supplies:type:164 supplies:study:160 supplies:paper:159 supplies:building:137 supplies:help:95 
+support:human:2848 support:this:427 support:work:343 support:give:184 support:type:164 support:paper:159 support:team:156 support:building:137 support:earth:99 support:help:95 
+sure:human:2848 sure:this:427 sure:work:343 sure:product:218 sure:computer:217 sure:number:209 sure:give:184 sure:paper:159 sure:program:101 sure:help:95 
+surge:computer:217 
+system:human:2848 system:this:427 system:work:343 system:computer:217 system:number:209 system:give:184 system:type:164 system:paper:159 system:building:137 system:program:101 
+systematic:use:95 systematic:write:87 
+systems:this:427 systems:work:343 systems:computer:217 systems:give:184 systems:type:164 systems:earth:99 systems:use:95 systems:sun:81 systems:make:78 systems:tool:76 
+take:human:2848 take:goal:789 take:this:427 take:work:343 take:computer:217 take:number:209 take:give:184 take:type:164 take:study:160 take:paper:159 
+taken:human:2848 taken:this:427 taken:computer:217 taken:building:137 taken:state:116 taken:program:101 taken:earth:99 taken:help:95 taken:use:95 taken:table:91 
+target:this:427 target:number:209 target:paper:159 target:building:137 target:program:101 target:learn:99 target:use:95 target:make:78 target:set:8 target:enjoy:4 
+technical:this:427 technical:computer:217 
+technique:this:427 technique:use:95 technique:story:29 technique:travel:4 
+techniques:learn:99 techniques:use:95 techniques:process:12 
+technologies:research:2 
+telegraph:program:101 telegraph:carry:21 
+tells:human:2848 tells:this:427 tells:computer:217 tells:number:209 tells:give:184 tells:paper:159 tells:program:101 tells:help:95 tells:make:78 tells:get:48 
+ten:this:427 ten:work:343 ten:computer:217 ten:number:209 ten:document:124 ten:use:95 ten:table:91 ten:write:87 ten:make:78 ten:break:32 
+term:human:2848 term:goal:789 term:this:427 term:work:343 term:computer:217 term:number:209 term:give:184 term:type:164 term:study:160 term:paper:159 
+terrestrial:human:2848 
+tests:this:427 tests:give:184 tests:study:160 tests:learn:99 tests:make:78 tests:get:48 tests:school:48 tests:pass:43 tests:field:33 tests:story:29 
+text:human:2848 text:this:427 text:computer:217 text:type:164 text:study:160 text:paper:159 text:document:124 text:program:101 text:learn:99 text:use:95 
+than:human:2848 than:this:427 than:work:343 than:product:218 than:computer:217 than:number:209 than:give:184 than:type:164 than:study:160 than:paper:159 
+that:human:2848 that:goal:789 that:this:427 that:work:343 that:product:218 that:computer:217 that:number:209 that:give:184 that:type:164 that:study:160 
+the:human:2848 the:goal:789 the:this:427 the:work:343 the:product:218 the:computer:217 the:number:209 the:give:184 the:type:164 the:study:160 
+their:human:2848 their:goal:789 their:this:427 their:work:343 their:product:218 their:computer:217 their:number:209 their:give:184 their:type:164 their:study:160 
+them:human:2848 them:this:427 them:work:343 them:product:218 them:computer:217 them:number:209 them:give:184 them:type:164 them:study:160 them:paper:159 
+then:human:2848 then:goal:789 then:this:427 then:work:343 then:product:218 then:computer:217 then:number:209 then:give:184 then:type:164 then:study:160 
+theory:human:2848 theory:number:209 theory:study:160 theory:use:95 theory:science:15 theory:build:13 theory:set:8 theory:class:6 theory:motion:6 theory:travel:4 
+there:human:2848 there:goal:789 there:this:427 there:work:343 there:product:218 there:computer:217 there:number:209 there:give:184 there:type:164 there:study:160 
+thermonuclear:sun:81 thermonuclear:make:78 
+these:human:2848 these:goal:789 these:this:427 these:work:343 these:computer:217 these:number:209 these:give:184 these:type:164 these:study:160 these:paper:159 
+they:human:2848 they:goal:789 they:this:427 they:work:343 they:product:218 they:computer:217 they:number:209 they:give:184 they:type:164 they:study:160 
+those:human:2848 those:this:427 those:work:343 those:give:184 those:building:137 those:earth:99 those:help:95 those:use:95 those:happy:90 those:make:78 
+three:human:2848 three:this:427 three:computer:217 three:number:209 three:type:164 three:study:160 three:paper:159 three:team:156 three:earth:99 three:use:95 
+through:human:2848 through:goal:789 through:this:427 through:work:343 through:computer:217 through:give:184 through:type:164 through:study:160 through:paper:159 through:building:137 
+thus:human:2848 thus:this:427 thus:computer:217 thus:give:184 thus:help:95 thus:use:95 thus:head:90 thus:sun:81 thus:make:78 thus:task:72 
+time:human:2848 time:goal:789 time:this:427 time:work:343 time:computer:217 time:number:209 time:give:184 time:type:164 time:study:160 time:paper:159 
+timely:number:209 timely:give:184 
+to:human:2848 to:goal:789 to:this:427 to:work:343 to:product:218 to:computer:217 to:number:209 to:give:184 to:type:164 to:study:160 
+tokens:use:95 tokens:get:48 tokens:machine:42 
+too:human:2848 too:this:427 too:work:343 too:computer:217 too:give:184 too:study:160 too:paper:159 too:building:137 too:state:116 too:earth:99 
+toolkit:this:427 toolkit:tool:76 
+towards:human:2848 towards:goal:789 towards:this:427 towards:work:343 towards:product:218 towards:earth:99 towards:learn:99 towards:use:95 towards:table:91 towards:head:90 
+traces:disk:16 traces:record:6 
+tropical:human:2848 tropical:this:427 tropical:type:164 tropical:paper:159 tropical:earth:99 tropical:sun:81 tropical:make:78 tropical:writing:57 tropical:story:29 tropical:repeat:2 
+tuberculosis:carry:21 
+twelve:this:427 twelve:computer:217 twelve:number:209 twelve:study:160 twelve:learn:99 twelve:make:78 twelve:school:48 twelve:story:29 twelve:mail:26 twelve:set:8 
+two:human:2848 two:goal:789 two:this:427 two:work:343 two:product:218 two:computer:217 two:number:209 two:give:184 two:type:164 two:study:160 
+types:human:2848 types:this:427 types:work:343 types:computer:217 types:type:164 types:state:116 types:earth:99 types:use:95 types:table:91 types:make:78 
+typical:this:427 typical:computer:217 typical:number:209 typical:type:164 typical:help:95 typical:table:91 typical:motion:6 typical:original:4 
+uncertain:human:2848 uncertain:this:427 
+uncertainty:enjoy:4 
+understanding:human:2848 understanding:this:427 understanding:computer:217 understanding:give:184 understanding:type:164 understanding:study:160 understanding:program:101 understanding:learn:99 understanding:help:95 understanding:make:78 
+unfortunately:this:427 unfortunately:make:78 unfortunately:get:48 unfortunately:ice:37 
+unknown:human:2848 unknown:this:427 unknown:learn:99 unknown:use:95 unknown:check:10 unknown:goals:3 unknown:discover:1 
+up:human:2848 up:goal:789 up:this:427 up:work:343 up:product:218 up:computer:217 up:number:209 up:give:184 up:type:164 up:study:160 
+used:human:2848 used:goal:789 used:this:427 used:work:343 used:product:218 used:computer:217 used:number:209 used:give:184 used:type:164 used:study:160 
+useful:human:2848 useful:this:427 useful:work:343 useful:computer:217 useful:type:164 useful:study:160 useful:paper:159 useful:building:137 useful:program:101 useful:earth:99 
+user:this:427 user:computer:217 user:give:184 user:type:164 user:building:137 user:document:124 user:program:101 user:use:95 user:make:78 user:school:48 
+users:human:2848 users:computer:217 users:type:164 users:paper:159 users:program:101 users:help:95 users:use:95 users:write:87 users:train:42 users:mail:26 
+using:human:2848 using:goal:789 using:this:427 using:work:343 using:computer:217 using:number:209 using:give:184 using:type:164 using:study:160 using:paper:159 
+usually:human:2848 usually:this:427 usually:work:343 usually:product:218 usually:computer:217 usually:number:209 usually:give:184 usually:type:164 usually:study:160 usually:paper:159 
+variable:number:209 
+variables:program:101 variables:write:87 variables:calculate:2 
+variants:tool:76 variants:original:4 
+various:human:2848 various:this:427 various:work:343 various:computer:217 various:number:209 various:type:164 various:study:160 various:paper:159 various:earth:99 various:learn:99 
+varying:use:95 varying:make:78 varying:get:48 varying:travel:4 
+version:this:427 version:computer:217 version:paper:159 version:use:95 version:make:78 version:writing:57 version:ice:37 version:university:34 version:story:29 version:science:15 
+versions:this:427 versions:use:95 
+very:human:2848 very:goal:789 very:this:427 very:work:343 very:product:218 very:computer:217 very:number:209 very:type:164 very:study:160 very:paper:159 
+via:computer:217 via:give:184 via:type:164 via:paper:159 via:use:95 via:tool:76 via:get:48 via:train:42 via:satellite:9 via:motion:6 
+visible:human:2848 visible:this:427 visible:work:343 visible:give:184 visible:paper:159 visible:help:95 visible:table:91 visible:head:90 visible:write:87 visible:sun:81 
+visual:this:427 visual:work:343 visual:state:116 visual:use:95 visual:make:78 visual:tool:76 visual:field:33 visual:story:29 visual:class:6 visual:record:6 
+volunteers:get:48 
+was:human:2848 was:goal:789 was:this:427 was:work:343 was:computer:217 was:number:209 was:give:184 was:type:164 was:study:160 was:paper:159 
+wave:this:427 wave:computer:217 wave:get:48 wave:motion:6 wave:travel:4 
+way:human:2848 way:goal:789 way:this:427 way:work:343 way:product:218 way:computer:217 way:number:209 way:give:184 way:type:164 way:study:160 
+ways:human:2848 ways:goal:789 ways:this:427 ways:work:343 ways:product:218 ways:number:209 ways:paper:159 ways:earth:99 ways:learn:99 ways:help:95 
+we:human:2848 we:goal:789 we:this:427 we:work:343 we:product:218 we:computer:217 we:number:209 we:give:184 we:study:160 we:paper:159 
+well:human:2848 well:this:427 well:work:343 well:product:218 well:computer:217 well:number:209 well:give:184 well:type:164 well:study:160 well:paper:159 
+were:human:2848 were:goal:789 were:this:427 were:work:343 were:product:218 were:computer:217 were:number:209 were:give:184 were:study:160 were:paper:159 
+what:human:2848 what:goal:789 what:this:427 what:work:343 what:product:218 what:computer:217 what:number:209 what:give:184 what:type:164 what:study:160 
+when:human:2848 when:goal:789 when:this:427 when:work:343 when:product:218 when:computer:217 when:number:209 when:give:184 when:type:164 when:study:160 
+where:human:2848 where:goal:789 where:this:427 where:work:343 where:product:218 where:computer:217 where:number:209 where:give:184 where:type:164 where:study:160 
+which:human:2848 which:goal:789 which:this:427 which:work:343 which:product:218 which:computer:217 which:number:209 which:give:184 which:type:164 which:study:160 
+while:human:2848 while:goal:789 while:this:427 while:work:343 while:product:218 while:computer:217 while:number:209 while:give:184 while:type:164 while:study:160 
+who:human:2848 who:goal:789 who:this:427 who:work:343 who:computer:217 who:number:209 who:give:184 who:type:164 who:study:160 who:paper:159 
+whose:human:2848 whose:this:427 whose:work:343 whose:team:156 whose:state:116 whose:help:95 whose:happy:90 whose:head:90 whose:get:48 whose:pass:43 
+will:human:2848 will:goal:789 will:this:427 will:work:343 will:product:218 will:computer:217 will:number:209 will:give:184 will:type:164 will:study:160 
+winner:human:2848 winner:goal:789 winner:this:427 winner:give:184 winner:team:156 winner:help:95 winner:use:95 winner:head:90 winner:get:48 winner:set:8 
+with:human:2848 with:goal:789 with:this:427 with:work:343 with:product:218 with:computer:217 with:number:209 with:give:184 with:type:164 with:study:160 
+within:human:2848 within:this:427 within:work:343 within:computer:217 within:type:164 within:building:137 within:state:116 within:earth:99 within:help:95 within:use:95 
+world:human:2848 world:this:427 world:work:343 world:computer:217 world:number:209 world:give:184 world:type:164 world:study:160 world:paper:159 world:team:156 
+would:human:2848 would:goal:789 would:this:427 would:work:343 would:product:218 would:computer:217 would:number:209 would:give:184 would:type:164 would:study:160 
+written:human:2848 written:this:427 written:work:343 written:computer:217 written:number:209 written:give:184 written:type:164 written:paper:159 written:document:124 written:program:101 
+x:computer:217 x:pass:43 
+year:human:2848 year:this:427 year:work:343 year:number:209 year:give:184 year:type:164 year:study:160 year:paper:159 year:team:156 year:building:137 
+yet:human:2848 yet:this:427 yet:give:184 yet:earth:99 yet:write:87 yet:get:48 yet:story:29 yet:project:27 yet:electricity:16 yet:class:6 
+yield:sun:81 yield:travel:4 
