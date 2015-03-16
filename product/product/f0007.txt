@@ -1,0 +1,44 @@
+and:computer:191 and:company:117 and:machine:34 and:project:18 
+application:computer:191 
+artificial:computer:191 
+as:computer:191 as:company:117 as:machine:34 as:project:18 
+base:computer:191 
+by:computer:191 by:company:117 by:machine:34 by:project:18 
+common:computer:191 
+corporation:computer:191 
+data:computer:191 data:company:117 data:project:18 
+enable:computer:191 
+engine:computer:191 engine:machine:34 
+has:computer:191 has:company:117 has:machine:34 has:project:18 
+in:computer:191 in:company:117 in:machine:34 in:project:18 
+information:computer:191 information:company:117 information:machine:34 
+intelligence:computer:191 intelligence:project:18 
+interfaces:computer:191 
+into:computer:191 into:company:117 into:machine:34 into:project:18 
+is:computer:191 is:company:117 is:machine:34 is:project:18 
+it:computer:191 it:company:117 it:machine:34 it:project:18 
+its:computer:191 its:company:117 its:machine:34 its:project:18 
+knowledge:computer:191 knowledge:project:18 
+language:computer:191 language:machine:34 
+lead:project:18 
+leading:project:18 
+new:computer:191 new:company:117 new:project:18 
+novel:computer:191 
+of:computer:191 of:company:117 of:machine:34 of:project:18 
+offers:company:117 
+placed:machine:34 
+powered:computer:191 
+powerful:computer:191 
+profile:computer:191 
+public:computer:191 public:company:117 
+software:computer:191 software:company:117 software:project:18 
+technology:computer:191 
+texas:company:117 
+that:computer:191 that:company:117 that:machine:34 that:project:18 
+the:computer:191 the:company:117 the:machine:34 the:project:18 
+to:computer:191 to:company:117 to:machine:34 to:project:18 
+true:computer:191 true:company:117 true:machine:34 true:project:18 
+variety:machine:34 
+was:computer:191 was:company:117 was:machine:34 was:project:18 
+wide:computer:191 
+with:computer:191 with:company:117 with:machine:34 with:project:18 
