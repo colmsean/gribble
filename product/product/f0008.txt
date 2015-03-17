@@ -1,0 +1,197 @@
+ability:this:427 ability:work:242 ability:read:47 ability:radio:24 ability:inside:21 ability:get:7 ability:see:4 ability:think:4 ability:make:1 
+able:this:427 able:work:242 able:read:47 able:newspaper:40 able:saw:39 able:inside:21 able:get:7 able:see:4 able:think:4 able:open:2 
+about:this:427 about:work:242 about:read:47 about:newspaper:40 about:saw:39 about:course:30 about:problem:29 about:radio:24 about:service:24 about:inside:21 
+achieve:this:427 achieve:work:242 achieve:course:30 achieve:get:7 achieve:think:4 
+act:this:427 act:read:47 act:course:30 act:service:24 act:inside:21 act:get:7 act:see:4 act:think:4 act:open:2 act:make:1 
+advertisers:newspaper:40 advertisers:make:1 
+advertising:this:427 advertising:radio:24 advertising:get:7 advertising:make:1 
+against:this:427 against:work:242 against:get:7 against:see:4 against:think:4 against:open:2 against:make:1 
+all:this:427 all:work:242 all:read:47 all:newspaper:40 all:window:32 all:course:30 all:radio:24 all:service:24 all:inside:21 all:column:20 
+allowed:this:427 allowed:work:242 allowed:read:47 allowed:get:7 allowed:see:4 allowed:think:4 
+also:this:427 also:work:242 also:read:47 also:service:24 also:inside:21 also:get:7 also:see:4 also:business:2 also:open:2 also:make:1 
+alternative:work:242 alternative:read:47 alternative:think:4 
+america:this:427 america:work:242 america:window:32 america:inside:21 america:get:7 america:see:4 america:think:4 america:business:2 america:open:2 america:make:1 
+and:this:427 and:work:242 and:read:47 and:newspaper:40 and:saw:39 and:window:32 and:course:30 and:problem:29 and:radio:24 and:service:24 
+another:this:427 another:work:242 another:read:47 another:newspaper:40 another:saw:39 another:window:32 another:problem:29 another:radio:24 another:service:24 another:inside:21 
+are:this:427 are:work:242 are:read:47 are:newspaper:40 are:saw:39 are:window:32 are:course:30 are:problem:29 are:radio:24 are:service:24 
+around:this:427 around:work:242 around:read:47 around:newspaper:40 around:window:32 around:course:30 around:problem:29 around:radio:24 around:service:24 around:inside:21 
+as:this:427 as:work:242 as:read:47 as:newspaper:40 as:saw:39 as:window:32 as:course:30 as:problem:29 as:radio:24 as:service:24 
+at:this:427 at:work:242 at:read:47 at:newspaper:40 at:saw:39 at:window:32 at:course:30 at:problem:29 at:radio:24 at:service:24 
+back:this:427 back:work:242 back:read:47 back:newspaper:40 back:saw:39 back:window:32 back:inside:21 back:get:7 back:see:4 back:think:4 
+barking:make:1 
+be:this:427 be:work:242 be:read:47 be:newspaper:40 be:saw:39 be:window:32 be:course:30 be:problem:29 be:radio:24 be:service:24 
+became:this:427 became:work:242 became:read:47 became:saw:39 became:business:2 
+because:this:427 because:work:242 because:read:47 because:newspaper:40 because:saw:39 because:window:32 because:course:30 because:problem:29 because:radio:24 because:service:24 
+been:this:427 been:work:242 been:read:47 been:newspaper:40 been:saw:39 been:window:32 been:radio:24 been:service:24 been:inside:21 been:get:7 
+began:this:427 began:work:242 began:read:47 began:saw:39 began:radio:24 began:get:7 
+behaviors:get:7 
+being:this:427 being:work:242 being:read:47 being:newspaper:40 being:course:30 being:problem:29 being:radio:24 being:service:24 being:inside:21 being:get:7 
+businesses:work:242 businesses:get:7 businesses:business:2 businesses:make:1 
+but:this:427 but:work:242 but:read:47 but:saw:39 but:window:32 but:radio:24 but:service:24 but:inside:21 but:get:7 but:see:4 
+by:this:427 by:work:242 by:read:47 by:newspaper:40 by:saw:39 by:window:32 by:course:30 by:problem:29 by:radio:24 by:service:24 
+came:this:427 came:work:242 came:radio:24 came:inside:21 came:get:7 came:business:2 
+can:this:427 can:work:242 can:read:47 can:newspaper:40 can:saw:39 can:window:32 can:course:30 can:problem:29 can:radio:24 can:service:24 
+capable:this:427 capable:read:47 capable:problem:29 capable:radio:24 capable:get:7 capable:think:4 
+chain:this:427 chain:window:32 chain:inside:21 chain:get:7 chain:see:4 chain:business:2 chain:open:2 chain:make:1 
+companies:this:427 companies:work:242 companies:service:24 companies:get:7 companies:business:2 companies:make:1 
+content:read:47 content:newspaper:40 content:get:7 content:see:4 content:make:1 
+conversation:this:427 conversation:radio:24 conversation:get:7 conversation:think:4 conversation:business:2 conversation:open:2 conversation:make:1 
+convince:this:427 convince:make:1 
+could:this:427 could:work:242 could:read:47 could:newspaper:40 could:saw:39 could:course:30 could:problem:29 could:radio:24 could:service:24 could:inside:21 
+couple:this:427 couple:work:242 couple:read:47 couple:get:7 couple:make:1 
+curious:this:427 curious:read:47 curious:see:4 curious:open:2 
+customers:work:242 customers:radio:24 customers:service:24 customers:get:7 customers:business:2 customers:make:1 
+data:this:427 data:read:47 data:problem:29 data:see:4 data:open:2 data:make:1 
+dave:work:242 dave:read:47 dave:see:4 
+deal:this:427 deal:read:47 deal:get:7 deal:see:4 deal:think:4 deal:business:2 deal:open:2 deal:make:1 
+debate:work:242 debate:problem:29 debate:radio:24 debate:get:7 debate:make:1 
+decades:this:427 decades:course:30 decades:think:4 
+digital:this:427 digital:radio:24 
+discussion:this:427 discussion:radio:24 discussion:open:2 discussion:make:1 
+dislike:work:242 
+do:this:427 do:work:242 do:read:47 do:newspaper:40 do:saw:39 do:window:32 do:course:30 do:problem:29 do:radio:24 do:service:24 
+doing:this:427 doing:work:242 doing:window:32 doing:course:30 doing:radio:24 doing:service:24 doing:get:7 doing:see:4 doing:think:4 doing:business:2 
+down:this:427 down:work:242 down:read:47 down:newspaper:40 down:saw:39 down:window:32 down:problem:29 down:radio:24 down:service:24 down:inside:21 
+during:this:427 during:work:242 during:course:30 during:problem:29 during:service:24 during:inside:21 during:get:7 during:see:4 during:think:4 during:business:2 
+early:this:427 early:work:242 early:read:47 early:problem:29 early:get:7 early:see:4 early:business:2 early:make:1 
+educate:read:47 educate:business:2 
+educated:this:427 educated:read:47 educated:course:30 educated:get:7 
+education:work:242 education:read:47 education:newspaper:40 education:course:30 education:get:7 education:see:4 education:open:2 education:make:1 
+effect:this:427 effect:work:242 effect:read:47 effect:newspaper:40 effect:window:32 effect:course:30 effect:problem:29 effect:radio:24 effect:service:24 effect:inside:21 
+enjoyed:work:242 enjoyed:read:47 enjoyed:radio:24 enjoyed:inside:21 
+even:this:427 even:work:242 even:problem:29 even:radio:24 even:get:7 even:see:4 even:think:4 even:business:2 even:open:2 even:make:1 
+everybody:get:7 everybody:see:4 
+example:this:427 example:work:242 example:service:24 example:get:7 example:think:4 example:make:1 
+face:this:427 face:window:32 face:inside:21 face:get:7 face:see:4 face:open:2 face:make:1 
+figured:problem:29 
+firms:work:242 
+for:this:427 for:work:242 for:read:47 for:newspaper:40 for:saw:39 for:window:32 for:course:30 for:problem:29 for:radio:24 for:service:24 
+found:this:427 found:work:242 found:read:47 found:newspaper:40 found:saw:39 found:window:32 found:course:30 found:problem:29 found:radio:24 found:service:24 
+gardens:read:47 
+got:this:427 got:work:242 got:read:47 got:newspaper:40 got:course:30 got:radio:24 got:inside:21 got:get:7 got:see:4 got:business:2 
+habits:read:47 habits:get:7 
+hardware:this:427 hardware:radio:24 hardware:make:1 
+he:this:427 he:work:242 he:read:47 he:saw:39 he:window:32 he:course:30 he:radio:24 he:service:24 he:inside:21 he:get:7 
+herald:newspaper:40 
+his:this:427 his:work:242 his:read:47 his:saw:39 his:window:32 his:problem:29 his:radio:24 his:service:24 his:inside:21 his:get:7 
+holders:inside:21 
+i:this:427 i:work:242 i:read:47 i:newspaper:40 i:saw:39 i:window:32 i:course:30 i:radio:24 i:service:24 i:inside:21 
+ideas:this:427 ideas:work:242 ideas:course:30 ideas:get:7 ideas:see:4 ideas:open:2 ideas:make:1 
+if:this:427 if:work:242 if:read:47 if:newspaper:40 if:saw:39 if:window:32 if:course:30 if:problem:29 if:radio:24 if:service:24 
+in:this:427 in:work:242 in:read:47 in:newspaper:40 in:saw:39 in:window:32 in:course:30 in:problem:29 in:radio:24 in:service:24 
+including:this:427 including:see:4 including:think:4 
+increasingly:work:242 
+intense:get:7 intense:make:1 
+internet:this:427 internet:work:242 internet:read:47 internet:radio:24 internet:service:24 internet:get:7 internet:see:4 internet:open:2 internet:make:1 
+investigating:this:427 
+it:this:427 it:work:242 it:read:47 it:newspaper:40 it:saw:39 it:window:32 it:course:30 it:problem:29 it:radio:24 it:service:24 
+just:this:427 just:work:242 just:read:47 just:saw:39 just:problem:29 just:radio:24 just:inside:21 just:column:20 just:get:7 just:see:4 
+kid:this:427 kid:get:7 
+last:this:427 last:work:242 last:read:47 last:newspaper:40 last:window:32 last:course:30 last:radio:24 last:inside:21 last:column:20 last:get:7 
+less:this:427 less:work:242 less:read:47 less:radio:24 less:get:7 less:see:4 less:think:4 less:make:1 less:plan:1 
+like:this:427 like:work:242 like:read:47 like:newspaper:40 like:saw:39 like:window:32 like:course:30 like:problem:29 like:radio:24 like:service:24 
+list:this:427 list:read:47 list:newspaper:40 list:course:30 list:get:7 list:see:4 list:think:4 list:make:1 list:plan:1 
+litigation:work:242 
+looking:this:427 looking:work:242 looking:read:47 looking:window:32 looking:radio:24 looking:service:24 looking:inside:21 looking:get:7 looking:see:4 looking:business:2 
+lot:this:427 lot:work:242 lot:read:47 lot:saw:39 lot:problem:29 lot:radio:24 lot:inside:21 lot:get:7 lot:see:4 lot:think:4 
+loved:this:427 loved:see:4 loved:think:4 loved:make:1 
+loves:this:427 
+making:this:427 making:work:242 making:read:47 making:window:32 making:course:30 making:problem:29 making:radio:24 making:service:24 making:inside:21 making:column:20 
+managed:this:427 managed:work:242 managed:get:7 
+many:this:427 many:work:242 many:read:47 many:newspaper:40 many:saw:39 many:window:32 many:course:30 many:problem:29 many:radio:24 many:service:24 
+meanwhile:this:427 meanwhile:business:2 meanwhile:make:1 
+merits:inside:21 
+miami:this:427 
+miles:this:427 miles:get:7 miles:see:4 miles:make:1 
+more:this:427 more:work:242 more:read:47 more:newspaper:40 more:saw:39 more:window:32 more:course:30 more:problem:29 more:radio:24 more:inside:21 
+much:this:427 much:work:242 much:read:47 much:course:30 much:problem:29 much:service:24 much:inside:21 much:get:7 much:see:4 much:think:4 
+needed:this:427 needed:work:242 needed:read:47 needed:radio:24 needed:column:20 needed:get:7 needed:see:4 needed:think:4 needed:business:2 needed:make:1 
+networks:work:242 networks:get:7 networks:make:1 
+new:this:427 new:work:242 new:read:47 new:newspaper:40 new:window:32 new:course:30 new:problem:29 new:radio:24 new:service:24 new:inside:21 
+no:this:427 no:work:242 no:read:47 no:saw:39 no:course:30 no:service:24 no:inside:21 no:column:20 no:get:7 no:see:4 
+nor:this:427 nor:see:4 
+not:this:427 not:work:242 not:read:47 not:newspaper:40 not:saw:39 not:window:32 not:course:30 not:problem:29 not:radio:24 not:service:24 
+nuclear:this:427 nuclear:inside:21 nuclear:make:1 
+obvious:this:427 obvious:read:47 
+of:this:427 of:work:242 of:read:47 of:newspaper:40 of:saw:39 of:window:32 of:course:30 of:problem:29 of:radio:24 of:service:24 
+old:this:427 old:work:242 old:read:47 old:newspaper:40 old:saw:39 old:course:30 old:inside:21 old:get:7 old:see:4 old:think:4 
+on:this:427 on:work:242 on:read:47 on:newspaper:40 on:saw:39 on:window:32 on:course:30 on:problem:29 on:radio:24 on:service:24 
+one:this:427 one:work:242 one:read:47 one:newspaper:40 one:saw:39 one:window:32 one:course:30 one:problem:29 one:radio:24 one:service:24 
+ones:this:427 ones:work:242 ones:saw:39 ones:column:20 ones:get:7 ones:see:4 ones:think:4 ones:make:1 
+online:this:427 online:service:24 online:get:7 
+only:this:427 only:work:242 only:read:47 only:newspaper:40 only:problem:29 only:radio:24 only:service:24 only:inside:21 only:get:7 only:see:4 
+or:this:427 or:work:242 or:read:47 or:newspaper:40 or:saw:39 or:window:32 or:course:30 or:problem:29 or:radio:24 or:service:24 
+out:this:427 out:work:242 out:read:47 out:newspaper:40 out:saw:39 out:window:32 out:course:30 out:problem:29 out:radio:24 out:service:24 
+partner:get:7 partner:make:1 
+payment:work:242 payment:radio:24 payment:make:1 payment:plan:1 
+people:this:427 people:work:242 people:read:47 people:newspaper:40 people:saw:39 people:window:32 people:course:30 people:problem:29 people:radio:24 people:service:24 
+per:this:427 per:work:242 per:see:4 per:make:1 
+piss:work:242 piss:plan:1 
+popular:this:427 popular:inside:21 popular:get:7 
+prevent:this:427 prevent:window:32 prevent:open:2 
+profit:get:7 profit:see:4 profit:business:2 profit:make:1 
+prove:this:427 prove:course:30 prove:get:7 prove:open:2 prove:make:1 
+public:this:427 public:work:242 public:newspaper:40 public:radio:24 public:service:24 public:get:7 public:think:4 public:business:2 public:open:2 public:make:1 
+published:read:47 published:newspaper:40 
+purely:this:427 purely:think:4 
+readers:this:427 readers:read:47 readers:make:1 
+real:this:427 real:work:242 real:read:47 real:newspaper:40 real:window:32 real:problem:29 real:inside:21 real:get:7 real:see:4 real:think:4 
+reduce:this:427 reduce:work:242 reduce:problem:29 reduce:make:1 
+regard:make:1 
+required:this:427 required:work:242 required:read:47 required:course:30 required:service:24 required:get:7 required:see:4 required:think:4 required:business:2 required:make:1 
+requirement:course:30 requirement:make:1 
+resist:problem:29 
+running:this:427 running:work:242 running:window:32 running:course:30 running:column:20 running:get:7 running:see:4 running:business:2 running:make:1 
+same:this:427 same:work:242 same:read:47 same:radio:24 same:service:24 same:inside:21 same:get:7 same:see:4 same:think:4 same:business:2 
+seen:this:427 seen:work:242 seen:saw:39 seen:window:32 seen:inside:21 seen:get:7 seen:see:4 seen:think:4 seen:make:1 
+share:work:242 share:newspaper:40 share:service:24 share:get:7 share:make:1 
+simply:this:427 simply:problem:29 simply:get:7 simply:see:4 simply:make:1 
+so:this:427 so:work:242 so:read:47 so:saw:39 so:window:32 so:course:30 so:problem:29 so:radio:24 so:inside:21 so:get:7 
+software:this:427 software:work:242 software:problem:29 software:inside:21 software:get:7 software:see:4 software:open:2 software:make:1 software:plan:1 
+some:this:427 some:work:242 some:read:47 some:newspaper:40 some:saw:39 some:window:32 some:course:30 some:problem:29 some:radio:24 some:service:24 
+something:this:427 something:work:242 something:read:47 something:newspaper:40 something:saw:39 something:window:32 something:course:30 something:problem:29 something:radio:24 something:service:24 
+sources:make:1 
+spare:read:47 spare:see:4 
+spinning:make:1 
+still:this:427 still:work:242 still:course:30 still:inside:21 still:column:20 still:get:7 still:see:4 still:think:4 still:business:2 still:open:2 
+strong:this:427 strong:radio:24 strong:inside:21 strong:get:7 strong:see:4 strong:make:1 
+subscription:newspaper:40 subscription:get:7 
+such:this:427 such:work:242 such:read:47 such:course:30 such:problem:29 such:service:24 such:inside:21 such:get:7 such:see:4 such:business:2 
+suing:get:7 
+syndicated:radio:24 
+teenager:this:427 teenager:get:7 
+than:this:427 than:work:242 than:read:47 than:newspaper:40 than:saw:39 than:window:32 than:course:30 than:problem:29 than:radio:24 than:service:24 
+that:this:427 that:work:242 that:read:47 that:newspaper:40 that:saw:39 that:window:32 that:course:30 that:problem:29 that:radio:24 that:service:24 
+the:this:427 the:work:242 the:read:47 the:newspaper:40 the:saw:39 the:window:32 the:course:30 the:problem:29 the:radio:24 the:service:24 
+their:this:427 their:work:242 their:read:47 their:newspaper:40 their:saw:39 their:window:32 their:course:30 their:problem:29 their:radio:24 their:service:24 
+them:this:427 them:work:242 them:read:47 them:newspaper:40 them:saw:39 them:window:32 them:course:30 them:problem:29 them:radio:24 them:service:24 
+then:this:427 then:work:242 then:read:47 then:newspaper:40 then:saw:39 then:window:32 then:course:30 then:problem:29 then:radio:24 then:service:24 
+there:this:427 there:work:242 there:read:47 there:newspaper:40 there:saw:39 there:window:32 there:course:30 there:problem:29 there:radio:24 there:service:24 
+therefore:this:427 therefore:get:7 therefore:see:4 therefore:think:4 therefore:make:1 
+these:this:427 these:work:242 these:read:47 these:newspaper:40 these:window:32 these:course:30 these:problem:29 these:radio:24 these:service:24 these:inside:21 
+they:this:427 they:work:242 they:read:47 they:newspaper:40 they:saw:39 they:window:32 they:course:30 they:problem:29 they:radio:24 they:service:24 
+those:this:427 those:work:242 those:problem:29 those:column:20 those:get:7 those:see:4 those:think:4 those:business:2 those:make:1 
+to:this:427 to:work:242 to:read:47 to:newspaper:40 to:saw:39 to:window:32 to:course:30 to:problem:29 to:radio:24 to:service:24 
+treated:inside:21 treated:get:7 treated:open:2 
+try:this:427 try:work:242 try:read:47 try:newspaper:40 try:problem:29 try:radio:24 try:inside:21 try:get:7 try:see:4 try:think:4 
+up:this:427 up:work:242 up:read:47 up:newspaper:40 up:saw:39 up:window:32 up:course:30 up:problem:29 up:radio:24 up:service:24 
+various:this:427 various:work:242 various:make:1 
+vendors:newspaper:40 vendors:make:1 
+viewed:this:427 viewed:window:32 viewed:get:7 viewed:business:2 viewed:make:1 
+visions:open:2 
+want:this:427 want:work:242 want:read:47 want:newspaper:40 want:saw:39 want:window:32 want:course:30 want:problem:29 want:radio:24 want:service:24 
+wanted:this:427 wanted:work:242 wanted:read:47 wanted:newspaper:40 wanted:saw:39 wanted:window:32 wanted:radio:24 wanted:column:20 wanted:get:7 wanted:see:4 
+was:this:427 was:work:242 was:read:47 was:newspaper:40 was:saw:39 was:window:32 was:course:30 was:problem:29 was:radio:24 was:service:24 
+we:this:427 we:work:242 we:read:47 we:newspaper:40 we:saw:39 we:radio:24 we:service:24 we:inside:21 we:get:7 we:see:4 
+were:this:427 were:work:242 were:read:47 were:saw:39 were:problem:29 were:radio:24 were:get:7 were:see:4 were:open:2 were:make:1 
+which:this:427 which:work:242 which:read:47 which:newspaper:40 which:saw:39 which:window:32 which:course:30 which:radio:24 which:service:24 which:inside:21 
+while:this:427 while:work:242 while:read:47 while:newspaper:40 while:window:32 while:course:30 while:problem:29 while:radio:24 while:service:24 while:inside:21 
+who:this:427 who:work:242 who:read:47 who:newspaper:40 who:saw:39 who:course:30 who:problem:29 who:radio:24 who:service:24 who:inside:21 
+widely:read:47 widely:radio:24 
+with:this:427 with:work:242 with:read:47 with:newspaper:40 with:saw:39 with:window:32 with:course:30 with:problem:29 with:radio:24 with:service:24 
+world:this:427 world:work:242 world:read:47 world:newspaper:40 world:window:32 world:problem:29 world:radio:24 world:service:24 world:inside:21 world:get:7 
+would:this:427 would:work:242 would:read:47 would:newspaper:40 would:saw:39 would:window:32 would:course:30 would:problem:29 would:radio:24 would:service:24 
+year:this:427 year:work:242 year:get:7 year:see:4 year:think:4 year:make:1 
+york:this:427 york:inside:21 york:get:7 york:see:4 york:make:1 
+you:this:427 you:work:242 you:read:47 you:newspaper:40 you:saw:39 you:window:32 you:course:30 you:problem:29 you:radio:24 you:service:24 
+your:this:427 your:work:242 your:read:47 your:newspaper:40 your:saw:39 your:window:32 your:course:30 your:problem:29 your:radio:24 your:service:24 
