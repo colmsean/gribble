@@ -1,0 +1,840 @@
+able:goal:648 able:play:516 able:this:428 able:work:299 able:book:249 able:computer:228 able:number:181 able:read:152 able:use:119 able:money:100 
+about:goal:648 about:play:516 about:this:428 about:work:299 about:book:249 about:computer:228 about:number:181 about:study:167 about:read:152 about:shop:138 
+academic:this:428 academic:read:152 academic:course:39 
+access:this:428 access:work:299 access:computer:228 access:number:181 access:study:167 access:building:138 access:use:119 access:money:100 access:program:83 access:get:72 
+accessible:get:72 
+accommodate:piece:3 
+accuracy:play:516 accuracy:computer:228 accuracy:use:119 accuracy:make:47 accuracy:machine:36 accuracy:outside:36 accuracy:problem:32 
+across:play:516 across:this:428 across:work:299 across:book:249 across:document:119 across:use:119 across:money:100 across:match:80 across:eat:72 across:get:72 
+action:play:516 action:this:428 action:work:299 action:computer:228 action:study:167 action:read:152 action:building:138 action:use:119 action:money:100 action:learn:94 
+active:goal:648 active:play:516 active:this:428 active:work:299 active:read:152 active:get:72 active:picture:69 active:write:56 active:make:47 active:player:31 
+actor:play:516 actor:this:428 actor:picture:69 actor:movie:49 actor:make:47 actor:course:39 actor:show:20 actor:perform:4 actor:performance:2 
+actors:play:516 actors:this:428 actors:work:299 actors:read:152 actors:money:100 actors:eat:72 actors:get:72 actors:picture:69 actors:movie:49 actors:make:47 
+ad:work:299 ad:number:181 ad:read:152 ad:picture:69 ad:painting:40 ad:machine:36 ad:player:31 
+add:book:249 add:number:181 add:use:119 add:money:100 add:learn:94 add:word:93 add:head:86 add:eat:72 add:get:72 add:picture:69 
+addition:play:516 addition:this:428 addition:study:167 addition:shop:138 addition:money:100 addition:get:72 addition:school:45 addition:column:33 addition:problem:32 addition:process:10 
+additional:use:119 additional:picture:69 additional:painting:40 additional:help:17 additional:piece:3 
+adopt:program:83 
+advanced:this:428 advanced:picture:69 advanced:tool:66 advanced:write:56 advanced:player:31 
+advice:this:428 advice:read:152 advice:use:119 advice:program:83 advice:eat:72 advice:picture:69 advice:apple:45 advice:open:14 advice:piece:3 
+after:play:516 after:this:428 after:work:299 after:book:249 after:product:232 after:computer:228 after:number:181 after:study:167 after:read:152 after:shop:138 
+aids:use:119 aids:money:100 aids:eat:72 aids:get:72 aids:give:47 aids:make:47 aids:help:17 
+aimed:tool:66 aimed:show:20 
+alike:sound:41 alike:opening:3 
+all:goal:648 all:play:516 all:this:428 all:work:299 all:book:249 all:product:232 all:computer:228 all:number:181 all:study:167 all:read:152 
+allow:play:516 allow:this:428 allow:work:299 allow:product:232 allow:computer:228 allow:number:181 allow:study:167 allow:building:138 allow:use:119 allow:learn:94 
+allowed:play:516 allowed:this:428 allowed:work:299 allowed:study:167 allowed:read:152 allowed:use:119 allowed:money:100 allowed:learn:94 allowed:eat:72 allowed:get:72 
+allowing:this:428 allowing:work:299 allowing:book:249 allowing:computer:228 allowing:use:119 allowing:money:100 allowing:word:93 allowing:get:72 allowing:picture:69 allowing:movie:49 
+allows:play:516 allows:this:428 allows:work:299 allows:computer:228 allows:number:181 allows:study:167 allows:read:152 allows:building:138 allows:use:119 allows:money:100 
+almost:this:428 almost:computer:228 almost:read:152 almost:building:138 almost:shop:138 almost:use:119 almost:money:100 almost:learn:94 almost:head:86 almost:eat:72 
+along:play:516 along:this:428 along:work:299 along:book:249 along:use:119 along:money:100 along:match:80 along:eat:72 along:get:72 along:picture:69 
+already:this:428 already:use:119 already:learn:94 already:eat:72 already:picture:69 already:write:56 already:make:47 already:outside:36 already:open:14 already:forget:2 
+also:goal:648 also:play:516 also:this:428 also:work:299 also:book:249 also:product:232 also:computer:228 also:number:181 also:study:167 also:read:152 
+although:play:516 although:this:428 although:read:152 although:use:119 although:money:100 although:word:93 although:head:86 although:eat:72 although:picture:69 although:make:47 
+always:play:516 always:this:428 always:work:299 always:book:249 always:computer:228 always:building:138 always:use:119 always:money:100 always:learn:94 always:program:83 
+amount:play:516 amount:this:428 amount:work:299 amount:book:249 amount:product:232 amount:computer:228 amount:number:181 amount:read:152 amount:building:138 amount:shop:138 
+analogous:this:428 analogous:tool:66 analogous:sound:41 analogous:original:4 analogous:business:2 
+and:goal:648 and:play:516 and:this:428 and:work:299 and:book:249 and:product:232 and:computer:228 and:number:181 and:study:167 and:read:152 
+animated:movie:49 animated:make:47 animated:show:20 
+animation:work:299 animation:computer:228 animation:project:23 
+another:goal:648 another:play:516 another:this:428 another:work:299 another:book:249 another:product:232 another:computer:228 another:number:181 another:study:167 another:read:152 
+any:goal:648 any:play:516 any:this:428 any:work:299 any:book:249 any:computer:228 any:number:181 any:study:167 any:read:152 any:building:138 
+anywhere:play:516 anywhere:this:428 anywhere:shop:138 anywhere:money:100 anywhere:get:72 anywhere:make:47 anywhere:school:45 anywhere:window:40 anywhere:outside:36 
+apart:this:428 apart:computer:228 apart:use:119 apart:help:17 apart:open:14 apart:opening:3 
+appear:goal:648 appear:this:428 appear:computer:228 appear:number:181 appear:read:152 appear:use:119 appear:program:83 appear:get:72 appear:picture:69 appear:make:47 
+appearance:this:428 appearance:work:299 appearance:study:167 appearance:head:86 appearance:get:72 appearance:picture:69 appearance:paint:54 appearance:make:47 appearance:show:20 appearance:disk:17 
+appeared:picture:69 appeared:movie:49 appeared:business:2 
+application:computer:228 application:use:119 application:word:93 application:program:83 application:get:72 application:write:56 application:paint:54 application:card:50 application:make:47 application:school:45 
+applications:computer:228 applications:number:181 applications:program:83 applications:tool:66 applications:run:2 
+applied:this:428 applied:work:299 applied:computer:228 applied:student:77 applied:get:72 applied:picture:69 applied:write:56 applied:paint:54 applied:make:47 applied:university:45 
+approaches:this:428 
+architecture:computer:228 architecture:study:167 architecture:building:138 architecture:use:119 architecture:picture:69 architecture:university:45 architecture:project:23 architecture:open:14 
+are:goal:648 are:play:516 are:this:428 are:work:299 are:book:249 are:product:232 are:computer:228 are:number:181 are:study:167 are:read:152 
+area:this:428 area:work:299 area:number:181 area:building:138 area:shop:138 area:use:119 area:learn:94 area:word:93 area:head:86 area:student:77 
+areas:this:428 areas:work:299 areas:read:152 areas:use:119 areas:money:100 areas:head:86 areas:get:72 areas:picture:69 areas:card:50 areas:give:47 
+argued:work:299 
+around:play:516 around:this:428 around:work:299 around:book:249 around:computer:228 around:study:167 around:read:152 around:building:138 around:shop:138 around:document:119 
+arranged:this:428 arranged:computer:228 arranged:money:100 arranged:eat:72 arranged:picture:69 arranged:column:33 arranged:order:14 
+arrangement:play:516 arrangement:this:428 arrangement:computer:228 arrangement:picture:69 arrangement:order:14 
+array:this:428 array:product:232 array:number:181 array:get:72 array:picture:69 array:choose:1 
+art:play:516 art:this:428 art:work:299 art:book:249 art:number:181 art:study:167 art:read:152 art:building:138 art:shop:138 art:document:119 
+artwork:this:428 artwork:work:299 artwork:book:249 artwork:read:152 artwork:use:119 artwork:eat:72 artwork:picture:69 artwork:painting:40 artwork:window:40 artwork:display:11 
+as:goal:648 as:play:516 as:this:428 as:work:299 as:book:249 as:product:232 as:computer:228 as:number:181 as:study:167 as:read:152 
+aspects:problem:32 aspects:control:4 
+at:goal:648 at:play:516 at:this:428 at:work:299 at:book:249 at:product:232 at:computer:228 at:number:181 at:study:167 at:read:152 
+attempt:goal:648 attempt:play:516 attempt:this:428 attempt:book:249 attempt:building:138 attempt:get:72 attempt:picture:69 attempt:write:56 attempt:make:47 attempt:machine:36 
+audio:play:516 audio:book:249 audio:computer:228 audio:read:152 audio:use:119 audio:sound:41 audio:file:28 audio:disk:17 audio:perform:4 
+author:this:428 author:work:299 author:book:249 author:study:167 author:read:152 author:word:93 author:picture:69 author:write:56 author:library:47 author:make:47 
+automatic:use:119 automatic:machine:36 
+automatically:head:86 automatically:make:47 automatically:field:37 automatically:degree:25 automatically:hold:1 
+available:this:428 available:work:299 available:computer:228 available:number:181 available:use:119 available:money:100 available:head:86 available:get:72 available:movie:49 available:library:47 
+away:goal:648 away:play:516 away:this:428 away:work:299 away:book:249 away:computer:228 away:number:181 away:study:167 away:read:152 away:shop:138 
+back:play:516 back:this:428 back:work:299 back:book:249 back:computer:228 back:number:181 back:read:152 back:use:119 back:money:100 back:head:86 
+backdrop:play:516 backdrop:use:119 backdrop:picture:69 backdrop:field:37 backdrop:player:31 backdrop:show:20 
+background:goal:648 background:this:428 background:book:249 background:computer:228 background:number:181 background:building:138 background:use:119 background:learn:94 background:word:93 background:head:86 
+backgrounds:study:167 backgrounds:show:20 
+based:this:428 based:work:299 based:computer:228 based:read:152 based:use:119 based:program:83 based:get:72 based:picture:69 based:paint:54 based:movie:49 
+basic:play:516 basic:this:428 basic:computer:228 basic:use:119 basic:learn:94 basic:head:86 basic:get:72 basic:tool:66 basic:make:47 basic:school:45 
+basis:this:428 basis:work:299 basis:use:119 basis:get:72 basis:model:5 
+be:goal:648 be:play:516 be:this:428 be:work:299 be:book:249 be:product:232 be:computer:228 be:number:181 be:study:167 be:read:152 
+became:goal:648 became:this:428 became:work:299 became:book:249 became:computer:228 became:read:152 became:money:100 became:head:86 became:program:83 became:eat:72 
+because:goal:648 because:play:516 because:this:428 because:work:299 because:book:249 because:product:232 because:computer:228 because:number:181 because:study:167 because:read:152 
+become:play:516 become:this:428 become:work:299 become:book:249 become:computer:228 become:study:167 become:read:152 become:shop:138 become:use:119 become:money:100 
+been:goal:648 been:play:516 been:this:428 been:work:299 been:book:249 been:computer:228 been:number:181 been:study:167 been:read:152 been:building:138 
+behave:study:167 behave:learn:94 behave:eat:72 behave:make:47 behave:bill:19 behave:order:14 
+behind:goal:648 behind:this:428 behind:book:249 behind:building:138 behind:head:86 behind:get:72 behind:picture:69 behind:paint:54 behind:make:47 behind:apple:45 
+being:play:516 being:this:428 being:work:299 being:computer:228 being:number:181 being:study:167 being:read:152 being:building:138 being:shop:138 being:use:119 
+best:goal:648 best:play:516 best:this:428 best:work:299 best:book:249 best:product:232 best:computer:228 best:number:181 best:read:152 best:building:138 
+better:goal:648 better:play:516 better:this:428 better:work:299 better:book:249 better:computer:228 better:study:167 better:read:152 better:building:138 better:use:119 
+between:goal:648 between:play:516 between:this:428 between:work:299 between:book:249 between:product:232 between:computer:228 between:number:181 between:read:152 between:building:138 
+beyond:picture:69 beyond:make:47 beyond:outside:36 beyond:show:20 beyond:open:14 beyond:hold:1 
+bid:play:516 bid:get:72 
+black:goal:648 black:play:516 black:this:428 black:work:299 black:book:249 black:number:181 black:use:119 black:money:100 black:word:93 black:head:86 
+block:this:428 block:book:249 block:number:181 block:building:138 block:use:119 block:match:80 block:picture:69 block:write:56 block:make:47 block:player:31 
+blocks:play:516 blocks:computer:228 blocks:building:138 blocks:eat:72 blocks:get:72 blocks:make:47 blocks:outside:36 blocks:show:20 blocks:build:7 blocks:run:2 
+bolted:picture:69 
+both:play:516 both:this:428 both:work:299 both:book:249 both:product:232 both:computer:228 both:number:181 both:read:152 both:building:138 both:shop:138 
+bottom:this:428 bottom:book:249 bottom:computer:228 bottom:number:181 bottom:read:152 bottom:building:138 bottom:shop:138 bottom:use:119 bottom:money:100 bottom:word:93 
+bought:play:516 bought:this:428 bought:work:299 bought:book:249 bought:computer:228 bought:number:181 bought:building:138 bought:shop:138 bought:use:119 bought:money:100 
+bound:this:428 bound:work:299 bound:book:249 bound:use:119 bound:money:100 bound:picture:69 bound:business:2 
+boxes:play:516 boxes:this:428 boxes:number:181 boxes:use:119 boxes:money:100 boxes:picture:69 boxes:make:47 boxes:open:14 boxes:order:14 boxes:display:11 
+brief:work:299 brief:card:50 
+budding:picture:69 
+built:play:516 built:this:428 built:work:299 built:computer:228 built:number:181 built:building:138 built:use:119 built:money:100 built:learn:94 built:student:77 
+bush:this:428 bush:work:299 bush:read:152 bush:building:138 bush:head:86 bush:eat:72 bush:get:72 bush:picture:69 bush:make:47 bush:university:45 
+but:goal:648 but:play:516 but:this:428 but:work:299 but:book:249 but:computer:228 but:number:181 but:study:167 but:read:152 but:building:138 
+by:goal:648 by:play:516 by:this:428 by:work:299 by:book:249 by:product:232 by:computer:228 by:number:181 by:study:167 by:read:152 
+c:this:428 c:computer:228 c:use:119 c:word:93 c:program:83 c:get:72 c:picture:69 c:make:47 c:show:20 c:open:14 
+called:goal:648 called:play:516 called:this:428 called:work:299 called:book:249 called:computer:228 called:number:181 called:study:167 called:read:152 called:building:138 
+can:goal:648 can:play:516 can:this:428 can:work:299 can:book:249 can:product:232 can:computer:228 can:number:181 can:study:167 can:read:152 
+cannot:play:516 cannot:this:428 cannot:work:299 cannot:book:249 cannot:computer:228 cannot:number:181 cannot:read:152 cannot:shop:138 cannot:use:119 cannot:money:100 
+capabilities:work:299 capabilities:use:119 capabilities:outside:36 
+capability:performance:2 
+capable:this:428 capable:book:249 capable:study:167 capable:read:152 capable:building:138 capable:get:72 capable:picture:69 capable:sound:41 capable:problem:32 
+cartoon:this:428 cartoon:work:299 cartoon:book:249 cartoon:head:86 cartoon:eat:72 cartoon:picture:69 cartoon:movie:49 cartoon:make:47 cartoon:player:31 cartoon:mouse:23 
+case:play:516 case:this:428 case:book:249 case:computer:228 case:number:181 case:study:167 case:building:138 case:use:119 case:word:93 case:head:86 
+cassette:play:516 cassette:this:428 cassette:use:119 cassette:word:93 cassette:picture:69 cassette:sound:41 cassette:player:31 cassette:show:20 cassette:disk:17 cassette:video:15 
+cause:play:516 cause:this:428 cause:work:299 cause:computer:228 cause:use:119 cause:money:100 cause:head:86 cause:match:80 cause:get:72 cause:picture:69 
+centre:play:516 centre:this:428 centre:get:72 centre:picture:69 centre:library:47 centre:open:14 centre:piece:3 
+certain:goal:648 certain:play:516 certain:this:428 certain:work:299 certain:computer:228 certain:number:181 certain:study:167 certain:read:152 certain:building:138 certain:document:119 
+certainly:this:428 certainly:computer:228 certainly:head:86 
+changed:goal:648 changed:play:516 changed:this:428 changed:work:299 changed:book:249 changed:computer:228 changed:number:181 changed:study:167 changed:read:152 changed:building:138 
+changes:this:428 changes:work:299 changes:number:181 changes:study:167 changes:money:100 changes:get:72 changes:give:47 changes:make:47 changes:sound:41 changes:machine:36 
+changing:this:428 changing:work:299 changing:book:249 changing:use:119 changing:match:80 changing:get:72 changing:picture:69 changing:tool:66 changing:write:56 changing:paint:54 
+channels:this:428 channels:use:119 channels:program:83 channels:get:72 channels:picture:69 channels:show:20 channels:control:4 channels:sit:4 
+character:play:516 character:this:428 character:work:299 character:book:249 character:computer:228 character:number:181 character:use:119 character:word:93 character:head:86 character:program:83 
+characteristics:picture:69 characteristics:order:14 
+charge:study:167 charge:read:152 charge:shop:138 charge:use:119 charge:money:100 charge:word:93 charge:head:86 charge:get:72 charge:picture:69 charge:card:50 
+cheap:this:428 cheap:use:119 cheap:money:100 cheap:eat:72 cheap:get:72 cheap:picture:69 cheap:make:47 cheap:market:24 cheap:menu:15 cheap:forget:2 
+choice:work:299 choice:use:119 choice:money:100 choice:learn:94 choice:eat:72 choice:tool:66 choice:make:47 choice:machine:36 choice:button:21 choice:business:2 
+chosen:book:249 chosen:study:167 chosen:get:72 chosen:paint:54 chosen:make:47 chosen:painting:40 chosen:menu:15 chosen:open:14 chosen:create:6 chosen:choose:1 
+chunk:picture:69 
+chunks:picture:69 chunks:apple:45 chunks:machine:36 
+cinematic:movie:49 
+circumstances:this:428 circumstances:picture:69 circumstances:make:47 circumstances:degree:25 circumstances:help:17 circumstances:sit:4 
+clicking:make:47 clicking:sound:41 
+clicks:mouse:23 
+clipboard:work:299 clipboard:use:119 clipboard:picture:69 clipboard:write:56 clipboard:card:50 clipboard:make:47 clipboard:school:45 clipboard:hold:1 
+closer:goal:648 closer:this:428 closer:building:138 closer:use:119 closer:learn:94 closer:head:86 closer:match:80 closer:get:72 closer:picture:69 closer:make:47 
+clue:this:428 clue:give:47 clue:make:47 clue:problem:32 clue:help:17 
+clumsy:sit:4 
+code:this:428 code:computer:228 code:number:181 code:program:83 code:picture:69 code:write:56 code:help:17 code:open:14 code:run:2 
+collage:this:428 collage:picture:69 collage:make:47 collage:painting:40 
+colleagues:work:299 colleagues:use:119 
+collection:play:516 collection:this:428 collection:work:299 collection:book:249 collection:computer:228 collection:number:181 collection:read:152 collection:shop:138 collection:program:83 collection:picture:69 
+colour:this:428 colour:computer:228 colour:document:119 colour:use:119 colour:money:100 colour:word:93 colour:head:86 colour:picture:69 colour:paint:54 colour:make:47 
+colours:play:516 colours:eat:72 colours:get:72 colours:picture:69 colours:paint:54 colours:make:47 colours:painting:40 colours:help:17 colours:order:14 colours:piece:3 
+come:play:516 come:this:428 come:work:299 come:book:249 come:number:181 come:read:152 come:building:138 come:shop:138 come:use:119 come:learn:94 
+coming:play:516 coming:this:428 coming:work:299 coming:product:232 coming:use:119 coming:money:100 coming:picture:69 coming:card:50 coming:make:47 coming:apple:45 
+commercial:goal:648 commercial:product:232 commercial:building:138 commercial:use:119 commercial:program:83 commercial:picture:69 commercial:make:47 commercial:apple:45 commercial:painting:40 commercial:business:2 
+common:goal:648 common:play:516 common:this:428 common:work:299 common:product:232 common:computer:228 common:number:181 common:study:167 common:building:138 common:shop:138 
+community:play:516 community:this:428 community:work:299 community:learn:94 community:picture:69 community:problem:32 community:market:24 community:order:14 community:build:7 community:business:2 
+companion:eat:72 companion:picture:69 
+compared:path:3 compared:hold:1 
+comparison:picture:69 comparison:tool:66 
+complete:this:428 complete:book:249 complete:computer:228 complete:number:181 complete:study:167 complete:shop:138 complete:use:119 complete:program:83 complete:student:77 complete:eat:72 
+completing:goal:648 completing:this:428 completing:work:299 completing:computer:228 completing:picture:69 completing:course:39 completing:degree:25 
+complex:this:428 complex:work:299 complex:computer:228 complex:building:138 complex:use:119 complex:money:100 complex:learn:94 complex:get:72 complex:picture:69 complex:make:47 
+components:this:428 components:computer:228 components:use:119 components:word:93 components:program:83 components:picture:69 components:write:56 components:make:47 components:machine:36 components:create:6 
+compromises:make:47 
+concept:this:428 concept:computer:228 concept:number:181 concept:read:152 concept:money:100 concept:learn:94 concept:program:83 concept:write:56 concept:make:47 concept:show:20 
+concepts:this:428 concepts:study:167 concepts:use:119 concepts:learn:94 concepts:picture:69 concepts:write:56 concepts:make:47 concepts:school:45 concepts:painting:40 concepts:order:14 
+conditional:word:93 
+conferences:computer:228 conferences:use:119 conferences:make:47 
+consider:play:516 consider:this:428 consider:work:299 consider:computer:228 consider:number:181 consider:read:152 consider:building:138 consider:use:119 consider:program:83 consider:eat:72 
+consist:goal:648 consist:word:93 consist:picture:69 consist:school:45 consist:mouse:23 
+construction:this:428 construction:work:299 construction:building:138 construction:use:119 construction:money:100 construction:head:86 construction:picture:69 construction:tool:66 construction:make:47 construction:help:17 
+consume:this:428 consume:use:119 consume:eat:72 consume:get:72 consume:picture:69 consume:movie:49 consume:school:45 consume:order:14 consume:run:2 
+contain:goal:648 contain:play:516 contain:this:428 contain:work:299 contain:book:249 contain:computer:228 contain:number:181 contain:study:167 contain:read:152 contain:document:119 
+containing:this:428 containing:computer:228 containing:read:152 containing:building:138 containing:document:119 containing:money:100 containing:eat:72 containing:picture:69 containing:write:56 containing:movie:49 
+contents:this:428 contents:book:249 contents:document:119 contents:get:72 contents:picture:69 contents:write:56 contents:make:47 contents:outside:36 contents:disk:17 contents:display:11 
+continue:this:428 continue:book:249 continue:read:152 continue:use:119 continue:money:100 continue:learn:94 continue:eat:72 continue:give:47 continue:make:47 continue:open:14 
+continuous:process:10 continuous:original:4 
+contributor:study:167 
+controller:control:4 
+controlling:number:181 controlling:use:119 controlling:machine:36 controlling:output:29 controlling:control:4 
+convenient:work:299 convenient:shop:138 convenient:eat:72 convenient:get:72 convenient:tool:66 convenient:write:56 convenient:card:50 convenient:movie:49 convenient:library:47 convenient:show:20 
+converted:field:37 converted:process:10 
+cooperate:play:516 cooperate:get:72 cooperate:show:20 cooperate:working:3 
+copies:book:249 copies:give:47 copies:library:47 copies:make:47 copies:disk:17 copies:original:4 copies:hold:1 
+cost:this:428 cost:work:299 cost:shop:138 cost:money:100 cost:picture:69 cost:card:50 cost:give:47 cost:make:47 cost:school:45 cost:painting:40 
+costs:this:428 costs:work:299 costs:use:119 costs:money:100 costs:give:47 costs:make:47 costs:machine:36 costs:problem:32 costs:menu:15 costs:build:7 
+could:goal:648 could:play:516 could:this:428 could:work:299 could:book:249 could:computer:228 could:number:181 could:read:152 could:shop:138 could:use:119 
+covered:play:516 covered:this:428 covered:computer:228 covered:number:181 covered:use:119 covered:head:86 covered:get:72 covered:picture:69 covered:paint:54 covered:make:47 
+created:goal:648 created:this:428 created:work:299 created:book:249 created:computer:228 created:number:181 created:read:152 created:use:119 created:money:100 created:word:93 
+creating:play:516 creating:this:428 creating:work:299 creating:computer:228 creating:document:119 creating:use:119 creating:money:100 creating:program:83 creating:match:80 creating:get:72 
+creation:computer:228 creation:study:167 creation:building:138 creation:program:83 creation:picture:69 creation:school:45 creation:painting:40 creation:working:3 
+crude:product:232 
+current:play:516 current:this:428 current:product:232 current:number:181 current:read:152 current:use:119 current:learn:94 current:student:77 current:get:72 current:picture:69 
+currently:this:428 currently:money:100 currently:word:93 currently:picture:69 currently:tool:66 currently:library:47 currently:rest:2 currently:score:2 
+cursor:document:119 
+custom:this:428 custom:eat:72 
+days:this:428 days:work:299 days:number:181 days:study:167 days:read:152 days:shop:138 days:use:119 days:learn:94 days:eat:72 days:get:72 
+deal:play:516 deal:this:428 deal:computer:228 deal:number:181 deal:read:152 deal:document:119 deal:use:119 deal:money:100 deal:learn:94 deal:head:86 
+decided:goal:648 decided:play:516 decided:this:428 decided:work:299 decided:book:249 decided:study:167 decided:building:138 decided:shop:138 decided:money:100 decided:learn:94 
+dedicated:sound:41 dedicated:build:7 dedicated:control:4 
+define:goal:648 define:work:299 define:computer:228 define:use:119 define:money:100 define:program:83 define:write:56 define:help:17 define:open:14 define:process:10 
+defined:work:299 defined:word:93 defined:write:56 defined:make:47 defined:university:45 defined:course:39 defined:field:37 defined:outside:36 defined:order:14 defined:path:3 
+definitely:card:50 definitely:run:2 
+definition:this:428 definition:building:138 definition:word:93 definition:picture:69 definition:give:47 definition:make:47 definition:problem:32 definition:process:10 definition:artist:9 definition:context:7 
+depend:work:299 depend:open:14 depend:business:2 
+depending:this:428 depending:use:119 depending:program:83 depending:picture:69 depending:context:7 depending:programs:1 
+depth:this:428 depth:program:83 depth:get:72 depth:give:47 depth:field:37 depth:show:20 
+description:goal:648 description:play:516 description:this:428 description:work:299 description:book:249 description:product:232 description:computer:228 description:number:181 description:study:167 description:read:152 
+design:goal:648 design:play:516 design:this:428 design:computer:228 design:study:167 design:building:138 design:use:119 design:money:100 design:learn:94 design:program:83 
+designated:play:516 designated:this:428 designated:picture:69 designated:course:39 designated:context:7 designated:path:3 designated:score:2 
+desirable:this:428 desirable:match:80 desirable:eat:72 
+despite:get:72 despite:sound:41 
+detail:this:428 detail:picture:69 detail:show:20 
+detailed:this:428 detailed:book:249 detailed:read:152 detailed:picture:69 detailed:open:14 detailed:create:6 detailed:hold:1 
+deterrent:use:119 deterrent:order:14 
+developed:this:428 developed:work:299 developed:program:83 developed:eat:72 developed:picture:69 developed:write:56 developed:give:47 developed:university:45 developed:open:14 developed:process:10 
+development:this:428 development:use:119 development:picture:69 development:tool:66 development:problem:32 development:help:17 development:process:10 development:model:5 development:business:2 
+diagonal:this:428 diagonal:building:138 diagonal:picture:69 diagonal:make:47 diagonal:painting:40 
+did:goal:648 did:play:516 did:this:428 did:work:299 did:book:249 did:computer:228 did:number:181 did:study:167 did:read:152 did:building:138 
+difference:play:516 difference:this:428 difference:work:299 difference:book:249 difference:product:232 difference:read:152 difference:building:138 difference:shop:138 difference:document:119 difference:use:119 
+different:goal:648 different:play:516 different:this:428 different:work:299 different:book:249 different:product:232 different:computer:228 different:number:181 different:read:152 different:building:138 
+difficult:goal:648 difficult:play:516 difficult:this:428 difficult:computer:228 difficult:read:152 difficult:building:138 difficult:use:119 difficult:money:100 difficult:learn:94 difficult:program:83 
+digital:this:428 digital:computer:228 digital:use:119 digital:picture:69 digital:sound:41 digital:file:28 digital:disk:17 digital:video:15 digital:hold:1 
+direct:play:516 direct:this:428 direct:work:299 direct:use:119 direct:money:100 direct:student:77 direct:picture:69 direct:movie:49 direct:make:47 direct:school:45 
+directly:use:119 directly:word:93 directly:get:72 directly:picture:69 directly:make:47 directly:business:2 directly:run:2 
+director:play:516 director:use:119 director:movie:49 director:make:47 director:school:45 director:show:20 director:sit:4 director:opening:3 director:business:2 director:hold:1 
+distribute:use:119 distribute:program:83 distribute:write:56 distribute:create:6 distribute:working:3 
+do:goal:648 do:play:516 do:this:428 do:work:299 do:book:249 do:product:232 do:computer:228 do:number:181 do:study:167 do:read:152 
+does:goal:648 does:play:516 does:this:428 does:work:299 does:book:249 does:computer:228 does:number:181 does:study:167 does:read:152 does:building:138 
+domain:computer:228 domain:study:167 domain:learn:94 domain:problem:32 domain:process:10 domain:model:5 
+dominate:this:428 dominate:context:7 dominate:score:2 
+done:play:516 done:this:428 done:work:299 done:book:249 done:computer:228 done:study:167 done:read:152 done:use:119 done:money:100 done:program:83 
+dos:computer:228 
+double:book:249 double:computer:228 double:number:181 double:use:119 double:money:100 double:word:93 double:get:72 double:picture:69 double:make:47 double:market:24 
+down:goal:648 down:play:516 down:this:428 down:work:299 down:book:249 down:computer:228 down:number:181 down:study:167 down:read:152 down:building:138 
+due:this:428 due:work:299 due:money:100 due:eat:72 due:get:72 due:picture:69 due:tool:66 due:write:56 due:give:47 due:degree:25 
+each:goal:648 each:play:516 each:this:428 each:work:299 each:book:249 each:number:181 each:read:152 each:building:138 each:use:119 each:money:100 
+earlier:this:428 earlier:picture:69 
+easier:goal:648 easier:play:516 easier:this:428 easier:work:299 easier:computer:228 easier:study:167 easier:read:152 easier:use:119 easier:money:100 easier:learn:94 
+easy:play:516 easy:this:428 easy:computer:228 easy:study:167 easy:building:138 easy:use:119 easy:learn:94 easy:word:93 easy:student:77 easy:eat:72 
+edge:this:428 edge:book:249 edge:document:119 edge:use:119 edge:head:86 edge:picture:69 edge:painting:40 
+edited:computer:228 edited:player:31 
+educational:this:428 educational:book:249 educational:picture:69 educational:tool:66 educational:school:45 educational:show:20 educational:programs:1 
+effects:work:299 effects:picture:69 effects:movie:49 effects:make:47 effects:player:31 
+efficient:this:428 efficient:work:299 efficient:computer:228 efficient:number:181 efficient:use:119 efficient:program:83 efficient:picture:69 efficient:write:56 efficient:make:47 efficient:piece:3 
+either:play:516 either:this:428 either:book:249 either:computer:228 either:number:181 either:read:152 either:use:119 either:head:86 either:match:80 either:student:77 
+electronic:this:428 electronic:work:299 electronic:computer:228 electronic:document:119 electronic:use:119 electronic:word:93 electronic:tool:66 electronic:paint:54 electronic:give:47 electronic:course:39 
+elegance:money:100 
+elegant:goal:648 elegant:this:428 elegant:computer:228 elegant:program:83 elegant:picture:69 elegant:create:6 
+element:this:428 element:number:181 element:use:119 element:match:80 element:give:47 element:outside:36 element:problem:32 element:opening:3 element:piece:3 
+elementary:this:428 elementary:use:119 elementary:student:77 elementary:get:72 elementary:picture:69 elementary:school:45 elementary:column:33 elementary:perform:4 
+elements:play:516 elements:this:428 elements:number:181 elements:head:86 elements:eat:72 elements:picture:69 elements:write:56 elements:make:47 elements:order:14 
+elsewhere:computer:228 elsewhere:shop:138 elsewhere:project:23 elsewhere:order:14 elsewhere:hold:1 
+embark:picture:69 
+employed:work:299 employed:shop:138 employed:money:100 employed:university:45 employed:working:3 
+enable:this:428 enable:work:299 enable:computer:228 enable:read:152 enable:use:119 enable:program:83 enable:show:20 enable:video:15 enable:order:14 
+enabled:book:249 enabled:read:152 
+end:goal:648 end:play:516 end:this:428 end:work:299 end:book:249 end:computer:228 end:number:181 end:study:167 end:read:152 end:use:119 
+enough:goal:648 enough:play:516 enough:this:428 enough:work:299 enough:book:249 enough:product:232 enough:computer:228 enough:study:167 enough:read:152 enough:building:138 
+ensuring:control:4 ensuring:business:2 
+entertainment:play:516 entertainment:this:428 entertainment:book:249 entertainment:read:152 entertainment:building:138 entertainment:use:119 entertainment:money:100 entertainment:eat:72 entertainment:get:72 entertainment:picture:69 
+entirely:movie:49 entirely:sound:41 entirely:video:15 entirely:sit:4 
+entities:this:428 entities:computer:228 entities:learn:94 entities:model:5 
+equivalent:money:100 equivalent:school:45 
+especially:play:516 especially:this:428 especially:computer:228 especially:use:119 especially:learn:94 especially:head:86 especially:get:72 especially:picture:69 especially:tool:66 especially:give:47 
+essential:play:516 essential:work:299 essential:computer:228 essential:read:152 essential:shop:138 essential:use:119 essential:learn:94 essential:get:72 essential:tool:66 essential:write:56 
+essentially:this:428 essentially:word:93 essentially:get:72 essentially:outside:36 essentially:original:4 essentially:rest:2 
+established:student:77 established:make:47 established:hold:1 
+even:play:516 even:this:428 even:work:299 even:computer:228 even:number:181 even:use:119 even:money:100 even:word:93 even:program:83 even:eat:72 
+events:play:516 events:this:428 events:work:299 events:book:249 events:study:167 events:read:152 events:use:119 events:money:100 events:learn:94 events:match:80 
+eventually:this:428 eventually:number:181 eventually:eat:72 eventually:get:72 eventually:card:50 eventually:give:47 eventually:machine:36 eventually:degree:25 eventually:open:14 eventually:business:2 
+ever:play:516 ever:this:428 ever:book:249 ever:computer:228 ever:study:167 ever:money:100 ever:learn:94 ever:word:93 ever:get:72 ever:picture:69 
+every:goal:648 every:play:516 every:this:428 every:work:299 every:book:249 every:computer:228 every:number:181 every:read:152 every:building:138 every:shop:138 
+everyone:goal:648 everyone:this:428 everyone:work:299 everyone:book:249 everyone:number:181 everyone:read:152 everyone:shop:138 everyone:use:119 everyone:money:100 everyone:learn:94 
+example:goal:648 example:this:428 example:work:299 example:product:232 example:computer:228 example:number:181 example:shop:138 example:use:119 example:learn:94 example:word:93 
+examples:book:249 examples:number:181 examples:study:167 examples:read:152 examples:learn:94 examples:head:86 examples:picture:69 examples:movie:49 examples:give:47 examples:disk:17 
+excellent:play:516 excellent:work:299 excellent:read:152 excellent:building:138 excellent:use:119 excellent:eat:72 excellent:get:72 excellent:picture:69 excellent:give:47 excellent:make:47 
+executed:computer:228 
+existence:use:119 existence:money:100 existence:get:72 existence:make:47 existence:business:2 existence:run:2 
+expected:play:516 expected:this:428 expected:work:299 expected:study:167 expected:use:119 expected:money:100 expected:learn:94 expected:get:72 expected:picture:69 expected:write:56 
+expensive:play:516 expensive:this:428 expensive:work:299 expensive:book:249 expensive:computer:228 expensive:number:181 expensive:building:138 expensive:shop:138 expensive:use:119 expensive:money:100 
+experience:play:516 experience:this:428 experience:work:299 experience:book:249 experience:computer:228 experience:study:167 experience:read:152 experience:use:119 experience:learn:94 experience:eat:72 
+experienced:goal:648 experienced:this:428 experienced:eat:72 experienced:course:39 experienced:field:37 experienced:player:31 experienced:help:17 
+explanation:read:152 explanation:learn:94 explanation:picture:69 
+exploring:learn:94 exploring:tool:66 
+exposes:this:428 exposes:head:86 exposes:hold:1 
+exposing:get:72 exposing:process:10 
+expressive:order:14 
+extended:this:428 extended:computer:228 extended:head:86 extended:picture:69 extended:tool:66 extended:problem:32 
+extending:picture:69 extending:show:20 
+external:this:428 external:use:119 external:picture:69 external:rest:2 
+extra:goal:648 extra:play:516 extra:this:428 extra:work:299 extra:computer:228 extra:number:181 extra:use:119 extra:money:100 extra:eat:72 extra:get:72 
+facilities:use:119 facilities:money:100 facilities:order:14 facilities:rest:2 
+facility:this:428 facility:picture:69 facility:help:17 facility:open:14 
+fact:play:516 fact:this:428 fact:work:299 fact:book:249 fact:computer:228 fact:number:181 fact:study:167 fact:read:152 fact:building:138 fact:shop:138 
+faded:this:428 faded:picture:69 faded:order:14 
+fairly:work:299 fairly:use:119 fairly:program:83 fairly:get:72 fairly:picture:69 
+fallen:eat:72 fallen:picture:69 fallen:make:47 fallen:path:3 
+falls:this:428 falls:building:138 falls:use:119 falls:head:86 falls:get:72 falls:make:47 falls:course:39 falls:create:6 falls:perform:4 falls:opening:3 
+familiar:use:119 familiar:make:47 familiar:sound:41 
+far:goal:648 far:play:516 far:this:428 far:work:299 far:computer:228 far:number:181 far:read:152 far:use:119 far:money:100 far:learn:94 
+faster:this:428 faster:work:299 faster:computer:228 faster:use:119 faster:money:100 faster:learn:94 faster:eat:72 faster:get:72 faster:picture:69 faster:card:50 
+feature:play:516 feature:building:138 feature:money:100 feature:word:93 feature:picture:69 feature:movie:49 feature:make:47 feature:help:17 
+features:this:428 features:study:167 features:use:119 features:picture:69 features:make:47 features:show:20 features:model:5 features:run:2 
+final:goal:648 final:this:428 final:book:249 final:product:232 final:number:181 final:study:167 final:read:152 final:learn:94 final:student:77 final:get:72 
+find:goal:648 find:play:516 find:this:428 find:work:299 find:book:249 find:product:232 find:computer:228 find:number:181 find:study:167 find:read:152 
+finished:play:516 finished:this:428 finished:work:299 finished:book:249 finished:product:232 finished:computer:228 finished:read:152 finished:program:83 finished:get:72 finished:picture:69 
+first:goal:648 first:play:516 first:this:428 first:work:299 first:book:249 first:product:232 first:computer:228 first:number:181 first:study:167 first:read:152 
+fist:make:47 fist:apple:45 
+fit:play:516 fit:this:428 fit:work:299 fit:book:249 fit:computer:228 fit:building:138 fit:use:119 fit:head:86 fit:program:83 fit:eat:72 
+flat:play:516 flat:this:428 flat:work:299 flat:book:249 flat:product:232 flat:computer:228 flat:study:167 flat:building:138 flat:use:119 flat:money:100 
+flaws:program:83 
+folder:computer:228 folder:document:119 folder:use:119 folder:picture:69 folder:file:28 folder:help:17 folder:piece:3 
+followed:goal:648 followed:make:47 followed:player:31 
+following:goal:648 following:play:516 following:this:428 following:work:299 following:book:249 following:product:232 following:computer:228 following:number:181 following:study:167 following:read:152 
+for:goal:648 for:play:516 for:this:428 for:work:299 for:book:249 for:product:232 for:computer:228 for:number:181 for:study:167 for:read:152 
+forerunner:computer:228 
+form:goal:648 form:play:516 form:this:428 form:work:299 form:book:249 form:computer:228 form:number:181 form:study:167 form:read:152 form:building:138 
+format:this:428 format:computer:228 format:use:119 format:file:28 format:disk:17 
+formats:library:47 
+former:building:138 former:program:83 former:match:80 former:picture:69 former:control:4 
+forms:this:428 forms:work:299 forms:computer:228 forms:number:181 forms:use:119 forms:money:100 forms:learn:94 forms:get:72 forms:picture:69 forms:write:56 
+found:play:516 found:this:428 found:work:299 found:book:249 found:product:232 found:computer:228 found:number:181 found:study:167 found:read:152 found:building:138 
+four:play:516 four:this:428 four:computer:228 four:number:181 four:study:167 four:building:138 four:use:119 four:money:100 four:word:93 four:head:86 
+fourth:this:428 fourth:book:249 fourth:picture:69 fourth:order:14 
+frame:this:428 frame:document:119 frame:use:119 frame:picture:69 frame:write:56 frame:paint:54 frame:movie:49 frame:make:47 frame:painting:40 frame:outside:36 
+frames:this:428 frames:work:299 frames:get:72 frames:picture:69 frames:make:47 frames:window:40 frames:outside:36 frames:display:11 frames:hold:1 
+free:goal:648 free:this:428 free:work:299 free:book:249 free:product:232 free:read:152 free:use:119 free:money:100 free:learn:94 free:head:86 
+from:goal:648 from:play:516 from:this:428 from:work:299 from:book:249 from:product:232 from:computer:228 from:number:181 from:study:167 from:read:152 
+full:this:428 full:book:249 full:shop:138 full:use:119 full:money:100 full:eat:72 full:get:72 full:picture:69 full:write:56 full:paint:54 
+functional:work:299 functional:performance:2 functional:hold:1 
+functions:this:428 functions:computer:228 functions:use:119 functions:eat:72 functions:school:45 functions:market:24 functions:project:23 functions:order:14 functions:control:4 functions:perform:4 
+further:goal:648 further:this:428 further:study:167 further:use:119 further:money:100 further:learn:94 further:picture:69 further:give:47 further:school:45 further:university:45 
+future:this:428 future:work:299 future:number:181 future:read:152 future:building:138 future:use:119 future:money:100 future:program:83 future:get:72 future:picture:69 
+generally:play:516 generally:this:428 generally:work:299 generally:computer:228 generally:number:181 generally:read:152 generally:use:119 generally:money:100 generally:learn:94 generally:eat:72 
+generated:this:428 generated:computer:228 generated:picture:69 generated:sound:41 generated:course:39 generated:field:37 generated:machine:36 generated:mouse:23 generated:control:4 generated:run:2 
+generating:tool:66 generating:sound:41 generating:original:4 generating:business:2 
+generation:this:428 generation:work:299 generation:learn:94 generation:head:86 generation:picture:69 generation:make:47 generation:show:20 
+getting:goal:648 getting:play:516 getting:this:428 getting:work:299 getting:book:249 getting:product:232 getting:computer:228 getting:number:181 getting:read:152 getting:building:138 
+given:play:516 given:this:428 given:work:299 given:computer:228 given:number:181 given:read:152 given:shop:138 given:use:119 given:money:100 given:learn:94 
+good:goal:648 good:play:516 good:this:428 good:work:299 good:book:249 good:computer:228 good:number:181 good:study:167 good:read:152 good:building:138 
+graphics:use:119 graphics:program:83 graphics:picture:69 graphics:tool:66 graphics:write:56 graphics:make:47 graphics:machine:36 graphics:create:6 graphics:business:2 graphics:programs:1 
+grid:this:428 grid:use:119 grid:picture:69 
+grown:play:516 grown:this:428 grown:building:138 grown:use:119 grown:money:100 grown:match:80 grown:eat:72 grown:get:72 grown:field:37 grown:market:24 
+guide:use:119 guide:learn:94 guide:program:83 guide:make:47 guide:painting:40 guide:file:28 guide:show:20 guide:help:17 guide:control:4 guide:path:3 
+had:play:516 had:this:428 had:work:299 had:book:249 had:computer:228 had:number:181 had:study:167 had:read:152 had:building:138 had:shop:138 
+half:this:428 half:read:152 half:use:119 half:head:86 half:eat:72 half:get:72 half:picture:69 half:movie:49 half:make:47 half:apple:45 
+handle:goal:648 handle:play:516 handle:this:428 handle:work:299 handle:read:152 handle:shop:138 handle:use:119 handle:word:93 handle:head:86 handle:get:72 
+handles:use:119 handles:program:83 handles:eat:72 handles:get:72 handles:make:47 
+handling:this:428 handling:use:119 handling:program:83 handling:make:47 
+happily:money:100 happily:learn:94 happily:picture:69 happily:school:45 
+hard:goal:648 hard:play:516 hard:this:428 hard:work:299 hard:book:249 hard:computer:228 hard:study:167 hard:read:152 hard:building:138 hard:document:119 
+harder:goal:648 harder:play:516 harder:this:428 harder:work:299 harder:computer:228 harder:study:167 harder:read:152 harder:use:119 harder:head:86 harder:eat:72 
+hardware:this:428 hardware:book:249 hardware:computer:228 hardware:number:181 hardware:shop:138 hardware:use:119 hardware:picture:69 hardware:tool:66 hardware:paint:54 hardware:make:47 
+has:goal:648 has:play:516 has:this:428 has:work:299 has:book:249 has:product:232 has:computer:228 has:number:181 has:study:167 has:read:152 
+have:goal:648 have:play:516 have:this:428 have:work:299 have:book:249 have:product:232 have:computer:228 have:number:181 have:study:167 have:read:152 
+having:goal:648 having:play:516 having:this:428 having:work:299 having:book:249 having:product:232 having:computer:228 having:number:181 having:study:167 having:read:152 
+he:goal:648 he:play:516 he:this:428 he:work:299 he:book:249 he:computer:228 he:number:181 he:study:167 he:read:152 he:building:138 
+hence:number:181 hence:picture:69 hence:make:47 
+high:play:516 high:this:428 high:work:299 high:product:232 high:computer:228 high:number:181 high:study:167 high:building:138 high:shop:138 high:use:119 
+his:goal:648 his:play:516 his:this:428 his:work:299 his:book:249 his:product:232 his:computer:228 his:number:181 his:study:167 his:read:152 
+history:this:428 history:work:299 history:book:249 history:study:167 history:read:152 history:learn:94 history:get:72 history:make:47 history:course:39 history:file:28 
+holds:play:516 holds:this:428 holds:book:249 holds:computer:228 holds:number:181 holds:read:152 holds:use:119 holds:money:100 holds:eat:72 holds:get:72 
+how:goal:648 how:play:516 how:this:428 how:work:299 how:book:249 how:computer:228 how:number:181 how:study:167 how:read:152 how:building:138 
+i:goal:648 i:play:516 i:this:428 i:work:299 i:book:249 i:product:232 i:computer:228 i:number:181 i:study:167 i:read:152 
+idea:goal:648 idea:this:428 idea:work:299 idea:book:249 idea:product:232 idea:study:167 idea:read:152 idea:use:119 idea:money:100 idea:learn:94 
+if:goal:648 if:play:516 if:this:428 if:work:299 if:book:249 if:product:232 if:computer:228 if:number:181 if:study:167 if:read:152 
+imagery:picture:69 imagery:outside:36 
+images:play:516 images:this:428 images:work:299 images:book:249 images:computer:228 images:read:152 images:building:138 images:use:119 images:picture:69 images:make:47 
+implies:goal:648 implies:this:428 implies:money:100 implies:word:93 implies:write:56 implies:bill:19 implies:business:2 
+important:goal:648 important:play:516 important:this:428 important:work:299 important:book:249 important:product:232 important:computer:228 important:number:181 important:study:167 important:read:152 
+importing:money:100 
+impossible:read:152 impossible:use:119 impossible:get:72 impossible:picture:69 impossible:tool:66 impossible:make:47 impossible:open:14 impossible:order:14 impossible:forget:2 impossible:run:2 
+impossibly:make:47 
+improved:play:516 improved:this:428 improved:player:31 improved:working:3 
+in:goal:648 in:play:516 in:this:428 in:work:299 in:book:249 in:product:232 in:computer:228 in:number:181 in:study:167 in:read:152 
+include:play:516 include:this:428 include:work:299 include:book:249 include:computer:228 include:study:167 include:read:152 include:word:93 include:picture:69 include:card:50 
+included:business:2 
+includes:this:428 includes:computer:228 includes:study:167 includes:word:93 includes:eat:72 includes:picture:69 includes:mouse:23 includes:disk:17 includes:piece:3 
+including:play:516 including:this:428 including:computer:228 including:study:167 including:building:138 including:use:119 including:money:100 including:picture:69 including:field:37 including:bill:19 
+incorporate:building:138 
+incorporates:play:516 
+increasing:work:299 increasing:book:249 increasing:number:181 increasing:building:138 increasing:picture:69 increasing:movie:49 increasing:degree:25 increasing:order:14 increasing:create:6 increasing:working:3 
+indicate:play:516 indicate:this:428 indicate:work:299 indicate:computer:228 indicate:number:181 indicate:use:119 indicate:money:100 indicate:word:93 indicate:get:72 indicate:picture:69 
+individual:play:516 individual:this:428 individual:work:299 individual:book:249 individual:building:138 individual:word:93 individual:program:83 individual:picture:69 individual:write:56 individual:movie:49 
+inferior:use:119 inferior:get:72 inferior:picture:69 inferior:make:47 
+information:this:428 information:work:299 information:book:249 information:computer:228 information:number:181 information:study:167 information:read:152 information:shop:138 information:document:119 information:use:119 
+initial:this:428 initial:get:72 initial:file:28 initial:choose:1 
+initiate:computer:228 initiate:use:119 initiate:make:47 initiate:process:10 initiate:create:6 initiate:business:2 
+input:this:428 input:work:299 input:computer:228 input:read:152 input:use:119 input:head:86 input:program:83 input:get:72 input:picture:69 input:give:47 
+install:computer:228 install:use:119 install:program:83 install:piece:3 
+installation:computer:228 
+instance:this:428 instance:picture:69 instance:card:50 instance:machine:36 
+instant:program:83 instant:give:47 
+instructions:computer:228 instructions:read:152 instructions:use:119 instructions:program:83 instructions:eat:72 instructions:make:47 instructions:mixing:3 instructions:run:2 
+integrated:computer:228 integrated:piece:3 
+interact:play:516 interact:computer:228 interact:study:167 interact:read:152 interact:learn:94 interact:eat:72 interact:outside:36 interact:order:14 
+interaction:play:516 interaction:this:428 interaction:study:167 interaction:get:72 interaction:write:56 interaction:make:47 interaction:order:14 
+interactive:computer:228 interactive:process:10 interactive:hold:1 
+interested:play:516 interested:book:249 interested:read:152 interested:money:100 interested:learn:94 interested:student:77 interested:picture:69 interested:write:56 interested:movie:49 interested:make:47 
+interesting:play:516 interesting:this:428 interesting:work:299 interesting:book:249 interesting:product:232 interesting:computer:228 interesting:study:167 interesting:read:152 interesting:use:119 interesting:learn:94 
+internal:this:428 internal:work:299 internal:use:119 internal:money:100 internal:get:72 internal:make:47 internal:create:6 
+internet:play:516 internet:this:428 internet:work:299 internet:book:249 internet:product:232 internet:computer:228 internet:number:181 internet:read:152 internet:use:119 internet:money:100 
+into:goal:648 into:play:516 into:this:428 into:work:299 into:book:249 into:product:232 into:computer:228 into:number:181 into:study:167 into:read:152 
+introduced:this:428 introduced:use:119 introduced:learn:94 introduced:picture:69 introduced:sit:4 introduced:hold:1 
+introduction:show:20 introduction:control:4 introduction:original:4 introduction:sit:4 
+invisible:picture:69 invisible:give:47 
+involved:play:516 involved:this:428 involved:work:299 involved:book:249 involved:use:119 involved:learn:94 involved:head:86 involved:match:80 involved:student:77 involved:get:72 
+is:goal:648 is:play:516 is:this:428 is:work:299 is:book:249 is:product:232 is:computer:228 is:number:181 is:study:167 is:read:152 
+it:goal:648 it:play:516 it:this:428 it:work:299 it:book:249 it:product:232 it:computer:228 it:number:181 it:study:167 it:read:152 
+its:play:516 its:this:428 its:work:299 its:book:249 its:product:232 its:computer:228 its:number:181 its:study:167 its:read:152 its:building:138 
+itself:play:516 itself:this:428 itself:work:299 itself:book:249 itself:number:181 itself:read:152 itself:building:138 itself:use:119 itself:word:93 itself:head:86 
+just:play:516 just:this:428 just:work:299 just:book:249 just:computer:228 just:number:181 just:study:167 just:read:152 just:shop:138 just:use:119 
+know:goal:648 know:play:516 know:this:428 know:work:299 know:book:249 know:product:232 know:computer:228 know:number:181 know:study:167 know:read:152 
+knowledge:goal:648 knowledge:play:516 knowledge:this:428 knowledge:book:249 knowledge:computer:228 knowledge:study:167 knowledge:read:152 knowledge:building:138 knowledge:use:119 knowledge:money:100 
+known:play:516 known:this:428 known:work:299 known:book:249 known:computer:228 known:read:152 known:use:119 known:money:100 known:word:93 known:head:86 
+language:play:516 language:this:428 language:work:299 language:book:249 language:computer:228 language:study:167 language:read:152 language:use:119 language:learn:94 language:word:93 
+languages:computer:228 languages:read:152 languages:use:119 languages:learn:94 languages:program:83 languages:get:72 languages:make:47 languages:sound:41 languages:open:14 languages:programs:1 
+large:goal:648 large:play:516 large:this:428 large:work:299 large:product:232 large:computer:228 large:number:181 large:read:152 large:building:138 large:shop:138 
+larger:play:516 larger:this:428 larger:computer:228 larger:number:181 larger:use:119 larger:money:100 larger:head:86 larger:eat:72 larger:get:72 larger:picture:69 
+late:this:428 late:work:299 late:computer:228 late:read:152 late:shop:138 late:money:100 late:word:93 late:eat:72 late:get:72 late:picture:69 
+later:play:516 later:this:428 later:work:299 later:book:249 later:product:232 later:number:181 later:read:152 later:shop:138 later:use:119 later:money:100 
+leading:this:428 leading:study:167 leading:get:72 leading:picture:69 leading:university:45 leading:project:23 leading:score:2 
+leads:play:516 leads:this:428 leads:building:138 leads:process:10 leads:run:2 
+least:play:516 least:this:428 least:work:299 least:book:249 least:building:138 least:money:100 least:word:93 least:eat:72 least:picture:69 least:movie:49 
+less:play:516 less:this:428 less:work:299 less:book:249 less:computer:228 less:number:181 less:read:152 less:building:138 less:shop:138 less:use:119 
+level:play:516 level:this:428 level:work:299 level:book:249 level:read:152 level:building:138 level:use:119 level:eat:72 level:picture:69 level:tool:66 
+like:goal:648 like:play:516 like:this:428 like:work:299 like:book:249 like:computer:228 like:number:181 like:study:167 like:read:152 like:building:138 
+likely:goal:648 likely:play:516 likely:this:428 likely:work:299 likely:book:249 likely:product:232 likely:computer:228 likely:number:181 likely:study:167 likely:read:152 
+limit:work:299 limit:use:119 limit:money:100 limit:card:50 limit:make:47 limit:control:4 limit:working:3 
+limitations:this:428 limitations:work:299 limitations:use:119 limitations:get:72 
+limited:this:428 limited:work:299 limited:number:181 limited:use:119 limited:picture:69 limited:library:47 limited:column:33 limited:disk:17 limited:order:14 limited:build:7 
+link:computer:228 
+links:make:47 
+listed:play:516 listed:computer:228 listed:program:83 listed:order:14 listed:performance:2 listed:run:2 listed:programs:1 
+little:play:516 little:this:428 little:work:299 little:book:249 little:computer:228 little:number:181 little:read:152 little:building:138 little:shop:138 little:use:119 
+live:play:516 live:this:428 live:work:299 live:book:249 live:study:167 live:building:138 live:use:119 live:money:100 live:learn:94 live:head:86 
+living:this:428 living:work:299 living:computer:228 living:study:167 living:read:152 living:building:138 living:use:119 living:money:100 living:learn:94 living:eat:72 
+locked:this:428 locked:use:119 locked:head:86 locked:get:72 locked:picture:69 locked:outside:36 locked:open:14 locked:display:11 locked:rest:2 
+logo:this:428 logo:learn:94 logo:picture:69 logo:card:50 logo:show:20 logo:disk:17 logo:open:14 logo:working:3 
+long:goal:648 long:play:516 long:this:428 long:work:299 long:book:249 long:computer:228 long:read:152 long:building:138 long:shop:138 long:use:119 
+look:play:516 look:this:428 look:work:299 look:book:249 look:product:232 look:computer:228 look:number:181 look:study:167 look:read:152 look:building:138 
+looks:goal:648 looks:play:516 looks:this:428 looks:work:299 looks:book:249 looks:computer:228 looks:read:152 looks:building:138 looks:shop:138 looks:use:119 
+loss:this:428 loss:work:299 loss:book:249 loss:computer:228 loss:money:100 loss:learn:94 loss:head:86 loss:get:72 loss:picture:69 loss:make:47 
+lot:goal:648 lot:play:516 lot:this:428 lot:work:299 lot:book:249 lot:computer:228 lot:number:181 lot:study:167 lot:read:152 lot:building:138 
+lots:play:516 lots:this:428 lots:work:299 lots:book:249 lots:computer:228 lots:study:167 lots:read:152 lots:building:138 lots:shop:138 lots:use:119 
+low:play:516 low:this:428 low:number:181 low:building:138 low:shop:138 low:money:100 low:head:86 low:eat:72 low:get:72 low:picture:69 
+macintosh:this:428 macintosh:computer:228 macintosh:use:119 macintosh:picture:69 macintosh:apple:45 
+made:goal:648 made:play:516 made:this:428 made:work:299 made:book:249 made:product:232 made:computer:228 made:number:181 made:study:167 made:read:152 
+main:play:516 main:this:428 main:work:299 main:computer:228 main:number:181 main:building:138 main:use:119 main:head:86 main:student:77 main:eat:72 
+mainly:play:516 mainly:this:428 mainly:computer:228 mainly:use:119 mainly:eat:72 mainly:picture:69 mainly:sit:4 
+major:play:516 major:this:428 major:work:299 major:number:181 major:study:167 major:money:100 major:learn:94 major:program:83 major:student:77 major:picture:69 
+makes:goal:648 makes:play:516 makes:this:428 makes:work:299 makes:book:249 makes:computer:228 makes:number:181 makes:read:152 makes:building:138 makes:use:119 
+making:goal:648 making:play:516 making:this:428 making:work:299 making:book:249 making:computer:228 making:number:181 making:read:152 making:building:138 making:use:119 
+manipulation:computer:228 
+manner:play:516 manner:this:428 manner:work:299 manner:book:249 manner:computer:228 manner:use:119 manner:learn:94 manner:word:93 manner:head:86 manner:get:72 
+manual:play:516 manual:this:428 manual:book:249 manual:computer:228 manual:read:152 manual:use:119 manual:program:83 manual:picture:69 manual:make:47 manual:create:6 
+many:goal:648 many:play:516 many:this:428 many:work:299 many:book:249 many:product:232 many:computer:228 many:number:181 many:study:167 many:read:152 
+material:play:516 material:this:428 material:product:232 material:study:167 material:read:152 material:building:138 material:shop:138 material:use:119 material:money:100 material:learn:94 
+mathematics:work:299 mathematics:number:181 mathematics:study:167 mathematics:learn:94 mathematics:make:47 mathematics:school:45 mathematics:column:33 mathematics:build:7 mathematics:working:3 
+may:play:516 may:this:428 may:work:299 may:book:249 may:product:232 may:computer:228 may:number:181 may:study:167 may:read:152 may:building:138 
+means:goal:648 means:play:516 means:this:428 means:work:299 means:book:249 means:computer:228 means:number:181 means:study:167 means:read:152 means:building:138 
+meant:this:428 meant:study:167 meant:read:152 meant:use:119 meant:money:100 meant:learn:94 meant:head:86 meant:eat:72 meant:write:56 meant:build:7 
+mechanism:goal:648 mechanism:this:428 mechanism:computer:228 mechanism:picture:69 mechanism:make:47 mechanism:sound:41 mechanism:show:20 mechanism:process:10 mechanism:rest:2 
+media:computer:228 media:use:119 media:student:77 media:picture:69 media:make:47 media:sound:41 media:mouse:23 media:disk:17 media:video:15 media:open:14 
+member:this:428 member:work:299 member:read:152 member:shop:138 member:use:119 member:money:100 member:give:47 member:make:47 member:university:45 member:painting:40 
+members:goal:648 members:play:516 members:this:428 members:work:299 members:shop:138 members:use:119 members:money:100 members:learn:94 members:word:93 members:get:72 
+mention:product:232 mention:read:152 mention:movie:49 mention:give:47 mention:output:29 mention:programs:1 
+metaphor:this:428 metaphor:use:119 metaphor:picture:69 metaphor:field:37 
+method:this:428 method:work:299 method:computer:228 method:use:119 method:learn:94 method:get:72 method:give:47 method:make:47 method:sound:41 method:file:28 
+might:goal:648 might:play:516 might:this:428 might:work:299 might:book:249 might:product:232 might:computer:228 might:number:181 might:study:167 might:read:152 
+mind:goal:648 mind:play:516 mind:this:428 mind:work:299 mind:book:249 mind:product:232 mind:computer:228 mind:study:167 mind:read:152 mind:building:138 
+minimal:number:181 minimal:program:83 
+minimum:work:299 minimum:number:181 minimum:building:138 minimum:eat:72 minimum:get:72 minimum:make:47 minimum:school:45 minimum:path:3 
+modelling:use:119 modelling:model:5 
+modes:picture:69 modes:model:5 
+modified:this:428 modified:use:119 modified:picture:69 modified:apple:45 modified:piece:3 
+modifying:computer:228 modifying:program:83 
+monitors:this:428 monitors:computer:228 monitors:picture:69 monitors:mouse:23 monitors:display:11 
+more:goal:648 more:play:516 more:this:428 more:work:299 more:book:249 more:product:232 more:computer:228 more:number:181 more:study:167 more:read:152 
+most:goal:648 most:play:516 most:this:428 most:work:299 most:book:249 most:product:232 most:computer:228 most:number:181 most:study:167 most:read:152 
+moved:goal:648 moved:play:516 moved:this:428 moved:shop:138 moved:document:119 moved:use:119 moved:word:93 moved:get:72 moved:picture:69 moved:give:47 
+movements:this:428 movements:give:47 movements:make:47 movements:show:20 movements:video:15 movements:control:4 
+moving:play:516 moving:this:428 moving:work:299 moving:number:181 moving:building:138 moving:use:119 moving:head:86 moving:get:72 moving:picture:69 moving:tool:66 
+much:play:516 much:this:428 much:work:299 much:book:249 much:computer:228 much:number:181 much:study:167 much:read:152 much:building:138 much:shop:138 
+multimedia:computer:228 
+multiple:play:516 multiple:work:299 multiple:product:232 multiple:number:181 multiple:building:138 multiple:use:119 multiple:word:93 multiple:picture:69 multiple:give:47 multiple:order:14 
+must:goal:648 must:play:516 must:this:428 must:work:299 must:book:249 must:product:232 must:computer:228 must:number:181 must:study:167 must:read:152 
+my:goal:648 my:play:516 my:this:428 my:work:299 my:book:249 my:product:232 my:computer:228 my:number:181 my:study:167 my:read:152 
+named:this:428 named:picture:69 named:movie:49 named:give:47 named:player:31 named:mark:8 
+nature:play:516 nature:this:428 nature:book:249 nature:number:181 nature:study:167 nature:use:119 nature:learn:94 nature:get:72 nature:picture:69 nature:give:47 
+navigation:this:428 navigation:use:119 navigation:picture:69 navigation:problem:32 navigation:video:15 navigation:perform:4 navigation:rest:2 
+navigational:use:119 
+necessary:play:516 necessary:this:428 necessary:work:299 necessary:computer:228 necessary:read:152 necessary:use:119 necessary:money:100 necessary:learn:94 necessary:eat:72 necessary:get:72 
+need:goal:648 need:play:516 need:this:428 need:work:299 need:book:249 need:product:232 need:computer:228 need:number:181 need:study:167 need:read:152 
+needed:goal:648 needed:play:516 needed:this:428 needed:work:299 needed:book:249 needed:computer:228 needed:number:181 needed:study:167 needed:read:152 needed:building:138 
+neither:this:428 neither:computer:228 neither:picture:69 neither:field:37 
+network:computer:228 network:read:152 network:use:119 network:learn:94 network:program:83 network:make:47 network:machine:36 network:video:15 network:order:14 network:control:4 
+networks:work:299 networks:computer:228 networks:get:72 networks:make:47 networks:show:20 networks:context:7 networks:create:6 networks:performance:2 
+never:play:516 never:this:428 never:work:299 never:book:249 never:computer:228 never:number:181 never:study:167 never:read:152 never:building:138 never:shop:138 
+new:play:516 new:this:428 new:work:299 new:book:249 new:product:232 new:computer:228 new:number:181 new:study:167 new:read:152 new:building:138 
+next:play:516 next:this:428 next:work:299 next:book:249 next:number:181 next:study:167 next:read:152 next:building:138 next:document:119 next:use:119 
+ninety:number:181 ninety:picture:69 
+no:play:516 no:this:428 no:work:299 no:book:249 no:computer:228 no:number:181 no:study:167 no:read:152 no:building:138 no:shop:138 
+nor:this:428 nor:computer:228 nor:program:83 nor:picture:69 nor:field:37 
+not:goal:648 not:play:516 not:this:428 not:work:299 not:book:249 not:computer:228 not:number:181 not:study:167 not:read:152 not:building:138 
+novel:book:249 novel:computer:228 novel:read:152 novel:use:119 novel:word:93 novel:write:56 novel:make:47 
+now:goal:648 now:play:516 now:this:428 now:work:299 now:book:249 now:computer:228 now:read:152 now:building:138 now:shop:138 now:use:119 
+objects:play:516 objects:this:428 objects:work:299 objects:book:249 objects:product:232 objects:number:181 objects:study:167 objects:shop:138 objects:use:119 objects:money:100 
+obscure:this:428 obscure:picture:69 obscure:order:14 
+obtain:this:428 obtain:work:299 obtain:book:249 obtain:study:167 obtain:read:152 obtain:use:119 obtain:money:100 obtain:learn:94 obtain:head:86 obtain:eat:72 
+obvious:this:428 obvious:read:152 obvious:use:119 obvious:picture:69 obvious:sound:41 obvious:choose:1 
+occupy:play:516 occupy:this:428 occupy:use:119 occupy:picture:69 occupy:movie:49 occupy:business:2 
+october:book:249 october:number:181 october:movie:49 
+odd:number:181 odd:eat:72 odd:get:72 odd:picture:69 
+oddity:picture:69 
+of:goal:648 of:play:516 of:this:428 of:work:299 of:book:249 of:product:232 of:computer:228 of:number:181 of:study:167 of:read:152 
+offered:money:100 offered:eat:72 offered:picture:69 offered:business:2 
+offers:this:428 offers:work:299 offers:picture:69 offers:help:17 offers:package:10 offers:piece:3 
+often:goal:648 often:play:516 often:this:428 often:work:299 often:book:249 often:product:232 often:computer:228 often:number:181 often:study:167 often:read:152 
+old:play:516 old:this:428 old:work:299 old:book:249 old:product:232 old:computer:228 old:number:181 old:read:152 old:shop:138 old:use:119 
+on:goal:648 on:play:516 on:this:428 on:work:299 on:book:249 on:product:232 on:computer:228 on:number:181 on:study:167 on:read:152 
+once:play:516 once:this:428 once:work:299 once:book:249 once:computer:228 once:number:181 once:read:152 once:building:138 once:use:119 once:money:100 
+one:goal:648 one:play:516 one:this:428 one:work:299 one:book:249 one:product:232 one:computer:228 one:number:181 one:study:167 one:read:152 
+ones:play:516 ones:this:428 ones:work:299 ones:book:249 ones:computer:228 ones:number:181 ones:building:138 ones:shop:138 ones:use:119 ones:money:100 
+only:goal:648 only:play:516 only:this:428 only:work:299 only:book:249 only:computer:228 only:number:181 only:read:152 only:building:138 only:shop:138 
+opaque:picture:69 opaque:make:47 opaque:window:40 
+opened:this:428 opened:work:299 opened:book:249 opened:product:232 opened:read:152 opened:shop:138 opened:money:100 opened:word:93 opened:head:86 opened:eat:72 
+operating:this:428 operating:work:299 operating:computer:228 operating:use:119 operating:get:72 operating:picture:69 operating:make:47 operating:sound:41 operating:machine:36 operating:disk:17 
+operation:computer:228 operation:number:181 operation:use:119 operation:program:83 operation:get:72 operation:picture:69 operation:tool:66 operation:write:56 operation:give:47 operation:machine:36 
+operations:work:299 operations:computer:228 operations:use:119 operations:course:39 operations:perform:4 
+option:play:516 option:this:428 option:money:100 option:picture:69 
+or:goal:648 or:play:516 or:this:428 or:work:299 or:book:249 or:product:232 or:computer:228 or:number:181 or:study:167 or:read:152 
+other:goal:648 other:play:516 other:this:428 other:work:299 other:book:249 other:computer:228 other:number:181 other:study:167 other:read:152 other:building:138 
+others:play:516 others:this:428 others:work:299 others:number:181 others:read:152 others:building:138 others:shop:138 others:use:119 others:money:100 others:learn:94 
+out:goal:648 out:play:516 out:this:428 out:work:299 out:book:249 out:product:232 out:computer:228 out:number:181 out:study:167 out:read:152 
+over:goal:648 over:play:516 over:this:428 over:work:299 over:book:249 over:computer:228 over:number:181 over:read:152 over:building:138 over:use:119 
+painted:play:516 painted:this:428 painted:book:249 painted:get:72 painted:picture:69 painted:paint:54 painted:school:45 painted:painting:40 painted:artist:9 painted:model:5 
+painter:computer:228 painter:paint:54 painter:make:47 painter:painting:40 painter:window:40 painter:leave:2 
+paragraph:book:249 paragraph:read:152 paragraph:document:119 paragraph:open:14 
+part:play:516 part:this:428 part:work:299 part:book:249 part:computer:228 part:study:167 part:read:152 part:building:138 part:document:119 part:use:119 
+particular:play:516 particular:this:428 particular:work:299 particular:book:249 particular:product:232 particular:computer:228 particular:use:119 particular:money:100 particular:learn:94 particular:word:93 
+particularly:this:428 particularly:work:299 particularly:number:181 particularly:use:119 particularly:picture:69 particularly:make:47 particularly:problem:32 particularly:help:17 particularly:control:4 particularly:opening:3 
+partly:work:299 partly:computer:228 partly:picture:69 partly:open:14 
+pascal:picture:69 
+paths:make:47 paths:path:3 
+patterns:this:428 patterns:number:181 patterns:study:167 patterns:use:119 patterns:picture:69 patterns:give:47 patterns:make:47 
+people:goal:648 people:play:516 people:this:428 people:work:299 people:book:249 people:product:232 people:computer:228 people:number:181 people:study:167 people:read:152 
+per:play:516 per:this:428 per:work:299 per:computer:228 per:number:181 per:head:86 per:eat:72 per:picture:69 per:make:47 per:school:45 
+perceived:money:100 perceived:disk:17 
+percussive:play:516 percussive:use:119 
+perhaps:this:428 perhaps:work:299 perhaps:shop:138 perhaps:head:86 perhaps:eat:72 perhaps:picture:69 perhaps:movie:49 perhaps:open:14 
+personal:this:428 personal:work:299 personal:book:249 personal:computer:228 personal:use:119 personal:money:100 personal:learn:94 personal:match:80 personal:get:72 personal:picture:69 
+persuasion:school:45 
+phillips:this:428 phillips:use:119 phillips:head:86 phillips:picture:69 phillips:tool:66 phillips:machine:36 
+pics:sound:41 
+place:goal:648 place:play:516 place:this:428 place:work:299 place:book:249 place:computer:228 place:study:167 place:read:152 place:building:138 place:shop:138 
+placed:this:428 placed:read:152 placed:building:138 placed:document:119 placed:use:119 placed:head:86 placed:get:72 placed:picture:69 placed:tool:66 placed:write:56 
+platform:use:119 platform:picture:69 platform:tool:66 platform:make:47 platform:perform:4 platform:business:2 
+played:goal:648 played:play:516 played:this:428 played:computer:228 played:read:152 played:use:119 played:money:100 played:get:72 played:picture:69 played:card:50 
+point:goal:648 point:play:516 point:this:428 point:work:299 point:book:249 point:computer:228 point:read:152 point:shop:138 point:use:119 point:money:100 
+pointed:play:516 pointed:this:428 pointed:computer:228 pointed:building:138 pointed:use:119 pointed:picture:69 pointed:write:56 pointed:sit:4 
+pointer:book:249 pointer:picture:69 
+poor:this:428 poor:work:299 poor:computer:228 poor:read:152 poor:use:119 poor:money:100 poor:head:86 poor:student:77 poor:eat:72 poor:get:72 
+port:picture:69 port:help:17 
+position:goal:648 position:play:516 position:this:428 position:work:299 position:book:249 position:product:232 position:computer:228 position:use:119 position:get:72 position:picture:69 
+possess:use:119 possess:make:47 possess:open:14 
+possible:this:428 possible:computer:228 possible:study:167 possible:use:119 possible:learn:94 possible:head:86 possible:eat:72 possible:get:72 possible:picture:69 possible:library:47 
+powerful:this:428 powerful:work:299 powerful:computer:228 powerful:get:72 powerful:picture:69 powerful:tool:66 powerful:course:39 powerful:show:20 powerful:help:17 powerful:control:4 
+precise:this:428 precise:building:138 precise:picture:69 precise:university:45 precise:control:4 
+preferences:eat:72 
+preparation:study:167 preparation:video:15 
+prepared:play:516 prepared:this:428 prepared:eat:72 prepared:get:72 prepared:give:47 prepared:make:47 prepared:school:45 prepared:button:21 prepared:order:14 prepared:leave:2 
+presentations:use:119 presentations:make:47 
+prevent:play:516 prevent:this:428 prevent:use:119 prevent:head:86 prevent:eat:72 prevent:picture:69 prevent:paint:54 prevent:window:40 prevent:player:31 prevent:help:17 
+previous:this:428 previous:get:72 previous:make:47 previous:order:14 
+prices:product:232 prices:shop:138 prices:make:47 prices:market:24 
+principles:play:516 principles:this:428 principles:use:119 principles:piece:3 principles:choose:1 
+printed:this:428 printed:work:299 printed:book:249 printed:read:152 printed:document:119 printed:get:72 printed:picture:69 printed:write:56 printed:card:50 printed:library:47 
+prior:play:516 prior:this:428 prior:work:299 prior:learn:94 prior:eat:72 prior:picture:69 prior:outside:36 prior:order:14 prior:build:7 prior:performance:2 
+pro:money:100 pro:picture:69 
+probably:goal:648 probably:play:516 probably:this:428 probably:work:299 probably:book:249 probably:product:232 probably:computer:228 probably:number:181 probably:study:167 probably:read:152 
+processes:this:428 processes:work:299 processes:computer:228 processes:order:14 processes:model:5 processes:control:4 
+produce:goal:648 produce:play:516 produce:this:428 produce:work:299 produce:computer:228 produce:number:181 produce:building:138 produce:shop:138 produce:use:119 produce:program:83 
+produced:this:428 produced:work:299 produced:computer:228 produced:building:138 produced:document:119 produced:use:119 produced:match:80 produced:eat:72 produced:picture:69 produced:write:56 
+producing:this:428 producing:product:232 producing:document:119 producing:use:119 producing:match:80 producing:picture:69 producing:paint:54 producing:movie:49 producing:sound:41 producing:display:11 
+productivity:work:299 productivity:computer:228 productivity:help:17 productivity:performance:2 
+programmed:this:428 programmed:computer:228 programmed:use:119 programmed:program:83 programmed:get:72 programmed:make:47 programmed:project:23 programmed:show:20 programmed:help:17 programmed:open:14 
+programmer:this:428 programmer:work:299 programmer:computer:228 programmer:program:83 programmer:eat:72 programmer:problem:32 programmer:project:23 programmer:help:17 programmer:model:5 programmer:edit:4 
+programmers:work:299 programmers:computer:228 programmers:learn:94 programmers:program:83 programmers:eat:72 programmers:write:56 programmers:help:17 programmers:working:3 
+programming:work:299 programming:computer:228 programming:use:119 programming:learn:94 programming:program:83 programming:tool:66 programming:write:56 programming:sound:41 programming:machine:36 programming:create:6 
+proper:play:516 proper:this:428 proper:work:299 proper:book:249 proper:computer:228 proper:read:152 proper:use:119 proper:learn:94 proper:word:93 proper:program:83 
+proved:use:119 
+provide:this:428 provide:work:299 provide:computer:228 provide:number:181 provide:read:152 provide:use:119 provide:money:100 provide:learn:94 provide:program:83 provide:eat:72 
+provided:product:232 provided:computer:228 provided:use:119 provided:get:72 provided:sound:41 provided:open:14 provided:sit:4 
+provides:this:428 provides:study:167 provides:use:119 provides:money:100 provides:eat:72 provides:write:56 provides:movie:49 provides:make:47 provides:sound:41 provides:window:40 
+providing:computer:228 providing:building:138 providing:money:100 providing:eat:72 providing:paint:54 providing:sound:41 providing:window:40 providing:outside:36 providing:working:3 providing:business:2 
+public:this:428 public:work:299 public:product:232 public:computer:228 public:building:138 public:use:119 public:money:100 public:word:93 public:get:72 public:picture:69 
+punctuation:show:20 punctuation:mark:8 
+purpose:this:428 purpose:work:299 purpose:book:249 purpose:computer:228 purpose:read:152 purpose:use:119 purpose:money:100 purpose:learn:94 purpose:program:83 purpose:get:72 
+purposes:this:428 purposes:work:299 purposes:computer:228 purposes:number:181 purposes:use:119 purposes:money:100 purposes:head:86 purposes:student:77 purposes:picture:69 purposes:tool:66 
+quality:goal:648 quality:play:516 quality:this:428 quality:work:299 quality:product:232 quality:number:181 quality:building:138 quality:money:100 quality:student:77 quality:get:72 
+quarter:this:428 quarter:work:299 quarter:number:181 quarter:building:138 quarter:head:86 quarter:picture:69 quarter:show:20 quarter:disk:17 quarter:sit:4 quarter:piece:3 
+quite:this:428 quite:work:299 quite:book:249 quite:read:152 quite:use:119 quite:match:80 quite:student:77 quite:get:72 quite:picture:69 quite:give:47 
+ram:computer:228 ram:head:86 
+ran:goal:648 ran:this:428 ran:work:299 ran:use:119 ran:money:100 ran:learn:94 ran:word:93 ran:head:86 ran:program:83 ran:get:72 
+range:play:516 range:this:428 range:read:152 range:use:119 range:match:80 range:picture:69 range:painting:40 range:course:39 range:video:15 
+rapid:play:516 rapid:program:83 rapid:get:72 rapid:picture:69 rapid:show:20 rapid:run:2 
+rate:this:428 rate:money:100 rate:get:72 rate:picture:69 rate:make:47 rate:sit:4 rate:business:2 
+rather:play:516 rather:this:428 rather:work:299 rather:book:249 rather:computer:228 rather:use:119 rather:money:100 rather:head:86 rather:eat:72 rather:get:72 
+ready:play:516 ready:this:428 ready:work:299 ready:book:249 ready:number:181 ready:study:167 ready:use:119 ready:money:100 ready:learn:94 ready:eat:72 
+realistic:get:72 realistic:make:47 realistic:order:14 
+reasonable:use:119 reasonable:make:47 reasonable:degree:25 reasonable:process:10 reasonable:build:7 reasonable:business:2 
+recent:play:516 recent:read:152 recent:show:20 recent:forget:2 
+recently:picture:69 recently:forget:2 
+recipient:number:181 recipient:picture:69 recipient:give:47 recipient:help:17 
+recognise:play:516 recognise:this:428 recognise:picture:69 recognise:show:20 
+recreate:work:299 recreate:picture:69 recreate:make:47 recreate:show:20 
+reduced:get:72 reduced:run:2 
+reference:work:299 reference:book:249 reference:read:152 reference:picture:69 reference:library:47 reference:disk:17 reference:rest:2 
+registration:student:77 registration:card:50 registration:school:45 registration:course:39 
+relative:play:516 relative:this:428 relative:shop:138 relative:use:119 relative:money:100 relative:word:93 relative:picture:69 relative:player:31 relative:show:20 
+relatively:play:516 relatively:this:428 relatively:word:93 relatively:head:86 relatively:picture:69 relatively:movie:49 relatively:give:47 relatively:make:47 relatively:order:14 
+release:play:516 release:this:428 release:use:119 release:money:100 release:movie:49 release:make:47 release:machine:36 release:problem:32 release:button:21 release:mark:8 
+rendering:picture:69 
+repetitive:this:428 repetitive:work:299 repetitive:computer:228 repetitive:use:119 repetitive:picture:69 repetitive:machine:36 repetitive:column:33 repetitive:show:20 repetitive:working:3 
+reports:program:83 reports:write:56 reports:card:50 reports:make:47 
+representation:this:428 representation:number:181 representation:use:119 representation:money:100 representation:picture:69 representation:make:47 representation:school:45 representation:sound:41 representation:painting:40 representation:model:5 
+represents:play:516 represents:this:428 represents:work:299 represents:book:249 represents:number:181 represents:use:119 represents:money:100 represents:get:72 represents:picture:69 represents:tool:66 
+request:this:428 request:book:249 request:computer:228 request:use:119 request:picture:69 request:bill:19 
+require:play:516 require:this:428 require:work:299 require:book:249 require:product:232 require:computer:228 require:study:167 require:read:152 require:building:138 require:shop:138 
+required:play:516 required:this:428 required:work:299 required:book:249 required:computer:228 required:number:181 required:study:167 required:read:152 required:building:138 required:document:119 
+requirements:learn:94 requirements:program:83 requirements:eat:72 requirements:get:72 requirements:write:56 requirements:make:47 requirements:course:39 requirements:process:10 requirements:model:5 requirements:business:2 
+requires:goal:648 requires:play:516 requires:this:428 requires:work:299 requires:book:249 requires:product:232 requires:computer:228 requires:number:181 requires:study:167 requires:read:152 
+resistance:building:138 resistance:use:119 resistance:create:6 resistance:path:3 
+resort:this:428 resort:money:100 resort:picture:69 
+resource:use:119 resource:learn:94 resource:help:17 resource:run:2 
+resources:goal:648 resources:this:428 resources:computer:228 resources:study:167 resources:building:138 resources:use:119 resources:money:100 resources:picture:69 resources:make:47 resources:course:39 
+results:work:299 results:computer:228 results:number:181 results:read:152 results:money:100 results:learn:94 results:program:83 results:eat:72 results:get:72 results:picture:69 
+resume:get:72 resume:write:56 resume:create:6 resume:working:3 
+review:play:516 review:work:299 review:book:249 review:study:167 review:read:152 review:use:119 review:learn:94 review:get:72 review:write:56 review:movie:49 
+revolutionary:picture:69 revolutionary:painting:40 
+rewarding:picture:69 rewarding:make:47 
+rotate:disk:17 
+rotated:this:428 rotated:read:152 rotated:picture:69 rotated:disk:17 
+rotating:this:428 rotating:building:138 rotating:picture:69 
+rotational:degree:25 
+roundabout:head:86 
+rounded:open:14 
+running:goal:648 running:play:516 running:this:428 running:work:299 running:computer:228 running:number:181 running:study:167 running:building:138 running:shop:138 running:use:119 
+said:play:516 said:this:428 said:work:299 said:book:249 said:computer:228 said:number:181 said:use:119 said:money:100 said:head:86 said:eat:72 
+same:goal:648 same:play:516 same:this:428 same:work:299 same:book:249 same:computer:228 same:number:181 same:study:167 same:read:152 same:building:138 
+sample:number:181 
+satisfactory:work:299 
+saved:work:299 saved:computer:228 saved:get:72 saved:picture:69 saved:show:20 saved:disk:17 saved:help:17 saved:video:15 
+scalar:number:181 
+screen:play:516 screen:this:428 screen:computer:228 screen:document:119 screen:picture:69 screen:movie:49 screen:player:31 screen:mouse:23 screen:button:21 screen:show:20 
+script:play:516 script:read:152 script:learn:94 script:write:56 script:movie:49 script:make:47 script:show:20 
+scripting:this:428 scripting:work:299 scripting:computer:228 scripting:working:3 
+scripts:write:56 scripts:movie:49 scripts:perform:4 
+second:goal:648 second:play:516 second:this:428 second:book:249 second:number:181 second:read:152 second:building:138 second:use:119 second:learn:94 second:head:86 
+section:play:516 section:this:428 section:work:299 section:book:249 section:read:152 section:use:119 section:get:72 section:picture:69 section:library:47 section:school:45 
+seem:play:516 seem:this:428 seem:work:299 seem:use:119 seem:match:80 seem:get:72 seem:picture:69 seem:make:47 seem:apple:45 seem:problem:32 
+seen:play:516 seen:this:428 seen:work:299 seen:product:232 seen:building:138 seen:use:119 seen:learn:94 seen:program:83 seen:get:72 seen:picture:69 
+selected:building:138 selected:shop:138 selected:make:47 selected:apple:45 selected:player:31 selected:order:14 selected:sit:4 
+selection:shop:138 selection:picture:69 selection:card:50 selection:make:47 selection:apple:45 selection:market:24 selection:order:14 selection:control:4 selection:choose:1 
+separate:goal:648 separate:play:516 separate:this:428 separate:number:181 separate:read:152 separate:building:138 separate:use:119 separate:head:86 separate:get:72 separate:picture:69 
+separated:use:119 separated:get:72 separated:picture:69 separated:apple:45 separated:problem:32 separated:rest:2 
+sequence:computer:228 sequence:number:181 sequence:read:152 sequence:word:93 sequence:program:83 sequence:student:77 sequence:get:72 sequence:write:56 sequence:school:45 
+serious:this:428 serious:eat:72 serious:picture:69 serious:make:47 serious:course:39 serious:problem:32 serious:run:2 
+sets:play:516 sets:this:428 sets:number:181 sets:use:119 sets:get:72 sets:picture:69 sets:make:47 sets:sound:41 sets:problem:32 sets:piece:3 
+setup:make:47 setup:file:28 setup:menu:15 
+several:play:516 several:this:428 several:work:299 several:book:249 several:building:138 several:use:119 several:word:93 several:head:86 several:eat:72 several:get:72 
+shape:play:516 shape:this:428 shape:work:299 shape:book:249 shape:product:232 shape:read:152 shape:building:138 shape:use:119 shape:money:100 shape:program:83 
+shapes:this:428 shapes:study:167 shapes:money:100 shapes:learn:94 shapes:match:80 shapes:eat:72 shapes:picture:69 shapes:make:47 shapes:sound:41 shapes:painting:40 
+shared:eat:72 shared:picture:69 shared:machine:36 
+shelf:this:428 shelf:book:249 shelf:computer:228 shelf:number:181 shelf:read:152 shelf:building:138 shelf:shop:138 shelf:use:119 shelf:student:77 shelf:eat:72 
+short:goal:648 short:play:516 short:this:428 short:book:249 short:computer:228 short:number:181 short:use:119 short:money:100 short:word:93 short:head:86 
+similar:play:516 similar:this:428 similar:book:249 similar:computer:228 similar:study:167 similar:building:138 similar:use:119 similar:money:100 similar:eat:72 similar:get:72 
+simple:play:516 simple:this:428 simple:computer:228 simple:use:119 simple:learn:94 simple:word:93 simple:get:72 simple:picture:69 simple:tool:66 simple:write:56 
+simplest:tool:66 simplest:piece:3 
+simply:goal:648 simply:this:428 simply:get:72 simply:picture:69 simply:write:56 simply:movie:49 simply:make:47 simply:field:37 simply:problem:32 simply:forget:2 
+since:play:516 since:this:428 since:computer:228 since:number:181 since:read:152 since:word:93 since:head:86 since:get:72 since:picture:69 since:tool:66 
+single:play:516 single:this:428 single:work:299 single:book:249 single:product:232 single:computer:228 single:number:181 single:use:119 single:picture:69 single:tool:66 
+sixteen:play:516 sixteen:this:428 sixteen:number:181 sixteen:picture:69 
+size:this:428 size:book:249 size:computer:228 size:number:181 size:read:152 size:use:119 size:eat:72 size:get:72 size:picture:69 size:tool:66 
+sizing:picture:69 
+skills:play:516 skills:this:428 skills:work:299 skills:book:249 skills:computer:228 skills:study:167 skills:read:152 skills:building:138 skills:use:119 skills:learn:94 
+slightly:this:428 slightly:use:119 slightly:head:86 slightly:picture:69 slightly:sound:41 slightly:open:14 slightly:rest:2 
+slim:get:72 
+slow:this:428 slow:work:299 slow:computer:228 slow:use:119 slow:get:72 slow:picture:69 slow:make:47 slow:show:20 slow:leave:2 slow:performance:2 
+slowly:goal:648 slowly:program:83 slowly:get:72 slowly:give:47 slowly:mouse:23 slowly:run:2 
+small:play:516 small:this:428 small:work:299 small:book:249 small:computer:228 small:number:181 small:read:152 small:building:138 small:shop:138 small:use:119 
+smooth:play:516 smooth:this:428 smooth:work:299 smooth:use:119 smooth:picture:69 smooth:write:56 smooth:make:47 smooth:sound:41 smooth:machine:36 smooth:file:28 
+so:goal:648 so:play:516 so:this:428 so:work:299 so:book:249 so:computer:228 so:number:181 so:study:167 so:read:152 so:building:138 
+software:goal:648 software:this:428 software:work:299 software:book:249 software:product:232 software:computer:228 software:study:167 software:use:119 software:money:100 software:learn:94 
+sofware:sound:41 
+solution:this:428 solution:money:100 solution:learn:94 solution:picture:69 solution:give:47 solution:column:33 solution:problem:32 
+solutions:work:299 solutions:computer:228 
+some:goal:648 some:play:516 some:this:428 some:work:299 some:book:249 some:product:232 some:computer:228 some:number:181 some:study:167 some:read:152 
+sometimes:goal:648 sometimes:play:516 sometimes:this:428 sometimes:work:299 sometimes:book:249 sometimes:product:232 sometimes:computer:228 sometimes:number:181 sometimes:study:167 sometimes:read:152 
+soon:work:299 soon:shop:138 soon:use:119 soon:money:100 soon:eat:72 soon:get:72 soon:picture:69 soon:make:47 soon:school:45 soon:machine:36 
+sophisticated:this:428 sophisticated:picture:69 sophisticated:make:47 
+sort:this:428 sort:work:299 sort:book:249 sort:computer:228 sort:use:119 sort:head:86 sort:program:83 sort:match:80 sort:student:77 sort:get:72 
+soundtrack:play:516 soundtrack:make:47 
+source:this:428 source:work:299 source:book:249 source:computer:228 source:read:152 source:use:119 source:money:100 source:learn:94 source:program:83 source:eat:72 
+sources:use:119 sources:match:80 sources:write:56 sources:give:47 sources:make:47 sources:market:24 sources:order:14 
+space:play:516 space:this:428 space:work:299 space:computer:228 space:study:167 space:building:138 space:use:119 space:money:100 space:word:93 space:head:86 
+specified:this:428 specified:work:299 specified:number:181 specified:get:72 specified:picture:69 
+specify:play:516 specify:learn:94 specify:field:37 specify:create:6 specify:sit:4 
+speed:this:428 speed:use:119 speed:get:72 speed:picture:69 speed:give:47 speed:make:47 speed:sound:41 speed:player:31 speed:degree:25 speed:help:17 
+split:this:428 split:work:299 split:get:72 split:picture:69 split:tool:66 split:show:20 
+square:this:428 square:product:232 square:number:181 square:use:119 square:money:100 square:picture:69 square:make:47 square:machine:36 square:column:33 square:file:28 
+stable:this:428 stable:computer:228 stable:building:138 stable:use:119 stable:money:100 stable:eat:72 stable:make:47 stable:market:24 stable:help:17 stable:sit:4 
+stack:computer:228 stack:building:138 stack:picture:69 stack:build:7 
+stacks:product:232 stacks:picture:69 
+stage:play:516 stage:this:428 stage:work:299 stage:number:181 stage:use:119 stage:get:72 stage:picture:69 stage:write:56 stage:make:47 stage:school:45 
+standard:play:516 standard:this:428 standard:work:299 standard:computer:228 standard:number:181 standard:use:119 standard:money:100 standard:student:77 standard:picture:69 standard:make:47 
+start:goal:648 start:play:516 start:this:428 start:work:299 start:book:249 start:computer:228 start:study:167 start:read:152 start:use:119 start:money:100 
+started:play:516 started:work:299 started:book:249 started:computer:228 started:number:181 started:read:152 started:building:138 started:shop:138 started:use:119 started:money:100 
+step:play:516 step:this:428 step:work:299 step:book:249 step:product:232 step:computer:228 step:number:181 step:read:152 step:building:138 step:shop:138 
+stereo:play:516 stereo:this:428 stereo:work:299 stereo:use:119 stereo:get:72 stereo:picture:69 stereo:player:31 stereo:button:21 stereo:control:4 
+still:play:516 still:this:428 still:work:299 still:book:249 still:computer:228 still:study:167 still:use:119 still:money:100 still:head:86 still:program:83 
+stopped:work:299 stopped:eat:72 stopped:get:72 stopped:picture:69 stopped:tool:66 stopped:movie:49 stopped:school:45 stopped:field:37 stopped:working:3 
+stored:play:516 stored:this:428 stored:computer:228 stored:document:119 stored:use:119 stored:money:100 stored:match:80 stored:eat:72 stored:picture:69 stored:paint:54 
+straight:this:428 straight:read:152 straight:use:119 straight:picture:69 straight:write:56 straight:make:47 straight:painting:40 straight:outside:36 straight:column:33 straight:player:31 
+straightforward:show:20 
+strange:this:428 strange:head:86 strange:eat:72 strange:picture:69 strange:make:47 strange:machine:36 strange:leave:2 
+strategy:play:516 strategy:work:299 strategy:computer:228 strategy:use:119 strategy:learn:94 strategy:eat:72 strategy:give:47 strategy:order:14 strategy:working:3 
+striking:play:516 striking:this:428 striking:work:299 striking:building:138 striking:use:119 striking:head:86 striking:match:80 striking:picture:69 striking:give:47 striking:make:47 
+studio:work:299 studio:building:138 studio:use:119 studio:movie:49 studio:make:47 studio:sound:41 studio:machine:36 studio:output:29 studio:show:20 studio:disk:17 
+styled:money:100 styled:picture:69 
+substantially:hold:1 
+successful:work:299 successful:head:86 successful:get:72 successful:give:47 successful:machine:36 successful:open:14 successful:build:7 successful:business:2 
+such:play:516 such:this:428 such:work:299 such:computer:228 such:number:181 such:read:152 such:building:138 such:document:119 such:use:119 such:money:100 
+sufficient:computer:228 sufficient:read:152 sufficient:program:83 sufficient:get:72 sufficient:give:47 sufficient:make:47 sufficient:outside:36 sufficient:rest:2 
+suitable:play:516 suitable:computer:228 suitable:use:119 suitable:learn:94 suitable:get:72 suitable:make:47 suitable:help:17 suitable:rest:2 
+superior:this:428 superior:money:100 superior:picture:69 superior:make:47 superior:sound:41 superior:show:20 superior:open:14 superior:order:14 superior:hold:1 
+supplied:match:80 supplied:picture:69 
+supplier:product:232 supplier:make:47 
+supplies:work:299 supplies:product:232 supplies:computer:228 supplies:number:181 supplies:study:167 supplies:building:138 supplies:use:119 supplies:eat:72 supplies:get:72 supplies:picture:69 
+support:play:516 support:this:428 support:work:299 support:building:138 support:use:119 support:money:100 support:head:86 support:get:72 support:picture:69 support:tool:66 
+supported:computer:228 supported:use:119 supported:head:86 supported:picture:69 supported:column:33 supported:rest:2 
+supposed:play:516 supposed:this:428 supposed:study:167 supposed:use:119 supposed:money:100 supposed:learn:94 supposed:student:77 supposed:eat:72 supposed:get:72 supposed:picture:69 
+suspect:this:428 suspect:make:47 suspect:order:14 
+system:this:428 system:work:299 system:computer:228 system:number:181 system:read:152 system:building:138 system:use:119 system:money:100 system:word:93 system:head:86 
+systematic:use:119 systematic:write:56 
+systems:play:516 systems:this:428 systems:work:299 systems:computer:228 systems:use:119 systems:money:100 systems:tool:66 systems:give:47 systems:make:47 systems:sound:41 
+taken:play:516 taken:this:428 taken:computer:228 taken:building:138 taken:use:119 taken:money:100 taken:head:86 taken:program:83 taken:get:72 taken:picture:69 
+takes:goal:648 takes:play:516 takes:this:428 takes:work:299 takes:book:249 takes:computer:228 takes:study:167 takes:read:152 takes:building:138 takes:shop:138 
+taking:play:516 taking:this:428 taking:work:299 taking:book:249 taking:computer:228 taking:number:181 taking:study:167 taking:read:152 taking:use:119 taking:money:100 
+technical:this:428 technical:computer:228 technical:read:152 technical:problem:32 technical:create:6 
+tedious:this:428 tedious:work:299 tedious:use:119 tedious:program:83 tedious:get:72 tedious:write:56 
+tempo:play:516 tempo:tool:66 tempo:piece:3 
+terms:this:428 terms:read:152 terms:document:119 terms:picture:69 terms:course:39 terms:problem:32 terms:open:14 terms:order:14 terms:context:7 terms:model:5 
+text:this:428 text:book:249 text:computer:228 text:study:167 text:read:152 text:document:119 text:use:119 text:learn:94 text:program:83 text:student:77 
+than:play:516 than:this:428 than:work:299 than:book:249 than:product:232 than:computer:228 than:number:181 than:study:167 than:read:152 than:building:138 
+thanks:give:47 thanks:help:17 
+that:goal:648 that:play:516 that:this:428 that:work:299 that:book:249 that:product:232 that:computer:228 that:number:181 that:study:167 that:read:152 
+the:goal:648 the:play:516 the:this:428 the:work:299 the:book:249 the:product:232 the:computer:228 the:number:181 the:study:167 the:read:152 
+their:goal:648 their:play:516 their:this:428 their:work:299 their:book:249 their:product:232 their:computer:228 their:number:181 their:study:167 their:read:152 
+them:play:516 them:this:428 them:work:299 them:book:249 them:product:232 them:computer:228 them:number:181 them:study:167 them:read:152 them:building:138 
+then:goal:648 then:play:516 then:this:428 then:work:299 then:book:249 then:product:232 then:computer:228 then:number:181 then:study:167 then:read:152 
+there:goal:648 there:play:516 there:this:428 there:work:299 there:book:249 there:product:232 there:computer:228 there:number:181 there:study:167 there:read:152 
+therefore:this:428 therefore:computer:228 therefore:use:119 therefore:get:72 therefore:picture:69 therefore:give:47 therefore:make:47 therefore:sound:41 therefore:field:37 therefore:outside:36 
+these:goal:648 these:play:516 these:this:428 these:work:299 these:book:249 these:computer:228 these:number:181 these:study:167 these:read:152 these:building:138 
+they:goal:648 they:play:516 they:this:428 they:work:299 they:book:249 they:product:232 they:computer:228 they:number:181 they:study:167 they:read:152 
+third:this:428 third:number:181 third:building:138 third:use:119 third:word:93 third:picture:69 third:school:45 third:university:45 third:field:37 third:outside:36 
+those:play:516 those:this:428 those:work:299 those:book:249 those:building:138 those:shop:138 those:use:119 those:money:100 those:word:93 those:eat:72 
+though:play:516 though:this:428 though:work:299 though:computer:228 though:use:119 though:money:100 though:learn:94 though:eat:72 though:get:72 though:picture:69 
+three:play:516 three:this:428 three:computer:228 three:number:181 three:study:167 three:use:119 three:word:93 three:head:86 three:match:80 three:eat:72 
+threedimensional:picture:69 
+through:goal:648 through:play:516 through:this:428 through:work:299 through:book:249 through:computer:228 through:study:167 through:read:152 through:building:138 through:use:119 
+thus:this:428 thus:book:249 thus:computer:228 thus:use:119 thus:head:86 thus:get:72 thus:picture:69 thus:give:47 thus:make:47 thus:sound:41 
+time:goal:648 time:play:516 time:this:428 time:work:299 time:book:249 time:computer:228 time:number:181 time:study:167 time:read:152 time:building:138 
+tips:get:72 tips:picture:69 tips:make:47 
+to:goal:648 to:play:516 to:this:428 to:work:299 to:book:249 to:product:232 to:computer:228 to:number:181 to:study:167 to:read:152 
+together:goal:648 together:play:516 together:this:428 together:work:299 together:book:249 together:product:232 together:computer:228 together:number:181 together:study:167 together:read:152 
+too:play:516 too:this:428 too:work:299 too:book:249 too:computer:228 too:study:167 too:read:152 too:building:138 too:shop:138 too:use:119 
+took:goal:648 took:this:428 took:work:299 took:book:249 took:product:232 took:computer:228 took:number:181 took:study:167 took:shop:138 took:use:119 
+toolbox:head:86 toolbox:tool:66 
+toolkit:this:428 toolkit:picture:69 toolkit:tool:66 toolkit:open:14 
+traditional:this:428 traditional:number:181 traditional:money:100 traditional:eat:72 traditional:picture:69 traditional:movie:49 traditional:give:47 traditional:make:47 traditional:apple:45 traditional:problem:32 
+transferring:computer:228 transferring:picture:69 transferring:card:50 transferring:machine:36 transferring:file:28 transferring:help:17 transferring:piece:3 
+transformed:path:3 
+trigger:head:86 trigger:picture:69 trigger:piece:3 
+trouble:this:428 trouble:work:299 trouble:book:249 trouble:use:119 trouble:get:72 trouble:card:50 trouble:give:47 trouble:make:47 trouble:school:45 trouble:help:17 
+truly:this:428 truly:work:299 truly:get:72 
+two:goal:648 two:play:516 two:this:428 two:work:299 two:book:249 two:product:232 two:computer:228 two:number:181 two:study:167 two:read:152 
+types:play:516 types:this:428 types:work:299 types:computer:228 types:use:119 types:money:100 types:eat:72 types:get:72 types:picture:69 types:paint:54 
+under:goal:648 under:play:516 under:this:428 under:computer:228 under:number:181 under:read:152 under:building:138 under:use:119 under:money:100 under:learn:94 
+understand:goal:648 understand:play:516 understand:this:428 understand:work:299 understand:book:249 understand:product:232 understand:computer:228 understand:number:181 understand:study:167 understand:read:152 
+understood:book:249 understood:read:152 understood:use:119 understood:learn:94 understood:get:72 understood:make:47 understood:apple:45 understood:field:37 understood:context:7 understood:hold:1 
+unix:computer:228 unix:program:83 unix:run:2 
+unless:play:516 unless:this:428 unless:work:299 unless:product:232 unless:building:138 unless:shop:138 unless:use:119 unless:money:100 unless:head:86 unless:eat:72 
+until:play:516 until:this:428 until:work:299 until:book:249 until:computer:228 until:number:181 until:study:167 until:read:152 until:use:119 until:word:93 
+up:goal:648 up:play:516 up:this:428 up:work:299 up:book:249 up:product:232 up:computer:228 up:number:181 up:study:167 up:read:152 
+usable:this:428 usable:computer:228 usable:picture:69 usable:mouse:23 usable:order:14 
+used:goal:648 used:play:516 used:this:428 used:work:299 used:book:249 used:product:232 used:computer:228 used:number:181 used:study:167 used:read:152 
+useful:play:516 useful:this:428 useful:work:299 useful:book:249 useful:computer:228 useful:study:167 useful:read:152 useful:building:138 useful:use:119 useful:money:100 
+user:play:516 user:this:428 user:book:249 user:computer:228 user:building:138 user:document:119 user:use:119 user:program:83 user:picture:69 user:card:50 
+users:book:249 users:computer:228 users:use:119 users:money:100 users:program:83 users:write:56 users:sound:41 users:market:24 users:help:17 users:open:14 
+uses:play:516 uses:this:428 uses:work:299 uses:book:249 uses:product:232 uses:computer:228 uses:number:181 uses:read:152 uses:use:119 uses:money:100 
+using:goal:648 using:play:516 using:this:428 using:work:299 using:book:249 using:computer:228 using:number:181 using:study:167 using:read:152 using:building:138 
+usual:play:516 usual:this:428 usual:work:299 usual:shop:138 usual:program:83 usual:eat:72 usual:picture:69 usual:give:47 usual:make:47 usual:school:45 
+various:play:516 various:this:428 various:work:299 various:computer:228 various:number:181 various:study:167 various:use:119 various:money:100 various:learn:94 various:word:93 
+version:play:516 version:this:428 version:computer:228 version:use:119 version:picture:69 version:movie:49 version:make:47 version:university:45 version:player:31 version:display:11 
+very:goal:648 very:play:516 very:this:428 very:work:299 very:book:249 very:product:232 very:computer:228 very:number:181 very:study:167 very:read:152 
+via:computer:228 via:use:119 via:get:72 via:picture:69 via:tool:66 via:give:47 via:sound:41 via:menu:15 via:order:14 via:original:4 
+view:play:516 view:this:428 view:study:167 view:read:152 view:building:138 view:shop:138 view:use:119 view:money:100 view:learn:94 view:head:86 
+viewing:this:428 viewing:work:299 viewing:computer:228 viewing:program:83 viewing:eat:72 viewing:get:72 viewing:picture:69 viewing:card:50 viewing:movie:49 viewing:window:40 
+virtually:program:83 
+visual:this:428 visual:work:299 visual:use:119 visual:word:93 visual:picture:69 visual:tool:66 visual:movie:49 visual:make:47 visual:sound:41 visual:painting:40 
+volume:play:516 volume:this:428 volume:book:249 volume:read:152 volume:use:119 volume:program:83 volume:eat:72 volume:picture:69 volume:sound:41 volume:outside:36 
+want:goal:648 want:play:516 want:this:428 want:work:299 want:book:249 want:product:232 want:computer:228 want:number:181 want:study:167 want:read:152 
+was:goal:648 was:play:516 was:this:428 was:work:299 was:book:249 was:computer:228 was:number:181 was:study:167 was:read:152 was:building:138 
+wave:play:516 wave:this:428 wave:computer:228 wave:word:93 wave:get:72 wave:sound:41 wave:outside:36 wave:sit:4 wave:piece:3 wave:run:2 
+way:goal:648 way:play:516 way:this:428 way:work:299 way:book:249 way:product:232 way:computer:228 way:number:181 way:study:167 way:read:152 
+ways:goal:648 ways:this:428 ways:work:299 ways:product:232 ways:number:181 ways:use:119 ways:money:100 ways:learn:94 ways:get:72 ways:picture:69 
+well:play:516 well:this:428 well:work:299 well:book:249 well:product:232 well:computer:228 well:number:181 well:study:167 well:read:152 well:building:138 
+went:goal:648 went:play:516 went:this:428 went:work:299 went:book:249 went:computer:228 went:number:181 went:read:152 went:building:138 went:shop:138 
+were:goal:648 were:play:516 were:this:428 were:work:299 were:product:232 were:computer:228 were:number:181 were:study:167 were:read:152 were:building:138 
+what:goal:648 what:play:516 what:this:428 what:work:299 what:book:249 what:product:232 what:computer:228 what:number:181 what:study:167 what:read:152 
+when:goal:648 when:play:516 when:this:428 when:work:299 when:book:249 when:product:232 when:computer:228 when:number:181 when:study:167 when:read:152 
+where:goal:648 where:play:516 where:this:428 where:work:299 where:book:249 where:product:232 where:computer:228 where:number:181 where:study:167 where:read:152 
+whereas:this:428 whereas:use:119 whereas:word:93 whereas:eat:72 whereas:show:20 whereas:model:5 whereas:piece:3 
+wherever:shop:138 wherever:use:119 wherever:get:72 wherever:make:47 
+which:goal:648 which:play:516 which:this:428 which:work:299 which:book:249 which:product:232 which:computer:228 which:number:181 which:study:167 which:read:152 
+while:goal:648 while:play:516 while:this:428 while:work:299 while:book:249 while:product:232 while:computer:228 while:number:181 while:study:167 while:read:152 
+white:goal:648 white:play:516 white:this:428 white:work:299 white:book:249 white:computer:228 white:number:181 white:read:152 white:building:138 white:use:119 
+who:goal:648 who:play:516 who:this:428 who:work:299 who:book:249 who:computer:228 who:number:181 who:study:167 who:read:152 who:building:138 
+whole:play:516 whole:this:428 whole:work:299 whole:book:249 whole:computer:228 whole:use:119 whole:eat:72 whole:get:72 whole:picture:69 whole:movie:49 
+why:goal:648 why:play:516 why:this:428 why:work:299 why:book:249 why:computer:228 why:number:181 why:study:167 why:read:152 why:building:138 
+widely:book:249 widely:read:152 widely:picture:69 widely:tool:66 
+widespread:use:119 
+will:goal:648 will:play:516 will:this:428 will:work:299 will:book:249 will:product:232 will:computer:228 will:number:181 will:study:167 will:read:152 
+with:goal:648 with:play:516 with:this:428 with:work:299 with:book:249 with:product:232 with:computer:228 with:number:181 with:study:167 with:read:152 
+within:this:428 within:work:299 within:computer:228 within:building:138 within:use:119 within:word:93 within:get:72 within:picture:69 within:paint:54 within:school:45 
+without:goal:648 without:play:516 without:this:428 without:work:299 without:book:249 without:computer:228 without:number:181 without:read:152 without:building:138 without:shop:138 
+would:goal:648 would:play:516 would:this:428 would:work:299 would:book:249 would:product:232 would:computer:228 would:number:181 would:study:167 would:read:152 
+written:this:428 written:work:299 written:book:249 written:computer:228 written:number:181 written:read:152 written:document:119 written:use:119 written:money:100 written:learn:94 
+x:computer:228 x:mark:8 
+year:this:428 year:work:299 year:book:249 year:number:181 year:study:167 year:building:138 year:money:100 year:student:77 year:eat:72 year:get:72 
+years:play:516 years:this:428 years:work:299 years:book:249 years:number:181 years:study:167 years:read:152 years:building:138 years:document:119 years:use:119 
+yet:this:428 yet:book:249 yet:read:152 yet:word:93 yet:get:72 yet:picture:69 yet:write:56 yet:give:47 yet:project:23 yet:hold:1 
