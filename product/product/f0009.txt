@@ -1,0 +1,66 @@
+across:show:41 across:close:19 
+after:number:160 after:show:41 after:close:19 
+and:number:160 and:show:41 and:box:36 and:map:23 and:close:19 
+appropriate:show:41 
+are:number:160 are:show:41 are:box:36 are:map:23 are:close:19 
+around:show:41 around:map:23 around:close:19 
+as:number:160 as:show:41 as:box:36 as:map:23 as:close:19 
+at:number:160 at:show:41 at:box:36 at:map:23 at:close:19 
+because:number:160 because:show:41 because:box:36 because:map:23 because:close:19 
+been:number:160 been:show:41 been:map:23 been:close:19 
+being:number:160 being:show:41 being:box:36 being:close:19 
+black:number:160 black:show:41 black:close:19 
+boxes:number:160 boxes:box:36 
+but:number:160 but:show:41 but:box:36 but:map:23 but:close:19 
+by:number:160 by:show:41 by:box:36 by:map:23 by:close:19 
+characters:number:160 characters:show:41 
+circle:number:160 circle:map:23 
+circles:map:23 
+code:number:160 
+county:map:23 
+each:number:160 each:show:41 each:box:36 each:map:23 each:close:19 
+elements:number:160 
+end:number:160 end:show:41 end:box:36 end:close:19 
+first:number:160 first:show:41 first:box:36 first:map:23 first:close:19 
+for:number:160 for:show:41 for:box:36 for:map:23 for:close:19 
+from:number:160 from:show:41 from:box:36 from:map:23 from:close:19 
+generally:number:160 generally:show:41 generally:box:36 
+given:number:160 given:show:41 given:close:19 
+has:number:160 has:show:41 has:box:36 has:map:23 has:close:19 
+have:number:160 have:show:41 have:box:36 have:map:23 have:close:19 
+in:number:160 in:show:41 in:box:36 in:map:23 in:close:19 
+inch:number:160 inch:show:41 
+indicating:number:160 indicating:box:36 indicating:map:23 
+is:number:160 is:show:41 is:box:36 is:map:23 is:close:19 
+large:number:160 large:show:41 large:box:36 large:map:23 large:close:19 
+left:number:160 left:show:41 left:map:23 left:close:19 
+list:number:160 
+next:number:160 next:show:41 
+not:number:160 not:show:41 not:box:36 not:map:23 not:close:19 
+numbering:number:160 
+of:number:160 of:show:41 of:box:36 of:map:23 of:close:19 
+on:number:160 on:show:41 on:box:36 on:map:23 on:close:19 
+or:number:160 or:show:41 or:box:36 or:map:23 or:close:19 
+place:show:41 place:box:36 place:map:23 place:close:19 
+placed:box:36 
+places:number:160 places:show:41 places:box:36 places:map:23 places:close:19 
+printed:show:41 printed:map:23 
+proximity:close:19 
+recorded:show:41 
+right:number:160 right:show:41 right:map:23 right:close:19 
+roughly:number:160 
+section:box:36 
+sequence:number:160 sequence:close:19 
+several:map:23 several:close:19 
+shown:number:160 shown:show:41 shown:map:23 
+some:number:160 some:show:41 some:box:36 some:map:23 some:close:19 
+that:number:160 that:show:41 that:box:36 that:map:23 that:close:19 
+the:number:160 the:show:41 the:box:36 the:map:23 the:close:19 
+their:number:160 their:show:41 their:box:36 their:close:19 
+them:number:160 them:show:41 them:box:36 them:map:23 them:close:19 
+to:number:160 to:show:41 to:box:36 to:map:23 to:close:19 
+together:number:160 together:show:41 together:box:36 together:map:23 together:close:19 
+version:map:23 
+way:number:160 way:show:41 way:box:36 way:map:23 way:close:19 
+which:number:160 which:show:41 which:box:36 which:map:23 which:close:19 
+will:number:160 will:show:41 will:box:36 will:close:19 
