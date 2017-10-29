@@ -1,0 +1,121 @@
+actually:make:520 actually:this:429 
+agent:book:210 agent:go:195 agent:show:40 
+agents:book:210 
+answer:make:520 answer:this:429 answer:give:283 answer:book:210 answer:go:195 answer:serve:59 answer:lay:54 answer:show:40 answer:climb:27 answer:build:23 
+any:make:520 any:this:429 any:book:210 any:go:195 any:serve:59 any:show:40 any:build:23 any:draw:19 any:sense:10 
+are:make:520 are:this:429 are:give:283 are:book:210 are:go:195 are:serve:59 are:lay:54 are:show:40 are:climb:27 are:build:23 
+as:make:520 as:this:429 as:give:283 as:book:210 as:go:195 as:serve:59 as:lay:54 as:show:40 as:climb:27 as:build:23 
+at:make:520 at:this:429 at:give:283 at:book:210 at:go:195 at:serve:59 at:lay:54 at:show:40 at:climb:27 at:build:23 
+base:make:520 base:this:429 base:give:283 base:book:210 base:go:195 
+be:make:520 be:this:429 be:give:283 be:book:210 be:go:195 be:serve:59 be:lay:54 be:show:40 be:climb:27 be:build:23 
+but:make:520 but:this:429 but:give:283 but:book:210 but:go:195 but:serve:59 but:lay:54 but:show:40 but:build:23 but:tidy:22 
+by:make:520 by:this:429 by:give:283 by:book:210 by:go:195 by:serve:59 by:lay:54 by:show:40 by:build:23 by:tidy:22 
+call:make:520 call:this:429 call:give:283 call:book:210 call:go:195 call:sense:10 
+can:make:520 can:this:429 can:give:283 can:book:210 can:go:195 can:serve:59 can:lay:54 can:show:40 can:climb:27 can:build:23 
+certain:make:520 certain:this:429 certain:give:283 certain:go:195 certain:show:40 certain:sense:10 
+common:make:520 common:this:429 common:go:195 common:show:40 common:sense:10 
+could:make:520 could:this:429 could:give:283 could:book:210 could:go:195 could:serve:59 could:lay:54 could:show:40 could:build:23 could:draw:19 
+details:make:520 details:this:429 details:give:283 
+do:make:520 do:this:429 do:give:283 do:book:210 do:go:195 do:serve:59 do:lay:54 do:show:40 do:climb:27 do:build:23 
+each:make:520 each:this:429 each:give:283 each:book:210 each:go:195 each:show:40 each:climb:27 each:tidy:22 each:draw:19 
+emerge:go:195 
+enough:make:520 enough:this:429 enough:give:283 enough:book:210 enough:go:195 enough:serve:59 enough:show:40 enough:draw:19 
+expect:make:520 expect:this:429 expect:give:283 expect:build:23 
+explain:make:520 explain:give:283 explain:book:210 explain:draw:19 
+failing:make:520 failing:this:429 
+final:make:520 final:this:429 final:give:283 final:book:210 final:go:195 final:build:23 
+find:make:520 find:this:429 find:give:283 find:book:210 find:go:195 find:serve:59 find:lay:54 find:show:40 find:climb:27 find:build:23 
+first:make:520 first:this:429 first:give:283 first:book:210 first:go:195 first:serve:59 first:lay:54 first:show:40 first:climb:27 first:build:23 
+for:make:520 for:this:429 for:give:283 for:book:210 for:go:195 for:serve:59 for:lay:54 for:show:40 for:climb:27 for:build:23 
+forms:this:429 forms:give:283 forms:go:195 forms:show:40 
+from:make:520 from:this:429 from:give:283 from:book:210 from:go:195 from:serve:59 from:show:40 from:climb:27 from:build:23 from:draw:19 
+great:make:520 great:this:429 great:give:283 great:book:210 great:go:195 great:show:40 great:build:23 
+hard:make:520 hard:this:429 hard:give:283 hard:book:210 hard:go:195 hard:climb:27 hard:build:23 hard:tidy:22 
+have:make:520 have:this:429 have:give:283 have:book:210 have:go:195 have:serve:59 have:lay:54 have:show:40 have:climb:27 have:build:23 
+how:make:520 how:this:429 how:give:283 how:book:210 how:go:195 how:serve:59 how:lay:54 how:show:40 how:climb:27 how:build:23 
+i:make:520 i:this:429 i:give:283 i:book:210 i:go:195 i:serve:59 i:lay:54 i:show:40 i:build:23 i:tidy:22 
+ideas:make:520 ideas:this:429 ideas:give:283 ideas:book:210 ideas:go:195 
+if:make:520 if:this:429 if:give:283 if:book:210 if:go:195 if:serve:59 if:lay:54 if:show:40 if:climb:27 if:build:23 
+in:make:520 in:this:429 in:give:283 in:book:210 in:go:195 in:serve:59 in:lay:54 in:show:40 in:climb:27 in:build:23 
+inclined:go:195 
+instead:make:520 instead:this:429 instead:go:195 instead:sense:10 
+intelligence:make:520 intelligence:this:429 intelligence:give:283 
+is:make:520 is:this:429 is:give:283 is:book:210 is:go:195 is:serve:59 is:lay:54 is:show:40 is:climb:27 is:build:23 
+it:make:520 it:this:429 it:give:283 it:book:210 it:go:195 it:serve:59 it:lay:54 it:show:40 it:climb:27 it:build:23 
+its:make:520 its:this:429 its:give:283 its:book:210 its:go:195 its:show:40 its:climb:27 its:build:23 its:tidy:22 its:join:14 
+itself:this:429 itself:book:210 
+just:make:520 just:this:429 just:give:283 just:book:210 just:go:195 just:serve:59 just:show:40 just:climb:27 just:build:23 
+leads:this:429 leads:go:195 
+little:make:520 little:this:429 little:give:283 little:book:210 little:go:195 little:show:40 little:climb:27 little:sense:10 
+longer:make:520 longer:this:429 longer:give:283 longer:go:195 longer:show:40 longer:climb:27 longer:build:23 
+lots:make:520 lots:this:429 lots:give:283 lots:book:210 lots:go:195 lots:serve:59 lots:show:40 lots:build:23 lots:sense:10 
+made:make:520 made:this:429 made:give:283 made:book:210 made:go:195 made:serve:59 made:show:40 made:climb:27 made:build:23 made:draw:19 
+many:make:520 many:this:429 many:give:283 many:book:210 many:go:195 many:serve:59 many:lay:54 many:show:40 many:climb:27 many:build:23 
+matter:this:429 matter:book:210 matter:go:195 matter:sense:10 
+mental:make:520 mental:go:195 mental:build:23 
+messy:this:429 messy:tidy:22 
+mind:make:520 mind:this:429 mind:give:283 mind:book:210 mind:go:195 mind:serve:59 mind:show:40 mind:build:23 mind:sense:10 
+minds:make:520 minds:this:429 minds:sense:10 
+more:make:520 more:this:429 more:give:283 more:book:210 more:go:195 more:serve:59 more:lay:54 more:show:40 more:build:23 more:tidy:22 
+much:make:520 much:this:429 much:give:283 much:book:210 much:go:195 much:serve:59 much:lay:54 much:show:40 much:climb:27 much:build:23 
+must:make:520 must:this:429 must:give:283 must:book:210 must:go:195 must:serve:59 must:show:40 
+my:make:520 my:this:429 my:give:283 my:book:210 my:go:195 my:serve:59 my:lay:54 my:show:40 my:build:23 my:join:14 
+nature:make:520 nature:this:429 nature:give:283 nature:book:210 nature:go:195 nature:show:40 nature:build:23 
+neatly:this:429 
+needs:make:520 needs:this:429 needs:give:283 needs:book:210 needs:go:195 needs:serve:59 needs:show:40 needs:climb:27 needs:build:23 needs:tidy:22 
+no:make:520 no:this:429 no:give:283 no:book:210 no:go:195 no:lay:54 no:show:40 no:climb:27 no:build:23 no:draw:19 
+nothing:make:520 nothing:this:429 nothing:give:283 nothing:book:210 nothing:go:195 nothing:serve:59 
+of:make:520 of:this:429 of:give:283 of:book:210 of:go:195 of:serve:59 of:lay:54 of:show:40 of:climb:27 of:build:23 
+one:make:520 one:this:429 one:give:283 one:book:210 one:go:195 one:serve:59 one:lay:54 one:show:40 one:climb:27 one:build:23 
+only:make:520 only:this:429 only:give:283 only:book:210 only:go:195 only:serve:59 only:lay:54 only:show:40 only:climb:27 only:build:23 
+or:make:520 or:this:429 or:give:283 or:book:210 or:go:195 or:serve:59 or:lay:54 or:show:40 or:climb:27 or:build:23 
+ordered:give:283 
+out:make:520 out:this:429 out:give:283 out:book:210 out:go:195 out:serve:59 out:lay:54 out:show:40 out:climb:27 out:build:23 
+partially:this:429 
+perhaps:this:429 perhaps:go:195 perhaps:sense:10 
+power:make:520 power:this:429 power:give:283 power:go:195 power:show:40 power:build:23 power:draw:19 
+rarely:make:520 rarely:this:429 rarely:go:195 
+real:make:520 real:this:429 real:give:283 real:book:210 real:go:195 real:show:40 
+same:make:520 same:this:429 same:give:283 same:book:210 same:go:195 same:serve:59 same:lay:54 same:show:40 same:draw:19 same:join:14 
+seem:make:520 seem:this:429 seem:show:40 
+seems:make:520 seems:this:429 seems:go:195 
+seen:make:520 seen:this:429 seen:go:195 seen:show:40 seen:draw:19 
+shapes:make:520 shapes:this:429 shapes:sense:10 
+simple:make:520 simple:this:429 simple:show:40 simple:build:23 
+small:make:520 small:this:429 small:give:283 small:book:210 small:go:195 small:show:40 small:build:23 small:sense:10 
+smaller:make:520 smaller:this:429 smaller:go:195 smaller:lay:54 smaller:show:40 
+so:make:520 so:this:429 so:give:283 so:book:210 so:go:195 so:lay:54 so:show:40 so:climb:27 so:build:23 so:sense:10 
+societies:this:429 societies:give:283 societies:go:195 
+society:make:520 society:this:429 society:give:283 society:go:195 society:serve:59 society:show:40 
+some:make:520 some:this:429 some:give:283 some:book:210 some:go:195 some:serve:59 some:lay:54 some:show:40 some:climb:27 some:build:23 
+special:make:520 special:this:429 special:give:283 special:go:195 special:show:40 special:join:14 special:sense:10 
+start:make:520 start:this:429 start:book:210 start:go:195 start:lay:54 start:show:40 start:join:14 
+straight:make:520 straight:this:429 straight:draw:19 
+technical:this:429 
+that:make:520 that:this:429 that:give:283 that:book:210 that:go:195 that:serve:59 that:lay:54 that:show:40 that:climb:27 that:build:23 
+the:make:520 the:this:429 the:give:283 the:book:210 the:go:195 the:serve:59 the:lay:54 the:show:40 the:climb:27 the:build:23 
+them:make:520 them:this:429 them:give:283 them:book:210 them:go:195 them:serve:59 them:lay:54 them:show:40 them:climb:27 them:build:23 
+these:make:520 these:this:429 these:give:283 these:book:210 these:go:195 these:serve:59 these:show:40 these:climb:27 these:build:23 these:draw:19 
+thing:make:520 thing:this:429 thing:give:283 thing:book:210 thing:go:195 thing:serve:59 thing:lay:54 thing:show:40 thing:climb:27 thing:build:23 
+things:make:520 things:this:429 things:give:283 things:book:210 things:go:195 things:serve:59 things:lay:54 things:show:40 things:climb:27 things:build:23 
+those:make:520 those:this:429 those:give:283 those:book:210 those:go:195 those:lay:54 those:show:40 those:tidy:22 
+thought:make:520 thought:this:429 thought:give:283 thought:book:210 thought:go:195 thought:sense:10 
+tied:make:520 tied:this:429 
+to:make:520 to:this:429 to:give:283 to:book:210 to:go:195 to:serve:59 to:lay:54 to:show:40 to:climb:27 to:build:23 
+tries:make:520 tries:this:429 
+trouble:make:520 trouble:this:429 trouble:give:283 trouble:book:210 trouble:go:195 trouble:sense:10 
+true:make:520 true:this:429 true:give:283 true:book:210 true:go:195 true:serve:59 true:lay:54 true:show:40 true:climb:27 true:build:23 
+turn:make:520 turn:this:429 turn:give:283 turn:book:210 turn:go:195 turn:show:40 turn:build:23 turn:join:14 
+until:make:520 until:this:429 until:book:210 until:go:195 until:show:40 
+up:make:520 up:this:429 up:give:283 up:book:210 up:go:195 up:serve:59 up:lay:54 up:show:40 up:climb:27 up:build:23 
+upon:make:520 upon:this:429 upon:give:283 upon:book:210 upon:lay:54 upon:draw:19 
+very:make:520 very:this:429 very:book:210 very:go:195 very:lay:54 very:show:40 very:climb:27 very:build:23 very:join:14 very:sense:10 
+ways:make:520 ways:this:429 ways:go:195 ways:serve:59 ways:build:23 
+we:make:520 we:this:429 we:give:283 we:book:210 we:go:195 we:lay:54 we:show:40 we:build:23 we:sense:10 
+what:make:520 what:this:429 what:give:283 what:book:210 what:go:195 what:serve:59 what:lay:54 what:show:40 what:build:23 what:tidy:22 
+when:make:520 when:this:429 when:give:283 when:book:210 when:go:195 when:serve:59 when:lay:54 when:show:40 when:climb:27 when:build:23 
+which:make:520 which:this:429 which:give:283 which:book:210 which:go:195 which:lay:54 which:show:40 which:climb:27 which:build:23 which:draw:19 
+wish:make:520 wish:this:429 wish:give:283 wish:book:210 wish:go:195 wish:show:40 
+with:make:520 with:this:429 with:give:283 with:book:210 with:go:195 with:serve:59 with:lay:54 with:show:40 with:climb:27 with:build:23 
+yet:this:429 yet:give:283 yet:book:210 
+you:make:520 you:this:429 you:give:283 you:book:210 you:go:195 you:serve:59 you:lay:54 you:show:40 you:climb:27 you:build:23 
